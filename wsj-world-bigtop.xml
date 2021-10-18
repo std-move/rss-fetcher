@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News- bigTop stories</title>
   <id>TODO</id>
-  <updated>2021-10-18T15:33:00Z</updated>
+  <updated>2021-10-18T15:35:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="TODO"></link>
-  <entry>
-    <title>World Bank Mishandled Sexual- Harassment Claims, Internal Tribunal Says</title>
-    <updated>2021-10-18T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-18:/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802</id>
-    <content type="html">A labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate.</content>
-    <link href="https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
