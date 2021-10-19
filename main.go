@@ -8,6 +8,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -32,6 +33,9 @@ func main() {
 	}
 
 	for _, itm := range feed.Items {
+		if !strings.Contains(itm.Link, "wsj.com/amp/") {
+			itm.Link = strings.Replace(itm.Link, "wsj.com/", "wsj.com/amp/", -1)
+		}
 		req, err := http.NewRequest("GET", itm.Link, nil)
 		if err != nil {
 			log.Println("error creating: ", itm.Link, err)
@@ -48,7 +52,7 @@ func main() {
 			log.Println("error reading: ", itm.Link, err)
 			continue
 		}
-		if !bytes.Contains(body, []byte(".bigTop")) {
+		if !bytes.Contains(body, []byte("class=\"bigTop-hero")) {
 			continue
 		}
 		log.Println("bigTop link: ", itm.Link)
