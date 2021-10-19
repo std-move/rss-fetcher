@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-19T12:24:40Z</updated>
+  <updated>2021-10-19T14:13:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Is Brexit Hurting the U.K. Economy? Trade Data Flashes a Warning</title>
+    <updated>2021-10-19T13:48:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-19:/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205</id>
+    <content type="html">The recovery is sputtering and some exporters say their separation from the European Union is the culprit; ‘harder, slower, more expensive, more difficult.’</content>
+    <link href="https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>In Tackling China&#39;s Real-Estate Bubble, Xi Jinping Faces Resistance to Property-Tax Plan</title>
+    <updated>2021-10-19T13:39:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-19:/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751</id>
+    <content type="html">The Chinese leader is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said.</content>
+    <link href="https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Satellites Sweep for World&#39;s Biggest Polluters</title>
     <updated>2021-10-19T10:43:00Z</updated>
