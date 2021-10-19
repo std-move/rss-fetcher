@@ -33,6 +33,7 @@ func main() {
 	}
 
 	for _, itm := range feed.Items {
+		origLink := itm.Link
 		if !strings.Contains(itm.Link, "wsj.com/amp/") {
 			itm.Link = strings.Replace(itm.Link, "wsj.com/", "wsj.com/amp/", -1)
 		}
@@ -72,7 +73,7 @@ func main() {
 		}
 		myFeed.Items = append(myFeed.Items, &feeds.Item{
 			Title:       itm.Title,
-			Link:        &feeds.Link{Href: itm.Link},
+			Link:        &feeds.Link{Href: origLink},
 			Content:     itm.Description,
 			Created:     created,
 			Updated:	 updated,
