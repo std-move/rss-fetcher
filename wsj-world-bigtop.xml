@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-19T18:17:14Z</updated>
+  <updated>2021-10-19T20:15:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,10 +13,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Xi Faces Resistance to Property Tax Planned to Combat Real-Estate Bubble</title>
+    <title>Xi Faces Resistance to Property Tax Planned to Combat China&#39;s Real-Estate Bubble</title>
     <updated>2021-10-19T13:39:00Z</updated>
     <id>tag:www.wsj.com,2021-10-19:/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751</id>
-    <content type="html">The Chinese leader is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said.</content>
+    <content type="html">Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said.</content>
     <link href="https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
