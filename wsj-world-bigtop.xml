@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-20T16:24:03Z</updated>
+  <updated>2021-10-20T18:17:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2021-10-20:/articles/taliban-commander-who-launched-bombings-in-kabul-is-now-a-police-chief-in-charge-of-security-11634740097</id>
     <content type="html">Mawlawi Zubair Mutmaeen is one of thousands of former fighters thrown into mundane jobs as new government struggles to stay on its feet.</content>
     <link href="https://www.wsj.com/articles/taliban-commander-who-launched-bombings-in-kabul-is-now-a-police-chief-in-charge-of-security-11634740097" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Chinese Military&#39;s Flexing Stokes New Uncertainty in Taiwan</title>
-    <updated>2021-10-20T12:13:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-20:/articles/chinese-warplanes-lead-taiwanese-to-think-about-what-to-do-in-an-attack-11634732013</id>
-    <content type="html">Residents of the self-ruled island are used to living in the shadow of an authoritarian regime, but rising tensions with China are stoking uncertainty for some.</content>
-    <link href="https://www.wsj.com/articles/chinese-warplanes-lead-taiwanese-to-think-about-what-to-do-in-an-attack-11634732013" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xi Faces Pushback on China&#39;s Bid to Tax Property</title>
-    <updated>2021-10-19T13:39:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-19:/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751</id>
-    <content type="html">Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said.</content>
-    <link href="https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
