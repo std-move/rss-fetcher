@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-20T18:17:13Z</updated>
+  <updated>2021-10-20T20:15:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Taliban Face Pressure Over New Afghan Government at Russia Conference</title>
+    <updated>2021-10-20T18:32:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-20:/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296</id>
+    <content type="html">Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries.</content>
+    <link href="https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Taliban Commander Who Launched Bombings in Kabul Is Now a Police Chief in Charge of Security</title>
     <updated>2021-10-20T14:28:00Z</updated>
