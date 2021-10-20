@@ -32,8 +32,7 @@ jobs:
         git worktree add ./gh-pages gh-pages
         cd gh-pages
         git rm -r --ignore-unmatch .
-        cp -r ../public/. .
-        git add .
+        ls ../public/ && cp -r ../public/. . && git add .
         git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
         git push gh-pages-remote gh-pages:gh-pages
       env:
