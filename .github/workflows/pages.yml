@@ -1,3 +1,4 @@
+# all credit to Vinnl for this GitHub action and idea - original source https://github.com/Vinnl/feeds
 name: Publish RSS feeds to GitHub Pages
 
 on:
@@ -5,8 +6,6 @@ on:
     branches:
       - master
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    # Run every day at 5:30 and 17:30:
     - cron:  '0 */2 * * *'
   workflow_dispatch:
 
@@ -23,7 +22,7 @@ jobs:
         go-version: '^1.17.2' # The Go version to download (if necessary) and use.
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
-    - run: go run main.go
+    - run: go run main.go || go run main.go || go run main.go
     - name: Deploy to GitHub Pages
       run: |
         git config user.name $GITHUB_ACTOR
@@ -32,6 +31,7 @@ jobs:
         git fetch --no-recurse-submodules
         git worktree add ./gh-pages gh-pages
         cd gh-pages
+        git rm -r --ignore-unmatch .
         cp -r ../public/. .
         git add .
         git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
