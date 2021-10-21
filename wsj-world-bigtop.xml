@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-21T12:25:04Z</updated>
+  <updated>2021-10-21T14:14:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2021-10-21:/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364</id>
     <content type="html">In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory.</content>
     <link href="https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Taliban Face Pressure Over New Afghan Government at Russia Conference</title>
-    <updated>2021-10-20T18:32:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-20:/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296</id>
-    <content type="html">Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries.</content>
-    <link href="https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
