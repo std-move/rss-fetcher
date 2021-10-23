@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-23T18:16:51Z</updated>
+  <updated>2021-10-23T20:15:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Facebook Services Are Used to Spread Religious Hatred in India, Internal Documents Show</title>
+    <updated>2021-10-23T19:12:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-23:/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354</id>
+    <content type="html">Internal Facebook documents show its services are used to spread religious hatred in India. Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead.</content>
+    <link href="https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico</title>
     <updated>2021-10-23T12:00:00Z</updated>
