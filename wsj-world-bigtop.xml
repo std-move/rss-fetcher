@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-24T16:22:36Z</updated>
+  <updated>2021-10-24T18:17:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.</title>
-    <updated>2021-10-24T11:48:00Z</updated>
+    <updated>2021-10-24T17:43:00Z</updated>
     <id>tag:www.wsj.com,2021-10-24:/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461</id>
     <content type="html">The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher.</content>
     <link href="https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461" rel="alternate"></link>
