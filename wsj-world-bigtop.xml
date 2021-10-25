@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-25T08:18:30Z</updated>
+  <updated>2021-10-25T10:17:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2021-10-24:/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461</id>
     <content type="html">The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher.</content>
     <link href="https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>French Nationalist TV Host Éric Zemmour, Inspired by Trump, Surges in Polls</title>
-    <updated>2021-10-24T15:11:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-24:/articles/french-nationalist-tv-host-eric-zemmour-inspired-by-trump-surges-in-polls-11635088315</id>
-    <content type="html">Far-right pundit explores a presidential run in France, assembling a new electoral coalition that is siphoning off support from longtime standard-bearer Marine Le Pen and shaking up French politics.</content>
-    <link href="https://www.wsj.com/articles/french-nationalist-tv-host-eric-zemmour-inspired-by-trump-surges-in-polls-11635088315" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
