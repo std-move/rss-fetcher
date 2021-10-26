@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-26T04:20:03Z</updated>
+  <updated>2021-10-26T06:18:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Does Taiwan&#39;s Military Stand a Chance Against China? Few Think So.</title>
-    <updated>2021-10-25T15:05:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-25:/articles/taiwan-military-readiness-china-threat-us-defense-11635174187</id>
+    <updated>2021-10-26T05:02:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-26:/articles/taiwan-military-readiness-china-threat-us-defense-11635174187</id>
     <content type="html">Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds.</content>
     <link href="https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187" rel="alternate"></link>
     <summary type="html"></summary>
