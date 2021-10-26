@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-26T14:14:19Z</updated>
+  <updated>2021-10-26T16:23:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China&#39;s Energy Crisis Complicates Its Plans for Announcements Ahead of COP26</title>
+    <updated>2021-10-26T12:47:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-26:/articles/chinas-energy-crisis-complicates-its-plans-for-climate-announcements-ahead-of-cop26-11635252471</id>
+    <content type="html">The worst power shortage in two decades is squeezing Chinese leaders between international climate expectations and the need to heat households in winter and keep factories going.</content>
+    <link href="https://www.wsj.com/articles/chinas-energy-crisis-complicates-its-plans-for-climate-announcements-ahead-of-cop26-11635252471" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Severe Drought Hits South America</title>
     <updated>2021-10-26T09:30:00Z</updated>
     <id>tag:www.wsj.com,2021-10-26:/articles/severe-drought-hits-south-america-11635240602</id>
     <content type="html">A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods.</content>
     <link href="https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Is Taiwan&#39;s Military Ready for War? Few Think So</title>
-    <updated>2021-10-26T05:02:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-26:/articles/taiwan-military-readiness-china-threat-us-defense-11635174187</id>
-    <content type="html">Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds.</content>
-    <link href="https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
