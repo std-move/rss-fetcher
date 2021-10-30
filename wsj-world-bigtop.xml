@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-30T14:13:39Z</updated>
+  <updated>2021-10-30T16:22:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>G-20 Leaders Back Deal to Overhaul Corporate Tax</title>
+    <updated>2021-10-30T14:08:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-30:/articles/g-20-to-back-tax-overhaul-that-makes-rich-countries-big-winners-11635586202</id>
+    <content type="html">Leaders of the world’s biggest economies endorsed a deal on corporate taxation this weekend from which the U.S. and other richer countries are set to benefit the most.</content>
+    <link href="https://www.wsj.com/articles/g-20-to-back-tax-overhaul-that-makes-rich-countries-big-winners-11635586202" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Haiti&#39;s Powerful Gangs Hold Country Hostage Over Fuel</title>
     <updated>2021-10-29T20:44:00Z</updated>
