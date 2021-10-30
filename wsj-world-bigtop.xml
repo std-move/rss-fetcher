@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-30T12:23:04Z</updated>
+  <updated>2021-10-30T14:13:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2021-10-29:/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289</id>
     <content type="html">The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation.</content>
     <link href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Glasgow Expects 25,000 Climate Summit Guests. It Has Just 15,000 Hotel Rooms.</title>
-    <updated>2021-10-29T14:17:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-29:/articles/glasgow-expects-25-000-climate-summit-guests-it-has-just-15-000-hotel-rooms-11635517039</id>
-    <content type="html">Visitors from 120 countries start arriving this weekend for the climate change meeting, but not everyone has found a place to stay; ‘most stressful’</content>
-    <link href="https://www.wsj.com/articles/glasgow-expects-25-000-climate-summit-guests-it-has-just-15-000-hotel-rooms-11635517039" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
