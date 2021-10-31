@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-10-31T18:17:07Z</updated>
+  <updated>2021-10-31T20:15:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>At G-20 Summit, U.S. Agrees to Relax Tariffs on European Steel</title>
-    <updated>2021-10-30T21:24:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-30:/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202</id>
-    <content type="html">Biden and European leaders worked to defuse trade tensions at the gathering in Rome, where Western leaders also called on Iran to comply with a nuclear accord.</content>
-    <link href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202" rel="alternate"></link>
+    <title>G-20 Disagreements Point to Challenges for COP26 Summit</title>
+    <updated>2021-10-31T19:07:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-31:/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984</id>
+    <content type="html">The world’s leading economies express aspiration of limiting global warming to 1.5 degrees Celsius, but don’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit.</content>
+    <link href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ai Weiwei Traces a Century of Making Authorities Squirm</title>
-    <updated>2021-10-30T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-30:/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000</id>
-    <content type="html">A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China.</content>
-    <link href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Haiti&#39;s Powerful Gangs Hold Country Hostage Over Fuel</title>
-    <updated>2021-10-29T20:44:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-29:/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289</id>
-    <content type="html">The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation.</content>
-    <link href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289" rel="alternate"></link>
+    <title>A Nation Learns to Love Movie Popcorn---Without the Movie</title>
+    <updated>2021-10-31T17:58:00Z</updated>
+    <id>tag:www.wsj.com,2021-10-31:/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138</id>
+    <content type="html">South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’</content>
+    <link href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
