@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-01T14:14:27Z</updated>
+  <updated>2021-11-01T16:22:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>G-20 Disagreements Point to Challenges for COP26 Summit</title>
-    <updated>2021-11-01T01:40:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-01:/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984</id>
-    <content type="html">The world’s leading economies expressed aspirations of limiting global warming to 1.5 degrees Celsius, but didn’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit.</content>
-    <link href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984" rel="alternate"></link>
+    <title>Greta Thunberg&#39;s Dad Won&#39;t Be With Her at the Climate Summit---And He&#39;s Thrilled</title>
+    <updated>2021-11-01T13:17:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-01:/articles/greta-thunberg-climate-summit-glasgow-cop-11635772563</id>
+    <content type="html">The young activist turned 18, leaving her parents free to get back to their lives. ‘We have jobs’</content>
+    <link href="https://www.wsj.com/articles/greta-thunberg-climate-summit-glasgow-cop-11635772563" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>A Nation Learns to Love Movie Popcorn---Without the Movie</title>
-    <updated>2021-10-31T17:58:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-31:/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138</id>
-    <content type="html">South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’</content>
-    <link href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138" rel="alternate"></link>
+    <title>Stranded Mariners Can Now Get Covid Vaccines at Port</title>
+    <updated>2021-11-01T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-01:/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001</id>
+    <content type="html">Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark.</content>
+    <link href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
