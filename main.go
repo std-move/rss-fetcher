@@ -31,12 +31,14 @@ func main() {
 	}
 
 	for _, itm := range origFeed.Items {
-		var ampLink string
-		if !strings.Contains(itm.Link, "wsj.com/amp/") {
-			ampLink = strings.Replace(itm.Link, "wsj.com/", "wsj.com/amp/", -1)
-		} else {
-			ampLink = itm.Link
-		}
+		ampLink := func() string {
+			if !strings.Contains(itm.Link, "wsj.com/amp/") {
+				return strings.Replace(itm.Link, "wsj.com/", "wsj.com/amp/", -1)
+			} else {
+				return itm.Link
+			}
+		}()
+
 		req, err := http.NewRequest("GET", ampLink, nil)
 		if err != nil {
 			log.Println("error creating req: ", ampLink, err)
@@ -62,19 +64,21 @@ func main() {
 		}
 		log.Println("bigTop article: ", itm.Link)
 
-		var created time.Time
-		if itm.PublishedParsed != nil {
-			created = *itm.PublishedParsed
-		} else {
-			created = now
-		}
+		created := func() time.Time {
+			if itm.PublishedParsed != nil {
+				return *itm.PublishedParsed
+			} else {
+				return now
+			}
+		}()
+		updated := func() time.Time {
+			if itm.UpdatedParsed != nil {
+				return *itm.UpdatedParsed
+			} else {
+				return created
+			}
+		}()
 
-		var updated time.Time
-		if itm.UpdatedParsed != nil {
-			updated = *itm.UpdatedParsed
-		} else {
-			updated = created
-		}
 		myFeed.Items = append(myFeed.Items, &feeds.Item{
 			Title:   itm.Title,
 			Link:    &feeds.Link{Href: itm.Link},
