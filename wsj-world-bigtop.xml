@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-01T00:53:22Z</updated>
+  <updated>2021-11-01T02:29:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>G-20 Disagreements Point to Challenges for COP26 Summit</title>
-    <updated>2021-10-31T20:37:00Z</updated>
-    <id>tag:www.wsj.com,2021-10-31:/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984</id>
+    <updated>2021-11-01T01:40:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-01:/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984</id>
     <content type="html">The world’s leading economies expressed aspirations of limiting global warming to 1.5 degrees Celsius, but didn’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit.</content>
     <link href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984" rel="alternate"></link>
     <summary type="html"></summary>
