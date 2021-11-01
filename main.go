@@ -48,8 +48,10 @@ func main() {
 			log.Println("error fetching: ", ampLink, err)
 			continue
 		}
-		defer rsp.Body.Close()
-		body, err := io.ReadAll(rsp.Body)
+		body, err := func /* ReadAndCloseBody */ () ([]byte, error) {
+			defer rsp.Body.Close()
+			return io.ReadAll(rsp.Body)
+		}()
 		if err != nil {
 			log.Println("error reading: ", ampLink, err)
 			continue
