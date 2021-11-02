@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-02T14:14:27Z</updated>
+  <updated>2021-11-02T16:23:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Rabbi Searches for a Congregation in Saudi Arabia, Birthplace of Islam</title>
+    <updated>2021-11-02T14:49:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-02:/articles/a-rabbi-searches-for-a-congregation-in-saudi-arabia-birthplace-of-islam-11635864559</id>
+    <content type="html">Jacob Herzog wants to offer religious services to Jewish expats. So far, the kingdom isn’t interested, but he’s undaunted; ‘Have to make a leap of faith.’</content>
+    <link href="https://www.wsj.com/articles/a-rabbi-searches-for-a-congregation-in-saudi-arabia-birthplace-of-islam-11635864559" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Tariffs to Tackle Climate Change Gain Momentum. The Idea Could Reshape Industries.</title>
+    <updated>2021-11-02T14:22:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-02:/articles/tariffs-climate-change-greenhouse-gases-manufacturing-steel-11635862305</id>
+    <content type="html">Wealthy nations are proposing tariffs on imports like steel and cement that result in high carbon emissions. The proposals could boost U.S. manufacturers—but could also undermine world trade rules and even trigger trade disputes.</content>
+    <link href="https://www.wsj.com/articles/tariffs-climate-change-greenhouse-gases-manufacturing-steel-11635862305" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
