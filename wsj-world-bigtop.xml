@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-02T12:24:45Z</updated>
+  <updated>2021-11-02T14:14:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Stranded Mariners Can Now Get Covid Vaccines at Port</title>
-    <updated>2021-11-01T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-01:/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001</id>
-    <content type="html">Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark.</content>
-    <link href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
