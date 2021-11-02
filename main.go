@@ -2,23 +2,36 @@ package main
 
 import (
 	"bytes"
+	"fmt"
 	"github.com/gorilla/feeds"
 	"github.com/mmcdole/gofeed"
 	"io"
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strings"
 	"time"
 )
 
+var now = time.Now()
+
+var client = http.Client{
+	Timeout: 15 * time.Second,
+}
+
+const USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+
 func main() {
-	origFeed, err := gofeed.NewParser().ParseURL("https://feeds.a.dj.com/rss/RSSWorldNews.xml")
+	parser := gofeed.NewParser()
+	parser.Client = &client
+	parser.UserAgent = USER_AGENT
+
+	origFeed, err := parser.ParseURL("https://feeds.a.dj.com/rss/RSSWorldNews.xml")
 	if err != nil {
-		log.Fatal("failed to fetch feed: ", err)
+		log.Fatal("failed to fetch feed: ", err, "\n")
 	}
 
-	now := time.Now()
 	myFeed := &feeds.Feed{
 		Title:       origFeed.Title + " - bigTop stories",
 		Link:        &feeds.Link{Href: "https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"},
@@ -26,86 +39,92 @@ func main() {
 		Created:     now,
 	}
 
-	client := http.Client{
-		Timeout: 10 * time.Second,
-	}
-
 	for _, itm := range origFeed.Items {
-		ampLink := func() string {
-			if !strings.Contains(itm.Link, "wsj.com/amp/") {
-				return strings.Replace(itm.Link, "wsj.com/", "wsj.com/amp/", -1)
-			} else {
-				return itm.Link
-			}
-		}()
-
-		req, err := http.NewRequest("GET", ampLink, nil)
-		if err != nil {
-			log.Println("error creating req: ", ampLink, err)
-			continue
+		if err := processArticle(itm, &myFeed.Items); err != nil {
+			log.Println(err)
 		}
-		req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0")
-		rsp, err := client.Do(req)
-		if err != nil {
-			log.Println("error fetching: ", ampLink, err)
-			continue
-		}
-		body, err := func /* ReadAndCloseBody */ () ([]byte, error) {
-			defer rsp.Body.Close()
-			return io.ReadAll(rsp.Body)
-		}()
-		if err != nil {
-			log.Println("error reading: ", ampLink, err)
-			continue
-		}
-		if !bytes.Contains(body, []byte("class=\"bigTop-hero")) {
-			log.Println("not a bigTop article: ", ampLink)
-			continue
-		}
-		log.Println("bigTop article: ", itm.Link)
-
-		created := func() time.Time {
-			if itm.PublishedParsed != nil {
-				return *itm.PublishedParsed
-			} else {
-				return now
-			}
-		}()
-		updated := func() time.Time {
-			if itm.UpdatedParsed != nil {
-				return *itm.UpdatedParsed
-			} else {
-				return created
-			}
-		}()
-
-		myFeed.Items = append(myFeed.Items, &feeds.Item{
-			Title:   itm.Title,
-			Link:    &feeds.Link{Href: itm.Link},
-			Content: itm.Description,
-			Created: created,
-			Updated: updated,
-		})
 	}
 
+	if err = serializeFeed(myFeed, "public/wsj-world-bigtop.xml"); err != nil {
+		log.Fatal("failed to serialize my feed: ", err, "\n")
+	}
+	log.Print("Successfully updated feed, article count [", len(myFeed.Items), "] out of [", len(origFeed.Items), "]", "\n")
+}
+
+func processArticle(item *gofeed.Item, myItems *[]*feeds.Item) error {
+	ampLink := func() string {
+		if !strings.Contains(item.Link, "wsj.com/amp/") {
+			return strings.Replace(item.Link, "wsj.com/", "wsj.com/amp/", -1)
+		} else {
+			return item.Link
+		}
+	}()
+
+	req, err := http.NewRequest("GET", ampLink, nil)
+	if err != nil {
+		return fmt.Errorf("%v [%v]: %w", "error creating req", ampLink, err)
+	}
+	req.Header.Set("User-Agent", USER_AGENT)
+	rsp, err := client.Do(req)
+	if err != nil {
+		return fmt.Errorf("%v [%v]: %w", "error fetching", ampLink, err)
+	}
+	defer rsp.Body.Close()
+	body, err := io.ReadAll(rsp.Body)
+	if err != nil {
+		return fmt.Errorf("%v [%v]: %w", "error reading", ampLink, err)
+	}
+	if !bytes.Contains(body, []byte("class=\"bigTop-hero")) {
+		log.Print("not a bigTop article [", ampLink, "]", "\n")
+		return nil
+	}
+	log.Print("bigTop article [", ampLink, "]", "\n")
+
+	created := func() time.Time {
+		if item.PublishedParsed != nil {
+			return *item.PublishedParsed
+		} else {
+			return now
+		}
+	}()
+	updated := func() time.Time {
+		if item.UpdatedParsed != nil {
+			return *item.UpdatedParsed
+		} else {
+			return created
+		}
+	}()
+
+	*myItems = append(*myItems, &feeds.Item{
+		Title:   item.Title,
+		Link:    &feeds.Link{Href: item.Link},
+		Content: item.Description,
+		Created: created,
+		Updated: updated,
+	})
+
+	return nil
+}
+
+func serializeFeed(myFeed *feeds.Feed, pathToFile string) error {
 	ser, err := myFeed.ToAtom()
 	if err != nil {
-		log.Fatal("failed to serialize my feed: ", err)
+		return err
 	}
 
-	err = os.MkdirAll("public", os.ModePerm)
+	err = os.MkdirAll(filepath.Dir(pathToFile), os.ModePerm)
 	if err != nil {
-		log.Fatal("failed to mkdir: ", err)
+		return fmt.Errorf("%v [%v]: %w", "failed to mkdir", filepath.Dir(pathToFile), err)
 	}
-	f, err := os.Create("public/wsj-world-bigtop.xml")
+	f, err := os.Create(pathToFile)
 	if err != nil {
-		log.Fatal("failed to create file: ", err)
+		return fmt.Errorf("%v [%v]: %w", "failed to create file", pathToFile, err)
 	}
 	defer f.Close()
 	_, err = f.WriteString(ser)
 	if err != nil {
-		log.Fatal("failed to write my feed: ", err)
+		return fmt.Errorf("%v [%v]: %w", "failed to write my feed", pathToFile, err)
 	}
 
-	log.Println("Successfully updated feed, article count [", len(myFeed.Items), "] out of [", len(origFeed.Items), "]")
+	return nil
 }
