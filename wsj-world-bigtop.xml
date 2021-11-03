@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-03T16:24:48Z</updated>
+  <updated>2021-11-03T18:18:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>A Rabbi Searches for a Congregation in Saudi Arabia, Birthplace of Islam</title>
-    <updated>2021-11-02T14:49:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-02:/articles/a-rabbi-searches-for-a-congregation-in-saudi-arabia-birthplace-of-islam-11635864559</id>
-    <content type="html">Jacob Herzog wants to offer religious services to Jewish expats. So far, the kingdom isn’t interested, but he’s undaunted; ‘Have to make a leap of faith.’</content>
-    <link href="https://www.wsj.com/articles/a-rabbi-searches-for-a-congregation-in-saudi-arabia-birthplace-of-islam-11635864559" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tariffs to Tackle Climate Change Gain Momentum. The Idea Could Reshape Industries.</title>
-    <updated>2021-11-02T14:22:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-02:/articles/tariffs-climate-change-greenhouse-gases-manufacturing-steel-11635862305</id>
-    <content type="html">Wealthy nations are proposing tariffs on imports like steel and cement that result in high carbon emissions. The proposals could boost U.S. manufacturers—but could also undermine world trade rules and even trigger trade disputes.</content>
-    <link href="https://www.wsj.com/articles/tariffs-climate-change-greenhouse-gases-manufacturing-steel-11635862305" rel="alternate"></link>
+    <title>Afghan Men Use Taliban Rule to Victimize Women, Settle Scores</title>
+    <updated>2021-11-03T11:02:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-03:/articles/if-you-dont-have-money-you-have-sisters-afghan-men-use-taliban-rule-to-settle-scores-11635937324</id>
+    <content type="html">Since the Taliban’s takeover of Afghanistan, women across the country say they have had to flee or marry family friends to avoid being forcibly married off.</content>
+    <link href="https://www.wsj.com/articles/if-you-dont-have-money-you-have-sisters-afghan-men-use-taliban-rule-to-settle-scores-11635937324" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
