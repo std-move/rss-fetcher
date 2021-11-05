@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-05T14:14:13Z</updated>
+  <updated>2021-11-05T16:23:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Inside the World&#39;s Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</title>
-    <updated>2021-11-04T16:13:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-04:/articles/covid-19-coronavirus-coverup-tanzania-11636042309</id>
-    <content type="html">Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.”</content>
-    <link href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309" rel="alternate"></link>
+    <title>Global Food Prices Surge as Inflation Spreads</title>
+    <updated>2021-11-05T13:36:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-05:/articles/global-food-prices-surge-as-inflation-spreads-11636119367</id>
+    <content type="html">Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines.</content>
+    <link href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How DNA Tests Helped a Jewish Man Trace a Holocaust Mystery to Israel</title>
+    <updated>2021-11-05T13:31:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-05:/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082</id>
+    <content type="html">Born in Nazi-occupied Poland, Bolek Krutz settled in New Jersey in 1969 and became an X-ray technician. For decades, he wondered who he really was.</content>
+    <link href="https://www.wsj.com/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
