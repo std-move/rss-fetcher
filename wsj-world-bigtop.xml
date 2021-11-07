@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-07T16:22:26Z</updated>
+  <updated>2021-11-07T18:17:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Farmers Who Protect the Amazon Rainforest Would Like to Be Paid</title>
-    <updated>2021-11-07T10:30:00Z</updated>
+    <updated>2021-11-07T17:48:00Z</updated>
     <id>tag:www.wsj.com,2021-11-07:/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003</id>
     <content type="html">Some in Brazil say they would protect forests on their land if compensated through a carbon-credit program on the agenda at the climate-change summit now under way in Glasgow.</content>
     <link href="https://www.wsj.com/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Venice Artisans Pushed to the Brink by Gas Crisis</title>
-    <updated>2021-11-06T17:52:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-06:/articles/venice-artisans-pushed-to-the-brink-by-gas-crisis-11636221171</id>
-    <content type="html">Traditional glassmakers, an industry that dates back about a thousand years in Venice, has become a victim of the energy crunch that is rippling through the global economy.</content>
-    <link href="https://www.wsj.com/articles/venice-artisans-pushed-to-the-brink-by-gas-crisis-11636221171" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nicaragua Veers Toward Dictatorship</title>
-    <updated>2021-11-06T12:19:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-06:/articles/nicaragua-veers-to-dictatorship-as-president-holds-election-the-u-s-calls-sham-11636201160</id>
-    <content type="html">President Daniel Ortega, running for a fourth consecutive term after imprisoning seven rivals, is widely expected to win an election seen as a sham by the U.S. and opponents.</content>
-    <link href="https://www.wsj.com/articles/nicaragua-veers-to-dictatorship-as-president-holds-election-the-u-s-calls-sham-11636201160" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
