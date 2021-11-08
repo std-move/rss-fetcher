@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-08T16:24:48Z</updated>
+  <updated>2021-11-08T18:18:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2021-11-08:/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600</id>
     <content type="html">Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges.</content>
     <link href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Army Furnishes Foreign Militaries With Covid-19 Vaccines</title>
-    <updated>2021-11-08T11:08:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-08:/articles/chinas-army-furnishes-foreign-militaries-with-covid-19-vaccines-11636369726</id>
-    <content type="html">The People’s Liberation Army has helped further Beijing’s global interests during the pandemic, bringing doses directly to militaries.</content>
-    <link href="https://www.wsj.com/articles/chinas-army-furnishes-foreign-militaries-with-covid-19-vaccines-11636369726" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
