@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-08T14:14:20Z</updated>
+  <updated>2021-11-08T16:24:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Germany&#39;s Economy, Once Europe&#39;s Engine, Is Holding It Back</title>
+    <updated>2021-11-08T15:13:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-08:/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954</id>
+    <content type="html">Germany’s export-oriented businesses have fared poorly in a post-pandemic world of broken supply chains and rising energy prices. The malaise is fueling a debate over whether the German economy needs a reboot and what it should look like.</content>
+    <link href="https://www.wsj.com/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Cuba&#39;s Dissidents Dig In Despite Government Crackdown</title>
+    <updated>2021-11-08T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-08:/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600</id>
+    <content type="html">Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges.</content>
+    <link href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Army Furnishes Foreign Militaries With Covid-19 Vaccines</title>
     <updated>2021-11-08T11:08:00Z</updated>
     <id>tag:www.wsj.com,2021-11-08:/articles/chinas-army-furnishes-foreign-militaries-with-covid-19-vaccines-11636369726</id>
     <content type="html">The People’s Liberation Army has helped further Beijing’s global interests during the pandemic, bringing doses directly to militaries.</content>
     <link href="https://www.wsj.com/articles/chinas-army-furnishes-foreign-militaries-with-covid-19-vaccines-11636369726" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tale of Gym Bag Stuffed With Cash Ensnares Top Opponent of Mexico&#39;s President</title>
-    <updated>2021-11-07T17:57:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-07:/articles/mexico-bribery-case-ricardo-anaya-lopez-obrador-odebrecht-lozoya-11636307232</id>
-    <content type="html">Conservative politician Ricardo Anaya says López Obrador is prosecuting him on fabricated charges. He has plenty of company.</content>
-    <link href="https://www.wsj.com/articles/mexico-bribery-case-ricardo-anaya-lopez-obrador-odebrecht-lozoya-11636307232" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
