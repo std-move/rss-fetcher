@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-09T10:17:20Z</updated>
+  <updated>2021-11-09T12:25:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2021-11-08:/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954</id>
     <content type="html">Germany’s export-oriented businesses have fared poorly in a post-pandemic world of broken supply chains and rising energy prices. The malaise is fueling a debate over whether the German economy needs a reboot and what it should look like.</content>
     <link href="https://www.wsj.com/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cuba&#39;s Dissidents Dig In Despite Government Crackdown</title>
-    <updated>2021-11-08T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-08:/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600</id>
-    <content type="html">Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges.</content>
-    <link href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
