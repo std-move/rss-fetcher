@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-09T16:25:05Z</updated>
+  <updated>2021-11-09T18:18:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Germany&#39;s Economy, Once Europe&#39;s Engine, Is Holding It Back</title>
-    <updated>2021-11-08T15:13:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-08:/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954</id>
-    <content type="html">Germany’s export-oriented businesses have fared poorly in a post-pandemic world of broken supply chains and rising energy prices. The malaise is fueling a debate over whether the German economy needs a reboot and what it should look like.</content>
-    <link href="https://www.wsj.com/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954" rel="alternate"></link>
+    <title>Nicaragua&#39;s Autocratic Shift Is Part of a Latin American Backslide</title>
+    <updated>2021-11-09T18:12:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-09:/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080</id>
+    <content type="html">President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that the region’s democracy is unraveling amid waning U.S. influence, political analysts say.</content>
+    <link href="https://www.wsj.com/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
