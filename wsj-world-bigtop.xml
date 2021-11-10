@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-10T14:14:29Z</updated>
+  <updated>2021-11-10T19:23:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Nicaragua&#39;s Autocratic Shift Is Part of a Latin American Backslide</title>
-    <updated>2021-11-09T22:13:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-09:/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080</id>
-    <content type="html">President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that democracy in the region is unraveling amid waning U.S. influence, political analysts say.</content>
-    <link href="https://www.wsj.com/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080" rel="alternate"></link>
+    <title>China&#39;s Plan to Manage Evergrande: Take It Apart, Slowly</title>
+    <updated>2021-11-10T14:39:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-10:/articles/evergrande-china-crisis-real-estate-developers-11636552507</id>
+    <content type="html">Beijing is working on a controlled implosion of the real-estate giant, selling off some of its assets while limiting damage to home buyers and businesses involved in its unfinished projects.</content>
+    <link href="https://www.wsj.com/articles/evergrande-china-crisis-real-estate-developers-11636552507" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
