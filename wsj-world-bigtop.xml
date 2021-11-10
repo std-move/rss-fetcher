@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-09T22:16:39Z</updated>
+  <updated>2021-11-10T00:51:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Nicaragua&#39;s Autocratic Shift Is Part of a Latin American Backslide</title>
-    <updated>2021-11-09T18:12:00Z</updated>
+    <updated>2021-11-09T22:13:00Z</updated>
     <id>tag:www.wsj.com,2021-11-09:/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080</id>
-    <content type="html">President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that the region’s democracy is unraveling amid waning U.S. influence, political analysts say.</content>
+    <content type="html">President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that democracy in the region is unraveling amid waning U.S. influence, political analysts say.</content>
     <link href="https://www.wsj.com/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
