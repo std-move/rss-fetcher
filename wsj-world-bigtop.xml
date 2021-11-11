@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-11T16:24:01Z</updated>
+  <updated>2021-11-11T18:18:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Europe Weighs Border Walls as Migrants Mass in Belarus at Poland&#39;s Frontier</title>
+    <updated>2021-11-11T17:47:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-11:/articles/europe-weighs-border-walls-as-migrants-mass-in-belarus-at-polands-frontier-11636649364</id>
+    <content type="html">The European Union is adopting a tougher stance toward migration in response to what officials see as a hybrid attack from a close Russian ally.</content>
+    <link href="https://www.wsj.com/articles/europe-weighs-border-walls-as-migrants-mass-in-belarus-at-polands-frontier-11636649364" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>South Africa Can&#39;t Afford to Quit Coal.  Will Rich Countries Pay for the Transition?</title>
     <updated>2021-11-11T15:08:00Z</updated>
