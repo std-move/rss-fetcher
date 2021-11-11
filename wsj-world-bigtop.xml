@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-11T12:24:31Z</updated>
+  <updated>2021-11-11T14:14:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Feud at Smithfield Foods Shows Messy Underside of Chinese Takeover</title>
+    <updated>2021-11-11T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-11:/articles/feud-at-smithfield-foods-parent-company-shows-messy-underside-of-chinese-takeover-11636626600</id>
+    <content type="html">The turmoil at WH Group marks an unexpected twist for a deal that raised political concerns amid a string of attempts by Chinese companies to buy up Western producers of resources needed to feed the country’s growing appetite.</content>
+    <link href="https://www.wsj.com/articles/feud-at-smithfield-foods-parent-company-shows-messy-underside-of-chinese-takeover-11636626600" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Plan to Manage Evergrande: Take It Apart, Slowly</title>
     <updated>2021-11-10T14:39:00Z</updated>
