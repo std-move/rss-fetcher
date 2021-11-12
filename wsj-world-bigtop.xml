@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-12T12:24:45Z</updated>
+  <updated>2021-11-12T16:23:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Europe Sees &#39;a New Type of War,&#39; Accusing Belarus of Weaponizing Migrants</title>
+    <updated>2021-11-12T15:20:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-12:/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990</id>
+    <content type="html">European officials accuse Belarus of abetting human traffickers bringing migrants into their country and then of funneling the new arrivals toward the border in an effort to provoke a crisis—things Belarus denies.</content>
+    <link href="https://www.wsj.com/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Haiti Slides Deeper Into Chaos a Month After Missionaries&#39; Kidnapping</title>
     <updated>2021-11-12T12:00:00Z</updated>
