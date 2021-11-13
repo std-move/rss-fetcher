@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-13T18:17:36Z</updated>
+  <updated>2021-11-13T20:15:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In the Shadow of the Holocaust, a Jewish Community Begins to Take Root</title>
+    <updated>2021-11-13T17:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-13:/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801</id>
+    <content type="html">Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time.</content>
+    <link href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Migrant Dies as Belarus-Poland Border Standoff Deepens</title>
     <updated>2021-11-13T16:51:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2021-11-13:/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400</id>
     <content type="html">Immunizing children against Covid-19 is viewed by authorities in the U.S. and elsewhere as critical to get the upper hand over the virus. But in some parts of the world, such efforts have generated deep controversy.</content>
     <link href="https://www.wsj.com/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Covid-19 Shots Are Reaching Poor Countries, but Not People&#39;s Arms</title>
-    <updated>2021-11-12T18:22:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-12:/articles/covid-19-vaccines-are-now-reaching-poor-countries-but-not-peoples-arms-11636741322</id>
-    <content type="html">While more vaccines could be delivered in the coming weeks than countries have received this year, many countries lack the fridges and facilities needed to distribute the shots and are fighting misinformation and hesitancy.</content>
-    <link href="https://www.wsj.com/articles/covid-19-vaccines-are-now-reaching-poor-countries-but-not-peoples-arms-11636741322" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
