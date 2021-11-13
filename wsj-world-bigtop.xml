@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-13T16:22:56Z</updated>
+  <updated>2021-11-13T18:17:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Migrant Dies as Belarus-Poland Border Standoff Deepens</title>
-    <updated>2021-11-13T15:28:00Z</updated>
+    <updated>2021-11-13T16:51:00Z</updated>
     <id>tag:www.wsj.com,2021-11-13:/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338</id>
     <content type="html">The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader.</content>
     <link href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338" rel="alternate"></link>
