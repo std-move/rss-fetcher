@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-12T22:15:29Z</updated>
+  <updated>2021-11-13T02:29:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Covid-19 Shots Are Reaching Poor Countries, but Not People&#39;s Arms</title>
+    <updated>2021-11-12T18:22:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-12:/articles/covid-19-vaccines-are-now-reaching-poor-countries-but-not-peoples-arms-11636741322</id>
+    <content type="html">While more vaccines could be delivered in the coming weeks than countries have received this year, many countries lack the fridges and facilities needed to distribute the shots and are fighting misinformation and hesitancy.</content>
+    <link href="https://www.wsj.com/articles/covid-19-vaccines-are-now-reaching-poor-countries-but-not-peoples-arms-11636741322" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Europe Says Belarus Is Weaponizing Migrants in &#39;New Type of War&#39;</title>
     <updated>2021-11-12T15:20:00Z</updated>
     <id>tag:www.wsj.com,2021-11-12:/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990</id>
     <content type="html">European officials accuse Belarus of abetting human traffickers bringing migrants into their country and then of funneling the new arrivals toward the border in an effort to provoke a crisis—things Belarus denies.</content>
     <link href="https://www.wsj.com/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Haiti Slides Deeper Into Chaos a Month After Missionaries&#39; Kidnapping</title>
-    <updated>2021-11-12T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-12:/articles/haiti-slides-deeper-into-chaos-a-month-after-missionaries-kidnapping-11636718401</id>
-    <content type="html">The U.S. is urging Americans to get out of Haiti as gangs block fuel terminals and carry out mass abductions in defiance of a weak government.</content>
-    <link href="https://www.wsj.com/articles/haiti-slides-deeper-into-chaos-a-month-after-missionaries-kidnapping-11636718401" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
