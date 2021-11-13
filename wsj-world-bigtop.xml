@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-13T10:16:32Z</updated>
+  <updated>2021-11-13T12:23:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As the U.S. Races to Vaccinate Kids, Some Countries Hold Back</title>
+    <updated>2021-11-13T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-13:/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400</id>
+    <content type="html">Immunizing children against Covid-19 is viewed by authorities in the U.S. and elsewhere as critical to get the upper hand over the virus. But in some parts of the world, such efforts have generated deep controversy.</content>
+    <link href="https://www.wsj.com/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Covid-19 Shots Are Reaching Poor Countries, but Not People&#39;s Arms</title>
     <updated>2021-11-12T18:22:00Z</updated>
