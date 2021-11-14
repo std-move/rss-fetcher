@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-14T10:16:53Z</updated>
+  <updated>2021-11-14T12:23:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In the Shadow of the Holocaust, a Jewish Community Begins to Take Root</title>
+    <title>Malaysia Tries Relying Less on Foreign Workers</title>
+    <updated>2021-11-14T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-14:/articles/in-covid-era-experiment-malaysia-tries-dramatic-reduction-in-migrant-labor-11636885800</id>
+    <content type="html">With Covid-19 reducing migrant labor in many countries, some governments are testing whether their economies can run with fewer foreign workers than in the past.</content>
+    <link href="https://www.wsj.com/articles/in-covid-era-experiment-malaysia-tries-dramatic-reduction-in-migrant-labor-11636885800" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>In the Shadow of the Holocaust, a Jewish Community Takes Root</title>
     <updated>2021-11-13T17:00:00Z</updated>
     <id>tag:www.wsj.com,2021-11-13:/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801</id>
     <content type="html">Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time.</content>
