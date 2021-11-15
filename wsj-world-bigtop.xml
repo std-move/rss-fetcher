@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-15T16:24:12Z</updated>
+  <updated>2021-11-15T20:16:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>What&#39;s Driving Xi Jinping&#39;s Economic Revamp? China&#39;s Social Mobility Has Stalled</title>
+    <updated>2021-11-14T18:45:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-14:/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358</id>
+    <content type="html">Academic research and data show that as the country’s economy matures, more opportunities go to the children of wealthy and politically connected elites, posing a challenge to the ruling Communist Party.</content>
+    <link href="https://www.wsj.com/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
