@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-18T14:14:30Z</updated>
+  <updated>2021-11-18T16:23:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Venezuela Turns to Flashy Casinos, SUVs and U.S. Dollars for an Economic Boost</title>
+    <updated>2021-11-18T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-18:/articles/venezuela-turns-to-flashy-casinos-suvs-and-u-s-dollars-for-an-economic-boost-11637247602</id>
+    <content type="html">Economic liberalization puts Socialist country on path for growth after seven-year free fall; critics decry “crony capitalism.”</content>
+    <link href="https://www.wsj.com/articles/venezuela-turns-to-flashy-casinos-suvs-and-u-s-dollars-for-an-economic-boost-11637247602" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
