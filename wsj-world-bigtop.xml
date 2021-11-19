@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-19T16:23:46Z</updated>
+  <updated>2021-11-19T18:17:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Ship&#39;s Captain Died at Sea. Six Months Later, His Body Was Still in the Freezer.</title>
+    <updated>2021-11-19T14:33:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-19:/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406</id>
+    <content type="html">Ports and governments refuse to let cargo vessels offload the remains of dead seafarers. The last voyage of Captain Sandu.</content>
+    <link href="https://www.wsj.com/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>&#39;Meet a Jew&#39; Program Aims to Tackle German Anti-Semitism</title>
     <updated>2021-11-19T12:27:00Z</updated>
