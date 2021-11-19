@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-19T12:25:53Z</updated>
+  <updated>2021-11-19T14:14:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Migrants at Polish Border Say Belarus Waved Them Through</title>
-    <updated>2021-11-18T19:40:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-18:/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445</id>
-    <content type="html">Two Iraqis said Belarusian border guards cut through a razor-wire barrier and pointed them toward Poland, as thousands from the Middle East remain marooned in Eastern Europe, looking for a way out.</content>
-    <link href="https://www.wsj.com/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445" rel="alternate"></link>
+    <title>&#39;Meet a Jew&#39; Program Aims to Tackle German Anti-Semitism</title>
+    <updated>2021-11-19T12:27:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-19:/articles/meet-a-jew-program-aims-to-tackle-rising-anti-semitism-in-germany-11637324857</id>
+    <content type="html">The program seeks to fight stereotypes by inviting some Germans to meet Jews for the first time and help fill what many see as a gap in Germany’s remembrance of the Holocaust.</content>
+    <link href="https://www.wsj.com/articles/meet-a-jew-program-aims-to-tackle-rising-anti-semitism-in-germany-11637324857" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
