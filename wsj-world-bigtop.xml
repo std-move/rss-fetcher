@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-21T10:16:42Z</updated>
+  <updated>2021-11-21T12:23:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Afghanistan&#39;s Opium Business Cranks Up as the Taliban Look the Other Way</title>
+    <updated>2021-11-21T10:40:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-21:/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200</id>
+    <content type="html">With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business.</content>
+    <link href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Putin Dispatches Russian Vessels to Shadow U.S. Warships During Flare-Up</title>
     <updated>2021-11-20T10:30:00Z</updated>
