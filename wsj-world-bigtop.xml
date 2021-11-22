@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-22T16:25:38Z</updated>
+  <updated>2021-11-22T18:18:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Austria&#39;s Return to Lockdown Met With Anger, Resignation</title>
+    <updated>2021-11-22T17:20:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-22:/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887</id>
+    <content type="html">The country introduced the toughest in an array of pandemic restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases.</content>
+    <link href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
