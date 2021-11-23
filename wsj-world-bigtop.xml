@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-23T18:16:27Z</updated>
+  <updated>2021-11-23T20:16:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As Interpol Picks New Leaders, Questions Grow Over How Autocratic Nations Use It</title>
+    <updated>2021-11-23T19:01:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-23:/articles/interpol-chooses-new-leadership-as-western-worries-grow-over-red-notices-11637690224</id>
+    <content type="html">The U.S. and other countries are trying to stop authoritarian states using fugitive alerts—the so-called red notices—to chase down dissidents.</content>
+    <link href="https://www.wsj.com/articles/interpol-chooses-new-leadership-as-western-worries-grow-over-red-notices-11637690224" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Massive Hack Gave Police a Window on Cocaine, Cash and Killers</title>
+    <updated>2021-11-23T15:12:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-23:/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356</id>
+    <content type="html">Special handsets have helped criminals flood Europe with cocaine, but when authorities got inside the networks, they gained an unobstructed view of the gangs at work—and the chance to thwart them.</content>
+    <link href="https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
