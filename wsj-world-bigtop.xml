@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-24T12:25:00Z</updated>
+  <updated>2021-11-24T16:24:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Massive Hack Gave Police a Window on Cocaine, Cash and Killers</title>
-    <updated>2021-11-23T15:12:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-23:/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356</id>
-    <content type="html">Special handsets have helped criminals flood Europe with cocaine, but when authorities got inside the networks, they gained an unobstructed view of the gangs at work—and the chance to thwart them.</content>
-    <link href="https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356" rel="alternate"></link>
+    <title>Drug Trail From Europe to Ecuador: Inside the Hunt for an Elusive Narco Suspect</title>
+    <updated>2021-11-24T12:29:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-24:/articles/drug-trail-from-europe-to-ecuador-inside-the-hunt-for-elusive-narco-suspect-dritan-rexhepi-11637756980</id>
+    <content type="html">A fight on a square in Italy alerted police to a gang they say flooded Europe with cocaine and controlled by a prisoner in Ecuador.</content>
+    <link href="https://www.wsj.com/articles/drug-trail-from-europe-to-ecuador-inside-the-hunt-for-elusive-narco-suspect-dritan-rexhepi-11637756980" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
