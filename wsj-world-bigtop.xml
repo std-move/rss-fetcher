@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-25T18:18:08Z</updated>
+  <updated>2021-11-25T20:16:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China&#39;s Response to Peng Shuai Allegations Follows Familiar Pattern</title>
-    <updated>2021-11-25T10:21:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-25:/articles/chinas-response-to-peng-shuai-allegations-follows-familiar-pattern-11637835662</id>
-    <content type="html">Discussions within the country about the tennis star are heavily censored, while Chinese state-media journalists have released photos and videos on Twitter—a platform blocked in China—that are meant to attest to her well-being.</content>
-    <link href="https://www.wsj.com/articles/chinas-response-to-peng-shuai-allegations-follows-familiar-pattern-11637835662" rel="alternate"></link>
+    <title>Eclipse Chasers Travel Far and Pack Traditions: Orange Pants and Dinky Doo</title>
+    <updated>2021-11-25T17:50:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-25:/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627</id>
+    <content type="html">Devoted followers of total solar eclipses often have their own special rituals for the event, from wearing special outfits to making egg creams. Now they’re gearing up for the next one, over Antarctica.</content>
+    <link href="https://www.wsj.com/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Afghan Teachers Defy Taliban by Secretly Schooling Teenage Girls</title>
+    <updated>2021-11-25T17:49:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-25:/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558</id>
+    <content type="html">Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities.</content>
+    <link href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
