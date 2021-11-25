@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-25T10:17:03Z</updated>
+  <updated>2021-11-25T14:14:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Migrants Trapped at Polish Border Face Snow, Drones and Wild Boar</title>
-    <updated>2021-11-24T15:37:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-24:/articles/migrants-trapped-at-polands-border-with-belarus-face-snow-drones-and-wild-boar-11637768228</id>
-    <content type="html">A standoff on the European Union’s border with Belarus is turning into a protracted game of cat-and-mouse in the east of Poland, as migrants break into small groups to evade the thousands of soldiers sent to pursue them.</content>
-    <link href="https://www.wsj.com/articles/migrants-trapped-at-polands-border-with-belarus-face-snow-drones-and-wild-boar-11637768228" rel="alternate"></link>
+    <title>China&#39;s Response to Peng Shuai Allegations Follows Familiar Pattern</title>
+    <updated>2021-11-25T10:21:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-25:/articles/chinas-response-to-peng-shuai-allegations-follows-familiar-pattern-11637835662</id>
+    <content type="html">Discussions within the country about the tennis star are heavily censored, while Chinese state-media journalists have released photos and videos on Twitter—a platform blocked in China—that are meant to attest to her well-being.</content>
+    <link href="https://www.wsj.com/articles/chinas-response-to-peng-shuai-allegations-follows-familiar-pattern-11637835662" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
