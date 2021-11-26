@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-26T12:24:59Z</updated>
+  <updated>2021-11-26T16:24:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Afghans Defy Taliban by Secretly Schooling Teenage Girls</title>
-    <updated>2021-11-25T17:49:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-25:/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558</id>
-    <content type="html">Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities.</content>
-    <link href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eclipse Chasers Travel Far and Pack Traditions: Orange Pants and Dinky Doo</title>
-    <updated>2021-11-25T17:50:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-25:/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627</id>
-    <content type="html">Devoted followers of total solar eclipses often have their own special rituals for the event, from wearing special outfits to making egg creams. Now they’re gearing up for the next one, over Antarctica.</content>
-    <link href="https://www.wsj.com/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627" rel="alternate"></link>
+    <title>Supply-Chain Woes Snarl Attempts to Tame House Prices</title>
+    <updated>2021-11-26T12:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-26:/articles/supply-chain-woes-snarl-attempts-to-tame-house-prices-11637929800</id>
+    <content type="html">The rising costs of construction materials and labor shortages are complicating efforts to cool some of the world’s hottest property markets.</content>
+    <link href="https://www.wsj.com/articles/supply-chain-woes-snarl-attempts-to-tame-house-prices-11637929800" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
