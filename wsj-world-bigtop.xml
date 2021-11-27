@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-27T16:23:15Z</updated>
+  <updated>2021-11-27T23:21:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In the Land of Dikes, Nature Now Reinforces Flood Defenses</title>
+    <updated>2021-11-27T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-27:/articles/in-the-land-of-dikes-nature-now-reinforces-flood-defenses-11638009003</id>
+    <content type="html">Faced with a hydraulic onslaught that is overwhelming traditional defenses, specialists are seeking new ways to manage water that are more in tune with nature than simply building higher walls.</content>
+    <link href="https://www.wsj.com/articles/in-the-land-of-dikes-nature-now-reinforces-flood-defenses-11638009003" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
