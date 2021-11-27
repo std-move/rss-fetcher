@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-27T14:13:56Z</updated>
+  <updated>2021-11-27T16:23:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Supply-Chain Woes Snarl Attempts to Tame House Prices</title>
-    <updated>2021-11-26T12:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-26:/articles/supply-chain-woes-snarl-attempts-to-tame-house-prices-11637929800</id>
-    <content type="html">The rising costs of construction materials and labor shortages are complicating efforts to cool some of the world’s hottest property markets.</content>
-    <link href="https://www.wsj.com/articles/supply-chain-woes-snarl-attempts-to-tame-house-prices-11637929800" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
