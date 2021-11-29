@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-28T22:14:50Z</updated>
+  <updated>2021-11-29T00:51:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>How Omicron Variant Rattled the World in One Week</title>
+    <updated>2021-11-29T00:17:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-29:/articles/omicron-variant-coronavirus-south-africa-11638144873</id>
+    <content type="html">The speedy discovery, announcement and global response shows a new phase in fight against Covid-19, as health officials hunt for variants that could evade vaccines.</content>
+    <link href="https://www.wsj.com/articles/omicron-variant-coronavirus-south-africa-11638144873" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>More Countries Find Omicron Variant as Officials Grapple With Response</title>
-    <updated>2021-11-28T15:47:00Z</updated>
+    <updated>2021-11-28T22:55:00Z</updated>
     <id>tag:www.wsj.com,2021-11-28:/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344</id>
     <content type="html">Countries around the world reported their first cases as some imposed new travel restrictions, racing to protect themselves against the fast-spreading strain ahead of a potentially severe winter wave.</content>
     <link href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344" rel="alternate"></link>
