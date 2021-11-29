@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-29T16:25:08Z</updated>
+  <updated>2021-11-29T20:16:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>How Omicron Variant Rattled the World in One Week</title>
-    <updated>2021-11-29T03:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-29:/articles/omicron-variant-coronavirus-south-africa-11638144873</id>
-    <content type="html">The speedy discovery, announcement and global response shows a new phase in the fight against Covid-19, as health officials hunt for variants that could evade vaccines.</content>
-    <link href="https://www.wsj.com/articles/omicron-variant-coronavirus-south-africa-11638144873" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Taliban Covert Operatives Seized Kabul, Other Afghan Cities From Within</title>
-    <updated>2021-11-28T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-28:/articles/taliban-covert-operatives-seized-kabul-other-afghan-cities-from-within-11638095401</id>
-    <content type="html">Undercover agents—often clean-shaven, dressed in jeans and sporting sunglasses—spent years infiltrating Afghan government ministries, universities, businesses and aid organizations.</content>
-    <link href="https://www.wsj.com/articles/taliban-covert-operatives-seized-kabul-other-afghan-cities-from-within-11638095401" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
