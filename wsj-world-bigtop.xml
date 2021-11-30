@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-11-30T16:24:19Z</updated>
+  <updated>2021-11-30T20:16:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Leaked Documents Detail Xi Jinping&#39;s Extensive Role in Xinjiang Crackdown</title>
+    <updated>2021-11-30T15:43:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-30:/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709</id>
+    <content type="html">Records of internal speeches released by a U.K.-based panel of lawyers and activists show how China’s leader set the blueprint for the vast campaign of forcible assimilation against Uyghurs and other groups.</content>
+    <link href="https://www.wsj.com/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Bali Was Slammed With Tourists Before Covid. Now It&#39;s Slammed Without.</title>
+    <updated>2021-11-30T15:07:00Z</updated>
+    <id>tag:www.wsj.com,2021-11-30:/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373</id>
+    <content type="html">Travel destinations that strained under crowds of visitors before the pandemic now confront the possibility they won’t be back for years. “This is a lesson for us. We can’t stay so dependent on tourism.”</content>
+    <link href="https://www.wsj.com/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
