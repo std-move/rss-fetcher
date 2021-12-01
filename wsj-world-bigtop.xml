@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-01T12:26:02Z</updated>
+  <updated>2021-12-01T14:15:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Omicron Variant Sends Policy Makers Scrambling as Science Lags Behind</title>
-    <updated>2021-11-30T22:04:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-30:/articles/omicron-variant-covid-science-policy-11638301683</id>
-    <content type="html">Researchers are evaluating the variant’s mutations and tracking infections to evaluate the threat it poses.</content>
-    <link href="https://www.wsj.com/articles/omicron-variant-covid-science-policy-11638301683" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Leaked Documents Detail Xi Jinping&#39;s Extensive Role in Xinjiang Crackdown</title>
-    <updated>2021-11-30T15:43:00Z</updated>
-    <id>tag:www.wsj.com,2021-11-30:/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709</id>
-    <content type="html">Records of internal speeches released by a U.K.-based panel of lawyers and activists show how China’s leader set the blueprint for the vast campaign of forcible assimilation against Uyghurs and other groups.</content>
-    <link href="https://www.wsj.com/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Bali Was Slammed With Tourists Before Covid. Now It&#39;s Slammed Without.</title>
     <updated>2021-11-30T15:07:00Z</updated>
