@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-01T18:18:42Z</updated>
+  <updated>2021-12-01T20:16:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Covid-19 Cases Nearly Double in South Africa as Omicron Reaches More Countries</title>
+    <updated>2021-12-01T19:46:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-01:/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965</id>
+    <content type="html">There are signs the Omicron variant is more transmissible, as well as hints that vaccines help in subduing severe symptoms.</content>
+    <link href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Afghan Journalists in Exile Keep Spotlight on Their Homeland</title>
     <updated>2021-12-01T16:59:00Z</updated>
