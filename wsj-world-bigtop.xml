@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-02T14:14:49Z</updated>
+  <updated>2021-12-02T16:24:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Digital Yuan Faces Obstacles in Winning Hearts and Minds</title>
-    <updated>2021-12-02T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-02:/articles/chinas-digital-currency-challenge-winning-hearts-and-minds-11638441000</id>
-    <content type="html">Beijing has convinced financial policy makers everywhere of its resolve to create a digital version of its currency. The challenge is getting consumers interested.</content>
-    <link href="https://www.wsj.com/articles/chinas-digital-currency-challenge-winning-hearts-and-minds-11638441000" rel="alternate"></link>
+    <title>Wages Are Going Gangbusters in the U.S.---Elsewhere, Not So Much</title>
+    <updated>2021-12-02T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-02:/articles/wages-are-going-gangbusters-in-the-u-s-elsewhere-not-so-much-11638450001</id>
+    <content type="html">It is a stark divergence as the global economy recovers from the Covid-19 pandemic, with implications for how quickly central banks tighten monetary policy in response to price pressures.</content>
+    <link href="https://www.wsj.com/articles/wages-are-going-gangbusters-in-the-u-s-elsewhere-not-so-much-11638450001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
