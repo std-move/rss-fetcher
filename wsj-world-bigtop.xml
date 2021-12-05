@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-05T10:16:37Z</updated>
+  <updated>2021-12-05T12:24:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2021-12-04:/articles/in-russias-death-valley-putins-pledge-to-become-carbon-neutral-rings-hollow-11638614426</id>
     <content type="html">Moscow’s ambition goal of slashing emissions by 2060 clashes with Russia’s attachment to coal. In one Russian coal town, acrid air and sick children.</content>
     <link href="https://www.wsj.com/articles/in-russias-death-valley-putins-pledge-to-become-carbon-neutral-rings-hollow-11638614426" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Turkey&#39;s Economic Turmoil Sends Desperation and Inflation Soaring</title>
-    <updated>2021-12-03T15:50:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-03:/articles/turkey-erdogan-inflation-currency-lira-protests-economy-11638477508</id>
-    <content type="html">President Erdogan has taken control of the economy and pushed lower interest rates as the currency plunges. Turks have been lining up for subsidized bread and cutting back on meat.</content>
-    <link href="https://www.wsj.com/articles/turkey-erdogan-inflation-currency-lira-protests-economy-11638477508" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
