@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-05T16:23:38Z</updated>
+  <updated>2021-12-05T20:16:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China Seeks First Military Base on Africa&#39;s Atlantic Coast</title>
+    <updated>2021-12-05T17:45:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-05:/articles/china-seeks-first-military-base-on-africas-atlantic-coast-u-s-intelligence-finds-11638726327</id>
+    <content type="html">Classified American intelligence reports suggest China intends to establish a military installation in Equatorial Guinea, a move that would give Beijing its first permanent naval presence on the Atlantic Ocean, according to U.S. officials.</content>
+    <link href="https://www.wsj.com/articles/china-seeks-first-military-base-on-africas-atlantic-coast-u-s-intelligence-finds-11638726327" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Omicron&#39;s Spread Exposes South Africa&#39;s Vaccination Struggles</title>
     <updated>2021-12-05T14:03:00Z</updated>
