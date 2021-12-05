@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-05T14:14:00Z</updated>
+  <updated>2021-12-05T16:23:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin&#39;s Pledge to Become Carbon Neutral Rings Hollow</title>
-    <updated>2021-12-04T10:40:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-04:/articles/in-russias-death-valley-putins-pledge-to-become-carbon-neutral-rings-hollow-11638614426</id>
-    <content type="html">Moscow’s ambition goal of slashing emissions by 2060 clashes with Russia’s attachment to coal. In one Russian coal town, acrid air and sick children.</content>
-    <link href="https://www.wsj.com/articles/in-russias-death-valley-putins-pledge-to-become-carbon-neutral-rings-hollow-11638614426" rel="alternate"></link>
+    <title>Omicron&#39;s Spread Exposes South Africa&#39;s Vaccination Struggles</title>
+    <updated>2021-12-05T14:03:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-05:/articles/omicrons-spread-exposes-south-africas-vaccination-struggles-public-distrust-11638712983</id>
+    <content type="html">South Africa’s struggles to vaccinate more than a quarter of its population have left many of its 60 million people potentially exposed as the new Omicron variant spreads across the country.</content>
+    <link href="https://www.wsj.com/articles/omicrons-spread-exposes-south-africas-vaccination-struggles-public-distrust-11638712983" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
