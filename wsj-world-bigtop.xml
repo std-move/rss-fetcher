@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-07T16:26:04Z</updated>
+  <updated>2021-12-07T20:17:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Omicron Expected to Be Dominant in Parts of Europe Within Weeks</title>
+    <updated>2021-12-07T17:58:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-07:/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781</id>
+    <content type="html">Emerging evidence suggests that vaccines offer significant protection against severe illness with Omicron, adding impetus to government efforts to broaden vaccination coverage and offer booster shots.</content>
+    <link href="https://www.wsj.com/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Volunteer Fighters Raise Stakes in Ethiopia&#39;s Conflict</title>
     <updated>2021-12-07T13:52:00Z</updated>
     <id>tag:www.wsj.com,2021-12-07:/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586</id>
     <content type="html">Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said a university librarian who joined a pro-government militia.</content>
     <link href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Brother of Pearl Harbor POW Tells Tale of Stigma and Resilience</title>
-    <updated>2021-12-07T10:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-07:/articles/japan-hid-its-pearl-harbor-pow-he-survived-and-left-a-tale-of-resilience-11638871200</id>
-    <content type="html">Eighty years after the Pearl Harbor attack on Dec. 7, 1941, the story of Japan’s first prisoner of war is kept alive by his brother, who is 88.</content>
-    <link href="https://www.wsj.com/articles/japan-hid-its-pearl-harbor-pow-he-survived-and-left-a-tale-of-resilience-11638871200" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Increasingly Obscures True State of Its Economy to Outsiders</title>
-    <updated>2021-12-06T15:56:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-06:/articles/china-data-security-law-ships-ports-court-cases-universities-11638803230</id>
-    <content type="html">New data restrictions have made it harder for foreigners to get details on what’s happening inside China, including about port activity, supplies and political dissent cases. Companies and governments are left trying to figure out how to engage.</content>
-    <link href="https://www.wsj.com/articles/china-data-security-law-ships-ports-court-cases-universities-11638803230" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
