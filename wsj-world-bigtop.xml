@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-08T10:17:37Z</updated>
+  <updated>2021-12-08T12:25:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2021-12-07:/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781</id>
     <content type="html">Shots should still help against severe disease with the variant on its way to dominate in Europe, scientists say.</content>
     <link href="https://www.wsj.com/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.A.E.&#39;s New Western Workweek Upsets Friday Brunch</title>
-    <updated>2021-12-07T21:21:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-07:/articles/u-a-e-s-new-western-workweek-upsets-friday-brunch-11638912105</id>
-    <content type="html">Gulf state switches to Monday through Friday schedule, changing weekend plans; ‘Monday mornings are now the bad mornings’</content>
-    <link href="https://www.wsj.com/articles/u-a-e-s-new-western-workweek-upsets-friday-brunch-11638912105" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
