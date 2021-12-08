@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-08T00:55:03Z</updated>
+  <updated>2021-12-08T02:32:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Omicron Expected to Be Dominant in Parts of Europe Within Weeks</title>
-    <updated>2021-12-07T20:18:00Z</updated>
+    <title>Early Lab Test Shows Omicron Weakening Vaccine Effectiveness</title>
+    <updated>2021-12-07T22:30:00Z</updated>
     <id>tag:www.wsj.com,2021-12-07:/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781</id>
-    <content type="html">Emerging evidence suggests that vaccines offer significant protection against severe illness with Omicron, adding impetus to government efforts to broaden vaccination coverage and offer booster shots.</content>
+    <content type="html">Shots should still help against severe disease with the variant on its way to dominate in Europe, scientists say.</content>
     <link href="https://www.wsj.com/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
