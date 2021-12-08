@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-08T08:19:32Z</updated>
+  <updated>2021-12-08T10:17:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,11 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Volunteer Fighters Raise Stakes in Ethiopia&#39;s Conflict</title>
-    <updated>2021-12-07T13:52:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-07:/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586</id>
-    <content type="html">Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said a university librarian who joined a pro-government militia.</content>
-    <link href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586" rel="alternate"></link>
+    <title>U.A.E.&#39;s New Western Workweek Upsets Friday Brunch</title>
+    <updated>2021-12-07T21:21:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-07:/articles/u-a-e-s-new-western-workweek-upsets-friday-brunch-11638912105</id>
+    <content type="html">Gulf state switches to Monday through Friday schedule, changing weekend plans; ‘Monday mornings are now the bad mornings’</content>
+    <link href="https://www.wsj.com/articles/u-a-e-s-new-western-workweek-upsets-friday-brunch-11638912105" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
