@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-10T18:18:45Z</updated>
+  <updated>2021-12-10T20:16:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</title>
     <updated>2021-12-10T15:00:00Z</updated>
     <id>tag:www.wsj.com,2021-12-10:/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303</id>
-    <content type="html">Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; ‘an urgent solution is needed before it’s too late’</content>
+    <content type="html">Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; “an urgent solution is needed before it’s too late.”</content>
     <link href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
