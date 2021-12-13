@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-13T12:26:00Z</updated>
+  <updated>2021-12-13T14:15:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In France, Criticism Grows Over U.S.-Inspired Social Activism</title>
-    <updated>2021-12-12T14:39:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-12:/articles/in-france-criticism-grows-over-u-s-inspired-activism-on-race-gender-11639319941</id>
-    <content type="html">President Emmanuel Macron and some other public figures say that “woke” movements reflecting American ideas about multiculturalism pose a threat to French society.</content>
-    <link href="https://www.wsj.com/articles/in-france-criticism-grows-over-u-s-inspired-activism-on-race-gender-11639319941" rel="alternate"></link>
+    <title>China&#39;s Quest for Space Power Starts With Moon Dust</title>
+    <updated>2021-12-13T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-13:/articles/chinas-quest-for-space-power-starts-with-moon-dust-11639396804</id>
+    <content type="html">The country’s lunar program is a key step toward Beijing’s vision of achieving territorial power in space, and scientists think lunar material could one day provide safer nuclear energy in a fusion reactor.</content>
+    <link href="https://www.wsj.com/articles/chinas-quest-for-space-power-starts-with-moon-dust-11639396804" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</title>
+    <updated>2021-12-12T16:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-12:/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804</id>
+    <content type="html">A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul.</content>
+    <link href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
