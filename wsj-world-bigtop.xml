@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-14T12:26:37Z</updated>
+  <updated>2021-12-14T14:14:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2021-12-13:/articles/as-turkeys-currency-collapses-erdogans-support-sinks-even-in-his-hometown-11639403803</id>
     <content type="html">In President Recep Tayyip Erdogan’s hometown on Turkey’s Black Sea coast, residents are questioning the leadership of their city’s favorite son amid an economic crisis that is driving up the cost of food, gasoline and medicine.</content>
     <link href="https://www.wsj.com/articles/as-turkeys-currency-collapses-erdogans-support-sinks-even-in-his-hometown-11639403803" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>For a Taliban-Ruled Afghanistan, and the Rest of the World, a Crisis Looms</title>
+    <updated>2021-12-13T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-13:/articles/crisis-looms-for-taliban-afghanistan-and-rest-of-world-11639104243</id>
+    <content type="html">The new Taliban administration is struggling with a devastated economy. The fallout likely will extend well beyond the country’s borders.</content>
+    <link href="https://www.wsj.com/articles/crisis-looms-for-taliban-afghanistan-and-rest-of-world-11639104243" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
