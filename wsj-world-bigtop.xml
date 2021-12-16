@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-16T14:14:38Z</updated>
+  <updated>2021-12-16T16:25:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Wayward Band of Otters Wreaks Havoc in Singapore</title>
+    <updated>2021-12-16T15:47:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-16:/articles/a-wayward-band-of-otters-wreaks-havoc-in-singapore-11639669661</id>
+    <content type="html">The recent case of a man who says he was attacked by the smooth-coated animals has divided the city-state over its otter denizens; ‘like piranhas’</content>
+    <link href="https://www.wsj.com/articles/a-wayward-band-of-otters-wreaks-havoc-in-singapore-11639669661" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Covid-19 Cancels Christmas Around Europe…Again</title>
     <updated>2021-12-16T13:09:00Z</updated>
     <id>tag:www.wsj.com,2021-12-16:/articles/covid-19-cancels-christmas-around-europeagain-11639660145</id>
     <content type="html">From Spanish holidays to Greek celebrations to German circus performances, the Covid-19 pandemic has derailed plans and upended Christmas traditions across Europe for a second year in a row.</content>
     <link href="https://www.wsj.com/articles/covid-19-cancels-christmas-around-europeagain-11639660145" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Afghan Women Face Old Family Pressures</title>
-    <updated>2021-12-15T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-15:/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204</id>
-    <content type="html">With the return to Taliban rule, family dynamics are changing as some men forcefully assert their power over wives, daughters and sisters. “Nothing scares me more than my father. Not even the Taliban,” says one activist.</content>
-    <link href="https://www.wsj.com/articles/after-taliban-return-afghan-women-face-old-pressures-from-fathers-brothers-11639564204" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
