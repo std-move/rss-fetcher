@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-17T10:17:29Z</updated>
+  <updated>2021-12-17T12:25:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Covid-19 Cancels Christmas Around Europe…Again</title>
-    <updated>2021-12-16T13:09:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-16:/articles/covid-19-cancels-christmas-around-europeagain-11639660145</id>
-    <content type="html">From Spanish holidays to Greek celebrations to German circus performances, the Covid-19 pandemic has derailed plans and upended Christmas traditions across Europe for a second year in a row.</content>
-    <link href="https://www.wsj.com/articles/covid-19-cancels-christmas-around-europeagain-11639660145" rel="alternate"></link>
+    <title>Guam Is America&#39;s New Front Line Against China</title>
+    <updated>2021-12-17T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-17:/articles/guam-americas-forgotten-territory-is-new-front-line-against-china-11639737005</id>
+    <content type="html">The remote Pacific island, better known for beaches, is seen as a potential staging ground in any future Asian conflicts. It’s also becoming more vulnerable, U.S. officials say, as China expands its military capabilities.</content>
+    <link href="https://www.wsj.com/articles/guam-americas-forgotten-territory-is-new-front-line-against-china-11639737005" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
