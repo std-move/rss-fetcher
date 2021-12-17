@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-17T14:14:45Z</updated>
+  <updated>2021-12-17T16:24:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Guam Is America&#39;s New Front Line Against China</title>
-    <updated>2021-12-17T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-17:/articles/guam-americas-forgotten-territory-is-new-front-line-against-china-11639737005</id>
-    <content type="html">The remote Pacific island, better known for beaches, is seen as a potential staging ground in any future Asian conflicts. It’s also becoming more vulnerable, U.S. officials say, as China expands its military capabilities.</content>
-    <link href="https://www.wsj.com/articles/guam-americas-forgotten-territory-is-new-front-line-against-china-11639737005" rel="alternate"></link>
+    <title>Haitians Hoping to Reach U.S. Stranded in Chile, Across Americas</title>
+    <updated>2021-12-17T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-17:/articles/haitians-hoping-to-reach-u-s-stranded-in-chile-across-americas-11639753203</id>
+    <content type="html">Chile’s presidential vote will decide the fate of the tens of thousands of Haitian migrants living there. If hard-line immigration policies are adopted, many of them might head to the U.S. border.</content>
+    <link href="https://www.wsj.com/articles/haitians-hoping-to-reach-u-s-stranded-in-chile-across-americas-11639753203" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
