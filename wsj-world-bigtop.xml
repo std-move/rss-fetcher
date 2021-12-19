@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-19T14:14:28Z</updated>
+  <updated>2021-12-19T16:24:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Europe Keeps Its Ski Slopes Open Despite Omicron</title>
-    <updated>2021-12-18T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-18:/articles/europes-ski-slopes-are-open-despite-omicron-at-least-for-now-11639836003</id>
-    <content type="html">Wide use of the European Union’s digital Covid-19 pass has encouraged skiers to take to the slopes in a boost to ski-lift operators and other local businesses.</content>
-    <link href="https://www.wsj.com/articles/europes-ski-slopes-are-open-despite-omicron-at-least-for-now-11639836003" rel="alternate"></link>
+    <title>Chile&#39;s Presidential Election Pits Young Versus Old in Key Vote for Economy</title>
+    <updated>2021-12-19T10:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-19:/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003</id>
+    <content type="html">Voters in Latin America’s most affluent country are casting ballots following a campaign that has highlighted a generational divide pitting the young, who support presidential candidate Gabriel Boric, against the old, who are backing José Antonio Kast.</content>
+    <link href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2021-12-18:/articles/the-worldwantsgreen-hydrogen-namibiasays-it-can-deliver-11639823404</id>
     <content type="html">The southern African nation of sun-laden deserts and wind-swept coastline is aiming to develop a hydrogen industry from renewable sources to meet growing global demand.</content>
     <link href="https://www.wsj.com/articles/the-worldwantsgreen-hydrogen-namibiasays-it-can-deliver-11639823404" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Haitians Hoping to Reach U.S. Stranded in Chile, Across Americas</title>
-    <updated>2021-12-17T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-17:/articles/haitians-hoping-to-reach-u-s-stranded-in-chile-across-americas-11639753203</id>
-    <content type="html">Chile’s presidential vote will decide the fate of the tens of thousands of Haitian migrants living there. If hard-line immigration policies are adopted, many of them might head to the U.S. border.</content>
-    <link href="https://www.wsj.com/articles/haitians-hoping-to-reach-u-s-stranded-in-chile-across-americas-11639753203" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
