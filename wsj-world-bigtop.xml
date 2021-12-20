@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-20T02:34:54Z</updated>
+  <updated>2021-12-20T04:21:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Gabriel Boric Wins Chile&#39;s Presidential Election at Age 35</title>
+    <updated>2021-12-20T02:49:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-20:/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003</id>
+    <content type="html">The leftist and former student protest leader pledges to hike taxes and dismantle a private pension system in Latin America’s richest nation.</content>
+    <link href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
