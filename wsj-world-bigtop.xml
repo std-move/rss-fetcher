@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-20T12:27:18Z</updated>
+  <updated>2021-12-20T14:15:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Gabriel Boric Wins Chile&#39;s Presidential Election at Age 35</title>
-    <updated>2021-12-20T02:49:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-20:/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003</id>
-    <content type="html">The leftist and former student protest leader pledges to hike taxes and dismantle a private pension system in Latin America’s richest nation.</content>
-    <link href="https://www.wsj.com/articles/chiles-presidential-election-pits-young-versus-old-in-key-vote-for-economy-11639908003" rel="alternate"></link>
+    <title>Turkey&#39;s Currency Crisis Slams the Nutella Supply Chain</title>
+    <updated>2021-12-20T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-20:/articles/turkeys-currency-crisis-slams-the-nutella-global-supply-chain-11639996201</id>
+    <content type="html">The country’s hazelnut industry—which produces 70% of the world’s hazelnuts—is a stark example of the potential global implications of an economic gamble set in motion by President Recep Tayyip Erdogan, who says he wants a weaker Turkish lira to encourage exports and expand productive industry.</content>
+    <link href="https://www.wsj.com/articles/turkeys-currency-crisis-slams-the-nutella-global-supply-chain-11639996201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
