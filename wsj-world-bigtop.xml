@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-24T10:18:06Z</updated>
+  <updated>2021-12-24T12:26:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Guns-for-Hire Fill Void in Africa and Elsewhere as Western Militaries Pull Back</title>
-    <updated>2021-12-23T21:40:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-23:/articles/russian-guns-for-hire-fill-void-in-africa-and-elsewhere-as-western-militaries-pull-back-11640295603</id>
-    <content type="html">A mercenary deployment in Mali is triggering alarm among U.S. allies as Moscow denies being involved.</content>
-    <link href="https://www.wsj.com/articles/russian-guns-for-hire-fill-void-in-africa-and-elsewhere-as-western-militaries-pull-back-11640295603" rel="alternate"></link>
+    <title>Omicron Pushes U.K. to Stay Home Even Without a Lockdown</title>
+    <updated>2021-12-24T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-24:/articles/omicron-pushes-u-k-to-stay-home-even-without-a-government-lockdown-11640341803</id>
+    <content type="html">The new Covid-19 variant has driven one in six Britons to cancel going to a Christmas party, and traffic in stores and restaurants is down.</content>
+    <link href="https://www.wsj.com/articles/omicron-pushes-u-k-to-stay-home-even-without-a-government-lockdown-11640341803" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
