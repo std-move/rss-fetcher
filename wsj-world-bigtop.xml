@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-25T12:25:00Z</updated>
+  <updated>2021-12-25T14:14:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2021-12-24:/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270</id>
     <content type="html">Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise.</content>
     <link href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Omicron Pushes U.K. to Stay Home Even Without a Lockdown</title>
-    <updated>2021-12-24T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-24:/articles/omicron-pushes-u-k-to-stay-home-even-without-a-government-lockdown-11640341803</id>
-    <content type="html">The new Covid-19 variant has driven one in six Britons to cancel going to a Christmas party, and traffic in stores and restaurants is down.</content>
-    <link href="https://www.wsj.com/articles/omicron-pushes-u-k-to-stay-home-even-without-a-government-lockdown-11640341803" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
