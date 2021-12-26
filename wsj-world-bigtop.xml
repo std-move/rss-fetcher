@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-26T20:16:46Z</updated>
+  <updated>2021-12-26T22:18:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2021-12-26:/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002</id>
     <content type="html">In a city where Russia was victorious 300 years ago, Ukrainians are mobilizing to push back against another Russian leader.</content>
     <link href="https://www.wsj.com/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Venezuelan Migrants Fall Prey to Sex Traffickers</title>
+    <updated>2021-12-26T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-26:/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604</id>
+    <content type="html">Sex traffickers exploit the exodus of nearly six million people from Venezuela—the world’s largest continuing refugee crisis in number of migrants fleeing—by coercing some into bondage using bogus job offers.</content>
+    <link href="https://www.wsj.com/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
