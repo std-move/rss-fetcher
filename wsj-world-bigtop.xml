@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-27T14:24:28Z</updated>
+  <updated>2021-12-27T16:25:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Italian Tech Startup Revives Einstein&#39;s Father&#39;s Power Plant</title>
-    <updated>2021-12-26T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-26:/articles/italian-tech-startup-revives-einsteins-fathers-power-plant-11640523602</id>
-    <content type="html">A husband-wife team of entrepreneurs are using a once-abandoned hydroelectric station to feed the power grid and keep their artificial-intelligence enterprise humming.</content>
-    <link href="https://www.wsj.com/articles/italian-tech-startup-revives-einsteins-fathers-power-plant-11640523602" rel="alternate"></link>
+    <title>With Rappers, Race Cars and Raves, Saudi Arabia Learns How to Party</title>
+    <updated>2021-12-27T13:01:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-27:/articles/with-rappers-race-cars-and-raves-saudi-arabia-learns-how-to-party-11640610116</id>
+    <content type="html">A four-day music festival earlier this month is emblematic of how Saudis are learning to have fun in ways that are common in much of the world but long forbidden in the kingdom.</content>
+    <link href="https://www.wsj.com/articles/with-rappers-race-cars-and-raves-saudi-arabia-learns-how-to-party-11640610116" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Where Russia Once Triumphed, Ukrainians Prepare to Resist Putin</title>
-    <updated>2021-12-26T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-26:/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002</id>
-    <content type="html">In a city where Russia was victorious 300 years ago, Ukrainians are mobilizing to push back against another Russian leader.</content>
-    <link href="https://www.wsj.com/articles/where-russia-once-triumphed-ukrainians-prepare-to-resist-putin-11640520002" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Venezuelan Migrants Fall Prey to Sex Traffickers</title>
-    <updated>2021-12-26T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-26:/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604</id>
-    <content type="html">Sex traffickers exploit the exodus of nearly six million people from Venezuela—the world’s largest continuing refugee crisis in number of migrants fleeing—by coercing some into bondage using bogus job offers.</content>
-    <link href="https://www.wsj.com/articles/venezuelan-migrants-fall-prey-to-sex-traffickers-after-fleeing-their-collapsing-country-11640514604" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How the Taliban Outwitted and Outwaited the U.S.</title>
-    <updated>2021-12-24T15:02:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-24:/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270</id>
-    <content type="html">Islamist movement spoke of moderation as it solidified gains on the battlefield, taking Washington and its Afghan allies by surprise.</content>
-    <link href="https://www.wsj.com/articles/how-the-afghanistan-taliban-outwitted-and-outwaited-the-u-s-11640355270" rel="alternate"></link>
+    <title>Millions in U.K. Await Treatment, but Not for Covid</title>
+    <updated>2021-12-27T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-27:/articles/pandemics-hidden-toll-millions-in-u-k-await-treatment-but-not-for-covid-19-11640606405</id>
+    <content type="html">At the end of October, the number of people in England who were on the wait list for an elective procedure hit six million. That’s up 41% from March 2020.</content>
+    <link href="https://www.wsj.com/articles/pandemics-hidden-toll-millions-in-u-k-await-treatment-but-not-for-covid-19-11640606405" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
