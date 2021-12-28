@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-28T14:14:44Z</updated>
+  <updated>2021-12-28T16:25:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Afghanistan&#39;s Former Female Troops Fear for Their Lives</title>
-    <updated>2021-12-28T13:00:00Z</updated>
+    <updated>2021-12-28T15:38:00Z</updated>
     <id>tag:www.wsj.com,2021-12-28:/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404</id>
     <content type="html">“They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments.</content>
     <link href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404" rel="alternate"></link>
