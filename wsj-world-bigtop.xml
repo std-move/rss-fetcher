@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-28T12:26:29Z</updated>
+  <updated>2021-12-28T14:14:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>With Rappers, Race Cars and Raves, Saudi Arabia Learns How to Party</title>
-    <updated>2021-12-27T13:01:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-27:/articles/with-rappers-race-cars-and-raves-saudi-arabia-learns-how-to-party-11640610116</id>
-    <content type="html">A four-day music festival earlier this month is emblematic of how Saudis are learning to have fun in ways that are common in much of the world but long forbidden in the kingdom.</content>
-    <link href="https://www.wsj.com/articles/with-rappers-race-cars-and-raves-saudi-arabia-learns-how-to-party-11640610116" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Millions in U.K. Await Treatment, but Not for Covid</title>
-    <updated>2021-12-27T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-27:/articles/pandemics-hidden-toll-millions-in-u-k-await-treatment-but-not-for-covid-19-11640606405</id>
-    <content type="html">At the end of October, the number of people in England who were on the wait list for an elective procedure hit six million. That’s up 41% from March 2020.</content>
-    <link href="https://www.wsj.com/articles/pandemics-hidden-toll-millions-in-u-k-await-treatment-but-not-for-covid-19-11640606405" rel="alternate"></link>
+    <title>Afghanistan&#39;s Former Female Troops Fear for Their Lives</title>
+    <updated>2021-12-28T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-28:/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404</id>
+    <content type="html">“They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments.</content>
+    <link href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
