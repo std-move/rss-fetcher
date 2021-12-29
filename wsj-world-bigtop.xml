@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-29T14:14:51Z</updated>
+  <updated>2021-12-29T16:25:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Pandemic Gives New Hope to One of the World&#39;s Fastest-Shrinking Countries</title>
+    <updated>2021-12-29T13:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-29:/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601</id>
+    <content type="html">Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again.</content>
+    <link href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Afghanistan&#39;s Former Female Troops Fear for Their Lives</title>
     <updated>2021-12-28T15:38:00Z</updated>
