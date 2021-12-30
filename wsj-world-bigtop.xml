@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-29T22:15:50Z</updated>
+  <updated>2021-12-30T00:54:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Master Penny-Pincher Draws a Following in Japan</title>
+    <updated>2021-12-29T15:37:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-29:/articles/a-master-penny-pincher-draws-a-following-in-japan-11640792275</id>
+    <content type="html">Megumi Nakano offers daily tips on Instagram about how not to spend money. Half a radish is put to good use.</content>
+    <link href="https://www.wsj.com/articles/a-master-penny-pincher-draws-a-following-in-japan-11640792275" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pandemic Gives New Hope to One of the World&#39;s Fastest-Shrinking Countries</title>
     <updated>2021-12-29T13:30:00Z</updated>
