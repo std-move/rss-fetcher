@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-30T16:25:25Z</updated>
+  <updated>2021-12-30T18:18:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>A Master Penny-Pincher Draws a Following in Japan</title>
-    <updated>2021-12-29T15:37:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-29:/articles/a-master-penny-pincher-draws-a-following-in-japan-11640792275</id>
-    <content type="html">Megumi Nakano offers daily tips on Instagram about how not to spend money. Half a radish is put to good use.</content>
-    <link href="https://www.wsj.com/articles/a-master-penny-pincher-draws-a-following-in-japan-11640792275" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pandemic Gives New Hope to One of the World&#39;s Fastest-Shrinking Countries</title>
-    <updated>2021-12-29T13:30:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-29:/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601</id>
-    <content type="html">Covid-19 pushed many to return to Eastern European countries, such as Bulgaria, that had seen punishing declines in population. But the challenge is to keep them from leaving again.</content>
-    <link href="https://www.wsj.com/articles/covid-19-pandemic-gives-new-hope-to-one-of-the-worlds-fastest-shrinking-countries-11640784601" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hong Kong Pro-Democracy Site Stand News Closes After Arrests, Raid</title>
-    <updated>2021-12-29T09:45:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-29:/articles/hong-kong-pro-democracy-site-stand-news-closes-after-arrests-raid-11640771127</id>
-    <content type="html">National security police detained seven people linked to the popular news site, dealing a further blow to freedom of speech in a city once celebrated for its rambunctious journalism.</content>
-    <link href="https://www.wsj.com/articles/hong-kong-pro-democracy-site-stand-news-closes-after-arrests-raid-11640771127" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Afghanistan&#39;s Former Female Troops Fear for Their Lives</title>
-    <updated>2021-12-28T15:38:00Z</updated>
-    <id>tag:www.wsj.com,2021-12-28:/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404</id>
-    <content type="html">“They have relocated musicians, soccer players and artists, and their lives were not at risk as much as ours,” a former Afghan Air Force officer says of Western governments.</content>
-    <link href="https://www.wsj.com/articles/afghanistans-former-female-troops-once-hailed-by-the-west-fear-for-their-lives-11640696404" rel="alternate"></link>
+    <title>U.S. Sanctions Push Afghanistan and Iran Together</title>
+    <updated>2021-12-30T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-30:/articles/u-s-sanctions-push-iran-and-afghanistans-taliban-together-11640860210</id>
+    <content type="html">Tehran and the Taliban, once bitter foes, are finding common cause under the weight of economic pressures, though water supply and drug smuggling are keeping up tensions at the border.</content>
+    <link href="https://www.wsj.com/articles/u-s-sanctions-push-iran-and-afghanistans-taliban-together-11640860210" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
