@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2021-12-31T12:26:04Z</updated>
+  <updated>2021-12-31T14:14:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Inside Antwerp, Europe&#39;s Cocaine Gateway</title>
+    <updated>2021-12-31T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-31:/articles/inside-europes-cocaine-gateway-a-repeat-of-miami-in-the-1980s-11640946603</id>
+    <content type="html">Authorities in Antwerp have seized 88 metric tons of cocaine stashed in containers from Latin America this year, nearly 10 times the figure in 2014. It is far more than any other European port.</content>
+    <link href="https://www.wsj.com/articles/inside-europes-cocaine-gateway-a-repeat-of-miami-in-the-1980s-11640946603" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
