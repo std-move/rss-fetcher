@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-01T08:19:36Z</updated>
+  <updated>2022-01-01T10:17:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Who Won in Afghanistan? Private Contractors</title>
+    <updated>2021-12-31T22:04:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-31:/articles/who-won-in-afghanistan-private-contractors-troops-withdrawal-war-pentagon-11640988154</id>
+    <content type="html">The U.S. military spent $14 trillion during two decades of war and relied heavily on companies to perform critical functions. Those who benefited from the outpouring of government money range from major weapons manufacturers to entrepreneurs.</content>
+    <link href="https://www.wsj.com/articles/who-won-in-afghanistan-private-contractors-troops-withdrawal-war-pentagon-11640988154" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How This Pandemic Has Left Us Less Prepared for the Next One</title>
+    <updated>2021-12-31T20:32:00Z</updated>
+    <id>tag:www.wsj.com,2021-12-31:/articles/how-this-pandemic-has-left-us-less-prepared-for-the-next-one-11640982760</id>
+    <content type="html">China put up barriers to studying the origins of Covid-19, leading to a conflict that means less scientific collaboration and more mistrust among global powers that must work together to head off the next disaster.</content>
+    <link href="https://www.wsj.com/articles/how-this-pandemic-has-left-us-less-prepared-for-the-next-one-11640982760" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Inside Antwerp, Europe&#39;s Cocaine Gateway</title>
     <updated>2021-12-31T10:30:00Z</updated>
