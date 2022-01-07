@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-07T18:26:32Z</updated>
+  <updated>2022-01-07T20:23:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Kazakh Leader Gives Security Forces Order to Shoot Without Warning</title>
+    <updated>2022-01-07T19:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-07:/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642</id>
+    <content type="html">President Kassym-Jomart Tokayev signaled a broader crackdown against opponents as his security forces moved to restore control after days of unrest.</content>
+    <link href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Taiwan Stages Military Drills to Deter Chinese Aggression</title>
     <updated>2022-01-07T17:00:00Z</updated>
     <id>tag:www.wsj.com,2022-01-07:/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834</id>
-    <content type="html">Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army ‘think twice,’ a senior Taiwanese officer says.</content>
+    <content type="html">Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army “think twice,” a senior Taiwanese officer says.</content>
     <link href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-01-07:/articles/nigeria-kidnapping-negotiators-ransom-11641569884</id>
     <content type="html">Abdullahi Tumburkai volunteers his time to help family, friends and neighbors bargain with kidnappers in what has become a crisis of abductions in Nigeria. One negotiation was especially harrowing.</content>
     <link href="https://www.wsj.com/articles/nigeria-kidnapping-negotiators-ransom-11641569884" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kazakh Leader Gives Security Forces Order to Shoot Without Warning</title>
-    <updated>2022-01-07T14:27:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-07:/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642</id>
-    <content type="html">President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase.</content>
-    <link href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
