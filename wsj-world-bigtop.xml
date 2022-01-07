@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-07T16:35:13Z</updated>
+  <updated>2022-01-07T18:26:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Taiwan Stages Military Drills to Deter Chinese Aggression</title>
+    <updated>2022-01-07T17:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-07:/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834</id>
+    <content type="html">Aerial, naval and urban-warfare exercises aim to make China’s People’s Liberation Army ‘think twice,’ a senior Taiwanese officer says.</content>
+    <link href="https://www.wsj.com/articles/taiwan-stages-military-drills-to-deter-chinese-aggression-11641574834" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>A Kidnapping Negotiator Gets His Biggest Test: Saving His Own Wife</title>
     <updated>2022-01-07T16:08:00Z</updated>
