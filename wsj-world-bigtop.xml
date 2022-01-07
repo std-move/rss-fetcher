@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-07T08:26:33Z</updated>
+  <updated>2022-01-07T10:25:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Kazakhstan Protests Have Russia Sending Troops as Dozens Killed in Unrest</title>
-    <updated>2022-01-06T22:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-06:/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504</id>
-    <content type="html">Russia sent paratroopers to help Kazakhstan’s leader stamp out protests fueled by frustration with authoritarian rule in the former Soviet republic.</content>
-    <link href="https://www.wsj.com/articles/dozens-killed-in-kazakhstan-as-authorities-crack-down-on-unrest-11641462504" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
