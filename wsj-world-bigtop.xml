@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-07T12:35:44Z</updated>
+  <updated>2022-01-07T14:20:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Global Covid-19 Cases Cross 300 Million Mark</title>
-    <updated>2022-01-07T12:29:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-07:/articles/global-covid-19-cases-cross-300-million-mark-11641558223</id>
-    <content type="html">The milestone comes as the U.S. Supreme Court prepared to hold a special session to consider the Biden administration’s vaccine rules for private employers and healthcare workers.</content>
-    <link href="https://www.wsj.com/articles/global-covid-19-cases-cross-300-million-mark-11641558223" rel="alternate"></link>
+    <title>Kazakh Leader Gives Security Forces Order to Shoot Without Warning</title>
+    <updated>2022-01-07T13:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-07:/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642</id>
+    <content type="html">President Kassym-Jomart Tokayev said his government had largely restored order as the country’s security forces scoured for protesters after days of unrest triggered by a fuel-price increase.</content>
+    <link href="https://www.wsj.com/articles/kazakhstan-leader-gives-security-forces-order-to-shoot-without-warning-11641548642" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
