@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-08T14:19:12Z</updated>
+  <updated>2022-01-08T16:33:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Kazakhstan&#39;s Former Security Chief Is Detained on Treason Charges</title>
-    <updated>2022-01-08T12:32:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-08:/articles/kazakhstans-former-security-chief-is-detained-on-treason-charges-11641637897</id>
-    <content type="html">More than 4,400 people, including foreign citizens, are being held in connection with protests venting frustration with the economy and closely controlled political system.</content>
-    <link href="https://www.wsj.com/articles/kazakhstans-former-security-chief-is-detained-on-treason-charges-11641637897" rel="alternate"></link>
+    <title>Omicron Fuels Fresh Surge, Threatening India&#39;s Hospitals Anew</title>
+    <updated>2022-01-08T13:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-08:/articles/omicron-fuels-fresh-surge-threatening-indias-hospitals-anew-11641649808</id>
+    <content type="html">With less than half of India’s population fully vaccinated and infections rising rapidly, public-health experts warn that the healthcare system is again vulnerable—months after being overwhelmed by a surge of cases.</content>
+    <link href="https://www.wsj.com/articles/omicron-fuels-fresh-surge-threatening-indias-hospitals-anew-11641649808" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-01-08:/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722</id>
     <content type="html">Since unrest started this week, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority.</content>
     <link href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Kidnapping Negotiator Gets His Biggest Test: Saving His Own Wife</title>
-    <updated>2022-01-07T16:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-07:/articles/nigeria-kidnapping-negotiators-ransom-11641569884</id>
-    <content type="html">Abdullahi Tumburkai volunteers his time to help family, friends and neighbors bargain with kidnappers in what has become a crisis of abductions in Nigeria. One negotiation was especially harrowing.</content>
-    <link href="https://www.wsj.com/articles/nigeria-kidnapping-negotiators-ransom-11641569884" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
