@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-09T10:23:52Z</updated>
+  <updated>2022-01-09T12:34:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -24,7 +24,7 @@
     <title>Mystery Surrounds Absence of Kazakhstan&#39;s Longtime Leader</title>
     <updated>2022-01-08T11:02:00Z</updated>
     <id>tag:www.wsj.com,2022-01-08:/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722</id>
-    <content type="html">Since unrest started this week, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority.</content>
+    <content type="html">Since unrest started this month, the 81-year-old former president hasn’t been seen in public and his successor has moved to undermine his authority.</content>
     <link href="https://www.wsj.com/articles/mystery-surrounds-absence-of-kazakhstans-longtime-leader-as-protesters-challenge-state-he-built-11641639722" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
