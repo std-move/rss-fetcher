@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-09T12:34:58Z</updated>
+  <updated>2022-01-09T14:19:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Omicron Fuels Fresh Surge, Threatening India&#39;s Hospitals Anew</title>
-    <updated>2022-01-08T13:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-08:/articles/omicron-fuels-fresh-surge-threatening-indias-hospitals-anew-11641649808</id>
-    <content type="html">With less than half of India’s population fully vaccinated and infections rising rapidly, public-health experts warn that the healthcare system is again vulnerable—months after being overwhelmed by a surge of cases.</content>
-    <link href="https://www.wsj.com/articles/omicron-fuels-fresh-surge-threatening-indias-hospitals-anew-11641649808" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>For Dying Towns, the Pandemic Offers Challenges---and Hope</title>
-    <updated>2022-01-08T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-08:/articles/for-dying-towns-the-pandemic-offers-challengesand-hope-11641643202</id>
-    <content type="html">For years, the mayors of many towns in Europe have struggled to prevent their communities from dying out as people have migrated to cities, schools have dwindled and businesses have died out.</content>
-    <link href="https://www.wsj.com/articles/for-dying-towns-the-pandemic-offers-challengesand-hope-11641643202" rel="alternate"></link>
+    <title>U.S. to Discuss Scaling Back Military Exercises, Missile Deployments in Russia Talks</title>
+    <updated>2022-01-08T22:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-08:/articles/u-s-to-discuss-scaling-back-military-exercises-missile-deployments-in-europe-in-mondays-russia-talks-11641678080</id>
+    <content type="html">U.S. officials say concessions would need to be reciprocal. The proposals, made in cooperation with Europe, fall short of Moscow’s public demands.</content>
+    <link href="https://www.wsj.com/articles/u-s-to-discuss-scaling-back-military-exercises-missile-deployments-in-europe-in-mondays-russia-talks-11641678080" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
