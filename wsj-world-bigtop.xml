@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-10T08:27:50Z</updated>
+  <updated>2022-01-10T10:25:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.S. Offers Russia Dialogue, Eyes Sanctions if Ukraine Is Invaded</title>
     <updated>2022-01-09T22:25:00Z</updated>
     <id>tag:www.wsj.com,2022-01-09:/articles/u-s-eyes-financial-targeted-tech-sanctions-as-talks-begin-with-russia-11641736802</id>
-    <content type="html">A week of talks will open Sunday night with dinner in Geneva. Antony Blinken sees “two paths before us.”</content>
+    <content type="html">A week of talks opened Sunday night with dinner in Geneva. Antony Blinken sees “two paths before us.”</content>
     <link href="https://www.wsj.com/articles/u-s-eyes-financial-targeted-tech-sanctions-as-talks-begin-with-russia-11641736802" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
