@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-10T12:36:42Z</updated>
+  <updated>2022-01-10T14:20:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>U.S. Offers Russia Dialogue, Eyes Sanctions if Ukraine Is Invaded</title>
-    <updated>2022-01-09T22:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-09:/articles/u-s-eyes-financial-targeted-tech-sanctions-as-talks-begin-with-russia-11641736802</id>
-    <content type="html">A week of talks opened Sunday night with dinner in Geneva. Antony Blinken sees “two paths before us.”</content>
-    <link href="https://www.wsj.com/articles/u-s-eyes-financial-targeted-tech-sanctions-as-talks-begin-with-russia-11641736802" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Taliban Detain Prominent Critic, Intensifying Crackdown on Dissent</title>
-    <updated>2022-01-09T19:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-09:/articles/taliban-detain-prominent-critic-intensifying-crackdown-on-dissent-in-afghanistan-11641744527</id>
-    <content type="html">The Taliban have arrested Faizullah Jalal, a Kabul university professor who gained national fame for berating a senior official on television, in a sign of the intensifying crackdown on critics of Afghanistan’s new regime.</content>
-    <link href="https://www.wsj.com/articles/taliban-detain-prominent-critic-intensifying-crackdown-on-dissent-in-afghanistan-11641744527" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
