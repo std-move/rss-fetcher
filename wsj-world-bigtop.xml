@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-12T14:21:38Z</updated>
+  <updated>2022-01-12T16:37:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Downing Street Lockdown Parties Leave Headache for Boris Johnson</title>
-    <updated>2022-01-11T18:04:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-11:/articles/downing-street-lockdown-parties-leave-headache-for-boris-johnson-11641924249</id>
-    <content type="html">Allegations of social-distancing violations at the prime minister’s residence are hitting U.K. Conservatives as economic woes also take a toll on the party’s poll numbers.</content>
-    <link href="https://www.wsj.com/articles/downing-street-lockdown-parties-leave-headache-for-boris-johnson-11641924249" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why the Catholic Church Is Losing Latin America</title>
-    <updated>2022-01-11T15:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-11:/articles/why-the-catholic-church-is-losing-latin-america-11641914388</id>
-    <content type="html">Conservative Pentecostals have made huge inroads in Latin America during the reign of the region’s first pope, with Catholicism projected to become a minority in Brazil as soon as this year.</content>
-    <link href="https://www.wsj.com/articles/why-the-catholic-church-is-losing-latin-america-11641914388" rel="alternate"></link>
+    <title>Kazakhstan Blames Violent Protests on Criminals; &#39;It Was Hell&#39;</title>
+    <updated>2022-01-12T12:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-12:/articles/kazakhstan-investigates-how-peaceful-demonstrations-turned-violent-11641991426</id>
+    <content type="html">The country’s protests over fuel-price rises were largely peaceful for three days before descending into violence. The government and the original protesters more or less agree on one point: Demonstrations were hijacked by violent criminals seeking to destabilize the nation and effect a coup.</content>
+    <link href="https://www.wsj.com/articles/kazakhstan-investigates-how-peaceful-demonstrations-turned-violent-11641991426" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
