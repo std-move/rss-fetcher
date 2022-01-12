@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-12T18:26:14Z</updated>
+  <updated>2022-01-12T20:23:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Omicron Puts China&#39;s &#39;Zero-Covid&#39; Strategy to Its Toughest Test</title>
+    <updated>2022-01-12T18:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-12:/articles/omicron-puts-chinas-zero-covid-strategy-to-its-toughest-test-11642003293</id>
+    <content type="html">The country’s continuing effort to remain in a bubble points to more frequent and longer-lasting restrictions with the arrival of the highly contagious variant.</content>
+    <link href="https://www.wsj.com/articles/omicron-puts-chinas-zero-covid-strategy-to-its-toughest-test-11642003293" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kazakhstan Blames Violent Protests on Criminals; &#39;It Was Hell&#39;</title>
     <updated>2022-01-12T12:43:00Z</updated>
