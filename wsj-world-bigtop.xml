@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-12T06:27:53Z</updated>
+  <updated>2022-01-12T08:27:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>Why the Catholic Church Is Losing Latin America</title>
     <updated>2022-01-11T15:19:00Z</updated>
     <id>tag:www.wsj.com,2022-01-11:/articles/why-the-catholic-church-is-losing-latin-america-11641914388</id>
-    <content type="html">Conservative Pentecostals make huge inroads in Latin America during the reign of the region’s first pope. The religion is projected to become a minority in Brazil, which has more Catholics than any other country, as soon as this year.</content>
+    <content type="html">Conservative Pentecostals have made huge inroads in Latin America during the reign of the region’s first pope, with Catholicism projected to become a minority in Brazil as soon as this year.</content>
     <link href="https://www.wsj.com/articles/why-the-catholic-church-is-losing-latin-america-11641914388" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
