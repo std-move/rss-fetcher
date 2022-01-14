@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-14T14:20:16Z</updated>
+  <updated>2022-01-14T16:32:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Moves More Weaponry Toward Ukraine, Keeps the West Guessing</title>
+    <updated>2022-01-14T15:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-14:/articles/russia-moves-more-weaponry-toward-ukraine-keeps-the-west-guessing-11642161605</id>
+    <content type="html">As diplomats held talks over the Ukraine crisis this week, the Kremlin began shifting tanks, infantry fighting vehicles, rocket launchers and other military equipment westward from bases in the Russian Far East.</content>
+    <link href="https://www.wsj.com/articles/russia-moves-more-weaponry-toward-ukraine-keeps-the-west-guessing-11642161605" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How Covid-19 Has Widened the Gap Between Rich and Poor Countries</title>
+    <updated>2022-01-14T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-14:/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207</id>
+    <content type="html">Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic.</content>
+    <link href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
