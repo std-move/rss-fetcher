@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-16T16:34:02Z</updated>
+  <updated>2022-01-16T18:25:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Covid-19 Shots Risk Displacing Immunizations Against Childhood Killers in Developing Countries</title>
+    <updated>2022-01-16T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-16:/articles/covid-19-shots-risk-displacing-immunizations-against-childhood-killers-in-developing-countries-11642338001</id>
+    <content type="html">As underfunded healthcare systems shift to immunizing adults against Covid, 2022 risks seeing further setbacks in the fight against some of the leading killers of young children in developing countries.</content>
+    <link href="https://www.wsj.com/articles/covid-19-shots-risk-displacing-immunizations-against-childhood-killers-in-developing-countries-11642338001" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Businesses Sour on Saudi Arabia in Blow to Crown Prince</title>
     <updated>2022-01-15T10:30:00Z</updated>
