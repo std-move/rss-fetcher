@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-16T12:35:07Z</updated>
+  <updated>2022-01-16T14:19:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How Covid-19 Has Widened the Gap Between Rich and Poor Countries</title>
-    <updated>2022-01-14T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-14:/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207</id>
-    <content type="html">Progress in bridging the economic divide between developed and developing nations has been set back by the Covid-19 pandemic.</content>
-    <link href="https://www.wsj.com/articles/how-covid-19-has-widened-the-gap-between-rich-and-poor-countries-11642156207" rel="alternate"></link>
+    <title>U.S. Businesses Sour on Saudi Arabia in Blow to Crown Prince</title>
+    <updated>2022-01-15T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-15:/articles/u-s-businesses-sour-on-saudi-arabia-in-blow-to-crown-princes-growth-plans-11642242604</id>
+    <content type="html">Surprise tax hits, unpaid bills and stolen intellectual property are undoing the government’s effort to shift the kingdom’s economy away from oil.</content>
+    <link href="https://www.wsj.com/articles/u-s-businesses-sour-on-saudi-arabia-in-blow-to-crown-princes-growth-plans-11642242604" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
