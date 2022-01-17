@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-17T01:15:53Z</updated>
+  <updated>2022-01-17T02:42:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-01-16:/articles/covid-19-shots-risk-displacing-immunizations-against-childhood-killers-in-developing-countries-11642338001</id>
     <content type="html">As underfunded healthcare systems shift to immunizing adults against Covid, 2022 risks seeing further setbacks in the fight against some of the leading killers of young children in developing countries.</content>
     <link href="https://www.wsj.com/articles/covid-19-shots-risk-displacing-immunizations-against-childhood-killers-in-developing-countries-11642338001" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Businesses Sour on Saudi Arabia in Blow to Crown Prince</title>
-    <updated>2022-01-15T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-15:/articles/u-s-businesses-sour-on-saudi-arabia-in-blow-to-crown-princes-growth-plans-11642242604</id>
-    <content type="html">Surprise tax hits, unpaid bills and stolen intellectual property are undoing the government’s effort to shift the kingdom’s economy away from oil.</content>
-    <link href="https://www.wsj.com/articles/u-s-businesses-sour-on-saudi-arabia-in-blow-to-crown-princes-growth-plans-11642242604" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
