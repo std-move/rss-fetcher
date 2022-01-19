@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-19T14:18:08Z</updated>
+  <updated>2022-01-19T16:31:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Violent Crime, Rising Costs Put South Africa&#39;s Mining Industry in a Deep Hole</title>
-    <updated>2022-01-18T14:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-18:/articles/violent-crime-rising-costs-put-south-africas-mining-industry-in-a-deep-hole-11642517454</id>
-    <content type="html">Some longtime enterprises in the country’s storied $24 billion sector have headed for the exits, threatening an already struggling economy.</content>
-    <link href="https://www.wsj.com/articles/violent-crime-rising-costs-put-south-africas-mining-industry-in-a-deep-hole-11642517454" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
