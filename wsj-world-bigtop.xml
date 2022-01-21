@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-21T14:18:14Z</updated>
+  <updated>2022-01-21T16:29:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin Loves to Roll the Dice. Ukraine Is His Biggest Gamble Yet.</title>
-    <updated>2022-01-20T15:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-20:/articles/putin-russia-ukraine-soviet-11642693621</id>
-    <content type="html">The former spy chief’s tolerance for risk is tested as he threatens a ground war unseen in Europe since the 1940s.</content>
-    <link href="https://www.wsj.com/articles/putin-russia-ukraine-soviet-11642693621" rel="alternate"></link>
+    <title>&#39;Farms Are Failing&#39; as Fertilizer Prices Drive Up Cost of Food</title>
+    <updated>2022-01-21T13:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-21:/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182</id>
+    <content type="html">Farmers across the developing world say they are curtailing production, which means global hunger could worsen.</content>
+    <link href="https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
