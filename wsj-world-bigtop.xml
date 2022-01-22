@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-22T14:17:21Z</updated>
+  <updated>2022-01-22T16:30:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-01-22:/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402</id>
     <content type="html">A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll.</content>
     <link href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at 95</title>
-    <updated>2022-01-22T01:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-22:/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779</id>
-    <content type="html">He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East.</content>
-    <link href="https://www.wsj.com/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
