@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-22T04:25:57Z</updated>
+  <updated>2022-01-22T06:23:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at Age 95</title>
+    <title>Thich Nhat Hanh, Influential Zen Buddhist Monk, Dies at 95</title>
     <updated>2022-01-22T01:54:00Z</updated>
     <id>tag:www.wsj.com,2022-01-22:/articles/thich-nhat-hanh-influential-zen-buddhist-monk-dies-at-age-95-11642812779</id>
     <content type="html">He helped pioneer the concept of mindfulness in the West and socially engaged Buddhism in the East.</content>
