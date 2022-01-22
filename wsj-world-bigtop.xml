@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-22T18:23:03Z</updated>
+  <updated>2022-01-22T20:19:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In Ukraine Talks, Who Is Playing for Time?</title>
+    <updated>2022-01-22T19:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-22:/articles/in-ukraine-talks-who-is-playing-for-time-11642874047</id>
+    <content type="html">With talks between the U.S. and Russia over Ukraine continuing into next week, a look under the lid to see who gains more leverage as the diplomatic clock ticks.</content>
+    <link href="https://www.wsj.com/articles/in-ukraine-talks-who-is-playing-for-time-11642874047" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>On Scotland&#39;s Haunting Coast, a Village Dreams of Space</title>
     <updated>2022-01-22T10:30:00Z</updated>
