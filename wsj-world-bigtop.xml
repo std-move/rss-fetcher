@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-22T12:31:08Z</updated>
+  <updated>2022-01-22T14:17:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>On Scotland&#39;s Haunting Coast, a Village Dreams of Space</title>
     <updated>2022-01-22T10:30:00Z</updated>
     <id>tag:www.wsj.com,2022-01-22:/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402</id>
-    <content type="html">A new generation of microsatellites has allowed some unlikely places to plan their own space industries, but opponents worry about the ecological toll.</content>
+    <content type="html">A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll.</content>
     <link href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
