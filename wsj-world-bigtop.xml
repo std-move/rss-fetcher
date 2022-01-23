@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-23T14:17:41Z</updated>
+  <updated>2022-01-23T16:30:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-01-23:/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203</id>
     <content type="html">Berlin is vulnerable if the West sanctions Russia over Ukraine and Moscow responds by cutting off natural-gas exports.</content>
     <link href="https://www.wsj.com/articles/germanys-reliance-on-russian-gas-limits-europes-options-in-ukraine-crisis-11642939203" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>On Scotland&#39;s Haunting Coast, a Village Dreams of Space</title>
-    <updated>2022-01-22T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-22:/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402</id>
-    <content type="html">A new generation of microsatellites is allowing some unlikely players to follow Elon Musk and Jeff Bezos into the space business, but opponents worry about the ecological toll.</content>
-    <link href="https://www.wsj.com/articles/on-scotlands-haunting-coast-a-village-dreams-of-space-11642847402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
