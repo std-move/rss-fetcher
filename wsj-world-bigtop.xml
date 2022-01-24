@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-24T16:32:02Z</updated>
+  <updated>2022-01-24T18:22:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>A Love Story on Netflix Aims to Show There Is More to Afghanistan Than War</title>
-    <updated>2022-01-24T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-24:/articles/a-love-story-on-netflix-aims-to-show-there-is-more-to-afghanistan-than-war-11643029201</id>
-    <content type="html">‘Three Songs for Benazir’ tries to avoid politics even as the Taliban takeover of Afghanistan looms over the film.</content>
-    <link href="https://www.wsj.com/articles/a-love-story-on-netflix-aims-to-show-there-is-more-to-afghanistan-than-war-11643029201" rel="alternate"></link>
+    <title>On the Brink of War With Russia, Ukrainians Are Resigned and Prepared</title>
+    <updated>2022-01-24T16:42:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-24:/articles/ukraine-russia-war-prepared-11643042213</id>
+    <content type="html">The nation has struggled to maintain a sense of stability since it became an independent country in 1991, and has been at war since 2014. But with 100,000 Russian troops gathered nearby, threatening Europe’s biggest land war since the 1940s, people there say something feels different this time.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-war-prepared-11643042213" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
