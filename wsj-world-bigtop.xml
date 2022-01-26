@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-26T12:31:44Z</updated>
+  <updated>2022-01-26T14:18:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Tonga Needs Rain and More Brooms After Volcano Eruption Spewed Ash</title>
+    <updated>2022-01-26T12:32:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-26:/articles/after-volcano-eruption-spewed-ash-tonga-needs-rain-and-more-brooms-11643200347</id>
+    <content type="html">On Tonga’s largest island alone, there may be more than 17 million cubic feet of ash to clean up after the eruption. Authorities worry the thick dust could poison water supplies, damage crops and affect human health.</content>
+    <link href="https://www.wsj.com/articles/after-volcano-eruption-spewed-ash-tonga-needs-rain-and-more-brooms-11643200347" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
