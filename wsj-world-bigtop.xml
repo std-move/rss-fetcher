@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-29T10:20:58Z</updated>
+  <updated>2022-01-29T12:30:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s &#39;Weekend Army&#39; Trains as Last Defense Against Russia</title>
+    <updated>2022-01-29T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-29:/articles/ukraines-weekend-army-trains-as-last-defense-against-russia-11643452205</id>
+    <content type="html">Ukraine is building up local forces to take on Russia’s military if it breaches front-line defenses, aiming to establish a brigade of reservists in each of the country’s regions.</content>
+    <link href="https://www.wsj.com/articles/ukraines-weekend-army-trains-as-last-defense-against-russia-11643452205" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Growing Sense of National Identity Puts It in Putin&#39;s Crosshairs</title>
     <updated>2022-01-28T15:53:00Z</updated>
     <id>tag:www.wsj.com,2022-01-28:/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476</id>
     <content type="html">The Russian leader has long said the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence. Now Moscow is threatening a new invasion.</content>
     <link href="https://www.wsj.com/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Hunger Spreads in Afghanistan, Hospitals Fill With Premature, Dying Babies</title>
-    <updated>2022-01-28T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-28:/articles/as-hunger-spreads-in-afghanistan-hospitals-fill-with-premature-dying-babies-11643365807</id>
-    <content type="html">Half of the country’s population faces acute hunger, according to the United Nations, with one million children in danger of dying from malnutrition, following an economic collapse under Taliban rule and Western sanctions.</content>
-    <link href="https://www.wsj.com/articles/as-hunger-spreads-in-afghanistan-hospitals-fill-with-premature-dying-babies-11643365807" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
