@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-29T14:17:34Z</updated>
+  <updated>2022-01-29T16:29:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s &#39;Weekend Army&#39; Trains as Last Defense Against Russia</title>
-    <updated>2022-01-29T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-29:/articles/ukraines-weekend-army-trains-as-last-defense-against-russia-11643452205</id>
-    <content type="html">Ukraine is building up local forces to take on Russia’s military if it breaches front-line defenses, aiming to establish a brigade of reservists in each of the country’s regions.</content>
-    <link href="https://www.wsj.com/articles/ukraines-weekend-army-trains-as-last-defense-against-russia-11643452205" rel="alternate"></link>
+    <title>Deadly Mining Disaster Still Tests Vale Three Years Later</title>
+    <updated>2022-01-29T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-01-29:/articles/deadly-mining-disaster-still-tests-vale-three-years-later-11643464803</id>
+    <content type="html">The mining company is considering its metals future as costs from the Brumadinho disaster continue to rise—along with tensions with locals, regulators and investors.</content>
+    <link href="https://www.wsj.com/articles/deadly-mining-disaster-still-tests-vale-three-years-later-11643464803" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
