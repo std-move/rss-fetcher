@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-29T08:23:14Z</updated>
+  <updated>2022-01-29T10:20:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Growing Sense of National Identity Puts It in Putin&#39;s Crosshairs</title>
     <updated>2022-01-28T15:53:00Z</updated>
     <id>tag:www.wsj.com,2022-01-28:/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476</id>
-    <content type="html">Russian leader has long argued that the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence from their former overlords. Now Moscow is threatening a new invasion.</content>
+    <content type="html">The Russian leader has long said the two countries are inseparable, but Ukrainians have other ideas, increasingly speaking their own language and celebrating their independence. Now Moscow is threatening a new invasion.</content>
     <link href="https://www.wsj.com/articles/russia-putin-targets-ukraines-growing-sense-of-national-identity-11643382476" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
