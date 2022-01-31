@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-01-31T10:22:04Z</updated>
+  <updated>2022-01-31T12:32:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-01-30:/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434</id>
     <content type="html">The Winter Games in China bring together a tense mix of issues around politics, free speech, security and strict pandemic protocols. At the center are athletes navigating it all.</content>
     <link href="https://www.wsj.com/articles/beijing-olympics-winter-games-athletes-covid-china-politics-11643562434" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Eastern Ukraine&#39;s Largest City, Pro-Russia Sympathies Wither</title>
-    <updated>2022-01-30T10:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-01-30:/articles/in-eastern-ukraines-largest-city-pro-russia-sympathies-wither-as-war-looms-11643539633</id>
-    <content type="html">While Kharkiv may have been a relatively easy target for Russia in the past, sentiment in the industrial city of 1.4 million has since shifted dramatically against the Kremlin.</content>
-    <link href="https://www.wsj.com/articles/in-eastern-ukraines-largest-city-pro-russia-sympathies-wither-as-war-looms-11643539633" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
