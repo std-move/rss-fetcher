@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-01T16:32:31Z</updated>
+  <updated>2022-02-01T18:24:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Myanmar&#39;s Junta Leader Said Eat More Meat, but People Are Struggling to Live</title>
-    <updated>2022-02-01T12:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-01:/articles/myanmars-junta-leader-said-eat-more-meat-but-people-are-struggling-to-live-11643719407</id>
-    <content type="html">A year after a military coup took power, Myanmar’s economic crisis is getting worse as incomes plummet, its currency tanks and fuel prices rise.</content>
-    <link href="https://www.wsj.com/articles/myanmars-junta-leader-said-eat-more-meat-but-people-are-struggling-to-live-11643719407" rel="alternate"></link>
+    <title>Russia Confronts Ukraine With Upgraded Military Rebuilt After Soviet Collapse</title>
+    <updated>2022-02-01T16:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-01:/articles/russia-confronts-ukraine-with-upgraded-military-rebuilt-after-soviet-collapse-11643733217</id>
+    <content type="html">Vladimir Putin has largely transformed the country’s forces left depleted and demoralized after the breakup of the U.S.S.R. as part of his goal to reassert Russia on the world stage.</content>
+    <link href="https://www.wsj.com/articles/russia-confronts-ukraine-with-upgraded-military-rebuilt-after-soviet-collapse-11643733217" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
