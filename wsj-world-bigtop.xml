@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-02T14:18:09Z</updated>
+  <updated>2022-02-02T16:30:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Confronts Ukraine With Upgraded Military Rebuilt After Soviet Collapse</title>
-    <updated>2022-02-01T16:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-01:/articles/russia-confronts-ukraine-with-upgraded-military-rebuilt-after-soviet-collapse-11643733217</id>
-    <content type="html">Vladimir Putin has largely transformed the country’s forces left depleted and demoralized after the breakup of the U.S.S.R. as part of his goal to reassert Russia on the world stage.</content>
-    <link href="https://www.wsj.com/articles/russia-confronts-ukraine-with-upgraded-military-rebuilt-after-soviet-collapse-11643733217" rel="alternate"></link>
+    <title>China Fortifies Its Borders With a &#39;Southern Great Wall,&#39; Citing Covid-19</title>
+    <updated>2022-02-02T15:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-02:/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716</id>
+    <content type="html">Barbed wire, lights and cameras spring up, changing life for locals and making trade cumbersome. ‘Safeguard the sacred land.’</content>
+    <link href="https://www.wsj.com/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gulf Between Russia and West Laid Bare in Response to Moscow&#39;s Ukraine Demands</title>
+    <updated>2022-02-02T14:37:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-02:/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636</id>
+    <content type="html">Details of the contents of two bluntly-worded responses delivered to Moscow last week reveal that the U.S. and NATO flatly rejected the Kremlin’s demands about the alliance&#39;s expansion and instead laid the blame for the tension squarely on Russian President Vladimir Putin.</content>
+    <link href="https://www.wsj.com/articles/gulf-between-russia-and-west-laid-bare-in-response-to-moscows-ukraine-demands-11643812636" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
