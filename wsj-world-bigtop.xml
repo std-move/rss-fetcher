@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-03T10:21:42Z</updated>
+  <updated>2022-02-03T12:33:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China Fortifies Its Borders With a &#39;Southern Great Wall,&#39; Citing Covid-19</title>
-    <updated>2022-02-02T15:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-02:/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716</id>
-    <content type="html">Barbed wire, lights and cameras spring up, changing life for locals and making trade cumbersome. “Safeguard the sacred land.”</content>
-    <link href="https://www.wsj.com/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716" rel="alternate"></link>
+    <title>To Achieve &#39;Common Prosperity,&#39; Xi Jinping Seeks to Scale China&#39;s &#39;Three Big Mountains&#39;</title>
+    <updated>2022-02-03T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-03:/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206</id>
+    <content type="html">The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term.</content>
+    <link href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
