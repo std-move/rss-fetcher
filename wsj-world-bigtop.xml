@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-03T20:20:56Z</updated>
+  <updated>2022-02-03T22:19:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>ISIS Leader Killed During U.S. Raid in Syria</title>
-    <updated>2022-02-03T20:04:00Z</updated>
+    <title>ISIS Leader Killed Himself, Family During U.S. Raid</title>
+    <updated>2022-02-03T22:11:00Z</updated>
     <id>tag:www.wsj.com,2022-02-03:/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402</id>
-    <content type="html">As troops approached, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said.</content>
+    <content type="html">As troops approached in Syria, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said.</content>
     <link href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
