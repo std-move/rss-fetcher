@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-03T16:31:54Z</updated>
+  <updated>2022-02-03T18:24:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>ISIS Leader Killed During U.S. Raid in Syria</title>
-    <updated>2022-02-03T15:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-03:/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402</id>
-    <content type="html">As troops approached, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated explosives that killed him and some family members, President Biden said.</content>
-    <link href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Europe&#39;s Insatiable Thirst for Russia&#39;s Gas</title>
-    <updated>2022-02-03T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-03:/articles/europes-insatiable-thirst-for-russias-gas-11643884204</id>
-    <content type="html">Despite the Continent’s efforts to go green and diversify gas imports, legislation and infrastructure hinder its attempts for energy independence.</content>
-    <link href="https://www.wsj.com/articles/europes-insatiable-thirst-for-russias-gas-11643884204" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>To Achieve &#39;Common Prosperity,&#39; Xi Jinping Seeks to Scale China&#39;s &#39;Three Big Mountains&#39;</title>
     <updated>2022-02-03T10:30:00Z</updated>
