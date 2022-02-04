@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-04T14:16:06Z</updated>
+  <updated>2022-02-04T16:26:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>ISIS Was Staging Comeback When U.S. Raid Led to Leader&#39;s Death</title>
-    <updated>2022-02-03T22:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-03:/articles/isis-was-staging-comeback-when-u-s-killed-leader-qurayshi-11643920809</id>
-    <content type="html">The terrorist organization has regrouped in the three years since it lost its territory in Iraq and Syria, but its comeback has suffered a blow with the killing of Abu Ibrahim al-Hashimi al-Qurayshi.</content>
-    <link href="https://www.wsj.com/articles/isis-was-staging-comeback-when-u-s-killed-leader-qurayshi-11643920809" rel="alternate"></link>
+    <title>Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</title>
+    <updated>2022-02-04T16:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-04:/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803</id>
+    <content type="html">A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core.</content>
+    <link href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dismal Russian Record in Occupied Eastern Ukraine Serves as Warning</title>
+    <updated>2022-02-04T15:24:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-04:/articles/dismal-russian-record-in-occupied-eastern-ukraine-serves-as-warning-11643988253</id>
+    <content type="html">The areas, once engines of the Ukrainian economy, are now impoverished, depopulated enclaves that increasingly rely on Russian subsidies to survive. It’s what many fear could happen to the rest of the country if Vladimir Putin carries out a broader invasion.</content>
+    <link href="https://www.wsj.com/articles/dismal-russian-record-in-occupied-eastern-ukraine-serves-as-warning-11643988253" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
