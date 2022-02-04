@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-03T22:19:45Z</updated>
+  <updated>2022-02-04T01:08:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>ISIS Leader Killed Himself, Family During U.S. Raid</title>
-    <updated>2022-02-03T22:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-03:/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402</id>
+    <updated>2022-02-04T00:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-04:/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402</id>
     <content type="html">As troops approached in Syria, Islamic State’s Abu Ibrahim al-Hashimi al-Qurayshi detonated an explosive that killed him and four members of his family, President Biden said.</content>
     <link href="https://www.wsj.com/articles/u-s-special-forces-raid-syrian-site-in-search-of-terrorist-leader-11643869402" rel="alternate"></link>
     <summary type="html"></summary>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-02-03:/articles/chinas-unspoken-winter-olympics-theme-were-here-get-used-to-it-11643911296</id>
     <content type="html">Beijing in the 2008 Summer Games gave an open-arm welcome to the world—and the 2022 Games will demonstrate its power and prestige.</content>
     <link href="https://www.wsj.com/articles/chinas-unspoken-winter-olympics-theme-were-here-get-used-to-it-11643911296" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>To Achieve &#39;Common Prosperity,&#39; Xi Jinping Seeks to Scale China&#39;s &#39;Three Big Mountains&#39;</title>
-    <updated>2022-02-03T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-03:/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206</id>
-    <content type="html">The Chinese leader’s campaign is partly aimed at addressing rising costs of education, healthcare and housing—and if successful could strengthen his expected bid to seek a third term.</content>
-    <link href="https://www.wsj.com/articles/to-achieve-common-prosperity-xi-jinping-seeks-to-scale-chinas-three-big-mountains-11643884206" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
