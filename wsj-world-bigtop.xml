@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-05T14:15:27Z</updated>
+  <updated>2022-02-05T16:23:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ottawa Fears Vaccine Protest Has Morphed Into an Occupation</title>
-    <updated>2022-02-05T01:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-05:/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803</id>
-    <content type="html">A weeklong demonstration against Covid-19 vaccine mandates in the Canadian capital has forced businesses to close, frayed residents’ nerves and strangled swaths of the city’s core.</content>
-    <link href="https://www.wsj.com/articles/ottawa-fears-vaccine-protest-has-morphed-into-an-occupation-11643986803" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Dismal Russian Record in Occupied Eastern Ukraine Serves as Warning</title>
     <updated>2022-02-04T15:24:00Z</updated>
