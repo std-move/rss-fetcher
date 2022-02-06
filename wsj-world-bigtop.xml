@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-06T16:29:10Z</updated>
+  <updated>2022-02-06T18:22:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-02-06:/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852</id>
     <content type="html">The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion.</content>
     <link href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The World Is Likely Sicker Than It Has Been in 100 Years</title>
-    <updated>2022-02-05T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-05:/articles/the-world-is-likely-sicker-than-it-has-been-in-100-years-11644057003</id>
-    <content type="html">The Omicron coronavirus variant appears to have made more people ill at the same time than in any period since the flu pandemic of 1918-1919, experts say.</content>
-    <link href="https://www.wsj.com/articles/the-world-is-likely-sicker-than-it-has-been-in-100-years-11644057003" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
