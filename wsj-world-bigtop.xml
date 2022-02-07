@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-07T14:18:39Z</updated>
+  <updated>2022-02-07T16:31:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv</title>
-    <updated>2022-02-06T09:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-06:/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852</id>
-    <content type="html">The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion.</content>
-    <link href="https://www.wsj.com/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852" rel="alternate"></link>
+    <title>Chinese Heritage Can Be a Mixed Blessing to American Olympians in Beijing</title>
+    <updated>2022-02-07T14:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-07:/articles/chinese-heritage-can-be-a-burden-as-much-as-a-boon-for-american-olympians-in-beijing-11644243075</id>
+    <content type="html">Top Chinese-American athletes of the current generation face a shift in local support as they compete in the land of their ancestors.</content>
+    <link href="https://www.wsj.com/articles/chinese-heritage-can-be-a-burden-as-much-as-a-boon-for-american-olympians-in-beijing-11644243075" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
