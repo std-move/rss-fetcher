@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-07T08:24:36Z</updated>
+  <updated>2022-02-07T10:21:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv&#39;s Ability to Resist Russia</title>
+    <title>U.S.-Led Air Bridge of Weapons to Ukraine Seeks to Shore Up Kyiv</title>
     <updated>2022-02-06T09:47:00Z</updated>
     <id>tag:www.wsj.com,2022-02-06:/articles/u-s-led-air-bridge-of-weapons-to-ukraine-seeks-to-shore-up-kyivs-ability-to-resist-russia-11644140852</id>
     <content type="html">The weapons and ammunition that Kyiv has requested are being flown in to mitigate a decided Russian military edge and deter a possible invasion.</content>
