@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-08T16:31:07Z</updated>
+  <updated>2022-02-08T18:22:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,11 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Putin Says the West Is Goading Russia Into War---and Many Russians Agree</title>
-    <updated>2022-02-08T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-08:/articles/putin-says-the-west-is-goading-russia-into-warwithukraineand-many-russians-agree-11644316200</id>
-    <content type="html">State propaganda is driving home Russian President Vladimir Putin’s explanation of why he has massed troops near Ukraine.</content>
-    <link href="https://www.wsj.com/articles/putin-says-the-west-is-goading-russia-into-warwithukraineand-many-russians-agree-11644316200" rel="alternate"></link>
+    <title>Ukraine&#39;s Zelensky Wants to Fend Off Russia---And America, Too</title>
+    <updated>2022-02-08T15:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-08:/articles/ukraine-russia-invasion-zelensky-biden-11644334948</id>
+    <content type="html">The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
