@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-08T10:22:16Z</updated>
+  <updated>2022-02-08T12:31:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Islamic State Militants Pursued After Syria Prison Break</title>
-    <updated>2022-02-07T18:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-07:/articles/islamic-state-militants-pursued-after-syria-prison-break-11644257825</id>
-    <content type="html">Days after the death of Islamic State’s leader, U.S.-backed Kurdish-led militias are hunting down fugitives involved in a northeast Syria prison break that the terrorist group launched last month to replenish its dwindling ranks.</content>
-    <link href="https://www.wsj.com/articles/islamic-state-militants-pursued-after-syria-prison-break-11644257825" rel="alternate"></link>
+    <title>Putin Says the West Is Goading Russia Into War---and Many Russians Agree</title>
+    <updated>2022-02-08T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-08:/articles/putin-says-the-west-is-goading-russia-into-warwithukraineand-many-russians-agree-11644316200</id>
+    <content type="html">State propaganda is driving home Russian President Vladimir Putin’s explanation of why he has massed troops near Ukraine.</content>
+    <link href="https://www.wsj.com/articles/putin-says-the-west-is-goading-russia-into-warwithukraineand-many-russians-agree-11644316200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
