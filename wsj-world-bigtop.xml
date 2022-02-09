@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-09T12:32:48Z</updated>
+  <updated>2022-02-09T14:17:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>From Kabul to South Korea, Afghan Families Make a Hard Transition</title>
+    <updated>2022-02-09T13:45:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-09:/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357</id>
+    <content type="html">Nearly 400 Afghans try to acclimate to a very foreign and largely monoethnic South Korea that accepts few refugees after the Taliban uprooted their lives.</content>
+    <link href="https://www.wsj.com/articles/from-kabul-to-south-korea-afghan-families-make-a-hard-transitioni-miss-everything-11644414357" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Fights Information War With Russia to Deter Ukraine Invasion</title>
     <updated>2022-02-09T10:30:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-02-08:/articles/pro-china-twitter-accounts-flood-hashtag-critical-of-beijing-winter-olympics-11644343870</id>
     <content type="html">Researchers say many of the accounts are largely automated and are meant to drown out calls by advocacy groups to boycott the Beijing Games.</content>
     <link href="https://www.wsj.com/articles/pro-china-twitter-accounts-flood-hashtag-critical-of-beijing-winter-olympics-11644343870" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Zelensky Wants to Fend Off Russia---and America, Too</title>
-    <updated>2022-02-08T15:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-08:/articles/ukraine-russia-invasion-zelensky-biden-11644334948</id>
-    <content type="html">The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington.</content>
-    <link href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
