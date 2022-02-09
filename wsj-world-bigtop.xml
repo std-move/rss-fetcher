@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-09T08:24:33Z</updated>
+  <updated>2022-02-09T10:22:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Calls to Boycott Hyundai Rise in India After Kashmir Comment</title>
-    <updated>2022-02-08T16:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-08:/articles/calls-to-boycott-hyundai-rise-in-india-after-social-media-post-about-pakistan-11644331762</id>
-    <content type="html">New Delhi summoned South Korea’s ambassador after a social-media post on Kashmir by an independent Hyundai distributor triggered an online backlash.</content>
-    <link href="https://www.wsj.com/articles/calls-to-boycott-hyundai-rise-in-india-after-social-media-post-about-pakistan-11644331762" rel="alternate"></link>
+    <title>Pro-China Twitter Accounts Flood Hashtag Critical of Beijing Winter Olympics</title>
+    <updated>2022-02-08T18:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-08:/articles/pro-china-twitter-accounts-flood-hashtag-critical-of-beijing-winter-olympics-11644343870</id>
+    <content type="html">Researchers say many of the accounts are largely automated and are meant to drown out calls by advocacy groups to boycott the Beijing Games.</content>
+    <link href="https://www.wsj.com/articles/pro-china-twitter-accounts-flood-hashtag-critical-of-beijing-winter-olympics-11644343870" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-02-08:/articles/ukraine-russia-invasion-zelensky-biden-11644334948</id>
     <content type="html">The comic-turned-president is trying to navigate the ambitions of both Moscow and Washington.</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-invasion-zelensky-biden-11644334948" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Putin Says the West Is Goading Russia Into War---and Many Russians Agree</title>
+    <updated>2022-02-08T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-08:/articles/putin-says-the-west-is-goading-russia-into-warwithukraineand-many-russians-agree-11644316200</id>
+    <content type="html">State propaganda is driving home Russian President Vladimir Putin’s explanation of why he has massed troops near Ukraine.</content>
+    <link href="https://www.wsj.com/articles/putin-says-the-west-is-goading-russia-into-warwithukraineand-many-russians-agree-11644316200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
