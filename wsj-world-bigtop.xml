@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-10T18:23:14Z</updated>
+  <updated>2022-02-10T20:20:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Narendra Modi&#39;s Party Faces Test in India&#39;s Biggest Battleground</title>
-    <updated>2022-02-10T12:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-10:/articles/narendra-modis-party-faces-test-in-uttar-pradesh-indias-california-and-texas-rolled-into-one-11644495582</id>
-    <content type="html">When it comes to Indian politics, there is no greater prize than Uttar Pradesh. With more than 200 million people, it is the most populous state and it has been a linchpin of Prime Minister Narendra Modi’s success.</content>
-    <link href="https://www.wsj.com/articles/narendra-modis-party-faces-test-in-uttar-pradesh-indias-california-and-texas-rolled-into-one-11644495582" rel="alternate"></link>
+    <title>Inside Boris Johnson&#39;s &#39;Partygate&#39; Scandal: Wine in the Garden and Lockdown Jokes</title>
+    <updated>2022-02-10T15:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-10:/articles/boris-johnson-partygate-scandal-uk-politics-11644508593</id>
+    <content type="html">Anger over parties held at Downing Street during Covid restrictions has the U.K.’s leader fighting to stay in power. It could prove a rapid fall from grace for the man who upended British politics.</content>
+    <link href="https://www.wsj.com/articles/boris-johnson-partygate-scandal-uk-politics-11644508593" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
