@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-11T14:18:38Z</updated>
+  <updated>2022-02-11T16:26:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>French Discoverer of HIV, Luc Montagnier, Dies at 89</title>
-    <updated>2022-02-10T19:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-10:/articles/french-discoverer-of-hiv-luc-montagnier-has-died-at-89-11644522238</id>
-    <content type="html">French researcher and Nobel laureate Luc Montagnier, who led the team that identified HIV, the virus that causes AIDS, and who more recently spread misinformation about the coronavirus, has died.</content>
-    <link href="https://www.wsj.com/articles/french-discoverer-of-hiv-luc-montagnier-has-died-at-89-11644522238" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Inside Boris Johnson&#39;s &#39;Partygate&#39; Scandal: Wine in the Garden and Lockdown Jokes</title>
     <updated>2022-02-10T15:59:00Z</updated>
