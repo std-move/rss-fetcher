@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-13T16:29:06Z</updated>
+  <updated>2022-02-13T18:22:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russians Have Already Started Hybrid War, Ukraine Says</title>
-    <updated>2022-02-13T10:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-13:/articles/russians-have-already-started-hybrid-war-with-bomb-threats-cyberattacks-ukraine-says-11644748413</id>
-    <content type="html">For Russia to create havoc in Ukraine, it may not need to launch an all-out invasion. Ukrainian officials say that Moscow is stepping up a destabilization campaign involving cyberattacks, economic disruption and, most recently, hundreds of false bomb threats.</content>
-    <link href="https://www.wsj.com/articles/russians-have-already-started-hybrid-war-with-bomb-threats-cyberattacks-ukraine-says-11644748413" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Biden Warns Putin of &#39;Swift and Severe Costs&#39; of Invading Ukraine</title>
-    <updated>2022-02-12T22:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-12:/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540</id>
-    <content type="html">The phone discussion between President Biden and Russian President Vladimir Putin yielded “no fundamental change,” a U.S. official said. Washington ordered most embassy staff out of the country and Moscow also began withdrawing its diplomatic presence there.</content>
-    <link href="https://www.wsj.com/articles/biden-to-talk-with-putin-as-u-s-warns-of-russian-invasion-of-ukraine-11644659540" rel="alternate"></link>
+    <title>At Russia&#39;s Border with Ukraine, Pro-Kremlin Separatists Find Support</title>
+    <updated>2022-02-13T16:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-13:/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029</id>
+    <content type="html">In the Russian city of Kursk, some residents are ready to take up arms in case of war with Ukraine, eager to defend Russian speakers across the border against what the Kremlin says is the threat of persecution.</content>
+    <link href="https://www.wsj.com/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
