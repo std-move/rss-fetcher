@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-14T12:32:52Z</updated>
+  <updated>2022-02-14T14:18:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>At Russia&#39;s Border with Ukraine, Pro-Kremlin Separatists Find Support</title>
-    <updated>2022-02-13T16:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-13:/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029</id>
-    <content type="html">In the Russian city of Kursk, some residents are ready to take up arms in case of war with Ukraine, eager to defend Russian speakers across the border against what the Kremlin says is the threat of persecution.</content>
-    <link href="https://www.wsj.com/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029" rel="alternate"></link>
+    <title>Russian Buildup Near Ukraine Features Potent Weapons Systems, Well-Trained Troops</title>
+    <updated>2022-02-13T22:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-13:/articles/russian-buildup-near-ukraine-features-potent-weapons-systems-well-trained-troops-11644789065</id>
+    <content type="html">The more than 130,000 troops Moscow has in the region are still too few to seize and occupy the whole of Ukraine, according to U.S. assessments. However, the deployments provide Russia’s commanders formidable advantages.</content>
+    <link href="https://www.wsj.com/articles/russian-buildup-near-ukraine-features-potent-weapons-systems-well-trained-troops-11644789065" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>India&#39;s Economy Hinges on the Return of Workers Who Fled to Their Villages</title>
+    <updated>2022-02-13T18:32:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-13:/articles/indias-economy-hinges-on-the-return-of-workers-who-fled-to-their-villages-11644777177</id>
+    <content type="html">Economists say the nation must create tens of millions of jobs that bring migrant workers out of farming or risk a decade of arrested growth. Many workers who returned home to rural areas say they plan to stay.</content>
+    <link href="https://www.wsj.com/articles/indias-economy-hinges-on-the-return-of-workers-who-fled-to-their-villages-11644777177" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
