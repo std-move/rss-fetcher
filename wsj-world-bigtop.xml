@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-15T08:24:13Z</updated>
+  <updated>2022-02-15T10:22:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine&#39;s Capital Awaits a Potential Russian Attack With Determination, Calm</title>
-    <updated>2022-02-14T18:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-14:/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570</id>
-    <content type="html">Despite the growing realization that a Russian military invasion is a real possibility in Ukraine, there are few outward signs of panic in Kyiv.</content>
-    <link href="https://www.wsj.com/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
