@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-14T22:20:06Z</updated>
+  <updated>2022-02-15T01:21:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-02-14:/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570</id>
     <content type="html">Despite the growing realization that a Russian military invasion is a real possibility in Ukraine, there are few outward signs of panic in Kyiv.</content>
     <link href="https://www.wsj.com/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>India&#39;s Economy Hinges on the Return of Workers Who Fled to Their Villages</title>
-    <updated>2022-02-13T18:32:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-13:/articles/indias-economy-hinges-on-the-return-of-workers-who-fled-to-their-villages-11644777177</id>
-    <content type="html">Economists say the nation must create tens of millions of jobs that bring migrant workers out of farming or risk a decade of arrested growth. Many workers who returned home to rural areas say they plan to stay.</content>
-    <link href="https://www.wsj.com/articles/indias-economy-hinges-on-the-return-of-workers-who-fled-to-their-villages-11644777177" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
