@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-15T14:18:45Z</updated>
+  <updated>2022-02-15T16:25:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Offers Mixed Messages on Ukraine Troop Pullback</title>
-    <updated>2022-02-15T13:57:00Z</updated>
+    <updated>2022-02-15T15:16:00Z</updated>
     <id>tag:www.wsj.com,2022-02-15:/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006</id>
     <content type="html">Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions.</content>
     <link href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Thousands of Ukraine Soldiers Have Already Died in a War Started When They Were Boys</title>
+    <updated>2022-02-15T14:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-15:/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008</id>
+    <content type="html">Russia and its gathered forces threaten what looks like a new conflict, but the Ukraine military has been fighting it for eight years. “We’ve been stewing in this war for so long.”</content>
+    <link href="https://www.wsj.com/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
