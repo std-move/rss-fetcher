@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-16T10:23:44Z</updated>
+  <updated>2022-02-16T12:32:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Says Some Troops Pulling Back From Ukraine Border, as Diplomatic Solution Sought</title>
-    <updated>2022-02-15T22:27:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-15:/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006</id>
-    <content type="html">U.S. and European officials say they see no evidence of a significant drawdown of forces.</content>
-    <link href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
