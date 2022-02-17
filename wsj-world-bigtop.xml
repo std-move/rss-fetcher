@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-16T22:18:35Z</updated>
+  <updated>2022-02-17T01:07:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Is Continuing to Build Up Forces Near Ukraine, West Says</title>
-    <updated>2022-02-16T21:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-16:/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072</id>
+    <updated>2022-02-17T00:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-17:/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072</id>
     <content type="html">NATO and the U.S. see no de-escalation by Moscow; U.S. officials question Moscow’s statements about troop withdrawals.</content>
     <link href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Beijing Weighs How Far to Go in Backing Putin on Ukraine</title>
+    <updated>2022-02-16T22:38:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-16:/articles/beijing-weighs-how-far-to-go-in-backing-putin-on-ukraine-11645050771</id>
+    <content type="html">Behind closed doors, China’s top leaders have debated how to respond to the Russia-Ukraine crisis without hurting China’s own interests.</content>
+    <link href="https://www.wsj.com/articles/beijing-weighs-how-far-to-go-in-backing-putin-on-ukraine-11645050771" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Can Bitcoin Be a National Currency? El Salvador Is Trying to Find Out.</title>
+    <updated>2022-02-16T15:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-16:/articles/bitcoin-national-currency-el-salvador-11645026831</id>
+    <content type="html">The country made bitcoin legal tender last September and now is aiming to raise $1 billion to fund expansive economic policies by cashing in on the crypto craze. But the IMF warns bitcoin is too risky, and Salvadorans are mostly sticking to dollars.</content>
+    <link href="https://www.wsj.com/articles/bitcoin-national-currency-el-salvador-11645026831" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
