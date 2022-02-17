@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-17T16:30:10Z</updated>
+  <updated>2022-02-17T18:24:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Accuses Ukrainian Military of &#39;Crimes&#39; in Report to U.N.</title>
-    <updated>2022-02-17T15:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-17:/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832</id>
-    <content type="html">President Biden said that a Russian invasion of Ukraine could happen in the next several days and that Moscow hadn’t moved troops out.</content>
-    <link href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Afghan Economy Further Imperiled by U.S. Move to Split Assets</title>
     <updated>2022-02-17T13:10:00Z</updated>
