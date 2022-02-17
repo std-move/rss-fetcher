@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-17T08:23:47Z</updated>
+  <updated>2022-02-17T10:22:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Is Continuing to Build Up Forces Near Ukraine, West Says</title>
-    <updated>2022-02-17T03:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-17:/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072</id>
-    <content type="html">NATO and the U.S. see no de-escalation by Moscow; U.S. officials question Moscow’s statements about troop withdrawals.</content>
-    <link href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Beijing Weighs How Far to Go in Backing Putin on Ukraine</title>
     <updated>2022-02-16T22:38:00Z</updated>
