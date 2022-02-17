@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-17T14:19:02Z</updated>
+  <updated>2022-02-17T16:30:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Beijing Weighs How Far to Go in Backing Putin on Ukraine</title>
-    <updated>2022-02-16T22:38:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-16:/articles/beijing-weighs-how-far-to-go-in-backing-putin-on-ukraine-11645050771</id>
-    <content type="html">Behind closed doors, China’s top leaders have debated how to respond to the Russia-Ukraine crisis without hurting China’s own interests.</content>
-    <link href="https://www.wsj.com/articles/beijing-weighs-how-far-to-go-in-backing-putin-on-ukraine-11645050771" rel="alternate"></link>
+    <title>Russia Accuses Ukrainian Military of &#39;Crimes&#39; in Report to U.N.</title>
+    <updated>2022-02-17T15:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-17:/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832</id>
+    <content type="html">President Biden said that a Russian invasion of Ukraine could happen in the next several days and that Moscow hadn’t moved troops out.</content>
+    <link href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Can Bitcoin Be a National Currency? El Salvador Is Trying to Find Out.</title>
-    <updated>2022-02-16T15:59:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-16:/articles/bitcoin-national-currency-el-salvador-11645026831</id>
-    <content type="html">The country made bitcoin legal tender last September and now is aiming to raise $1 billion to fund expansive economic policies by cashing in on the crypto craze. But the IMF warns bitcoin is too risky, and Salvadorans are mostly sticking to dollars.</content>
-    <link href="https://www.wsj.com/articles/bitcoin-national-currency-el-salvador-11645026831" rel="alternate"></link>
+    <title>Afghan Economy Further Imperiled by U.S. Move to Split Assets</title>
+    <updated>2022-02-17T13:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-17:/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418</id>
+    <content type="html">The Biden administration’s decision to effectively seize the Afghan central bank’s foreign reserves was to help address Afghanistan’s humanitarian crisis while the litigation by the 9/11 victims’ families continues. But many Afghans see the decision as a betrayal of their country, saying those funds weren’t the U.S.’s to keep or spend in the first place.</content>
+    <link href="https://www.wsj.com/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
