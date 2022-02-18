@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-18T18:24:19Z</updated>
+  <updated>2022-02-18T20:21:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyber Attacks</title>
-    <updated>2022-02-18T18:06:00Z</updated>
+    <title>U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</title>
+    <updated>2022-02-18T19:35:00Z</updated>
     <id>tag:www.wsj.com,2022-02-18:/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631</id>
     <content type="html">Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia.</content>
     <link href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Afghan Economy Further Imperiled by U.S. Move to Split Assets</title>
-    <updated>2022-02-17T13:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-17:/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418</id>
-    <content type="html">The Biden administration’s decision to effectively seize the Afghan central bank’s foreign reserves was to help address Afghanistan’s humanitarian crisis while the litigation by the 9/11 victims’ families continues. But many Afghans see the decision as a betrayal of their country, saying those funds weren’t the U.S.’s to keep or spend in the first place.</content>
-    <link href="https://www.wsj.com/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
