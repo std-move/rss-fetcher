@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-18T20:21:05Z</updated>
+  <updated>2022-02-18T22:21:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</title>
-    <updated>2022-02-18T19:35:00Z</updated>
+    <updated>2022-02-18T20:24:00Z</updated>
     <id>tag:www.wsj.com,2022-02-18:/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631</id>
     <content type="html">Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia.</content>
     <link href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631" rel="alternate"></link>
