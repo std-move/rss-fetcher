@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-18T01:20:14Z</updated>
+  <updated>2022-02-18T02:35:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Canadian Police Begin Freedom Convoy Arrests</title>
+    <updated>2022-02-18T02:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-18:/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737</id>
+    <content type="html">Authorities begin targeted arrests of protesters who have blockaded downtown Ottawa in demonstrations against Covid-19 mandates.</content>
+    <link href="https://www.wsj.com/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Surprising Mystery of Italy&#39;s Crown Jewels Is Who Gets to Keep Them</title>
     <updated>2022-02-17T20:50:00Z</updated>
