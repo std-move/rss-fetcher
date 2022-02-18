@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-18T14:18:36Z</updated>
+  <updated>2022-02-18T16:29:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Canadian Police Begin Freedom Convoy Arrests</title>
-    <updated>2022-02-18T02:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-18:/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737</id>
-    <content type="html">Authorities begin targeted arrests of protesters who have blockaded downtown Ottawa in demonstrations against Covid-19 mandates.</content>
-    <link href="https://www.wsj.com/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737" rel="alternate"></link>
+    <title>Separatist Leaders in East Ukraine Urge Civilians to Evacuate to Russia</title>
+    <updated>2022-02-18T16:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-18:/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631</id>
+    <content type="html">The leaders of two Russian-controlled regions of east Ukraine urged civilians to evacuate as shelling intensified, with Kyiv saying its troops were ordered to exercise restraint so as to not give Moscow a pretext to invade.</content>
+    <link href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>The Surprising Mystery of Italy&#39;s Crown Jewels Is Who Gets to Keep Them</title>
-    <updated>2022-02-17T20:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-17:/articles/the-surprising-mystery-of-italys-crown-jewels-is-who-gets-to-keep-them-11645131022</id>
-    <content type="html">The Italian government says the precious baubles belong to the nation and its people, a contention being challenged in court by the ex-royal family. For 75 years, they sat unclaimed in a deposit box at the Bank of Italy.</content>
-    <link href="https://www.wsj.com/articles/the-surprising-mystery-of-italys-crown-jewels-is-who-gets-to-keep-them-11645131022" rel="alternate"></link>
+    <title>Afghan Economy Further Imperiled by U.S. Move to Split Assets</title>
+    <updated>2022-02-17T13:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-17:/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418</id>
+    <content type="html">The Biden administration’s decision to effectively seize the Afghan central bank’s foreign reserves was to help address Afghanistan’s humanitarian crisis while the litigation by the 9/11 victims’ families continues. But many Afghans see the decision as a betrayal of their country, saying those funds weren’t the U.S.’s to keep or spend in the first place.</content>
+    <link href="https://www.wsj.com/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
