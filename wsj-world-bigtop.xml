@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-19T18:23:18Z</updated>
+  <updated>2022-02-19T20:21:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Proxies in Eastern Ukraine Mobilize Troops, Kill Two Ukrainian Soldiers</title>
     <updated>2022-02-19T17:54:00Z</updated>
     <id>tag:www.wsj.com,2022-02-19:/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438</id>
-    <content type="html">Russian-installed authorities in Donetsk and Luhansk say an attack by Kyiv is imminent, while shelling across the frontline intensifies, killing two Ukrainian soldiers.</content>
+    <content type="html">Kyiv dismissed the call-up and moves to evacuate civilian residents of Russian-held Donetsk and Luhansk areas as a provocation.</content>
     <link href="https://www.wsj.com/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Naval Drills Threaten Ukraine&#39;s Limited Coastal Defenses</title>
-    <updated>2022-02-19T11:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-19:/articles/russian-naval-drills-threaten-ukraines-limited-coastal-defenses-11645269902</id>
-    <content type="html">The naval exercises in the waters around Ukraine pose a threat to key ports and infrastructure, with the Russian vessels and seaborne missiles potentially playing a key role in an invasion.</content>
-    <link href="https://www.wsj.com/articles/russian-naval-drills-threaten-ukraines-limited-coastal-defenses-11645269902" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
