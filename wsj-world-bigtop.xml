@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-21T16:29:52Z</updated>
+  <updated>2022-02-21T18:24:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Beijing Winter Olympics End With Parade of National Flags, Burst of Fireworks</title>
-    <updated>2022-02-20T16:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-20:/articles/beijing-winter-olympics-end-with-parade-of-national-flags-and-burst-of-fireworks-11645367611</id>
-    <content type="html">China officially concluded a Beijing Winter Olympics that sought to unify the world but ended up highlighting its divisions.</content>
-    <link href="https://www.wsj.com/articles/beijing-winter-olympics-end-with-parade-of-national-flags-and-burst-of-fireworks-11645367611" rel="alternate"></link>
+    <title>Ukraine Calls for U.N. Security Council Meeting as Russian Forces Mass on Borders</title>
+    <updated>2022-02-21T18:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-21:/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512</id>
+    <content type="html">Russian President Vladimir Putin said he was weighing whether to recognize two Russian-led breakaway regions in Ukraine as fears of a Russian invasion continue to build.</content>
+    <link href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Welcome to Batman&#39;s Hometown. Wait, Is That Glasgow?</title>
+    <updated>2022-02-21T17:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-21:/articles/batman-batgirl-gotham-glasgow-11645462859</id>
+    <content type="html">The Scottish city is finding fame as a stand-in for Gotham; ‘Anyone who’s into Batman already understood the parallels’</content>
+    <link href="https://www.wsj.com/articles/batman-batgirl-gotham-glasgow-11645462859" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
