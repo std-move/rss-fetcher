@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-20T22:19:59Z</updated>
+  <updated>2022-02-21T01:12:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</title>
+    <updated>2022-02-20T23:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-20:/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792</id>
+    <content type="html">Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Calls on People to Flee Eastern Ukraine. Most Are Staying Put.</title>
     <updated>2022-02-20T19:56:00Z</updated>
     <id>tag:www.wsj.com,2022-02-20:/articles/russia-calls-on-people-to-flee-eastern-ukraine-most-are-staying-put-11645379595</id>
     <content type="html">Russian-appointed leaders in two breakaway areas announced evacuations Friday, but most people are unmoved after years of fighting.</content>
     <link href="https://www.wsj.com/articles/russia-calls-on-people-to-flee-eastern-ukraine-most-are-staying-put-11645379595" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</title>
-    <updated>2022-02-20T19:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-20:/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792</id>
-    <content type="html">Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
