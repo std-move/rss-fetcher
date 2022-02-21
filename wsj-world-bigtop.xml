@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-21T04:27:43Z</updated>
+  <updated>2022-02-21T06:25:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Biden Agrees to Putin Summit Provided Russia Pulls Back From Ukraine Attack</title>
-    <updated>2022-02-21T04:22:00Z</updated>
+    <updated>2022-02-21T04:41:00Z</updated>
     <id>tag:www.wsj.com,2022-02-21:/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792</id>
     <content type="html">A flurry of calls from French President Emmanuel Macron sought a diplomatic solution to the crisis.</content>
     <link href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792" rel="alternate"></link>
