@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-21T14:19:53Z</updated>
+  <updated>2022-02-21T16:29:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Biden Agrees to Meet Putin Provided Russia Pulls Back</title>
-    <updated>2022-02-21T04:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-21:/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792</id>
-    <content type="html">President Biden’s decision came during a discussion with French President Emmanuel Macron, who made a flurry of calls seeking a diplomatic solution to the Ukrainian crisis.</content>
-    <link href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Beijing Winter Olympics End With Parade of National Flags, Burst of Fireworks</title>
     <updated>2022-02-20T16:18:00Z</updated>
