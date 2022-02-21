@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-21T20:21:47Z</updated>
+  <updated>2022-02-21T22:20:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Putin Says Russia to Recognize Independence of Breakaway Regions in Ukraine</title>
-    <updated>2022-02-21T19:55:00Z</updated>
+    <updated>2022-02-21T21:28:00Z</updated>
     <id>tag:www.wsj.com,2022-02-21:/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512</id>
-    <content type="html">The Russian president’s move threatens to scuttle negotiations with the West over the future security of eastern Europe and could be used to justify an incursion into the territories.</content>
+    <content type="html">The Russian president’s move threatens to scuttle negotiations with the West over the future security of Eastern Europe and could be used to justify an incursion into the territories.</content>
     <link href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
