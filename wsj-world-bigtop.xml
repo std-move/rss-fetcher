@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-21T02:31:51Z</updated>
+  <updated>2022-02-21T04:27:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</title>
-    <updated>2022-02-21T02:04:00Z</updated>
+    <title>Biden Agrees to Putin Summit Provided Russia Pulls Back From Ukraine Attack</title>
+    <updated>2022-02-21T04:22:00Z</updated>
     <id>tag:www.wsj.com,2022-02-21:/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792</id>
-    <content type="html">Exercises involving some 30,000 troops near Ukraine’s border will continue, the government in Minsk said, citing an uptick in violence in eastern Ukraine. The White House said President Biden has accepted in principle France’s proposal of a meeting with Putin, provided that Russia doesn’t invade Ukraine.</content>
+    <content type="html">A flurry of calls from French President Emmanuel Macron sought a diplomatic solution to the crisis.</content>
     <link href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
