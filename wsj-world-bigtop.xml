@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-22T06:25:02Z</updated>
+  <updated>2022-02-22T08:25:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</title>
-    <updated>2022-02-22T04:45:00Z</updated>
+    <updated>2022-02-22T06:26:00Z</updated>
     <id>tag:www.wsj.com,2022-02-22:/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512</id>
     <content type="html">Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West.</content>
     <link href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512" rel="alternate"></link>
