@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-22T14:18:52Z</updated>
+  <updated>2022-02-22T16:30:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin&#39;s Endgame: Unravel the Post-Cold War Agreements That Humiliated Russia</title>
-    <updated>2022-02-22T12:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-22:/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412</id>
-    <content type="html">Moscow’s military forces threaten Ukraine, but the bigger prize is restoration of Russia’s historical sphere of influence stretching through Eastern Europe.</content>
-    <link href="https://www.wsj.com/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412" rel="alternate"></link>
+    <title>Russia Troops Enter Ukraine Region; West Plans Sanctions</title>
+    <updated>2022-02-22T15:58:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-22:/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981</id>
+    <content type="html">Ukraine’s president urged calm as Russian troops poured into the eastern Donbas region and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent.</content>
+    <link href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Pro-Russian Infiltrators Are Ready to Pounce, Ukrainian Officials Warn</title>
+    <updated>2022-02-22T13:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-22:/articles/pro-russian-infiltrators-are-ready-to-pounce-should-all-out-war-begin-ukrainian-officials-warn-11645537392</id>
+    <content type="html">Kyiv has spent eight years purging its army and intelligence agencies of potential turncoats, but many remain.</content>
+    <link href="https://www.wsj.com/articles/pro-russian-infiltrators-are-ready-to-pounce-should-all-out-war-begin-ukrainian-officials-warn-11645537392" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
