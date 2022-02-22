@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-22T20:21:24Z</updated>
+  <updated>2022-02-22T22:20:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Troops Enter Ukraine Region; West Plans Sanctions</title>
-    <updated>2022-02-22T17:02:00Z</updated>
+    <title>Ukraine Calls Up Reservists; West Steps Up Sanctions</title>
+    <updated>2022-02-22T22:05:00Z</updated>
     <id>tag:www.wsj.com,2022-02-22:/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981</id>
-    <content type="html">Ukraine’s president urged calm as Russian troops poured into the eastern Donbas region and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent.</content>
+    <content type="html">Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region, and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent.</content>
     <link href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-02-22:/articles/queens-gambit-brazil-maid-chess-champ-11645547071</id>
     <content type="html">Cibele Florêncio worked her way to tournaments; “People look at me and wonder what the hell I’m doing there.”</content>
     <link href="https://www.wsj.com/articles/queens-gambit-brazil-maid-chess-champ-11645547071" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pro-Russian Infiltrators Are Ready to Pounce, Ukrainian Officials Warn</title>
-    <updated>2022-02-22T13:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-22:/articles/pro-russian-infiltrators-are-ready-to-pounce-should-all-out-war-begin-ukrainian-officials-warn-11645537392</id>
-    <content type="html">Kyiv has spent eight years purging its army and intelligence agencies of potential turncoats, but many remain.</content>
-    <link href="https://www.wsj.com/articles/pro-russian-infiltrators-are-ready-to-pounce-should-all-out-war-begin-ukrainian-officials-warn-11645537392" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
