@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-23T02:36:27Z</updated>
+  <updated>2022-02-23T04:26:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Calls Up Reservists; West Steps Up Sanctions</title>
-    <updated>2022-02-22T23:59:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-22:/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981</id>
-    <content type="html">Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region, and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent.</content>
+    <updated>2022-02-23T04:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-23:/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981</id>
+    <content type="html">Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region. Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent.</content>
     <link href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
