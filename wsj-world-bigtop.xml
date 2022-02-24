@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-24T01:21:52Z</updated>
+  <updated>2022-02-24T02:38:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Shifts to War Footing, Proclaiming State of Emergency</title>
-    <updated>2022-02-23T23:53:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-23:/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181</id>
-    <content type="html">Ukraine begins to mobilize reservists, calling on its citizens to leave Russia immediately because of a Russian offensive as soon as Wednesday night.</content>
+    <title>Ukraine President Urges Russian Citizens to Oppose War</title>
+    <updated>2022-02-24T02:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-24:/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181</id>
+    <content type="html">Ukraine declared a state of emergency and called on its citizens to leave Russia immediately because of a growing threat of a full-scale invasion.</content>
     <link href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
