@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-24T18:25:26Z</updated>
+  <updated>2022-02-24T20:21:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Attacks Ukraine, Drawing Broad Condemnation</title>
-    <updated>2022-02-24T18:02:00Z</updated>
+    <title>Russia Invades Ukraine, Aims to Oust Leadership</title>
+    <updated>2022-02-24T19:44:00Z</updated>
     <id>tag:www.wsj.com,2022-02-24:/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406</id>
-    <content type="html">Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government.</content>
+    <content type="html">Airstrikes hit cities, tanks roll in and casualties mount in what President Biden calls an unprovoked attack, as West pledges further action against Moscow.</content>
     <link href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
