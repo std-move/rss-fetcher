@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-25T18:25:22Z</updated>
+  <updated>2022-02-25T20:21:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Ukraine&#39;s Leader Zelensky Is &#39;Target Number One&#39; for Putin</title>
+    <updated>2022-02-25T19:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-25:/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378</id>
+    <content type="html">Russia’s invasion of Ukraine aims to overthrow the leadership in Kyiv, but President Volodymyr Zelensky remains defiant.</content>
+    <link href="https://www.wsj.com/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Russian Forces Close In on Ukraine&#39;s Capital as Kremlin Agrees to Talks</title>
-    <updated>2022-02-25T17:51:00Z</updated>
+    <updated>2022-02-25T19:27:00Z</updated>
     <id>tag:www.wsj.com,2022-02-25:/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768</id>
     <content type="html">Russian forces moved by air and land to attack Kyiv and the capital’s defenders dug into positions and deployed for urban combat, while Moscow signaled openness to holding talks with Ukraine’s government.</content>
     <link href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768" rel="alternate"></link>
