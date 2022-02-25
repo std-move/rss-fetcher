@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-25T12:33:44Z</updated>
+  <updated>2022-02-25T14:19:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Forces Close In on Ukraine&#39;s Capital, Bombing Intensifies</title>
-    <updated>2022-02-25T11:47:00Z</updated>
+    <updated>2022-02-25T13:36:00Z</updated>
     <id>tag:www.wsj.com,2022-02-25:/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768</id>
-    <content type="html">Russian forces moved by air and land to attack Kyiv, while the capital’s defenders dug into positions along its forested edge and prepared to blow up bridges.</content>
+    <content type="html">Russian forces moved by air and land to attack Kyiv, while the capital’s defenders dug into positions along its forested edge and prepared to blow up bridges. The Kremlin said it agreed to talks with Kyiv.</content>
     <link href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Mapping the Ukraine-Russia Crisis</title>
-    <updated>2022-02-25T02:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-25:/articles/mapping-the-ukraine-russia-crisis-11645749025</id>
-    <content type="html">In charts and maps, explaining the latest on Russia’s invasion of Ukraine—and how it got to this.</content>
-    <link href="https://www.wsj.com/articles/mapping-the-ukraine-russia-crisis-11645749025" rel="alternate"></link>
+    <title>Once a Comic, Ukrainian President Transforms Into Wartime Leader</title>
+    <updated>2022-02-25T13:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-25:/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378</id>
+    <content type="html">Volodymyr Zelensky took office in 2019 calling for peace. Now, he is winning plaudits for his fortitude amid a full-scale Russian invasion.</content>
+    <link href="https://www.wsj.com/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
