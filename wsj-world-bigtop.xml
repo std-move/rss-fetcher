@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-25T04:27:07Z</updated>
+  <updated>2022-02-25T06:25:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Bombs Ukranian Capital, Kyiv</title>
-    <updated>2022-02-25T04:16:00Z</updated>
+    <title>Ukrainian Capital Rocked by Explosions</title>
+    <updated>2022-02-25T05:54:00Z</updated>
     <id>tag:www.wsj.com,2022-02-25:/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406</id>
     <content type="html">Central Kyiv was rocked by explosions after Russian President Vladimir Putin ordered an offensive that he said was aimed at toppling the government.</content>
     <link href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mapping the Ukraine-Russia Crisis</title>
+    <updated>2022-02-25T02:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-25:/articles/mapping-the-ukraine-russia-crisis-11645749025</id>
+    <content type="html">In charts and maps, explaining the latest on Russia’s invasion of Ukraine—and how it got to this.</content>
+    <link href="https://www.wsj.com/articles/mapping-the-ukraine-russia-crisis-11645749025" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
