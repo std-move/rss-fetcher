@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-25T10:23:38Z</updated>
+  <updated>2022-02-25T12:33:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Capital Rocked by Explosions</title>
-    <updated>2022-02-25T05:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-25:/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406</id>
-    <content type="html">Central Kyiv was rocked by explosions after Russian President Vladimir Putin ordered an offensive that he said was aimed at toppling the government.</content>
-    <link href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406" rel="alternate"></link>
+    <title>Russian Forces Close In on Ukraine&#39;s Capital, Bombing Intensifies</title>
+    <updated>2022-02-25T11:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-25:/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768</id>
+    <content type="html">Russian forces moved by air and land to attack Kyiv, while the capital’s defenders dug into positions along its forested edge and prepared to blow up bridges.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
