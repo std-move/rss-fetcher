@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-25T22:21:05Z</updated>
+  <updated>2022-02-26T01:12:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Forces Close In on Ukraine&#39;s Capital as Kyiv Prepares to Fight</title>
+    <updated>2022-02-26T00:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-26:/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768</id>
+    <content type="html">Russian forces attacked by land and air on Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainians Throng Borders Fleeing Russian Invasion</title>
+    <updated>2022-02-26T00:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-26:/articles/children-and-belongings-in-tow-ukrainians-throng-borders-fleeing-russian-invasion-11645828606</id>
+    <content type="html">Tens of thousands of Ukrainians have already crossed into Poland and other neighboring countries in an exodus that the United Nations says could grow to four million.</content>
+    <link href="https://www.wsj.com/articles/children-and-belongings-in-tow-ukrainians-throng-borders-fleeing-russian-invasion-11645828606" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How the West Misread Vladimir Putin</title>
+    <updated>2022-02-25T22:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-25:/articles/putin-invaded-ukraine-west-misread-russia-11645822427</id>
+    <content type="html">For years, the former KGB officer railed against U.S. domination, assailed the post-Cold War order and sent repeated signals that he intended to widen Russia’s sphere of influence. Nonetheless, until recently few imagined he would launch a full-scale invasion of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/putin-invaded-ukraine-west-misread-russia-11645822427" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Leader Zelensky Is &#39;Target Number One&#39; for Putin</title>
     <updated>2022-02-25T19:59:00Z</updated>
     <id>tag:www.wsj.com,2022-02-25:/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378</id>
     <content type="html">Russia’s invasion of Ukraine aims to overthrow the leadership in Kyiv, but President Volodymyr Zelensky remains defiant.</content>
     <link href="https://www.wsj.com/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Forces Close In on Ukraine&#39;s Capital as Kremlin Agrees to Talks</title>
-    <updated>2022-02-25T19:27:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-25:/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768</id>
-    <content type="html">Russian forces moved by air and land to attack Kyiv and the capital’s defenders dug into positions and deployed for urban combat, while Moscow signaled openness to holding talks with Ukraine’s government.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
