@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-26T04:26:59Z</updated>
+  <updated>2022-02-26T06:25:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Forces Close In on Ukraine&#39;s Capital as Kyiv Prepares to Fight</title>
-    <updated>2022-02-26T02:30:00Z</updated>
+    <updated>2022-02-26T05:58:00Z</updated>
     <id>tag:www.wsj.com,2022-02-26:/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768</id>
-    <content type="html">Russian forces attacked by land and air on Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender.</content>
+    <content type="html">Russian forces attacked by land and air Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender.</content>
     <link href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
