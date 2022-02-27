@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-27T20:21:25Z</updated>
+  <updated>2022-02-27T22:20:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Forces Hold Kyiv as Talks With Russia Are Planned</title>
-    <updated>2022-02-27T19:26:00Z</updated>
+    <updated>2022-02-27T21:51:00Z</updated>
     <id>tag:www.wsj.com,2022-02-27:/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216</id>
-    <content type="html">Ukrainian forces defended the capital on the fourth day of Russia’s invasion and engaged in urban combat in Ukraine’s second-largest city as Western governments stepped up their sanctions against Moscow.</content>
+    <content type="html">Russian troops faced fierce resistance in Ukraine, while Western responses against Moscow mounted and Putin put nuclear forces on alert.</content>
     <link href="https://www.wsj.com/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
