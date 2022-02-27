@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-27T04:26:43Z</updated>
+  <updated>2022-02-27T06:25:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-02-26:/articles/ordinary-ukrainians-rally-to-defend-homeland-from-russia-11645900464</id>
     <content type="html">Thousands of Ukrainian civilian fighters volunteer their service, including many from abroad, as authorities in Kyiv distribute rifles and others assemble Molotov cocktails and coordinate support.</content>
     <link href="https://www.wsj.com/articles/ordinary-ukrainians-rally-to-defend-homeland-from-russia-11645900464" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia&#39;s Energy Dominance Ties West&#39;s Hands in Ukraine War</title>
+    <updated>2022-02-26T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-26:/articles/russias-energy-dominance-ties-wests-hands-in-ukraine-war-11645884001</id>
+    <content type="html">Europe gets about 40% of its natural-gas imports from Russia, making it hard to sanction a sector that is a vital source of revenue for Moscow.</content>
+    <link href="https://www.wsj.com/articles/russias-energy-dominance-ties-wests-hands-in-ukraine-war-11645884001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
