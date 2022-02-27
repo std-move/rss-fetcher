@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-27T18:24:28Z</updated>
+  <updated>2022-02-27T20:21:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Forces Hold Kyiv as Talks With Russia Are Planned</title>
-    <updated>2022-02-27T16:21:00Z</updated>
+    <updated>2022-02-27T19:26:00Z</updated>
     <id>tag:www.wsj.com,2022-02-27:/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216</id>
     <content type="html">Ukrainian forces defended the capital on the fourth day of Russia’s invasion and engaged in urban combat in Ukraine’s second-largest city as Western governments stepped up their sanctions against Moscow.</content>
     <link href="https://www.wsj.com/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia&#39;s Energy Dominance Ties West&#39;s Hands in Ukraine War</title>
-    <updated>2022-02-26T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-26:/articles/russias-energy-dominance-ties-wests-hands-in-ukraine-war-11645884001</id>
-    <content type="html">Europe gets about 40% of its natural-gas imports from Russia, making it hard to sanction a sector that is a vital source of revenue for Moscow.</content>
-    <link href="https://www.wsj.com/articles/russias-energy-dominance-ties-wests-hands-in-ukraine-war-11645884001" rel="alternate"></link>
+    <title>As Omicron Surges, Contact Tracers Face an Unexpected Problem: Much Less Work</title>
+    <updated>2022-02-27T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-27:/articles/as-omicron-surges-covid-contact-tracers-face-an-unexpected-problem-much-less-work-11645963201</id>
+    <content type="html">For the past two years, contact tracers have skipped meals, power napped at their desks and sprinted to the sites of Covid-19 cases at all hours. Now Omicron is here, many are doing a lot less, despite facing more cases than ever.</content>
+    <link href="https://www.wsj.com/articles/as-omicron-surges-covid-contact-tracers-face-an-unexpected-problem-much-less-work-11645963201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
