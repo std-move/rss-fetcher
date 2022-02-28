@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-28T10:23:56Z</updated>
+  <updated>2022-02-28T12:34:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</title>
+    <updated>2022-02-28T11:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-28:/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458</id>
+    <content type="html">Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders.</content>
+    <link href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainians Return Home to Fight: &#39;I Have to Go&#39;</title>
+    <updated>2022-02-28T10:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-02-28:/articles/ukrainians-return-home-to-fight-russia-i-have-to-go-11646045875</id>
+    <content type="html">Ukrainians from across Europe—part of a huge diaspora that has spread across the continent in the three decades since the former Soviet republic gained independence—are streaming back to their home country to pick up arms in their fight against Russia.</content>
+    <link href="https://www.wsj.com/articles/ukrainians-return-home-to-fight-russia-i-have-to-go-11646045875" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Behind the Sweeping Russia Sanctions: Zelensky&#39;s Plea and a Mounting Crisis</title>
     <updated>2022-02-28T00:01:00Z</updated>
     <id>tag:www.wsj.com,2022-02-28:/articles/ukraine-russia-sanctions-swift-banks-11646006310</id>
     <content type="html">Following months of groundwork, frenzied late-night phone calls and a potent pressure campaign from Ukrainian leaders, the U.S. and Europe banded together to impose what is shaping up to be the biggest coordinated package ever levied against a major economy.</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-sanctions-swift-banks-11646006310" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As War Reshapes Europe, Germany Pivots on Defense, Aid</title>
-    <updated>2022-02-27T23:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-27:/articles/as-war-reshapes-europe-germany-rearms-to-counter-threat-from-russia-11645991750</id>
-    <content type="html">Chancellor’s shake-up of a German foreign policy that has long relied on trade and diplomatic dialogue, while playing down the need for military strength, shows how Vladimir Putin’s war on Ukraine is sending shock waves throughout Europe.</content>
-    <link href="https://www.wsj.com/articles/as-war-reshapes-europe-germany-rearms-to-counter-threat-from-russia-11645991750" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainian Forces Hold Kyiv as Talks With Russia Are Planned</title>
-    <updated>2022-02-27T21:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-27:/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216</id>
-    <content type="html">Russian troops faced fierce resistance in Ukraine, while Western responses against Moscow mounted and Putin put nuclear forces on alert.</content>
-    <link href="https://www.wsj.com/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Omicron Surges, Contact Tracers Face an Unexpected Problem: Much Less Work</title>
-    <updated>2022-02-27T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-27:/articles/as-omicron-surges-covid-contact-tracers-face-an-unexpected-problem-much-less-work-11645963201</id>
-    <content type="html">For the past two years, contact tracers have skipped meals, power napped at their desks and sprinted to the sites of Covid-19 cases at all hours. Now Omicron is here, many are doing a lot less, despite facing more cases than ever.</content>
-    <link href="https://www.wsj.com/articles/as-omicron-surges-covid-contact-tracers-face-an-unexpected-problem-much-less-work-11645963201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
