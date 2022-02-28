@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-02-28T12:34:38Z</updated>
+  <updated>2022-02-28T14:19:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</title>
-    <updated>2022-02-28T11:07:00Z</updated>
+    <updated>2022-02-28T14:01:00Z</updated>
     <id>tag:www.wsj.com,2022-02-28:/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458</id>
     <content type="html">Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders.</content>
     <link href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458" rel="alternate"></link>
