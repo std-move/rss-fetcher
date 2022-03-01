@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-01T04:27:30Z</updated>
+  <updated>2022-03-01T06:26:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</title>
-    <updated>2022-03-01T02:44:00Z</updated>
+    <updated>2022-03-01T04:53:00Z</updated>
     <id>tag:www.wsj.com,2022-03-01:/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458</id>
     <content type="html">Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv.</content>
     <link href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458" rel="alternate"></link>
