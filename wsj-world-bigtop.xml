@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-01T10:23:40Z</updated>
+  <updated>2022-03-01T12:35:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Forces Target Ukrainian Civilian Areas as Missile Hits Central Kharkiv</title>
-    <updated>2022-03-01T10:02:00Z</updated>
+    <updated>2022-03-01T12:16:00Z</updated>
     <id>tag:www.wsj.com,2022-03-01:/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675</id>
     <content type="html">The bombardment of Ukraine’s second-largest city came as Moscow, frustrated in its plans for a quick victory, switched to a new strategy in an attempt to demoralize Ukrainian resistance.</content>
     <link href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As Russian Bombs Turn Kyiv Into a War Zone, Residents Scramble to Escape</title>
+    <updated>2022-03-01T09:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-01:/articles/as-russian-bombs-turn-kyiv-into-a-warzone-residents-scramble-to-escape-11646126841</id>
+    <content type="html">Russia’s attacks on Ukraine’s capital—aimed at decapitating the pro-Western Ukrainian government—have left the city’s residents caught in a life-or-death choice between remaining in the city and escaping to safety.</content>
+    <link href="https://www.wsj.com/articles/as-russian-bombs-turn-kyiv-into-a-warzone-residents-scramble-to-escape-11646126841" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
