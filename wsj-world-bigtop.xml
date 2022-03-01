@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-01T02:47:26Z</updated>
+  <updated>2022-03-01T04:27:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</title>
+    <updated>2022-03-01T02:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-01:/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458</id>
+    <content type="html">Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv.</content>
+    <link href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The West&#39;s Sanctions Barrage Severs Russia&#39;s Economy From Much of the World</title>
     <updated>2022-03-01T00:25:00Z</updated>
     <id>tag:www.wsj.com,2022-03-01:/articles/russias-ruble-financial-markets-are-hammered-by-sanctions-11646038133</id>
     <content type="html">In just days, the country has been all-but-unplugged from a global system that powered its transition from a closed, government-controlled economy to a relatively modern one that yielded Western goods, foreign travel and a middle-class lifestyle.</content>
     <link href="https://www.wsj.com/articles/russias-ruble-financial-markets-are-hammered-by-sanctions-11646038133" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</title>
-    <updated>2022-02-28T22:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-02-28:/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458</id>
-    <content type="html">Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv.</content>
-    <link href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
