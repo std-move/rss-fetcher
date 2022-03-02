@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-02T02:42:02Z</updated>
+  <updated>2022-03-02T04:27:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</title>
-    <updated>2022-03-02T00:22:00Z</updated>
+    <updated>2022-03-02T03:20:00Z</updated>
     <id>tag:www.wsj.com,2022-03-02:/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675</id>
     <content type="html">Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory.</content>
     <link href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Food Shortages, Last Goodbyes: Ukrainians Face Their New Reality</title>
+    <updated>2022-03-01T23:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-01:/articles/ukraine-russia-war-civilians-11646173427</id>
+    <content type="html">Russia began a new, bloodier phase of the war and the capital Kyiv is bracing for the indiscriminate shelling of civilian neighborhoods.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-war-civilians-11646173427" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-03-01:/articles/as-russia-sanctions-intensify-several-oligarchs-speak-out-against-ukraine-war-11646154428</id>
     <content type="html">A parade of Russian businessmen burnished their antiwar stances in recent days as Western governments tightened a noose around Kremlin-connected businesses and property.</content>
     <link href="https://www.wsj.com/articles/as-russia-sanctions-intensify-several-oligarchs-speak-out-against-ukraine-war-11646154428" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainians Confront Russians With Gruesome War Images</title>
-    <updated>2022-03-01T15:53:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-01:/articles/ukrainians-confront-russians-with-gruesome-war-images-11646150016</id>
-    <content type="html">With a website and social-media channel, Ukrainians are posting about Russian military deaths that Moscow hasn’t disclosed.</content>
-    <link href="https://www.wsj.com/articles/ukrainians-confront-russians-with-gruesome-war-images-11646150016" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
