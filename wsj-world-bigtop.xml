@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-02T08:25:39Z</updated>
+  <updated>2022-03-02T10:23:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</title>
-    <updated>2022-03-02T03:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-02:/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675</id>
-    <content type="html">Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675" rel="alternate"></link>
+    <title>Ukraine&#39;s Kharkiv Front Line Holds Despite Bombardment</title>
+    <updated>2022-03-02T09:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-02:/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607</id>
+    <content type="html">Russian forces resumed airstrikes on Ukraine’s second-largest city and continued pounding other cities as they sought to break the will of Ukraine’s resistance on the seventh day of the war.</content>
+    <link href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-03-01:/articles/as-russia-sanctions-intensify-several-oligarchs-speak-out-against-ukraine-war-11646154428</id>
     <content type="html">A parade of Russian businessmen burnished their antiwar stances in recent days as Western governments tightened a noose around Kremlin-connected businesses and property.</content>
     <link href="https://www.wsj.com/articles/as-russia-sanctions-intensify-several-oligarchs-speak-out-against-ukraine-war-11646154428" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In a Kyiv Hospital, Children Pay the Price of Russia&#39;s Invasion</title>
-    <updated>2022-03-01T15:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-01:/articles/in-a-kyiv-hospital-children-pay-the-price-of-russias-invasion-11646147353</id>
-    <content type="html">As Russia pours new forces into Ukraine in its attempt to capture the capital and decapitate its democratically elected government, doctors are bracing for an influx of casualties—children and adults alike.</content>
-    <link href="https://www.wsj.com/articles/in-a-kyiv-hospital-children-pay-the-price-of-russias-invasion-11646147353" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
