@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-02T18:25:33Z</updated>
+  <updated>2022-03-02T20:20:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Kharkiv Front Line Holds Despite Bombardment</title>
+    <updated>2022-03-02T20:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-02:/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607</id>
+    <content type="html">Russian forces pounded Ukraine’s second-largest city with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled and Ukrainian officials said the invasion’s civilian death toll has reached 2,000.</content>
+    <link href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How Might the War in Ukraine End? Five Factors Will Shape the Outcome</title>
     <updated>2022-03-02T17:08:00Z</updated>
     <id>tag:www.wsj.com,2022-03-02:/articles/ukraine-russia-war-end-putin-sanctions-troops-11646240527</id>
     <content type="html">Russian forces have performed poorly thus far, but Ukraine’s military is expected to eventually crack. What then?</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-war-end-putin-sanctions-troops-11646240527" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Kharkiv Front Line Holds Despite Bombardment</title>
-    <updated>2022-03-02T15:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-02:/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607</id>
-    <content type="html">Russian forces pounded Ukraine’s second-largest city with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled and Ukrainian officials said the invasion’s civilian death toll has reached 2,000.</content>
-    <link href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
