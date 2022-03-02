@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-02T10:23:30Z</updated>
+  <updated>2022-03-02T12:35:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Militants Are Edging South Toward West Africa&#39;s Most Stable and Prosperous States</title>
+    <updated>2022-03-02T11:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-02:/articles/sahel-based-militants-edging-south-toward-west-africas-most-stable-and-prosperous-states-11646221800</id>
+    <content type="html">The Islamist militants who have rampaged through the heart of West Africa in recent years are now spreading toward the Gulf of Guinea coast, including some of the continent’s most stable and prosperous countries, according to African and U.S. officials.</content>
+    <link href="https://www.wsj.com/articles/sahel-based-militants-edging-south-toward-west-africas-most-stable-and-prosperous-states-11646221800" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Ukraine&#39;s Kharkiv Front Line Holds Despite Bombardment</title>
-    <updated>2022-03-02T09:41:00Z</updated>
+    <updated>2022-03-02T11:37:00Z</updated>
     <id>tag:www.wsj.com,2022-03-02:/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607</id>
     <content type="html">Russian forces resumed airstrikes on Ukraine’s second-largest city and continued pounding other cities as they sought to break the will of Ukraine’s resistance on the seventh day of the war.</content>
     <link href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Food Shortages, Last Goodbyes: Ukrainians Face Their New Reality</title>
-    <updated>2022-03-01T23:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-01:/articles/ukraine-russia-war-civilians-11646173427</id>
-    <content type="html">Russia began a new, bloodier phase of the war and the capital Kyiv is bracing for the indiscriminate shelling of civilian neighborhoods.</content>
-    <link href="https://www.wsj.com/articles/ukraine-russia-war-civilians-11646173427" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Russia Sanctions Intensify, Several Oligarchs Speak Out Against War</title>
-    <updated>2022-03-01T17:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-01:/articles/as-russia-sanctions-intensify-several-oligarchs-speak-out-against-ukraine-war-11646154428</id>
-    <content type="html">A parade of Russian businessmen burnished their antiwar stances in recent days as Western governments tightened a noose around Kremlin-connected businesses and property.</content>
-    <link href="https://www.wsj.com/articles/as-russia-sanctions-intensify-several-oligarchs-speak-out-against-ukraine-war-11646154428" rel="alternate"></link>
+    <title>Black, Asian and Middle Eastern Refugees Fleeing Ukraine Are Blocked at Border</title>
+    <updated>2022-03-02T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-02:/articles/foreign-refugees-fleeing-ukraine-say-they-were-held-for-days-at-border-11646218800</id>
+    <content type="html">People from Africa, South Asia and the Middle East say they were pulled aside, as guards prioritized Ukrainians.</content>
+    <link href="https://www.wsj.com/articles/foreign-refugees-fleeing-ukraine-say-they-were-held-for-days-at-border-11646218800" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
