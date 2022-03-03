@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-03T14:20:05Z</updated>
+  <updated>2022-03-03T16:32:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Forces Advance in Southern Ukraine Ahead of Talks</title>
-    <updated>2022-03-03T14:08:00Z</updated>
+    <title>Russian Forces Advance in Southern Ukraine Amid Cease-Fire Talks</title>
+    <updated>2022-03-03T16:15:00Z</updated>
     <id>tag:www.wsj.com,2022-03-03:/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424</id>
-    <content type="html">Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks.</content>
+    <content type="html">Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the two sides resumed cease-fire talks after Moscow’s week-old incursion stalled in the north of the country.</content>
     <link href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
