@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-03T12:35:17Z</updated>
+  <updated>2022-03-03T14:20:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Forces Advance in Southern Ukraine Ahead of Talks</title>
-    <updated>2022-03-03T11:37:00Z</updated>
+    <updated>2022-03-03T14:08:00Z</updated>
     <id>tag:www.wsj.com,2022-03-03:/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424</id>
     <content type="html">Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks.</content>
     <link href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>For Average Russians, Western Sanctions Over Ukraine War Begin to Bite</title>
-    <updated>2022-03-03T00:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-03:/articles/for-average-russians-western-sanctions-over-ukraine-war-begin-to-bite-11646254180</id>
-    <content type="html">Soaring interest rates have pushed some Russians to hold off on buying homes. Others are stocking up on imported medications, and travel plans have been canceled.</content>
-    <link href="https://www.wsj.com/articles/for-average-russians-western-sanctions-over-ukraine-war-begin-to-bite-11646254180" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainian Jews, Under Putin&#39;s Bombs, Seethe at His Attempt to Smear Ukraine as Neo-Nazi</title>
-    <updated>2022-03-02T20:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-02:/articles/ukrainian-jews-under-putins-bombs-seethe-at-his-attempt-to-smear-ukraine-as-neo-nazi-11646251687</id>
-    <content type="html">To Ukrainian Jews and many Jewish leaders world-wide, Russian President Vladimir Putin’s false claims that Kyiv is controlled by American-sponsored neo-Nazis is an insult to the memory of the Holocaust, especially now that Moscow is indiscriminately shelling Ukrainian cities.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-jews-under-putins-bombs-seethe-at-his-attempt-to-smear-ukraine-as-neo-nazi-11646251687" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Might the War in Ukraine End? Five Factors Will Shape the Outcome</title>
-    <updated>2022-03-02T17:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-02:/articles/ukraine-russia-war-end-putin-sanctions-troops-11646240527</id>
-    <content type="html">Russian forces have performed poorly thus far, but Ukraine’s military is expected to eventually crack. What then?</content>
-    <link href="https://www.wsj.com/articles/ukraine-russia-war-end-putin-sanctions-troops-11646240527" rel="alternate"></link>
+    <title>Venezuela Asks Wall Street to Help Lift U.S. Sanctions so Oil Can Flow</title>
+    <updated>2022-03-03T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-03:/articles/venezuela-asks-wall-street-to-help-lift-u-s-sanctions-so-oil-can-flow-11646312401</id>
+    <content type="html">The regime is encouraging debtholders to pressure the Biden administration, which is wary of fast-rising oil prices caused by the war in Ukraine.</content>
+    <link href="https://www.wsj.com/articles/venezuela-asks-wall-street-to-help-lift-u-s-sanctions-so-oil-can-flow-11646312401" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
