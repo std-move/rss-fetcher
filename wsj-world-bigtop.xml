@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-03T16:32:06Z</updated>
+  <updated>2022-03-03T18:25:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>At Ukrainian Border, Overwhelmed Guards, Volunteers Confront Exodus of Refugees Fleeing War</title>
+    <updated>2022-03-03T16:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-03:/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646</id>
+    <content type="html">In just a week since the war with Russia began, more than one million refugees have left Ukraine, mostly into Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II.</content>
+    <link href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Forces Advance in Southern Ukraine Amid Cease-Fire Talks</title>
     <updated>2022-03-03T16:15:00Z</updated>
@@ -13,7 +21,15 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Venezuela Asks Wall Street to Help Lift U.S. Sanctions so Oil Can Flow</title>
+    <title>China Declared Its Russia Friendship Had &#39;No Limits.&#39; It&#39;s Having Second Thoughts.</title>
+    <updated>2022-03-03T15:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-03:/articles/china-russia-xi-putin-ukraine-war-11646279098</id>
+    <content type="html">Xi Jinping wanted Vladimir Putin to join in a united front against the U.S., and he got it Feb. 4. Now the Ukraine war threatens to undo Beijing’s yearslong effort to become a world leader.</content>
+    <link href="https://www.wsj.com/articles/china-russia-xi-putin-ukraine-war-11646279098" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Venezuela Pushes for Lift in U.S. Sanctions So Oil Can Flow</title>
     <updated>2022-03-03T13:00:00Z</updated>
     <id>tag:www.wsj.com,2022-03-03:/articles/venezuela-asks-wall-street-to-help-lift-u-s-sanctions-so-oil-can-flow-11646312401</id>
     <content type="html">The regime is encouraging debtholders to pressure the Biden administration, which is wary of fast-rising oil prices caused by the war in Ukraine.</content>
