@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-03T18:25:24Z</updated>
+  <updated>2022-03-03T20:21:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>At Ukrainian Border, Overwhelmed Guards, Volunteers Confront Exodus of Refugees Fleeing War</title>
-    <updated>2022-03-03T16:46:00Z</updated>
+    <title>Russian&#39;s War on Ukraine Has Created Over 1 Million Refugees in Just a Week</title>
+    <updated>2022-03-03T19:26:00Z</updated>
     <id>tag:www.wsj.com,2022-03-03:/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646</id>
-    <content type="html">In just a week since the war with Russia began, more than one million refugees have left Ukraine, mostly into Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II.</content>
+    <content type="html">Many people fleeing the country have headed to Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II.</content>
     <link href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russian Forces Advance in Southern Ukraine Amid Cease-Fire Talks</title>
-    <updated>2022-03-03T16:15:00Z</updated>
+    <title>Russian Forces Advance in Southern Ukraine as Cease-Fire Talks End</title>
+    <updated>2022-03-03T19:05:00Z</updated>
     <id>tag:www.wsj.com,2022-03-03:/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424</id>
-    <content type="html">Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the two sides resumed cease-fire talks after Moscow’s week-old incursion stalled in the north of the country.</content>
+    <content type="html">Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as another round of talks failed to reach an agreement on a cease-fire.</content>
     <link href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
