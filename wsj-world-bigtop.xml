@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-02T22:21:09Z</updated>
+  <updated>2022-03-03T01:25:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Batters Ukraine&#39;s No. 2 City, as Kyiv Offensive Stalls</title>
-    <updated>2022-03-02T20:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-02:/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607</id>
+    <updated>2022-03-03T00:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-03:/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607</id>
     <content type="html">Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps.</content>
     <link href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainian Jews, Under Putin&#39;s Bombs, Seethe at His Attempt to Smear Ukraine as Neo-Nazi</title>
+    <updated>2022-03-02T20:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-02:/articles/ukrainian-jews-under-putins-bombs-seethe-at-his-attempt-to-smear-ukraine-as-neo-nazi-11646251687</id>
+    <content type="html">To Ukrainian Jews and many Jewish leaders world-wide, Russian President Vladimir Putin’s false claims that Kyiv is controlled by American-sponsored neo-Nazis is an insult to the memory of the Holocaust, especially now that Moscow is indiscriminately shelling Ukrainian cities.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-jews-under-putins-bombs-seethe-at-his-attempt-to-smear-ukraine-as-neo-nazi-11646251687" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
