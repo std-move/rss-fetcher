@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-03T20:21:48Z</updated>
+  <updated>2022-03-03T22:21:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian&#39;s War on Ukraine Has Created Over 1 Million Refugees in Just a Week</title>
-    <updated>2022-03-03T19:26:00Z</updated>
+    <title>Russia&#39;s War on Ukraine Has Created Over 1 Million Refugees in Just a Week</title>
+    <updated>2022-03-03T21:46:00Z</updated>
     <id>tag:www.wsj.com,2022-03-03:/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646</id>
     <content type="html">Many people fleeing the country have headed to Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II.</content>
     <link href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646" rel="alternate"></link>
