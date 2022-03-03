@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-03T10:23:45Z</updated>
+  <updated>2022-03-03T12:35:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Batters Ukraine&#39;s No. 2 City, as Kyiv Offensive Stalls</title>
-    <updated>2022-03-03T00:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-03:/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607</id>
-    <content type="html">Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps.</content>
-    <link href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607" rel="alternate"></link>
+    <title>Russian Forces Advance in Southern Ukraine Ahead of Talks</title>
+    <updated>2022-03-03T11:37:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-03:/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424</id>
+    <content type="html">Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>For Average Russians, Western Sanctions Over Ukraine War Begin to Bite</title>
+    <updated>2022-03-03T00:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-03:/articles/for-average-russians-western-sanctions-over-ukraine-war-begin-to-bite-11646254180</id>
+    <content type="html">Soaring interest rates have pushed some Russians to hold off on buying homes. Others are stocking up on imported medications, and travel plans have been canceled.</content>
+    <link href="https://www.wsj.com/articles/for-average-russians-western-sanctions-over-ukraine-war-begin-to-bite-11646254180" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2022-03-02:/articles/ukraine-russia-war-end-putin-sanctions-troops-11646240527</id>
     <content type="html">Russian forces have performed poorly thus far, but Ukraine’s military is expected to eventually crack. What then?</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-war-end-putin-sanctions-troops-11646240527" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Black, Asian and Middle Eastern Refugees Fleeing Ukraine Are Blocked at Border</title>
-    <updated>2022-03-02T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-02:/articles/foreign-refugees-fleeing-ukraine-say-they-were-held-for-days-at-border-11646218800</id>
-    <content type="html">People from Africa, South Asia and the Middle East say they were pulled aside, as guards prioritized Ukrainians.</content>
-    <link href="https://www.wsj.com/articles/foreign-refugees-fleeing-ukraine-say-they-were-held-for-days-at-border-11646218800" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
