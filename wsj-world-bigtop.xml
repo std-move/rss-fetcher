@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-04T02:46:51Z</updated>
+  <updated>2022-03-04T04:27:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Forces Advance in Southern Ukraine as Cease-Fire Talks End</title>
-    <updated>2022-03-04T01:46:00Z</updated>
+    <title>Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</title>
+    <updated>2022-03-04T03:46:00Z</updated>
     <id>tag:www.wsj.com,2022-03-04:/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424</id>
-    <content type="html">Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as another round of talks failed to reach an agreement on a cease-fire.</content>
+    <content type="html">A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky.</content>
     <link href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
