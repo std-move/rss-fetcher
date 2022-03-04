@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-04T14:19:08Z</updated>
+  <updated>2022-03-04T16:31:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia&#39;s Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</title>
+    <updated>2022-03-04T15:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-04:/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053</id>
+    <content type="html">Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster.</content>
+    <link href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Venezuela Pushes for Lift in U.S. Sanctions So Oil Can Flow</title>
     <updated>2022-03-03T13:00:00Z</updated>
