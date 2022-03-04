@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-04T18:25:17Z</updated>
+  <updated>2022-03-04T20:22:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Special Forces Hold Off Russian Offensive on Kyiv&#39;s Front Lines</title>
+    <updated>2022-03-04T18:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-04:/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190</id>
+    <content type="html">Antitank weapons and antiaircraft missiles from the West have made make a big difference, as have the Russians’ Soviet-style tactics, Ukrainian officers say.</content>
+    <link href="https://www.wsj.com/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia&#39;s Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</title>
     <updated>2022-03-04T16:33:00Z</updated>
