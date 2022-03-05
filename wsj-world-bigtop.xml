@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-04T22:17:00Z</updated>
+  <updated>2022-03-05T01:22:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia&#39;s Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</title>
-    <updated>2022-03-04T22:02:00Z</updated>
+    <updated>2022-03-04T22:55:00Z</updated>
     <id>tag:www.wsj.com,2022-03-04:/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053</id>
     <content type="html">Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster.</content>
     <link href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How the West Unplugged Russia From the World&#39;s Financial Systems</title>
+    <updated>2022-03-04T21:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-04:/articles/russia-ukraine-sanctions-banks-finance-11646428069</id>
+    <content type="html">In just one week, Western financial firms severed practically every artery of money between Russia and the rest of the globe. In some cases they went further than what sanctions required.</content>
+    <link href="https://www.wsj.com/articles/russia-ukraine-sanctions-banks-finance-11646428069" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
