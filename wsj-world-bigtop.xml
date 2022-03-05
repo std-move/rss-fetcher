@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-05T10:22:18Z</updated>
+  <updated>2022-03-05T12:32:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia&#39;s Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</title>
-    <updated>2022-03-04T22:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-04:/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053</id>
-    <content type="html">Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster.</content>
-    <link href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How the West Unplugged Russia From the World&#39;s Financial Systems</title>
-    <updated>2022-03-04T21:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-04:/articles/russia-ukraine-sanctions-banks-finance-11646428069</id>
-    <content type="html">In just one week, Western financial firms severed practically every artery of money between Russia and the rest of the globe. In some cases they went further than what sanctions required.</content>
-    <link href="https://www.wsj.com/articles/russia-ukraine-sanctions-banks-finance-11646428069" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Special Forces Hold Off Russian Offensive on Kyiv&#39;s Front Lines</title>
-    <updated>2022-03-04T18:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-04:/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190</id>
-    <content type="html">Antitank weapons and antiaircraft missiles from the West have made make a big difference, as have the Russians’ Soviet-style tactics, Ukrainian officers say.</content>
-    <link href="https://www.wsj.com/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Ukrainian City Prepares for Battle Far From the Front Line</title>
-    <updated>2022-03-04T13:04:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-04:/articles/a-ukrainian-city-prepares-for-battle-far-from-the-front-line-11646398522</id>
-    <content type="html">The Russian onslaught on Ukraine has transformed Lviv into a fallback capital for the beleaguered government in Kyiv—and a desperate conduit for those who want to flee.</content>
-    <link href="https://www.wsj.com/articles/a-ukrainian-city-prepares-for-battle-far-from-the-front-line-11646398522" rel="alternate"></link>
+    <title>Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</title>
+    <updated>2022-03-05T11:58:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-05:/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358</id>
+    <content type="html">The humanitarian corridors were supposed to be the first tangible result of the talks between Russian and Ukrainian representatives in Belarus. Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas.</content>
+    <link href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
