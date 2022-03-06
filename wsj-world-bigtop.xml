@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-06T18:23:59Z</updated>
+  <updated>2022-03-06T20:22:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainians Protest Russian Occupation as Putin Pursues Offensive</title>
-    <updated>2022-03-06T17:42:00Z</updated>
+    <updated>2022-03-06T18:42:00Z</updated>
     <id>tag:www.wsj.com,2022-03-06:/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330</id>
     <content type="html">Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again.</content>
     <link href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Artillery Kills Ukrainian Civilians Fleeing Kyiv Suburb</title>
-    <updated>2022-03-06T17:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-06:/articles/russian-artillery-kills-ukrainian-civilians-fleeing-kyiv-suburb-11646575238</id>
-    <content type="html">Deaths are mounting from Russian strikes on residential areas in cities around Ukraine as the second cease-fire agreement fails.</content>
-    <link href="https://www.wsj.com/articles/russian-artillery-kills-ukrainian-civilians-fleeing-kyiv-suburb-11646575238" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
