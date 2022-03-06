@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-06T20:22:06Z</updated>
+  <updated>2022-03-06T22:20:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainians Protest Russian Occupation as Putin Pursues Offensive</title>
-    <updated>2022-03-06T18:42:00Z</updated>
+    <title>Ukraine Faces Fresh Wave of Attacks Focused on Population Centers</title>
+    <updated>2022-03-06T21:25:00Z</updated>
     <id>tag:www.wsj.com,2022-03-06:/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330</id>
-    <content type="html">Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again.</content>
+    <content type="html">Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the country’s second-largest city, Kharkiv, and killing dozens of civilians.</content>
     <link href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How War in Ukraine Drives Up Inflation at U.S. Farms, Supermarkets, Retailers</title>
+    <updated>2022-03-06T20:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-06:/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823</id>
+    <content type="html">The global supply chain is slow, but the economic fallout from the invasion of Ukraine is swiftly raising prices for producers and consumers world-wide. ‘It seems to be overshadowing everything now.’</content>
+    <link href="https://www.wsj.com/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-03-06:/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366</id>
     <content type="html">The close Putin ally modernized Russia’s forces, but those troops have run into ferocious Ukrainian resistance.</content>
     <link href="https://www.wsj.com/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Ukraine Blunted the Russian Advance</title>
-    <updated>2022-03-06T14:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-06:/articles/russian-advance-is-blunted-by-ukrainian-tactics-war-tested-troops-and-western-weapons-11646575579</id>
-    <content type="html">Combat-hardened Ukrainian troops, armed with weapons from the U.S., Britain and elsewhere, have slowed and in some cases halted Russian advances by taking advantage of strong morale, a deep, home-team knowledge of the battlefield and Russian shortcomings in logistics and tactics.</content>
-    <link href="https://www.wsj.com/articles/russian-advance-is-blunted-by-ukrainian-tactics-war-tested-troops-and-western-weapons-11646575579" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
