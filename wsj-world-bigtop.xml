@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-06T14:18:44Z</updated>
+  <updated>2022-03-06T16:29:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Resumes Evacuation as Russia Presses Offensive</title>
-    <updated>2022-03-06T13:09:00Z</updated>
+    <title>Ukrainians Protest Russian Occupation as Putin Pursues Offensive</title>
+    <updated>2022-03-06T15:40:00Z</updated>
     <id>tag:www.wsj.com,2022-03-06:/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330</id>
-    <content type="html">Ukraine made a second attempt to evacuate civilians from the besieged cities of Mariupol and Volnovakha, declaring a cease-fire to be in effect there despite Russia’s claims of military gains.</content>
+    <content type="html">Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again.</content>
     <link href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>This Russian Metals Giant Might Be Too Big to Sanction</title>
-    <updated>2022-03-06T09:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-06:/articles/this-russian-metals-giant-might-be-too-big-to-sanction-11646559751</id>
-    <content type="html">Norilsk Nickel is a key supplier of nickel and palladium, two metals that are key for electric-vehicle batteries and semiconductors.</content>
-    <link href="https://www.wsj.com/articles/this-russian-metals-giant-might-be-too-big-to-sanction-11646559751" rel="alternate"></link>
+    <title>How Ukraine Blunted the Russian Advance</title>
+    <updated>2022-03-06T14:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-06:/articles/russian-advance-is-blunted-by-ukrainian-tactics-war-tested-troops-and-western-weapons-11646575579</id>
+    <content type="html">Combat-hardened Ukrainian troops, armed with weapons from the U.S., Britain and elsewhere, have slowed and in some cases halted Russian advances by taking advantage of strong morale, a deep, home-team knowledge of the battlefield and Russian shortcomings in logistics and tactics.</content>
+    <link href="https://www.wsj.com/articles/russian-advance-is-blunted-by-ukrainian-tactics-war-tested-troops-and-western-weapons-11646575579" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
