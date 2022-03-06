@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-06T12:33:14Z</updated>
+  <updated>2022-03-06T14:18:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</title>
-    <updated>2022-03-06T00:29:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-06:/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358</id>
-    <content type="html">Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas.</content>
-    <link href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358" rel="alternate"></link>
+    <title>Ukraine Resumes Evacuation as Russia Presses Offensive</title>
+    <updated>2022-03-06T13:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-06:/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330</id>
+    <content type="html">Ukraine made a second attempt to evacuate civilians from the besieged cities of Mariupol and Volnovakha, declaring a cease-fire to be in effect there despite Russia’s claims of military gains.</content>
+    <link href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Refugees Are Now Europe&#39;s Biggest Movement of People Since World War II</title>
-    <updated>2022-03-05T19:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-05:/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910</id>
-    <content type="html">More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia.</content>
-    <link href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910" rel="alternate"></link>
+    <title>This Russian Metals Giant Might Be Too Big to Sanction</title>
+    <updated>2022-03-06T09:42:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-06:/articles/this-russian-metals-giant-might-be-too-big-to-sanction-11646559751</id>
+    <content type="html">Norilsk Nickel is a key supplier of nickel and palladium, two metals that are key for electric-vehicle batteries and semiconductors.</content>
+    <link href="https://www.wsj.com/articles/this-russian-metals-giant-might-be-too-big-to-sanction-11646559751" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
