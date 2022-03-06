@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-06T10:22:09Z</updated>
+  <updated>2022-03-06T12:33:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</title>
+    <title>Ukraine Refugees Are Now Europe&#39;s Biggest Movement of People Since World War II</title>
     <updated>2022-03-05T19:17:00Z</updated>
     <id>tag:www.wsj.com,2022-03-05:/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910</id>
     <content type="html">More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia.</content>
