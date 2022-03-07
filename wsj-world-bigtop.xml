@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-07T06:26:37Z</updated>
+  <updated>2022-03-07T08:26:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,6 +26,14 @@
     <id>tag:www.wsj.com,2022-03-06:/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366</id>
     <content type="html">The close Putin ally modernized Russia’s forces, but those troops have run into ferocious Ukrainian resistance.</content>
     <link href="https://www.wsj.com/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Cash Some Afghans Need Is Trapped in Their Bank Accounts</title>
+    <updated>2022-03-06T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-06:/articles/the-cash-some-afghans-desperately-need-is-trapped-in-their-bank-accounts-11646578800</id>
+    <content type="html">Withdrawing enough money to cover basic necessities can take weeks or months, as a currency crisis takes its toll throughout Afghanistan.</content>
+    <link href="https://www.wsj.com/articles/the-cash-some-afghans-desperately-need-is-trapped-in-their-bank-accounts-11646578800" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
