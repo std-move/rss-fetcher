@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-07T16:31:42Z</updated>
+  <updated>2022-03-07T18:25:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Pummels Ukrainian Civilian Targets Ahead of Talks</title>
-    <updated>2022-03-07T14:57:00Z</updated>
+    <updated>2022-03-07T17:38:00Z</updated>
     <id>tag:www.wsj.com,2022-03-07:/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852</id>
     <content type="html">Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south.</content>
     <link href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852" rel="alternate"></link>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-03-07:/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450</id>
     <content type="html">Russia’s soldiers, who were told they were on a mission to liberate a brotherly nation from neo-Nazi rulers, will now have to suppress the very people they are purporting to protect.</content>
     <link href="https://www.wsj.com/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Inside One Tech Company&#39;s Attempt to Evacuate Employees From Ukraine</title>
+    <updated>2022-03-07T13:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-07:/articles/inside-one-tech-companys-attempt-to-evacuate-employees-from-ukraine-11646660626</id>
+    <content type="html">Fractal Analytics, a New York-based artificial-intelligence company with 81 workers in Ukraine, set up some staff in western Ukraine, helped others leave the country entirely, and offered to pay salaries in advance in the event of a cyberattack or a run on ATMs.</content>
+    <link href="https://www.wsj.com/articles/inside-one-tech-companys-attempt-to-evacuate-employees-from-ukraine-11646660626" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
