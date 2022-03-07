@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-07T14:19:15Z</updated>
+  <updated>2022-03-07T16:31:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Pummels Ukrainian Civilian Targets Ahead of Talks</title>
-    <updated>2022-03-07T13:21:00Z</updated>
+    <updated>2022-03-07T14:57:00Z</updated>
     <id>tag:www.wsj.com,2022-03-07:/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852</id>
     <content type="html">Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south.</content>
     <link href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How War in Ukraine Drives Up Inflation at U.S. Farms, Supermarkets, Retailers</title>
-    <updated>2022-03-06T20:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-06:/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823</id>
-    <content type="html">The global supply chain is slow, but the economic fallout from the invasion of Ukraine is swiftly raising prices for producers and consumers world-wide. “It seems to be overshadowing everything now.”</content>
-    <link href="https://www.wsj.com/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823" rel="alternate"></link>
+    <title>Occupied Ukrainian Towns Want Russian Troops to &#39;Go Home&#39;</title>
+    <updated>2022-03-07T14:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-07:/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450</id>
+    <content type="html">Russia’s soldiers, who were told they were on a mission to liberate a brotherly nation from neo-Nazi rulers, will now have to suppress the very people they are purporting to protect.</content>
+    <link href="https://www.wsj.com/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
