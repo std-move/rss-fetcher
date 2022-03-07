@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-06T22:20:39Z</updated>
+  <updated>2022-03-07T01:22:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>How War in Ukraine Drives Up Inflation at U.S. Farms, Supermarkets, Retailers</title>
     <updated>2022-03-06T20:17:00Z</updated>
     <id>tag:www.wsj.com,2022-03-06:/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823</id>
-    <content type="html">The global supply chain is slow, but the economic fallout from the invasion of Ukraine is swiftly raising prices for producers and consumers world-wide. ‘It seems to be overshadowing everything now.’</content>
+    <content type="html">The global supply chain is slow, but the economic fallout from the invasion of Ukraine is swiftly raising prices for producers and consumers world-wide. “It seems to be overshadowing everything now.”</content>
     <link href="https://www.wsj.com/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
