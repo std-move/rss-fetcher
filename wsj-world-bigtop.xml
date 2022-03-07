@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-07T08:26:03Z</updated>
+  <updated>2022-03-07T10:23:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Faces Fresh Wave of Attacks Focused on Population Centers</title>
-    <updated>2022-03-07T02:45:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-07:/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330</id>
-    <content type="html">Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the country’s second-largest city, Kharkiv, and killing dozens of civilians.</content>
-    <link href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330" rel="alternate"></link>
+    <title>Russia Pummels Ukrainian Civilian Targets Ahead of Talks</title>
+    <updated>2022-03-07T09:37:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-07:/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852</id>
+    <content type="html">Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south.</content>
+    <link href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
