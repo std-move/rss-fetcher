@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-08T16:31:37Z</updated>
+  <updated>2022-03-08T18:25:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Shelling Halts Ukrainian Evacuation Effort</title>
-    <updated>2022-03-08T15:22:00Z</updated>
+    <updated>2022-03-08T17:34:00Z</updated>
     <id>tag:www.wsj.com,2022-03-08:/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890</id>
     <content type="html">Ukraine managed to evacuate a convoy of civilians from a besieged northeastern city but renewed Russian shelling forced the effort to be halted, while heavy fighting continued across the country.</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Supply Chain</title>
+    <updated>2022-03-08T15:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-08:/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357</id>
+    <content type="html">Port closings and missile strikes on vessels have had ripple effects on trade, including on grain markets. On one Bangladeshi ship, the consequences were dire.</content>
+    <link href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
