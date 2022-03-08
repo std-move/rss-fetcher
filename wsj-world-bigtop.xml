@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-08T08:25:57Z</updated>
+  <updated>2022-03-08T10:23:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-03-08:/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852</id>
     <content type="html">Ukrainian and Russian negotiators ended a third round of talks with little progress, while Ukraine’s military held fast along several fronts and Russia continued to shell cities and residential areas.</content>
     <link href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Occupied Ukrainian Towns Want Russian Troops to &#39;Go Home&#39;</title>
-    <updated>2022-03-07T14:14:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-07:/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450</id>
-    <content type="html">Russia’s soldiers, who were told they were on a mission to liberate a brotherly nation from neo-Nazi rulers, will now have to suppress the very people they are purporting to protect.</content>
-    <link href="https://www.wsj.com/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
