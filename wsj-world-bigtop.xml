@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-08T02:37:59Z</updated>
+  <updated>2022-03-08T04:27:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Pummels Civilian Targets While Talks Make Scant Progress</title>
-    <updated>2022-03-08T00:59:00Z</updated>
+    <updated>2022-03-08T03:39:00Z</updated>
     <id>tag:www.wsj.com,2022-03-08:/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852</id>
     <content type="html">Ukrainian and Russian negotiators ended a third round of talks with little progress, while Ukraine’s military held fast along several fronts and Russia continued to shell cities and residential areas.</content>
     <link href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852" rel="alternate"></link>
