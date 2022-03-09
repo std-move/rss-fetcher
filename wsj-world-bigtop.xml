@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-09T16:31:48Z</updated>
+  <updated>2022-03-09T18:25:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Airstrike Hits Maternity Hospital in Ukraine</title>
-    <updated>2022-03-09T16:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-09:/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525</id>
-    <content type="html">A Russian airstrike hit a maternity hospital in the besieged city of Mariupol and buried people including children under rubble, Ukrainian authorities said, as President Vladimir Putin’s forces pressed their offensives across Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525" rel="alternate"></link>
+    <title>Ukraine Warns That Power Cut at Chernobyl Could Cause Nuclear Accident</title>
+    <updated>2022-03-09T17:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-09:/articles/ukraine-warns-that-power-cut-at-chernobyl-could-cause-nuclear-accident-11646846759</id>
+    <content type="html">The IAEA and other experts play down the risk of an imminent problem at the site of the world’s biggest nuclear disaster.</content>
+    <link href="https://www.wsj.com/articles/ukraine-warns-that-power-cut-at-chernobyl-could-cause-nuclear-accident-11646846759" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</title>
-    <updated>2022-03-08T15:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-08:/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357</id>
-    <content type="html">Port closings and missile strikes on vessels have had ripple effects on trade, including on grain markets. On one Bangladeshi ship, the consequences were dire.</content>
-    <link href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357" rel="alternate"></link>
+    <title>Russian Airstrike Hits Maternity Hospital in Ukraine</title>
+    <updated>2022-03-09T17:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-09:/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525</id>
+    <content type="html">A Russian airstrike hit a maternity hospital in the besieged city of Mariupol and buried people including children under rubble, Ukrainian authorities said, as President Vladimir Putin’s forces pressed their offensives across Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
