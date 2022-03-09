@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-08T22:21:33Z</updated>
+  <updated>2022-03-09T01:25:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Shelling Halts Ukrainian Evacuation Effort</title>
-    <updated>2022-03-08T21:28:00Z</updated>
+    <title>Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive</title>
+    <updated>2022-03-08T23:51:00Z</updated>
     <id>tag:www.wsj.com,2022-03-08:/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890</id>
-    <content type="html">Ukraine managed to evacuate a convoy of civilians from a besieged northeastern city but renewed Russian shelling forced the effort to be halted, while heavy fighting continued across the country.</content>
+    <content type="html">The number of people forced to escape Ukraine has passed a milestone of two million, as the civilian toll of the Russia-Ukraine war mounted along with international efforts to pressure Russian President Vladimir Putin.</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
