@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-10T18:25:31Z</updated>
+  <updated>2022-03-10T20:22:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Ramps Up Attacks After Deadly Hit on Maternity Hospital</title>
-    <updated>2022-03-10T16:33:00Z</updated>
+    <title>Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</title>
+    <updated>2022-03-10T19:48:00Z</updated>
     <id>tag:www.wsj.com,2022-03-10:/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696</id>
-    <content type="html">Moscow launched a fresh assault on the besieged city of Mariupol, a day after one of its planes bombed a maternity hospital, illustrating how a new, more destructive phase of Russia’s invasion is taking a civilian toll</content>
+    <content type="html">Moscow launched a fresh assault on the besieged city of Mariupol, a day after one of its planes bombed a maternity hospital, as a more destructive phase of Russia’s invasion takes a greater civilian toll.</content>
     <link href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
