@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-10T08:25:34Z</updated>
+  <updated>2022-03-10T10:23:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Airstrike Hits Maternity Hospital in Ukraine</title>
-    <updated>2022-03-09T23:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-09:/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525</id>
+    <updated>2022-03-10T09:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-10:/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525</id>
     <content type="html">A Russian airstrike hit a maternity hospital in the besieged city of Mariupol and buried people including children under rubble, Ukrainian authorities said, as President Vladimir Putin’s forces pressed their offensives across Ukraine.</content>
     <link href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525" rel="alternate"></link>
     <summary type="html"></summary>
