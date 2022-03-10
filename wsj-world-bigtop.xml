@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-09T22:21:07Z</updated>
+  <updated>2022-03-10T01:36:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Airstrike Hits Maternity Hospital in Ukraine</title>
-    <updated>2022-03-09T19:35:00Z</updated>
+    <updated>2022-03-09T23:03:00Z</updated>
     <id>tag:www.wsj.com,2022-03-09:/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525</id>
     <content type="html">A Russian airstrike hit a maternity hospital in the besieged city of Mariupol and buried people including children under rubble, Ukrainian authorities said, as President Vladimir Putin’s forces pressed their offensives across Ukraine.</content>
     <link href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russians Rush to Leave as Sanctions Bite, Dissent Suppressed</title>
-    <updated>2022-03-09T17:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-09:/articles/russians-rush-to-leave-as-sanctions-bite-and-putin-clamps-down-on-dissent-over-ukraine-war-11646848224</id>
-    <content type="html">Harsh sanctions, growing isolation and fear of President Vladimir Putin’s increasingly repressive rule are driving thousands of Russians out of their country.</content>
-    <link href="https://www.wsj.com/articles/russians-rush-to-leave-as-sanctions-bite-and-putin-clamps-down-on-dissent-over-ukraine-war-11646848224" rel="alternate"></link>
+    <title>Waves of Ukrainian Refugees Overwhelm Poland</title>
+    <updated>2022-03-09T20:38:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-09:/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187</id>
+    <content type="html">As two refugees cross the border every three seconds, cities can’t buy beds fast enough and Poland’s population is rising for the first time in decades.</content>
+    <link href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia, Out to Contain NATO, Instead Reignites the Alliance</title>
+    <updated>2022-03-09T18:54:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-09:/articles/russia-ukraine-war-nato-military-11646843371</id>
+    <content type="html">The invasion of Ukraine has given the North Atlantic Treaty Organization renewed focus after three decades of seeking a purpose in the post-Cold War world.</content>
+    <link href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
