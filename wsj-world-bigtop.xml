@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-11T14:19:16Z</updated>
+  <updated>2022-03-11T16:32:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</title>
-    <updated>2022-03-11T04:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-11:/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696</id>
-    <content type="html">Moscow launched a fresh assault on the besieged city of Mariupol, a day after one of its planes bombed a maternity hospital, as a more destructive phase of Russia’s invasion takes a greater civilian toll.</content>
-    <link href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696" rel="alternate"></link>
+    <title>Aid Groups Rush Supplies to Ukraine as Medicines Run Low</title>
+    <updated>2022-03-11T15:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-11:/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602</id>
+    <content type="html">Displaced Ukrainians are struggling to find treatments, as health facilities have come under attack during the war with Russia.</content>
+    <link href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In Ukraine, a People&#39;s Army Includes Rock Stars, TV Hosts and Playwrights</title>
-    <updated>2022-03-10T13:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-10:/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565</id>
-    <content type="html">Tens of thousands of Ukrainian civilians have taken up arms or otherwise sought to support a nationwide resistance movement against Moscow’s offensive, which Kyiv says has already left thousands of Ukrainian noncombatants dead.</content>
-    <link href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565" rel="alternate"></link>
+    <title>Russian Airstrikes Intensify in Western Ukraine</title>
+    <updated>2022-03-11T14:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-11:/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808</id>
+    <content type="html">Russian airstrikes pounded Ukrainian cities far from the front lines as Moscow’s ground offensive appeared to reposition some forces in the north of the country.</content>
+    <link href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
