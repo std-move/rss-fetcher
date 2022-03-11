@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-11T20:22:04Z</updated>
+  <updated>2022-03-11T22:21:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Airstrikes Intensify in Western Ukraine</title>
+    <title>Russian General Is Killed in Ukraine as Airstrikes Intensify</title>
     <updated>2022-03-11T19:35:00Z</updated>
     <id>tag:www.wsj.com,2022-03-11:/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808</id>
-    <content type="html">Russian airstrikes pounded Ukrainian cities far from the front lines as Moscow’s ground offensive appeared to reposition some forces in the north of the country.</content>
+    <content type="html">Russian airstrikes pounded Ukrainian cities far from the front lines, as Russian troops abducted the mayor of an occupied city.</content>
     <link href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
