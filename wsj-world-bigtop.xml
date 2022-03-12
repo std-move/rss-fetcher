@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-11T22:21:40Z</updated>
+  <updated>2022-03-12T01:16:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,19 +13,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In the Rubble of Kharkiv, Survivors Make Their Stand: &#39;It&#39;s a War, and It&#39;s a Dirty War&#39;</title>
-    <updated>2022-03-11T15:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-11:/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623</id>
-    <content type="html">Russian missiles struck apartments, museums and libraries in Ukraine’s second-largest city, once tilted toward Moscow, leaving residents to tend to the wounded and sift through debris, trying to brace for what comes next.</content>
-    <link href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623" rel="alternate"></link>
+    <title>Aid Groups Rush Supplies to Ukraine as Medicines Run Low</title>
+    <updated>2022-03-11T15:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-11:/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602</id>
+    <content type="html">Displaced Ukrainians are struggling to find treatments, as health facilities have come under attack during the war with Russia.</content>
+    <link href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine&#39;s Railroads Have Become Vital Cog in Kyiv&#39;s War Effort</title>
-    <updated>2022-03-11T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-11:/articles/ukraines-railroads-have-become-vital-cog-in-kyivs-war-effort-11647000001</id>
-    <content type="html">The Russian invasion has largely spared Ukraine’s railroads, helping the country to mobilize—and refugees to get out.</content>
-    <link href="https://www.wsj.com/articles/ukraines-railroads-have-become-vital-cog-in-kyivs-war-effort-11647000001" rel="alternate"></link>
+    <title>In the Rubble of Kharkiv, Survivors Make Their Stand: &#39;It&#39;s a War, and It&#39;s a Dirty War&#39;</title>
+    <updated>2022-03-11T15:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-11:/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623</id>
+    <content type="html">Russian missiles struck apartments, museums and libraries in Ukraine’s second-largest city, once tilted toward Moscow, leaving residents to tend to the wounded and brace for what comes next.</content>
+    <link href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
