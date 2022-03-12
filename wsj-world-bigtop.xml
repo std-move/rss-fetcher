@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-12T20:22:12Z</updated>
+  <updated>2022-03-12T22:20:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-03-12:/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600</id>
     <content type="html">Those rich in oil and gas and other commodities are expected to get a boost from soaring prices, though inflation will sting consumers and weigh on global growth.</content>
     <link href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s New Foreign Legion Takes the Fight to Russian Forces</title>
-    <updated>2022-03-12T11:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-12:/articles/ukraines-new-foreign-legion-takes-the-fight-to-russian-forces-11647083295</id>
-    <content type="html">A combination of international arms and foreign volunteers has joined Ukraine’s efforts to impede the Russian advance three weeks into the conflict, and are now playing a growing role as the fighting spreads.</content>
-    <link href="https://www.wsj.com/articles/ukraines-new-foreign-legion-takes-the-fight-to-russian-forces-11647083295" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
