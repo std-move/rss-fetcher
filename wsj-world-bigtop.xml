@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-12T14:18:44Z</updated>
+  <updated>2022-03-12T16:29:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>For Some Countries, Economic Ripples of Ukraine War Bring Windfall</title>
+    <updated>2022-03-12T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-12:/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600</id>
+    <content type="html">Those rich in oil and gas and other commodities are expected to get a boost from soaring prices, though inflation will sting consumers and weigh on global growth.</content>
+    <link href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s New Foreign Legion Takes the Fight to Russian Forces</title>
     <updated>2022-03-12T11:08:00Z</updated>
