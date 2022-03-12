@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-12T16:29:27Z</updated>
+  <updated>2022-03-12T18:24:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine President Foresees &#39;New Stage of Terror&#39; as Russia Steps Up Strikes Near Kyiv</title>
+    <updated>2022-03-12T17:20:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-12:/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618</id>
+    <content type="html">The stepped-up missile strikes and bombings came as Russia repositioned its ground forces for what was expected to be a new push to encircle the capital, Western officials say.</content>
+    <link href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>For Some Countries, Economic Ripples of Ukraine War Bring Windfall</title>
     <updated>2022-03-12T14:00:00Z</updated>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2022-03-12:/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997</id>
     <content type="html">In the basement beneath one apartment block in Kyiv, 19 newborns lie in plastic cots, their cries mingling with the blare of air raid sirens warning of incoming Russian strikes.</content>
     <link href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Strikes Intensify Near Kyiv as Ukraine&#39;s President Foresees &#39;New Stage of Terror&#39;</title>
-    <updated>2022-03-12T10:23:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-12:/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618</id>
-    <content type="html">Cruise missiles slammed into an airport south of Kyiv, setting fire to an oil terminal and an ammunition depot, while Russian strikes also hit suburbs to the east and west.</content>
-    <link href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
