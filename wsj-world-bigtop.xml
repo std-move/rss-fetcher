@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-12T10:22:46Z</updated>
+  <updated>2022-03-12T12:33:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian General Is Killed in Ukraine as Airstrikes Intensify</title>
-    <updated>2022-03-11T19:35:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-11:/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808</id>
-    <content type="html">Russian airstrikes pounded Ukrainian cities far from the front lines, as Russian troops abducted the mayor of an occupied city.</content>
-    <link href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808" rel="alternate"></link>
+    <title>Ukraine&#39;s New Foreign Legion Takes the Fight to Russian Forces</title>
+    <updated>2022-03-12T11:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-12:/articles/ukraines-new-foreign-legion-takes-the-fight-to-russian-forces-11647083295</id>
+    <content type="html">A combination of international arms and foreign volunteers has joined Ukraine’s efforts to impede the Russian advance three weeks into the conflict, and are now playing a growing role as the fighting spreads.</content>
+    <link href="https://www.wsj.com/articles/ukraines-new-foreign-legion-takes-the-fight-to-russian-forces-11647083295" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Aid Groups Rush Supplies to Ukraine as Medicines Run Low</title>
-    <updated>2022-03-11T15:59:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-11:/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602</id>
-    <content type="html">Displaced Ukrainians are struggling to find treatments, as health facilities have come under attack during the war with Russia.</content>
-    <link href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602" rel="alternate"></link>
+    <title>Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</title>
+    <updated>2022-03-12T10:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-12:/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997</id>
+    <content type="html">In the basement beneath one apartment block in Kyiv, 19 newborns lie in plastic cots, their cries mingling with the blare of air raid sirens warning of incoming Russian strikes.</content>
+    <link href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In the Rubble of Kharkiv, Survivors Make Their Stand: &#39;It&#39;s a War, and It&#39;s a Dirty War&#39;</title>
-    <updated>2022-03-11T15:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-11:/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623</id>
-    <content type="html">Russian missiles struck apartments, museums and libraries in Ukraine’s second-largest city, once tilted toward Moscow, leaving residents to tend to the wounded and brace for what comes next.</content>
-    <link href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623" rel="alternate"></link>
+    <title>Russian Strikes Intensify Near Kyiv as Ukraine&#39;s President Foresees &#39;New Stage of Terror&#39;</title>
+    <updated>2022-03-12T10:23:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-12:/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618</id>
+    <content type="html">Cruise missiles slammed into an airport south of Kyiv, setting fire to an oil terminal and an ammunition depot, while Russian strikes also hit suburbs to the east and west.</content>
+    <link href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
