@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-13T14:20:24Z</updated>
+  <updated>2022-03-13T16:30:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missiles Strike Ukrainian Base Near Polish Border</title>
-    <updated>2022-03-13T11:03:00Z</updated>
+    <updated>2022-03-13T16:01:00Z</updated>
     <id>tag:www.wsj.com,2022-03-13:/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428</id>
-    <content type="html">Eight missiles hit the facility at Yavoriv, killing at least 35 people and wounding 134 at a base where until last month the U.S. National Guard trained Ukrainian troops.</content>
+    <content type="html">Eight missiles hit the facility at Yavoriv, killing at least 35 people and wounding more than 130 at a base where until last month the U.S. National Guard trained Ukrainian troops.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Saudis Fight to Turn the Tide in Yemen&#39;s Civil War</title>
+    <updated>2022-03-13T14:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-13:/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197</id>
+    <content type="html">Saudi Arabia and the U.A.E. have stepped up their bombing campaign to support Yemen’s government as they try to stop Iran-backed Houthi rebels from seizing full control of the country’s north.</content>
+    <link href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Pursues Afghanistan&#39;s Mineral Wealth After U.S. Exit</title>
+    <updated>2022-03-13T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-13:/articles/china-pursues-afghanistans-mineral-wealth-after-u-s-exit-11647172801</id>
+    <content type="html">A Chinese company is negotiating with the Taliban to mine one of the world’s largest untapped reserves of copper.</content>
+    <link href="https://www.wsj.com/articles/china-pursues-afghanistans-mineral-wealth-after-u-s-exit-11647172801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
