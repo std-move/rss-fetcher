@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-13T20:21:07Z</updated>
+  <updated>2022-03-13T22:20:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missiles Strike Ukrainian Base Near Polish Border</title>
-    <updated>2022-03-13T17:11:00Z</updated>
+    <updated>2022-03-13T22:12:00Z</updated>
     <id>tag:www.wsj.com,2022-03-13:/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428</id>
-    <content type="html">Eight missiles hit the facility at Yavoriv, killing at least 35 people and wounding more than 130 at a base where until last month the U.S. National Guard trained Ukrainian troops.</content>
+    <content type="html">The attack kills at least 35 people and increases the risk of war encroaching on NATO territory, after Moscow says that arms shipments to Kyiv won’t be tolerated.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
