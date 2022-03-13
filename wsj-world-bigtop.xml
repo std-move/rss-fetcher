@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-13T10:22:38Z</updated>
+  <updated>2022-03-13T12:33:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine President Foresees &#39;New Stage of Terror&#39; as Russia Steps Up Strikes Near Kyiv</title>
-    <updated>2022-03-12T23:21:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-12:/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618</id>
-    <content type="html">The intensified missile strikes and bombings came as Russia repositioned its ground forces for what was expected to be a new push to encircle the capital, Western officials say.</content>
-    <link href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618" rel="alternate"></link>
+    <title>Russian Missiles Strike Ukrainian Base Near Polish Border</title>
+    <updated>2022-03-13T11:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-13:/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428</id>
+    <content type="html">Eight missiles hit the facility at Yavoriv, killing at least 35 people and wounding 134 at a base where until last month the U.S. National Guard trained Ukrainian troops.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>For Some Countries, Economic Ripples of Ukraine War Bring Windfall</title>
-    <updated>2022-03-12T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-12:/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600</id>
-    <content type="html">Those rich in oil and gas and other commodities are expected to get a boost from soaring prices, though inflation will sting consumers and weigh on global growth.</content>
-    <link href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</title>
-    <updated>2022-03-12T10:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-12:/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997</id>
-    <content type="html">In the basement beneath one apartment block in Kyiv, 19 newborns lie in plastic cots, their cries mingling with the blare of air raid sirens warning of incoming Russian strikes.</content>
-    <link href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997" rel="alternate"></link>
+    <title>Russia&#39;s Bombs Force Ukraine Into War Economy: &#39;Plants That Made Sweaters Are Making Weapons&#39;</title>
+    <updated>2022-03-13T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-13:/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201</id>
+    <content type="html">Support from Ukrainian businesses and civilian institutions is helping the war effort and augmenting assistance from the West.</content>
+    <link href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
