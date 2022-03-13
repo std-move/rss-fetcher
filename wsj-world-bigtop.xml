@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-13T01:19:47Z</updated>
+  <updated>2022-03-13T02:36:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine President Foresees &#39;New Stage of Terror&#39; as Russia Steps Up Strikes Near Kyiv</title>
     <updated>2022-03-12T23:21:00Z</updated>
     <id>tag:www.wsj.com,2022-03-12:/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618</id>
-    <content type="html">The stepped-up missile strikes and bombings came as Russia repositioned its ground forces for what was expected to be a new push to encircle the capital, Western officials say.</content>
+    <content type="html">The intensified missile strikes and bombings came as Russia repositioned its ground forces for what was expected to be a new push to encircle the capital, Western officials say.</content>
     <link href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
