@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-14T14:20:19Z</updated>
+  <updated>2022-03-14T16:31:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine and Russia Resume Talks as Moscow&#39;s Bombing Campaign Grinds On</title>
-    <updated>2022-03-14T13:20:00Z</updated>
+    <updated>2022-03-14T15:41:00Z</updated>
     <id>tag:www.wsj.com,2022-03-14:/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976</id>
-    <content type="html">Diplomatic efforts continued after a weekend missile strike by Moscow near the Polish border brought the fighting closer to Western Europe and highlighted the risk of a wider conflict.</content>
+    <content type="html">The diplomatic efforts came after a Russian shell hit a residential building in Kyiv, and an adviser to Zelensky said the negotiations would continue Tuesday.</content>
     <link href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
