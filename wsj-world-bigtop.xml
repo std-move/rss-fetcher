@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-14T20:22:35Z</updated>
+  <updated>2022-03-14T22:21:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine and Russia Resume Talks as Moscow&#39;s Bombing Campaign Grinds On</title>
-    <updated>2022-03-14T19:37:00Z</updated>
+    <title>Talks to End Ukraine War Pause as Russia&#39;s Offensive Intensifies</title>
+    <updated>2022-03-14T20:55:00Z</updated>
     <id>tag:www.wsj.com,2022-03-14:/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976</id>
-    <content type="html">The diplomatic efforts came after an attack on a Kyiv residential building that left two people dead and 12 wounded.</content>
+    <content type="html">Diplomatic efforts to end Russia’s war in Ukraine showed no signs of progress as fighting for the capital intensified, with Russian missiles destroying an aircraft factory and apartment building in Kyiv and a television tower in the western city of Rivne.</content>
     <link href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
