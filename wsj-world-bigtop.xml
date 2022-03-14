@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-14T02:41:19Z</updated>
+  <updated>2022-03-14T04:34:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,6 +13,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Inside One of Russia&#39;s Deadliest Assaults on a Ukraine City. &#39;They Want to Terrorize.&#39;</title>
+    <updated>2022-03-13T20:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-13:/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498</id>
+    <content type="html">In the ancient city of Chernihiv, bodies were pulled from the rubble for days after a bombing shortly after the start of Russia’s invasion. The attack killed more than 47 people.</content>
+    <link href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Saudis Fight to Turn the Tide in Yemen&#39;s Civil War</title>
     <updated>2022-03-13T14:16:00Z</updated>
     <id>tag:www.wsj.com,2022-03-13:/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197</id>
@@ -21,19 +29,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China Pursues Afghanistan&#39;s Mineral Wealth After U.S. Exit</title>
-    <updated>2022-03-13T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-13:/articles/china-pursues-afghanistans-mineral-wealth-after-u-s-exit-11647172801</id>
-    <content type="html">A Chinese company is negotiating with the Taliban to mine one of the world’s largest untapped reserves of copper.</content>
-    <link href="https://www.wsj.com/articles/china-pursues-afghanistans-mineral-wealth-after-u-s-exit-11647172801" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Russia&#39;s Bombs Force Ukraine Into War Economy: &#39;Plants That Made Sweaters Are Making Weapons&#39;</title>
     <updated>2022-03-13T11:00:00Z</updated>
     <id>tag:www.wsj.com,2022-03-13:/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201</id>
     <content type="html">Support from Ukrainian businesses and civilian institutions is helping the war effort and augmenting assistance from the West.</content>
     <link href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Pursues Afghanistan&#39;s Mineral Wealth After U.S. Exit</title>
+    <updated>2022-03-13T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-13:/articles/china-pursues-afghanistans-mineral-wealth-after-u-s-exit-11647172801</id>
+    <content type="html">A Chinese company is negotiating with the Taliban to mine one of the world’s largest untapped reserves of copper.</content>
+    <link href="https://www.wsj.com/articles/china-pursues-afghanistans-mineral-wealth-after-u-s-exit-11647172801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
