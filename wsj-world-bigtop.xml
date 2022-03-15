@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-15T02:43:09Z</updated>
+  <updated>2022-03-15T04:28:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-03-14:/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976</id>
     <content type="html">Diplomatic efforts to end Russia’s war in Ukraine showed no signs of progress as fighting for the capital intensified, with Russian missiles destroying an aircraft factory and apartment building in Kyiv and a television tower in the western city of Rivne.</content>
     <link href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</title>
-    <updated>2022-03-14T14:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-14:/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560</id>
-    <content type="html">Locals described hungry and undisciplined Russian troops shooting civilians, breaking into supermarkets and shops, and raiding homes in search of food and valuables as their own supply lines have failed.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
