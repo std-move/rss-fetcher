@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-15T16:31:27Z</updated>
+  <updated>2022-03-15T18:26:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Rollback of Xi Jinping&#39;s Economic Campaign Exposes Cracks in His Power</title>
-    <updated>2022-03-15T14:27:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-15:/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449</id>
-    <content type="html">In addition to pressure from the West on Beijing over Xi’s Russian entente, he is struggling with a severe slowdown in the economy. The new disquiet raises questions about his unassailed dominance.</content>
-    <link href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Russia Bombards Kyiv as European Leaders Head to Ukraine&#39;s Capital</title>
-    <updated>2022-03-15T13:35:00Z</updated>
+    <updated>2022-03-15T17:28:00Z</updated>
     <id>tag:www.wsj.com,2022-03-15:/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678</id>
     <content type="html">The delegation was set to meet with Ukrainian President Volodymyr Zelensky amid heightened fighting in the capital’s outskirts and no apparent progress in talks to end the invasion.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia&#39;s War Rages, Putting Ukraine&#39;s Cultural Sites at Risk</title>
-    <updated>2022-03-15T11:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-15:/articles/russias-war-rages-putting-ukraines-cultural-sites-at-risk-11647342931</id>
-    <content type="html">Experts in cultural property protection are working to safeguard hundreds of heritage sites across Ukraine and protect them from further destruction, as Russia’s offensive continues.</content>
-    <link href="https://www.wsj.com/articles/russias-war-rages-putting-ukraines-cultural-sites-at-risk-11647342931" rel="alternate"></link>
+    <title>Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</title>
+    <updated>2022-03-15T15:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-15:/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032</id>
+    <content type="html">Trapped since their shift 3 weeks ago, the Ukrainians keeping the abandoned nuclear plant safe from meltdown are ill-fed, stressed and desperate for relief. “Everyone wants to go home.”</content>
+    <link href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rollback of Xi Jinping&#39;s Economic Campaign Exposes Cracks in His Power</title>
+    <updated>2022-03-15T14:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-15:/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449</id>
+    <content type="html">In addition to pressure from the West on Beijing over Xi’s Russian entente, he is struggling with a severe slowdown in the economy. The new disquiet raises questions about his unassailed dominance.</content>
+    <link href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
