@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-15T14:20:00Z</updated>
+  <updated>2022-03-15T16:31:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Rollback of Xi Jinping&#39;s Economic Campaign Exposes Cracks in His Power</title>
+    <updated>2022-03-15T14:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-15:/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449</id>
+    <content type="html">In addition to pressure from the West on Beijing over Xi’s Russian entente, he is struggling with a severe slowdown in the economy. The new disquiet raises questions about his unassailed dominance.</content>
+    <link href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Bombards Kyiv as European Leaders Head to Ukraine&#39;s Capital</title>
     <updated>2022-03-15T13:35:00Z</updated>
