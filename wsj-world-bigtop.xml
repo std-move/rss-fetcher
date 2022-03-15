@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-15T18:26:04Z</updated>
+  <updated>2022-03-15T20:22:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Bombards Kyiv as European Leaders Head to Ukraine&#39;s Capital</title>
-    <updated>2022-03-15T17:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-15:/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678</id>
-    <content type="html">The delegation was set to meet with Ukrainian President Volodymyr Zelensky amid heightened fighting in the capital’s outskirts and no apparent progress in talks to end the invasion.</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</title>
     <updated>2022-03-15T15:10:00Z</updated>
