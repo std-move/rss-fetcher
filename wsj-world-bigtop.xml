@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-16T16:30:25Z</updated>
+  <updated>2022-03-16T18:26:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,19 +13,27 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>A Ukrainian Town Deals Russia One of the War&#39;s Most Decisive Routs</title>
+    <updated>2022-03-16T15:37:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-16:/articles/ukraine-russia-voznesensk-town-battle-11647444734</id>
+    <content type="html">In the two-day battle of Voznesensk, local volunteers and the military repelled the invaders, who fled leaving behind armor and dead soldiers. ‘They had no orders for what to do if they are defeated.’</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Western Companies&#39; Pullback From Russia Marks End of an Era</title>
+    <updated>2022-03-16T13:45:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-16:/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740</id>
+    <content type="html">Businesses flocked to the former Soviet Union in its lurch to capitalism, but the relationship was never easy. The Ukraine invasion has brought it all to a crashing halt.</content>
+    <link href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</title>
     <updated>2022-03-16T11:00:00Z</updated>
     <id>tag:www.wsj.com,2022-03-16:/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401</id>
     <content type="html">Psychologists are working with refugees, leaving no appointments for locals, and government housing for needy Poles is now occupied by Ukrainians.</content>
     <link href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia&#39;s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead</title>
-    <updated>2022-03-16T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-16:/articles/russias-war-on-ukraine-transforms-europe-but-hard-decisions-lie-ahead-11647423003</id>
-    <content type="html">After a decisive early reaction to Russian President Vladimir Putin’s invasion, European Union leaders are debating deeper changes needed to safeguard the continent.</content>
-    <link href="https://www.wsj.com/articles/russias-war-on-ukraine-transforms-europe-but-hard-decisions-lie-ahead-11647423003" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
