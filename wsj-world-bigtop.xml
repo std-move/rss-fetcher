@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-16T10:22:47Z</updated>
+  <updated>2022-03-16T12:35:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Bombards Kyiv as European Leaders Arrive in Ukraine&#39;s Capital</title>
-    <updated>2022-03-16T06:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-16:/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678</id>
-    <content type="html">The delegation met with Ukrainian President Volodymyr Zelensky amid heightened fighting in the capital’s outskirts and no apparent progress in talks to end the invasion.</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678" rel="alternate"></link>
+    <title>Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</title>
+    <updated>2022-03-16T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-16:/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401</id>
+    <content type="html">Psychologists are working with refugees, leaving no appointments for locals, and government housing for needy Poles is now occupied by Ukrainians.</content>
+    <link href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Abramovich Investment Vehicle Shifted Control Shortly After Invasion</title>
-    <updated>2022-03-15T22:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-15:/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381</id>
-    <content type="html">Roman Abramovich’s global empire, including his Chelsea soccer team, has been upset by scrutiny and sanctions since Russia invaded Ukraine.</content>
-    <link href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rollback of Xi Jinping&#39;s Economic Campaign Exposes Cracks in His Power</title>
-    <updated>2022-03-15T14:27:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-15:/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449</id>
-    <content type="html">In addition to pressure from the West on Beijing over Xi’s Russian entente, he is struggling with a severe slowdown in the economy. The new disquiet raises questions about his unassailed dominance.</content>
-    <link href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</title>
-    <updated>2022-03-15T15:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-15:/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032</id>
-    <content type="html">Trapped since their shift 3 weeks ago, the Ukrainians keeping the abandoned nuclear plant safe are ill-fed, stressed and desperate for relief. “Everyone wants to go home.”</content>
-    <link href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032" rel="alternate"></link>
+    <title>Russia&#39;s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead</title>
+    <updated>2022-03-16T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-16:/articles/russias-war-on-ukraine-transforms-europe-but-hard-decisions-lie-ahead-11647423003</id>
+    <content type="html">After a decisive early reaction to Russian President Vladimir Putin’s invasion, European Union leaders are debating deeper changes needed to safeguard the continent.</content>
+    <link href="https://www.wsj.com/articles/russias-war-on-ukraine-transforms-europe-but-hard-decisions-lie-ahead-11647423003" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
