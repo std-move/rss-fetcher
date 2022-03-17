@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-17T12:37:44Z</updated>
+  <updated>2022-03-17T14:25:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</title>
-    <updated>2022-03-17T01:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-17:/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858</id>
-    <content type="html">Kyiv’s forces appeared to counterattack in the outlying towns of Irpin, Bucha and Hostomel, while Ukraine said it carried out an airstrike on the Kherson airport, which is now a Russian air base.</content>
-    <link href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858" rel="alternate"></link>
+    <title>Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</title>
+    <updated>2022-03-17T12:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-17:/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730</id>
+    <content type="html">Hundreds of Ukrainians had been hiding in the building amid fighting over the southern port city of Mariupol. A local politician said there were survivors.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2022-03-16:/articles/ukraine-russia-voznesensk-town-battle-11647444734</id>
     <content type="html">In the two-day battle of Voznesensk, local volunteers and the military repelled the invaders, who fled leaving behind armor and dead soldiers. ‘They had no orders for what to do if they are defeated.’</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Western Companies&#39; Pullback From Russia Marks End of an Era</title>
-    <updated>2022-03-16T13:45:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-16:/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740</id>
-    <content type="html">Businesses flocked to the former Soviet Union in its lurch to capitalism, but the relationship was never easy. The Ukraine invasion has brought it all to a crashing halt.</content>
-    <link href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</title>
-    <updated>2022-03-16T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-16:/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401</id>
-    <content type="html">Psychologists are working with refugees, leaving no appointments for locals, and government housing for needy Poles is now occupied by Ukrainians.</content>
-    <link href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
