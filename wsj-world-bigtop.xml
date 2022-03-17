@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-17T20:22:18Z</updated>
+  <updated>2022-03-17T22:21:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How Marina Ovsyannikova Became Russia&#39;s Most Visible Antiwar Protester</title>
+    <updated>2022-03-17T20:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-17:/articles/marina-ovsyannikova-russia-journalist-protester-11647544898</id>
+    <content type="html">The television producer for Russia’s flagship news show, who brandished an antiwar poster on state TV, says the invasion of Ukraine was something she couldn’t tolerate.</content>
+    <link href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rural Russians Back Putin, Blame the West for Ukraine Conflict</title>
     <updated>2022-03-17T18:29:00Z</updated>
