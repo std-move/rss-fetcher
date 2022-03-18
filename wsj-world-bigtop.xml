@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-18T20:22:01Z</updated>
+  <updated>2022-03-18T22:21:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</title>
+    <updated>2022-03-18T21:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764</id>
+    <content type="html">Rescuers freed 130 people from the building and hundreds more remained trapped, as Russian forces continued shelling in Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Putin Vows to Press On With Ukraine Invasion at Moscow Rally</title>
     <updated>2022-03-18T18:48:00Z</updated>
     <id>tag:www.wsj.com,2022-03-18:/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313</id>
     <content type="html">Russian President Vladimir Putin defended the assault in a rare public appearance at a gathering to mark the eighth anniversary of Russia’s seizure of Crimea from Ukraine.</content>
     <link href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</title>
-    <updated>2022-03-18T16:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-18:/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764</id>
-    <content type="html">More than 100 people were rescued from the building in Mariupol, Zelensky said, as Russian forces continued to shell cities across Ukraine. About 1,300 remained trapped in the basement of the theater.</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
