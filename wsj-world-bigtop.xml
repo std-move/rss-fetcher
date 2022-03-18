@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-18T01:36:47Z</updated>
+  <updated>2022-03-18T02:47:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</title>
-    <updated>2022-03-17T23:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-17:/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730</id>
+    <updated>2022-03-18T01:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730</id>
     <content type="html">Rescuers dug through the debris of a bombed theater where hundreds of civilians had sought shelter as Russian forces continued to shell the southern port city and other urban areas across the country.</content>
     <link href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730" rel="alternate"></link>
     <summary type="html"></summary>
