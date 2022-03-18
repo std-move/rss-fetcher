@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-18T18:25:51Z</updated>
+  <updated>2022-03-18T20:22:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin Vows to Press On With Ukraine Invasion at Moscow Rally</title>
+    <updated>2022-03-18T18:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313</id>
+    <content type="html">Russian President Vladimir Putin defended the assault in a rare public appearance at a gathering to mark the eighth anniversary of Russia’s seizure of Crimea from Ukraine.</content>
+    <link href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</title>
     <updated>2022-03-18T16:34:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-03-18:/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549</id>
     <content type="html">The billionaire businessman with ties to Putin is trying to move chunks of his wealth out of the reach of an expanding dragnet. His trophy asset, London soccer club Chelsea, is on the block.</content>
     <link href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Putin Turned to a Chechen Warlord to Intimidate Ukraine. It Hasn&#39;t Worked.</title>
-    <updated>2022-03-18T14:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-18:/articles/putin-turned-to-a-chechen-warlord-to-intimidate-ukraine-it-hasnt-worked-11647614020</id>
-    <content type="html">President Vladimir Putin has turned again and again to Ramzan Kadyrov’s forces from Chechnya, reveling in the Chechens’ fearsome reputation.</content>
-    <link href="https://www.wsj.com/articles/putin-turned-to-a-chechen-warlord-to-intimidate-ukraine-it-hasnt-worked-11647614020" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
