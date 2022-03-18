@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-18T10:24:33Z</updated>
+  <updated>2022-03-18T12:35:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</title>
-    <updated>2022-03-18T01:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-18:/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730</id>
-    <content type="html">Rescuers dug through the debris of a bombed theater where hundreds of civilians had sought shelter as Russian forces continued to shell the southern port city and other urban areas across the country.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730" rel="alternate"></link>
+    <title>Russian Missiles Hit Aircraft Facility in Western Ukraine</title>
+    <updated>2022-03-18T11:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764</id>
+    <content type="html">The long-range strike near Lviv is the second attack close to the Polish border, as Moscow’s assault on other cities continued.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How Marina Ovsyannikova Became Russia&#39;s Most Visible Antiwar Protester</title>
-    <updated>2022-03-17T20:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-17:/articles/marina-ovsyannikova-russia-journalist-protester-11647544898</id>
-    <content type="html">The television producer for Russia’s flagship news show, who brandished an antiwar poster on state TV, says the invasion of Ukraine was something she couldn’t tolerate.</content>
-    <link href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898" rel="alternate"></link>
+    <title>How the U.S. and EU Cut Russia Off  From the Global Economy</title>
+    <updated>2022-03-18T09:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980</id>
+    <content type="html">Planning for sanctions began in late November and had advanced enough that when Russia invaded Ukraine on Feb. 24 Western officials were ready to act.</content>
+    <link href="https://www.wsj.com/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How Russia&#39;s Revamped Military Fumbled the Invasion of Ukraine</title>
-    <updated>2022-03-17T14:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-17:/articles/russia-putin-revamped-military-ukraine-invasion-11647469602</id>
-    <content type="html">Moscow spent years and billions upgrading its capabilities, only to see the armed forces fail their first major test, confounding earlier Western assessments and giving Ukraine a boost. ‘For now, they just can’t move.’</content>
-    <link href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602" rel="alternate"></link>
+    <title>Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead</title>
+    <updated>2022-03-18T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/overwhelmed-by-omicron-hong-kong-runs-out-of-space-for-its-dead-11647595800</id>
+    <content type="html">People are dying from Covid-19 in Hong Kong at a rate that surpasses most of the world’s worst pandemic peaks, with almost 300 deaths a day exceeding the city’s ability to cope.</content>
+    <link href="https://www.wsj.com/articles/overwhelmed-by-omicron-hong-kong-runs-out-of-space-for-its-dead-11647595800" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Telegram Thrives Amid Russia&#39;s Media Crackdown</title>
+    <updated>2022-03-18T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/telegram-thrives-amid-russias-media-crackdown-11647595800</id>
+    <content type="html">Russia’s campaign to restrict access to Twitter, Facebook and other sources of uncensored information on its invasion of Ukraine has skipped one crucial platform: the social media and chat app Telegram.</content>
+    <link href="https://www.wsj.com/articles/telegram-thrives-amid-russias-media-crackdown-11647595800" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
