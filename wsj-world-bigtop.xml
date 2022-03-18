@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-18T12:35:14Z</updated>
+  <updated>2022-03-18T14:19:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Missiles Hit Aircraft Facility in Western Ukraine</title>
-    <updated>2022-03-18T11:14:00Z</updated>
+    <title>Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike</title>
+    <updated>2022-03-18T13:51:00Z</updated>
     <id>tag:www.wsj.com,2022-03-18:/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764</id>
-    <content type="html">The long-range strike near Lviv is the second attack close to the Polish border, as Moscow’s assault on other cities continued.</content>
+    <content type="html">Workers evacuated 130 people from the wreckage of a theater in Mariupol following a Russian airstrike on the southern port city, Ukraine’s ombudsman said. About 1,300 remained trapped in the basement of the theater.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
