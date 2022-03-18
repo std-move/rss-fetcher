@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-18T14:19:36Z</updated>
+  <updated>2022-03-18T16:31:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike</title>
+    <title>Putin Turned to a Chechen Warlord to Intimidate Ukraine. It Hasn&#39;t Worked.</title>
+    <updated>2022-03-18T14:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/putin-turned-to-a-chechen-warlord-to-intimidate-ukraine-it-hasnt-worked-11647614020</id>
+    <content type="html">President Vladimir Putin has turned again and again to Ramzan Kadyrov’s forces from Chechnya, reveling in the Chechens’ fearsome reputation.</content>
+    <link href="https://www.wsj.com/articles/putin-turned-to-a-chechen-warlord-to-intimidate-ukraine-it-hasnt-worked-11647614020" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Survivors Rescued From Ukraine Theater Hit by Russian Airstrike</title>
     <updated>2022-03-18T13:51:00Z</updated>
     <id>tag:www.wsj.com,2022-03-18:/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764</id>
     <content type="html">Workers evacuated 130 people from the wreckage of a theater in Mariupol following a Russian airstrike on the southern port city, Ukraine’s ombudsman said. About 1,300 remained trapped in the basement of the theater.</content>
@@ -13,27 +21,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How the U.S. and EU Cut Russia Off  From the Global Economy</title>
-    <updated>2022-03-18T09:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-18:/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980</id>
-    <content type="html">Planning for sanctions began in late November and had advanced enough that when Russia invaded Ukraine on Feb. 24 Western officials were ready to act.</content>
-    <link href="https://www.wsj.com/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980" rel="alternate"></link>
+    <title>Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</title>
+    <updated>2022-03-18T13:38:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741</id>
+    <content type="html">The system has helped Tehran resist the Biden administration’s pressure to rejoin the 2015 nuclear deal, buying it time to advance its nuclear program even while negotiations were under way.</content>
+    <link href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead</title>
-    <updated>2022-03-18T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-18:/articles/overwhelmed-by-omicron-hong-kong-runs-out-of-space-for-its-dead-11647595800</id>
-    <content type="html">People are dying from Covid-19 in Hong Kong at a rate that surpasses most of the world’s worst pandemic peaks, with almost 300 deaths a day exceeding the city’s ability to cope.</content>
-    <link href="https://www.wsj.com/articles/overwhelmed-by-omicron-hong-kong-runs-out-of-space-for-its-dead-11647595800" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Telegram Thrives Amid Russia&#39;s Media Crackdown</title>
-    <updated>2022-03-18T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-18:/articles/telegram-thrives-amid-russias-media-crackdown-11647595800</id>
-    <content type="html">Russia’s campaign to restrict access to Twitter, Facebook and other sources of uncensored information on its invasion of Ukraine has skipped one crucial platform: the social media and chat app Telegram.</content>
-    <link href="https://www.wsj.com/articles/telegram-thrives-amid-russias-media-crackdown-11647595800" rel="alternate"></link>
+    <title>Ukrainian Counteroffensive Relieves Strategic Port City</title>
+    <updated>2022-03-18T12:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-18:/articles/ukrainian-counteroffensive-near-mykolaiv-relieves-strategic-port-city-11647605489</id>
+    <content type="html">For weeks, Mykolaiv was on the front line. Now, with Ukrainian forces pressing a counteroffensive, the Russians have been pushed back and the port city’s 470,000 people are attempting a tentative return to normality.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-counteroffensive-near-mykolaiv-relieves-strategic-port-city-11647605489" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
