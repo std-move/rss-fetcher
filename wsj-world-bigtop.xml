@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-19T18:24:43Z</updated>
+  <updated>2022-03-19T20:21:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</title>
-    <updated>2022-03-19T17:46:00Z</updated>
+    <updated>2022-03-19T19:35:00Z</updated>
     <id>tag:www.wsj.com,2022-03-19:/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670</id>
-    <content type="html">The capture of this southern port city would be a key victory for Russia, freeing up its forces to encircle Ukrainian army units in eastern regions and push further toward Kyiv.</content>
+    <content type="html">The capture of this southern port city would be a victory for Russia, freeing up its forces to encircle Ukrainian army units in eastern regions and to push further toward Kyiv.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia-Ukraine War Adds Pressure to Already High Food Prices, Threatening Food Security for Millions</title>
-    <updated>2022-03-19T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-19:/articles/russia-ukraine-war-adds-pressure-to-already-high-food-prices-threatening-food-security-for-millions-11647691202</id>
-    <content type="html">Both countries are top grain exporters, but supply disruption is only part of the war’s impact on food.</content>
-    <link href="https://www.wsj.com/articles/russia-ukraine-war-adds-pressure-to-already-high-food-prices-threatening-food-security-for-millions-11647691202" rel="alternate"></link>
+    <title>Three Times Russians Botched a War and Had a Revolution</title>
+    <updated>2022-03-19T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-19:/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801</id>
+    <content type="html">History shows conflicts that begin far from Moscow can quickly blow back at home.</content>
+    <link href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
