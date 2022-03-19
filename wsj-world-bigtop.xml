@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-19T16:29:40Z</updated>
+  <updated>2022-03-19T18:24:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</title>
-    <updated>2022-03-19T15:37:00Z</updated>
+    <updated>2022-03-19T17:46:00Z</updated>
     <id>tag:www.wsj.com,2022-03-19:/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670</id>
-    <content type="html">The capture of Mariupol would be a key victory for Russia, which has so far failed to take any major Ukrainian cities. It would free up its forces to encircle Ukrainian army units in eastern regions and push further toward Kyiv.</content>
+    <content type="html">The capture of this southern port city would be a key victory for Russia, freeing up its forces to encircle Ukrainian army units in eastern regions and push further toward Kyiv.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
