@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-19T08:24:16Z</updated>
+  <updated>2022-03-19T10:23:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Family Navigates a Perilous Route to Escape Mariupol</title>
+    <updated>2022-03-19T09:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-19:/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744</id>
+    <content type="html">Russia’s bombardment of cities, towns and villages is confronting millions of Ukrainians with a painful dilemma: abandon their shattered lives and seek safety elsewhere, or cling on in the hope it passes.</content>
+    <link href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</title>
     <updated>2022-03-19T00:48:00Z</updated>
