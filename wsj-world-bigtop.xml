@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-19T04:27:10Z</updated>
+  <updated>2022-03-19T06:25:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-03-18:/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313</id>
     <content type="html">Russian President Vladimir Putin defended the assault in a rare public appearance at a gathering to mark the eighth anniversary of Russia’s seizure of Crimea from Ukraine.</content>
     <link href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</title>
-    <updated>2022-03-18T16:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-18:/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549</id>
-    <content type="html">The billionaire businessman with ties to Putin is trying to move chunks of his wealth out of the reach of an expanding dragnet. His trophy asset, London soccer club Chelsea, is on the block.</content>
-    <link href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
