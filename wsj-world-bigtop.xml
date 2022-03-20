@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-20T12:33:38Z</updated>
+  <updated>2022-03-20T14:20:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</title>
-    <updated>2022-03-19T23:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-19:/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670</id>
-    <content type="html">The capture of this southern port city would be a victory for Russia, freeing up its forces to encircle Ukrainian army units in eastern regions and to push further toward Kyiv.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670" rel="alternate"></link>
+    <title>Ukraine Tech Startups Pivot From Software Code to Rescue Plans</title>
+    <updated>2022-03-20T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-20:/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202</id>
+    <content type="html">Heads of tech startups with operations in Ukraine, like StarWind Software, Lemon,io and People.ai, are running their businesses from places like Poland, Israel and Silicon Valley—and helping evacuate and defend Ukraine.</content>
+    <link href="https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Three Times Russians Botched a War and Had a Revolution</title>
-    <updated>2022-03-19T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-19:/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801</id>
-    <content type="html">History shows conflicts that begin far from Moscow can quickly blow back at home.</content>
-    <link href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801" rel="alternate"></link>
+    <title>Russia&#39;s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts</title>
+    <updated>2022-03-20T12:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-20:/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418</id>
+    <content type="html">Russia appears to be preparing to reset its forces after more than three brutal weeks of combat and limited ground gains in its assault on Ukraine, while the situation in the embattled port city of Mariupol worsened.</content>
+    <link href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</title>
-    <updated>2022-03-19T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-19:/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601</id>
-    <content type="html">The U.S. deems credible reports that the chief of the FSB intelligence agency’s Ukraine unit is under house arrest. Bickering has occurred between the FSB and Russia’s defense ministry.</content>
-    <link href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Family Navigates a Perilous Route to Escape Mariupol</title>
-    <updated>2022-03-19T09:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-19:/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744</id>
-    <content type="html">Russia’s bombardment of cities, towns and villages is confronting millions of Ukrainians with a painful dilemma: abandon their shattered lives and seek safety elsewhere, or cling on in the hope it passes.</content>
-    <link href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744" rel="alternate"></link>
+    <title>China Says Housing Prices Are Stable, but Developers See Significant Declines</title>
+    <updated>2022-03-20T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-20:/articles/china-says-housing-prices-are-stable-but-developers-see-significant-declines-11647768602</id>
+    <content type="html">One main reason for the diverging picture is the composition of the country’s official data, economists and property analysts say.</content>
+    <link href="https://www.wsj.com/articles/china-says-housing-prices-are-stable-but-developers-see-significant-declines-11647768602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
