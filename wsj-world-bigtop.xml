@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-20T16:29:21Z</updated>
+  <updated>2022-03-20T18:25:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Tech Startups Pivot From Software Code to Rescue Plans</title>
-    <updated>2022-03-20T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-20:/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202</id>
-    <content type="html">Heads of tech startups with operations in Ukraine, like StarWind Software, Lemon,io and People.ai, are running their businesses from places like Poland, Israel and Silicon Valley—and helping evacuate and defend Ukraine.</content>
-    <link href="https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia&#39;s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts</title>
-    <updated>2022-03-20T12:40:00Z</updated>
+    <title>Russia&#39;s Assault on Ukraine Uproots 10 Million People</title>
+    <updated>2022-03-20T17:03:00Z</updated>
     <id>tag:www.wsj.com,2022-03-20:/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418</id>
-    <content type="html">Russia appears to be preparing to reset its forces after more than three brutal weeks of combat and limited ground gains in its assault on Ukraine, while the situation in the embattled port city of Mariupol worsened.</content>
+    <content type="html">Pope Francis decries ‘violent aggression against Ukraine’ and calls on the international community to act to end ‘this repugnant war.’</content>
     <link href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
