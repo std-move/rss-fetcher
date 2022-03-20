@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-20T18:25:14Z</updated>
+  <updated>2022-03-20T20:21:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia&#39;s Assault on Ukraine Uproots 10 Million People</title>
-    <updated>2022-03-20T17:03:00Z</updated>
+    <updated>2022-03-20T20:12:00Z</updated>
     <id>tag:www.wsj.com,2022-03-20:/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418</id>
     <content type="html">Pope Francis decries ‘violent aggression against Ukraine’ and calls on the international community to act to end ‘this repugnant war.’</content>
     <link href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>War in Ukraine Is Already Taking Its Toll on Global Food Supplies</title>
+    <updated>2022-03-20T17:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-20:/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055</id>
+    <content type="html">Shortages of fuel, fertilizer and workers caused by the Russian invasion will shrink an annual bounty that countries rely on around the world. “We want to plant, but the situation is totally unpredictable.”</content>
+    <link href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
