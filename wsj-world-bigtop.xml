@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-20T02:40:00Z</updated>
+  <updated>2022-03-20T04:27:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -24,7 +24,7 @@
     <title>Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</title>
     <updated>2022-03-19T11:00:00Z</updated>
     <id>tag:www.wsj.com,2022-03-19:/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601</id>
-    <content type="html">The U.S. deems credible reports that the chief of the FSB intelligence agency’s Ukraine unit is under house arrest. Bickering has occurred between the FSB and Russa’s defense ministry.</content>
+    <content type="html">The U.S. deems credible reports that the chief of the FSB intelligence agency’s Ukraine unit is under house arrest. Bickering has occurred between the FSB and Russia’s defense ministry.</content>
     <link href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
