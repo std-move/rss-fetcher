@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-21T14:19:53Z</updated>
+  <updated>2022-03-21T16:32:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Oligarchs&#39; Yachts Hit the High Seas</title>
+    <updated>2022-03-21T15:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-21:/articles/russian-oligarchs-yachts-hit-the-high-seas-11647876326</id>
+    <content type="html">The superyachts of Russia’s super rich have taken on outsize symbolism as targets of Ukraine-related sanctions. But while some luxury vessels have been seized at Europe’s ports, others made it to open water.</content>
+    <link href="https://www.wsj.com/articles/russian-oligarchs-yachts-hit-the-high-seas-11647876326" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Rejects Russian Ultimatum on Embattled Mariupol</title>
     <updated>2022-03-21T12:21:00Z</updated>
