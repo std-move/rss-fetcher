@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-20T22:20:45Z</updated>
+  <updated>2022-03-21T01:42:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia&#39;s Assault on Ukraine Uproots 10 Million People</title>
-    <updated>2022-03-20T21:31:00Z</updated>
+    <updated>2022-03-20T23:25:00Z</updated>
     <id>tag:www.wsj.com,2022-03-20:/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418</id>
     <content type="html">Secretary of Defense Lloyd Austin said Russia is deliberately targeting population centers because its military campaign had stalled in the face of an effective Ukrainian defense and counterattack.</content>
     <link href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418" rel="alternate"></link>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-03-20:/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055</id>
     <content type="html">Shortages of fuel, fertilizer and workers caused by the Russian invasion will shrink an annual bounty that countries rely on around the world. “We want to plant, but the situation is totally unpredictable.”</content>
     <link href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Elon Musk&#39;s Business Ties to China Create Unease in Washington</title>
+    <updated>2022-03-20T09:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-20:/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780</id>
+    <content type="html">Tesla and SpaceX are at the center of discussions, with some lawmakers fearing Beijing could access secrets.</content>
+    <link href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
