@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-22T20:21:59Z</updated>
+  <updated>2022-03-22T22:20:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</title>
-    <updated>2022-03-22T18:05:00Z</updated>
+    <updated>2022-03-22T21:37:00Z</updated>
     <id>tag:www.wsj.com,2022-03-22:/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707</id>
     <content type="html">Nearly a month since Russia invaded Ukraine, it is on the verge of taking Mariupol in what would be the first major city to fall under its control. But Mariupol is a shattered prize.</content>
     <link href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Chevron, Waiting It Out in Venezuela, Tells U.S. Now&#39;s the Time to Pump Oil</title>
-    <updated>2022-03-22T14:27:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-22:/articles/chevron-waiting-it-out-in-venezuela-tells-u-s-now-is-the-time-to-pump-oil-11647959248</id>
-    <content type="html">The company pledges to make up for fall in Russian exports, but some Biden officials oppose permitting U.S. companies to operate under President Nicolás Maduro’s autocratic regime.</content>
-    <link href="https://www.wsj.com/articles/chevron-waiting-it-out-in-venezuela-tells-u-s-now-is-the-time-to-pump-oil-11647959248" rel="alternate"></link>
+    <title>Ukraine&#39;s Air Defense Becomes Its Surprising Trump Card</title>
+    <updated>2022-03-22T17:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-22:/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237</id>
+    <content type="html">The combination of Soviet-era long-range anti-air systems, U.S. Stinger missiles and clever tactics confound Russia’s air force.</content>
+    <link href="https://www.wsj.com/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Flood of Ukrainian Refugees Tests Europe&#39;s Capacity to Welcome Them</title>
+    <updated>2022-03-22T16:51:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-22:/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874</id>
+    <content type="html">More than 3.5 million people have fled the Russian invasion, demanding a continentwide humanitarian response as EU governments pledge unprecedented support.</content>
+    <link href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,6 +34,14 @@
     <id>tag:www.wsj.com,2022-03-22:/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514</id>
     <content type="html">Russia’s invasion spurred price shocks and shortages of basic commodities, an especially tough blow to developing nations that were already far behind in their recovery from the pandemic. “We cannot continue like this.”</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Chevron, Waiting It Out in Venezuela, Tells U.S. Now&#39;s the Time to Pump Oil</title>
+    <updated>2022-03-22T14:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-22:/articles/chevron-waiting-it-out-in-venezuela-tells-u-s-now-is-the-time-to-pump-oil-11647959248</id>
+    <content type="html">The company pledges to make up for fall in Russian exports, but some Biden officials oppose permitting U.S. companies to operate under President Nicolás Maduro’s autocratic regime.</content>
+    <link href="https://www.wsj.com/articles/chevron-waiting-it-out-in-venezuela-tells-u-s-now-is-the-time-to-pump-oil-11647959248" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
