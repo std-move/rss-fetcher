@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-23T01:45:39Z</updated>
+  <updated>2022-03-23T02:57:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</title>
-    <updated>2022-03-22T22:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-22:/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707</id>
+    <updated>2022-03-23T02:49:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-23:/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707</id>
     <content type="html">Nearly a month since Russia invaded Ukraine, it is on the verge of taking Mariupol in what would be the first major city to fall under its control. But Mariupol is a shattered prize.</content>
     <link href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707" rel="alternate"></link>
     <summary type="html"></summary>
