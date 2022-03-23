@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-23T02:57:53Z</updated>
+  <updated>2022-03-23T04:27:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-03-23:/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707</id>
     <content type="html">Nearly a month since Russia invaded Ukraine, it is on the verge of taking Mariupol in what would be the first major city to fall under its control. But Mariupol is a shattered prize.</content>
     <link href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Air Defense Becomes Its Surprising Trump Card</title>
-    <updated>2022-03-22T17:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-22:/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237</id>
-    <content type="html">The combination of Soviet-era long-range anti-air systems, U.S. Stinger missiles and clever tactics confound Russia’s air force.</content>
-    <link href="https://www.wsj.com/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -34,6 +26,14 @@
     <id>tag:www.wsj.com,2022-03-22:/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514</id>
     <content type="html">Russia’s invasion spurred price shocks and shortages of basic commodities, an especially tough blow to developing nations that were already far behind in their recovery from the pandemic. “We cannot continue like this.”</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s Air Defense Becomes Its Surprising Trump Card</title>
+    <updated>2022-03-22T17:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-22:/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237</id>
+    <content type="html">The combination of Soviet-era long-range anti-air systems, U.S. Stinger missiles and clever tactics confound Russia’s air force.</content>
+    <link href="https://www.wsj.com/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
