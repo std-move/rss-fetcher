@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-23T16:30:45Z</updated>
+  <updated>2022-03-23T18:26:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Humanitarian Crisis Worsens, as Biden Heads to Europe</title>
-    <updated>2022-03-23T14:34:00Z</updated>
+    <title>NATO Estimates Steep Russian Losses in Ukraine as Biden Heads to Europe</title>
+    <updated>2022-03-23T17:56:00Z</updated>
     <id>tag:www.wsj.com,2022-03-23:/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069</id>
-    <content type="html">Ukraine’s president is betting that multinational talks about to unfold in Brussels will yield help for his country and sanctions on Russia. President Biden heads to Europe to punish Moscow for the monthlong assault on Ukraine.</content>
+    <content type="html">Alliance officials say Russia may have lost as much as one-fifth of its combat forces in about a month of fighting in Ukraine, and alliance leaders are gathering for a summit in Brussels to discuss further support to Kyiv.</content>
     <link href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</title>
+    <updated>2022-03-23T15:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-23:/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961</id>
+    <content type="html">Some of France’s largest companies, including Renault, Societe Generale and TotalEnergies, are maintaining ties in Russia after its invasion of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
