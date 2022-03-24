@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-24T12:37:17Z</updated>
+  <updated>2022-03-24T14:20:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>NATO Estimates Steep Russian Losses in Ukraine</title>
-    <updated>2022-03-23T23:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-23:/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069</id>
-    <content type="html">Alliance officials say Russia may have lost as much as one-fifth of its combat forces in about a month of fighting.</content>
-    <link href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Weapons for Ukraine Flow Through Small Polish Border Towns</title>
-    <updated>2022-03-23T20:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-23:/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417</id>
-    <content type="html">U.S. and allies race to buy and deliver more arms as Kyiv warns it is running low in its fight against Russia.</content>
-    <link href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
