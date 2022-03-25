@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-25T14:19:41Z</updated>
+  <updated>2022-03-25T16:33:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Biden&#39;s Poland Visit to Spotlight Aid for Ukraine</title>
-    <updated>2022-03-25T13:15:00Z</updated>
+    <updated>2022-03-25T16:04:00Z</updated>
     <id>tag:www.wsj.com,2022-03-25:/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912</id>
     <content type="html">President Biden’s meeting with the Polish leader comes as more than two million Ukrainian refugees have crossed the border into the NATO country.</content>
     <link href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912" rel="alternate"></link>
