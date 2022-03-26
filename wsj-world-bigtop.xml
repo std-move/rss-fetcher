@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-26T10:22:59Z</updated>
+  <updated>2022-03-26T12:33:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How Kyiv&#39;s Hospital #8 Became the War&#39;s Front Line for Wounded Ukrainians</title>
+    <updated>2022-03-26T10:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-26:/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756</id>
+    <content type="html">The Kyiv hospital was a center of excellence for scheduled surgeries on problems like hernias and heart valves. Then Russia’s invasion swept up to the edge of the Ukrainian capital, turning the hospital into a front-line medical facility.</content>
+    <link href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia&#39;s Shifting War Plan Threatens More Suffering for Eastern Ukraine</title>
+    <updated>2022-03-26T10:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-26:/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112</id>
+    <content type="html">Russia’s decision to change its Ukraine war plan underscores how Moscow is trying to secure territory closest to its own border that it has coveted for years.</content>
+    <link href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Biden&#39;s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</title>
     <updated>2022-03-25T19:21:00Z</updated>
