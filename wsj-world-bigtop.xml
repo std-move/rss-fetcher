@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-27T10:23:24Z</updated>
+  <updated>2022-03-27T12:34:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia&#39;s Shifting War Plan Threatens More Suffering for Eastern Ukraine</title>
-    <updated>2022-03-26T17:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-26:/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112</id>
-    <content type="html">Moscow’s decision to change its Ukraine assault strategy underscores how the Kremlin is trying to secure territory that it has coveted for years.</content>
-    <link href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112" rel="alternate"></link>
+    <title>Pakistan&#39;s Imran Khan Tries to Pull Off a Come-From-Behind Victory</title>
+    <updated>2022-03-27T10:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-27:/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084</id>
+    <content type="html">Supporters say the prime minister and former cricket star is putting up a fierce fight to stay in power as a no-confidence vote in parliament approaches.</content>
+    <link href="https://www.wsj.com/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How Kyiv&#39;s Hospital #8 Became the War&#39;s Front Line for Wounded Ukrainians</title>
-    <updated>2022-03-26T10:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-26:/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756</id>
-    <content type="html">The Kyiv hospital was a center of excellence for scheduled surgeries on problems like hernias and heart valves. Then Russia’s invasion swept up to the edge of the Ukrainian capital, turning the hospital into a front-line medical facility.</content>
-    <link href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756" rel="alternate"></link>
+    <title>Photos Chronicle Mariupol Devastation</title>
+    <updated>2022-03-27T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-27:/articles/photos-chronicle-the-devastation-of-mariupol-11648373400</id>
+    <content type="html">Satellite imagery, maps and drone footage detail destruction of the Livoberezhnyi district and sites in the center of the besieged Ukrainian city.</content>
+    <link href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
