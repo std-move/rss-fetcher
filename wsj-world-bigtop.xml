@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-27T18:24:54Z</updated>
+  <updated>2022-03-27T20:22:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Seeks to Exploit Shift in Russia&#39;s Military Strategy</title>
-    <updated>2022-03-27T16:38:00Z</updated>
+    <updated>2022-03-27T19:44:00Z</updated>
     <id>tag:www.wsj.com,2022-03-27:/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217</id>
     <content type="html">Ukrainian forces said they have driven Russian troops out of a town in the northeast, as Kyiv seeks to take advantage of a decision by Moscow to focus its efforts on controlling a swath of territory in the south and east.</content>
     <link href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Pakistan&#39;s Imran Khan Tries to Pull Off a Come-From-Behind Victory</title>
-    <updated>2022-03-27T10:14:00Z</updated>
+    <title>Pakistan&#39;s Imran Khan Puts Up Fierce Fight to Stay in Power</title>
+    <updated>2022-03-27T19:24:00Z</updated>
     <id>tag:www.wsj.com,2022-03-27:/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084</id>
-    <content type="html">Supporters say the prime minister and former cricket star is putting up a fierce fight to stay in power as a no-confidence vote in parliament approaches.</content>
+    <content type="html">The prime minister and former cricket star faces a no-confidence vote in parliament, as the country’s powerful military, which aided his rise to power, has turned cold on him.</content>
     <link href="https://www.wsj.com/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
