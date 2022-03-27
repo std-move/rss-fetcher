@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-27T14:18:45Z</updated>
+  <updated>2022-03-27T16:30:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Seeks to Exploit Shift in Russia&#39;s Military Strategy</title>
-    <updated>2022-03-27T14:11:00Z</updated>
+    <updated>2022-03-27T14:29:00Z</updated>
     <id>tag:www.wsj.com,2022-03-27:/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217</id>
     <content type="html">Ukrainian forces said they have driven Russian troops out of a town in the northeast, as Kyiv seeks to take advantage of a decision by Moscow to focus its efforts on controlling a swath of territory in the south and east.</content>
     <link href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-03-27:/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084</id>
     <content type="html">Supporters say the prime minister and former cricket star is putting up a fierce fight to stay in power as a no-confidence vote in parliament approaches.</content>
     <link href="https://www.wsj.com/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Photos Chronicle Mariupol Devastation</title>
-    <updated>2022-03-27T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-27:/articles/photos-chronicle-the-devastation-of-mariupol-11648373400</id>
-    <content type="html">Satellite imagery, maps and drone footage detail destruction of the Livoberezhnyi district and sites in the center of the besieged Ukrainian city.</content>
-    <link href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
