@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-27T22:21:28Z</updated>
+  <updated>2022-03-28T01:49:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-03-27:/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084</id>
     <content type="html">The prime minister and former cricket star faces a no-confidence vote in parliament, as the country’s powerful military, which aided his rise to power, has turned cold on him.</content>
     <link href="https://www.wsj.com/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>&#39;There Is No Fear&#39;: A Ukrainian Mother Risks All to Retrieve Her Son</title>
+    <updated>2022-03-27T14:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-27:/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838</id>
+    <content type="html">Olena Sirotiuk was working in Poland when the war broke out. She took a dangerous journey into Ukraine to reunite with her 12-year-old child.</content>
+    <link href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
