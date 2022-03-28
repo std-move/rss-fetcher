@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-28T10:24:40Z</updated>
+  <updated>2022-03-28T12:39:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Seeks to Exploit Shift in Russia&#39;s Military Strategy</title>
-    <updated>2022-03-27T19:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-27:/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217</id>
-    <content type="html">Ukrainian forces said they have driven Russian troops out of a town in the northeast, as Kyiv seeks to take advantage of a decision by Moscow to focus its efforts on controlling a swath of territory in the south and east.</content>
-    <link href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217" rel="alternate"></link>
+    <title>Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</title>
+    <updated>2022-03-28T10:45:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-28:/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333</id>
+    <content type="html">Negotiators were scheduled to travel to Istanbul for face-to-face cease-fire talks after Moscow’s forces struck sites across Ukraine overnight.</content>
+    <link href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Putin&#39;s War in Ukraine Tests Allegiances of Latvia&#39;s Russian Speakers</title>
+    <updated>2022-03-28T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-28:/articles/putins-war-in-ukraine-tests-allegiances-of-russian-speakers-in-former-soviet-latvia-11648459800</id>
+    <content type="html">A large minority in the country looked to Moscow after the Cold War. Some are now reassessing their allegiance, but not all.</content>
+    <link href="https://www.wsj.com/articles/putins-war-in-ukraine-tests-allegiances-of-russian-speakers-in-former-soviet-latvia-11648459800" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-03-27:/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084</id>
     <content type="html">The prime minister and former cricket star faces a no-confidence vote in parliament, as the country’s powerful military, which aided his rise to power, has turned cold on him.</content>
     <link href="https://www.wsj.com/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Ukrainian Mother Risks All to Retrieve Her Son</title>
-    <updated>2022-03-27T14:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-27:/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838</id>
-    <content type="html">Olena Sirotiuk was working in Poland when the war broke out. She took a dangerous journey into Ukraine to reunite with her 12-year-old child.</content>
-    <link href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
