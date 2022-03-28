@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-28T18:26:33Z</updated>
+  <updated>2022-03-28T20:23:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</title>
-    <updated>2022-03-28T16:33:00Z</updated>
+    <updated>2022-03-28T20:19:00Z</updated>
     <id>tag:www.wsj.com,2022-03-28:/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333</id>
     <content type="html">Negotiators were scheduled to travel to Istanbul for face-to-face cease-fire talks after Moscow’s forces struck sites across Ukraine overnight.</content>
     <link href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333" rel="alternate"></link>
