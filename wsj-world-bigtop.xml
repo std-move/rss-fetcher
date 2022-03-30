@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-29T22:21:58Z</updated>
+  <updated>2022-03-30T01:48:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</title>
+    <updated>2022-03-29T21:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-29:/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561</id>
+    <content type="html">Kyiv outlined its demands during cease-fire talks with Russia, seeking binding security guarantees from the U.S. and some European countries, while the five-week-old Russian war on Ukraine raged on around the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Darkens Olympics&#39; Bid for a Reset</title>
     <updated>2022-03-29T15:43:00Z</updated>
