@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-31T14:21:10Z</updated>
+  <updated>2022-03-31T16:31:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</title>
-    <updated>2022-03-31T01:23:00Z</updated>
-    <id>tag:www.wsj.com,2022-03-31:/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073</id>
-    <content type="html">The Kremlin dismissed the idea that Tuesday’s negotiations in Turkey had represented a turning point as Moscow stepped up ground and air attacks in Ukraine’s Donbas region.</content>
-    <link href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073" rel="alternate"></link>
+    <title>Ukrainian Troops Push Forward as Russian Forces Regroup</title>
+    <updated>2022-03-31T15:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-31:/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863</id>
+    <content type="html">After taking the city of Irpin to the northwest of Kyiv this week, Ukrainian forces are now engaged in heavy fighting in the neighboring towns of Bucha and Hostomel, officials said.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Inside an 11-Year-Old&#39;s Solo Escape From Ukraine</title>
+    <updated>2022-03-31T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-03-31:/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000</id>
+    <content type="html">The plan to get Alhasan Alkhalaf from Ukraine to Slovakia relied on the goodwill of volunteers and border guards, and his wits.</content>
+    <link href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
