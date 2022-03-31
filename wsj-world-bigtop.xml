@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-31T18:26:54Z</updated>
+  <updated>2022-03-31T20:22:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Troops Push Forward as Russian Forces Regroup</title>
-    <updated>2022-03-31T17:37:00Z</updated>
+    <updated>2022-03-31T19:34:00Z</updated>
     <id>tag:www.wsj.com,2022-03-31:/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863</id>
     <content type="html">After taking the city of Irpin to the northwest of Kyiv this week, Ukrainian forces are now engaged in heavy fighting in the neighboring towns of Bucha and Hostomel, officials said.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863" rel="alternate"></link>
