@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-03-31T20:22:58Z</updated>
+  <updated>2022-03-31T22:21:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Troops Push Forward as Russian Forces Regroup</title>
-    <updated>2022-03-31T19:34:00Z</updated>
+    <title>Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl</title>
+    <updated>2022-03-31T22:09:00Z</updated>
     <id>tag:www.wsj.com,2022-03-31:/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863</id>
-    <content type="html">After taking the city of Irpin to the northwest of Kyiv this week, Ukrainian forces are now engaged in heavy fighting in the neighboring towns of Bucha and Hostomel, officials said.</content>
+    <content type="html">Ukrainian officials said their armed forces are pressing against Russian military units around Kyiv, while Russian forces handed control of the Chernobyl nuclear power plant back to Ukraine.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
