@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-01T20:23:05Z</updated>
+  <updated>2022-04-01T22:21:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Strikes Inside Russian Territory, Russians Say</title>
-    <updated>2022-04-01T18:41:00Z</updated>
+    <updated>2022-04-01T21:45:00Z</updated>
     <id>tag:www.wsj.com,2022-04-01:/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107</id>
     <content type="html">Ukrainian attack helicopters executed a predawn raid on Russian territory, a Russian official said, eluding air defenses to strike an oil depot near the border and signaling Kyiv’s ability to broaden the field of the war.</content>
     <link href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Vladimir Putin&#39;s 20-Year March to War in Ukraine---and How the West Mishandled It</title>
+    <updated>2022-04-01T21:20:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-01:/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461</id>
+    <content type="html">Washington and the EU vacillated between engagement and deterrence. Meanwhile, the Russian leader became more isolated and more obsessed.</content>
+    <link href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-04-01:/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720</id>
     <content type="html">The Russian billionaire was recruited by a Ukrainian film producer to deliver messages directly to Vladimir Putin and to help the Ukrainians understand what he is thinking. Some Ukrainian officials have praised what they say is Mr. Abramovich’s constructive role in peace talks.</content>
     <link href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Vladimir Putin&#39;s 20-Year March to War in Ukraine---and How the West Mishandled It</title>
-    <updated>2022-04-01T15:21:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-01:/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461</id>
-    <content type="html">Washington and the EU vacillated between engagement and deterrence. Meanwhile, the Russian leader became more isolated and more obsessed.</content>
-    <link href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
