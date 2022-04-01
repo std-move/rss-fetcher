@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-01T10:25:26Z</updated>
+  <updated>2022-04-01T12:43:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Strikes Russian Military Depot, Russians Say</title>
+    <title>A Lovestruck Blogger, a Businessman, a 1-Year-Old Girl: Tales of China Eastern Flight Victims</title>
+    <updated>2022-04-01T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-01:/articles/a-lovestruck-blogger-a-businessman-a-1-year-old-girl-tales-of-china-eastern-flight-victims-emerge-11648805402</id>
+    <content type="html">Almost two weeks after the Flight 5735 fell out of the sky, killing all 132 passengers and crew in one of China’s worst air disaster in decades, a clearer picture of those on board is emerging.</content>
+    <link href="https://www.wsj.com/articles/a-lovestruck-blogger-a-businessman-a-1-year-old-girl-tales-of-china-eastern-flight-victims-emerge-11648805402" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Strikes Inside Russian Territory, Russians Say</title>
     <updated>2022-04-01T09:28:00Z</updated>
     <id>tag:www.wsj.com,2022-04-01:/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107</id>
     <content type="html">Ukrainian attack helicopters executed a predawn raid on Russian territory, a Russian official said, eluding air defenses to strike an oil depot near the border and signaling Kyiv’s ability to broaden the field of the war.</content>
