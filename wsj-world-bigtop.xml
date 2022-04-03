@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-03T20:22:51Z</updated>
+  <updated>2022-04-03T22:21:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>New Reports of War Crimes in Ukraine Emerge as Russians Retreat</title>
-    <updated>2022-04-03T19:20:00Z</updated>
+    <updated>2022-04-03T21:42:00Z</updated>
     <id>tag:www.wsj.com,2022-04-03:/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003</id>
     <content type="html">More than 100 civilians have been buried in mass graves by local authorities in Bucha since Russian troops withdrew from the Kyiv-area suburb last week.</content>
     <link href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003" rel="alternate"></link>
