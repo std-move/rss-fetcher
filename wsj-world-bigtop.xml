@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-02T22:21:09Z</updated>
+  <updated>2022-04-03T01:48:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Assesses Damage After Russian Pullback Near Kyiv</title>
-    <updated>2022-04-02T21:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-02:/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002</id>
+    <updated>2022-04-03T00:53:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-03:/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002</id>
     <content type="html">Ukrainian forces cleared mines and counted the dead around the capital following recent Russian troop withdrawals, as Moscow shifted military operations to the country’s east.</content>
     <link href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002" rel="alternate"></link>
     <summary type="html"></summary>
