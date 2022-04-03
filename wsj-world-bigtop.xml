@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-03T18:25:15Z</updated>
+  <updated>2022-04-03T20:22:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>New Reports of War Crimes in Ukraine Emerge as Russians Retreat From Kyiv Area</title>
-    <updated>2022-04-03T15:20:00Z</updated>
+    <title>New Reports of War Crimes in Ukraine Emerge as Russians Retreat</title>
+    <updated>2022-04-03T19:20:00Z</updated>
     <id>tag:www.wsj.com,2022-04-03:/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003</id>
     <content type="html">More than 100 civilians have been buried in mass graves by local authorities in Bucha since Russian troops withdrew from the Kyiv-area suburb last week.</content>
     <link href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Cancún&#39;s Tourist Idyll Is Shattered by Drug Violence and Homicides</title>
+    <updated>2022-04-03T19:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-03:/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578</id>
+    <content type="html">Mexico’s Riviera Maya area has seen an alarming rise in killings. The violence in the country’s top tourism spot is being fueled by demand for narcotics by the tourists themselves.</content>
+    <link href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
