@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-03T22:21:34Z</updated>
+  <updated>2022-04-04T01:52:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-04-03:/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578</id>
     <content type="html">Mexico’s Riviera Maya area has seen an alarming rise in killings. The violence in the country’s top tourism spot is being fueled by demand for narcotics by the tourists themselves.</content>
     <link href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Afghanistan&#39;s Taliban Ban Poppy Cultivation</title>
+    <updated>2022-04-03T16:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-03:/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599</id>
+    <content type="html">The regime, seeking international recognition as the country’s legitimate government, unveiled the official ban on poppy-growing in a bid to curb the world’s heroin supply.</content>
+    <link href="https://www.wsj.com/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
