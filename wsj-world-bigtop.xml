@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-04T20:23:03Z</updated>
+  <updated>2022-04-04T22:22:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine</title>
+    <updated>2022-04-04T22:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-04:/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251</id>
+    <content type="html">Biden calls for war crimes trial, says Putin must be held accountable, as Ukrainians recount brutality of occupation.</content>
+    <link href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine War Drives Countries to Embrace Renewable Energy---but Not Yet</title>
     <updated>2022-04-04T15:46:00Z</updated>
     <id>tag:www.wsj.com,2022-04-04:/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062</id>
     <content type="html">Many nations are speeding up plans to transition to green energy, such as wind and solar power, in their quest to replace Russian supplies. In the near term, they’re leaning even more on oil, gas and coal.</content>
     <link href="https://www.wsj.com/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Zelensky Calls for Justice Over Alleged Russian War Crimes</title>
-    <updated>2022-04-04T15:37:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-04:/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251</id>
-    <content type="html">Ukraine’s president described Russian forces as murderers and rapists as the extent of killings in towns surrounding Kyiv began to emerge, and President Biden called for a war-crimes trial.</content>
-    <link href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
