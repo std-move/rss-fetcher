@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-04T14:21:23Z</updated>
+  <updated>2022-04-04T16:33:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky Calls for Justice Over Alleged Russian War Crimes</title>
-    <updated>2022-04-04T11:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-04:/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251</id>
-    <content type="html">Ukraine’s president described Russian forces as “murderers” and “rapists” as the extent of killings in towns surrounding Kyiv began to emerge, vowing to prosecute what he called war crimes.</content>
-    <link href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251" rel="alternate"></link>
+    <title>Will the Ukraine War Push Countries Toward Renewable Energy? Yes---and No</title>
+    <updated>2022-04-04T15:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-04:/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062</id>
+    <content type="html">Many countries are speeding up plans to transition to green energy, such as wind and solar power, in their quest to replace Russian supplies. But in the near term, they’re leaning even more on oil, gas and coal.</content>
+    <link href="https://www.wsj.com/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukrainian Refugees Mostly Are Finding Shelter in Private Homes</title>
-    <updated>2022-04-04T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-04:/articles/flood-of-refugees-from-ukraine-mostly-are-finding-shelter-in-private-homes-11649064600</id>
-    <content type="html">An informal network of support comprising Western Europeans and Ukrainians in diaspora has taken in refugee families and has eased the burden on public services, but officials are wary of a backlash as the war drags on.</content>
-    <link href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-mostly-are-finding-shelter-in-private-homes-11649064600" rel="alternate"></link>
+    <title>Zelensky Calls for Justice Over Alleged Russian War Crimes</title>
+    <updated>2022-04-04T15:37:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-04:/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251</id>
+    <content type="html">Ukraine’s president described Russian forces as murderers and rapists as the extent of killings in towns surrounding Kyiv began to emerge, and President Biden called for a war-crimes trial.</content>
+    <link href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
