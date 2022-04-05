@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-05T12:36:58Z</updated>
+  <updated>2022-04-05T14:20:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Zelensky to Address U.N. With Claims of Russian Atrocities</title>
+    <updated>2022-04-05T13:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-05:/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565</id>
+    <content type="html">Ukraine’s president is preparing to address the United Nations Security Council after warning that newly uncovered atrocities could be worse than those in the city of Bucha.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Taliban Crack Down on Social Freedoms With Even Stricter Policing</title>
     <updated>2022-04-05T11:04:00Z</updated>
     <id>tag:www.wsj.com,2022-04-05:/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657</id>
     <content type="html">The Taliban have in recent weeks introduced draconian social restrictions, which in particular curb the freedoms of women, even as the group seeks international recognition.</content>
     <link href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Zelensky to Address U.N. With Claims of Russian Atrocities</title>
-    <updated>2022-04-05T10:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-05:/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565</id>
-    <content type="html">Ukraine’s president is preparing to address the United Nations Security Council after warning that newly uncovered atrocities could be worse than those in the city of Bucha.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
