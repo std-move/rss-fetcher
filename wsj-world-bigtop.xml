@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-05T01:43:29Z</updated>
+  <updated>2022-04-05T02:57:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine</title>
-    <updated>2022-04-04T22:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-04:/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251</id>
+    <updated>2022-04-05T02:32:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-05:/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251</id>
     <content type="html">Biden calls for war crimes trial, says Putin must be held accountable, as Ukrainians recount brutality of occupation.</content>
     <link href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251" rel="alternate"></link>
     <summary type="html"></summary>
