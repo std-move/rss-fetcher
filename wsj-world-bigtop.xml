@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-05T16:32:24Z</updated>
+  <updated>2022-04-05T18:27:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky Addresses U.N. With Claims of Russian Atrocities</title>
-    <updated>2022-04-05T14:46:00Z</updated>
+    <title>Ukraine&#39;s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</title>
+    <updated>2022-04-05T16:37:00Z</updated>
     <id>tag:www.wsj.com,2022-04-05:/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565</id>
-    <content type="html">Ukraine’s president addressed the United Nations Security Council after warning that newly uncovered atrocities could be worse than those in the city of Bucha.</content>
+    <content type="html">Volodymyr Zelensky warned that newly uncovered atrocities following the withdrawal of Moscow’s forces near Kyiv could be worse than those in the city of Bucha.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Taliban Crack Down on Social Freedoms With Even Stricter Policing</title>
-    <updated>2022-04-05T11:04:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-05:/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657</id>
-    <content type="html">The Taliban have in recent weeks introduced draconian social restrictions, which in particular curb the freedoms of women, even as the group seeks international recognition.</content>
-    <link href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657" rel="alternate"></link>
+    <title>Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</title>
+    <updated>2022-04-05T16:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-05:/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611</id>
+    <content type="html">A beloved mayor and her family helped townspeople resist Russian occupation. They paid for it with their lives. “Why were they killed? Because they were Ukrainians.”</content>
+    <link href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
