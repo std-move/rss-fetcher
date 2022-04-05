@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-05T18:27:29Z</updated>
+  <updated>2022-04-05T20:23:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</title>
-    <updated>2022-04-05T16:37:00Z</updated>
+    <updated>2022-04-05T19:04:00Z</updated>
     <id>tag:www.wsj.com,2022-04-05:/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565</id>
     <content type="html">Volodymyr Zelensky warned that newly uncovered atrocities following the withdrawal of Moscow’s forces near Kyiv could be worse than those in the city of Bucha.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565" rel="alternate"></link>
