@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-06T12:40:29Z</updated>
+  <updated>2022-04-06T18:27:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</title>
-    <updated>2022-04-06T01:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-06:/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565</id>
-    <content type="html">Volodymyr Zelensky warned that newly uncovered atrocities following the withdrawal of Moscow’s forces near Kyiv could be worse than those in the city of Bucha.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</title>
-    <updated>2022-04-05T21:21:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-05:/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611</id>
-    <content type="html">A beloved mayor and her family helped townspeople resist Russian occupation. They paid for it with their lives. “Why were they killed? Because they were Ukrainians.”</content>
-    <link href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611" rel="alternate"></link>
+    <title>Ukraine Braces for Intense Battles in Eastern Donbas</title>
+    <updated>2022-04-06T17:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-06:/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280</id>
+    <content type="html">Ukraine urged civilians to leave the eastern Kharkiv, Donetsk and Luhansk regions as it prepared for a major new Russian offensive following Moscow’s withdrawal from the north of the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
