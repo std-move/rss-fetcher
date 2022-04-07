@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-07T14:21:32Z</updated>
+  <updated>2022-04-07T16:31:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Calls for More Arms, Tougher Sanctions to Fend Off Russia in Donbas</title>
-    <updated>2022-04-07T12:59:00Z</updated>
+    <title>Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</title>
+    <updated>2022-04-07T16:17:00Z</updated>
     <id>tag:www.wsj.com,2022-04-07:/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575</id>
-    <content type="html">Ukrainian officials called for tighter sanctions and more weapons to forestall a looming Russian offensive in the east of the country, as Moscow mobilizes troops there after pulling back in northern Ukraine.</content>
+    <content type="html">At a NATO meeting on Thursday, Ukrainian Foreign Minister Dmytro Kuleba underscored his country’s need for a sustainable supply of arms to counter Russia’s offensive in the eastern Donbas area.</content>
     <link href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
