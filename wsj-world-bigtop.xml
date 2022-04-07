@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-07T10:23:35Z</updated>
+  <updated>2022-04-07T12:39:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Braces for Intense Battles in Eastern Donbas</title>
-    <updated>2022-04-07T00:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-07:/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280</id>
-    <content type="html">Ukraine urged civilians to leave the eastern Donetsk, Luhansk and parts of the Kharkiv regions as it prepared for a major new Russian offensive following Moscow’s withdrawal from the north of the country.</content>
-    <link href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280" rel="alternate"></link>
+    <title>Ukraine Calls for Tougher Sanctions, More Arms to Fend Off Russia in Donbas</title>
+    <updated>2022-04-07T10:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-07:/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575</id>
+    <content type="html">President Volodymyr Zelensky said a new package of Western sanctions against Russia was too lenient, as he accused Russian forces of seeking to destroy evidence of killings he said occurred in areas under their control.</content>
+    <link href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>&#39;We Will Kill You&#39;: How Russia Silenced Its Antiwar Movement</title>
-    <updated>2022-04-06T09:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-06:/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478</id>
-    <content type="html">A new Russian law prohibiting referrals to the military campaign in Ukraine as a war or an invasion and mass arrests of protesters have largely eliminated visible signs of dissent inside Russia, leading to large numbers of people choosing to leave the country.</content>
-    <link href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478" rel="alternate"></link>
+    <title>Belarusians, Russians Join Ukraine&#39;s Military, Hoping for Freedom at Home</title>
+    <updated>2022-04-07T09:54:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-07:/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276</id>
+    <content type="html">Hundreds of volunteers from Belarus have joined a dedicated Belarusian battalion since the invasion of Ukraine, while a separate unit staffed by Russian citizens is also preparing to deploy to the front lines.</content>
+    <link href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
