@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-07T20:23:30Z</updated>
+  <updated>2022-04-07T22:22:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Shanghai, in Lockdown, Struggles to Feed Itself</title>
+    <updated>2022-04-07T21:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-07:/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336</id>
+    <content type="html">Food shortages in China’s wealthy coastal megacity are sparking anxiety and desperation for residents as delivery delays continue and stores of vegetables and staples dwindle in a citywide Covid-19 lockdown.</content>
+    <link href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</title>
     <updated>2022-04-07T20:07:00Z</updated>
     <id>tag:www.wsj.com,2022-04-07:/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575</id>
     <content type="html">At a NATO meeting on Thursday, Ukrainian Foreign Minister Dmytro Kuleba underscored his country’s need for a sustainable supply of arms to counter Russia’s offensive in the eastern Donbas area.</content>
     <link href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai, in Lockdown, Struggles to Feed Itself</title>
-    <updated>2022-04-07T17:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-07:/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336</id>
-    <content type="html">Food shortages in China’s wealthy coastal megacity are sparking anxiety and desperation for residents as delivery delays continue and stores of vegetables and staples dwindle in a citywide Covid-19 lockdown.</content>
-    <link href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
