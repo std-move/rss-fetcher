@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-08T20:23:04Z</updated>
+  <updated>2022-04-08T22:22:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Missile Strike Kills Dozens Fleeing at Donbas Train Station</title>
+    <updated>2022-04-08T20:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-08:/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672</id>
+    <content type="html">A Russian attack on the Ukrainian city of Kramatorsk killed at least 52 people and injured more than 100 as they tried to flee intense fighting in the east, Ukrainian authorities said.</content>
+    <link href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>A Woman&#39;s Frantic Search for Family Trapped in Mariupol</title>
     <updated>2022-04-08T17:39:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-04-08:/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200</id>
     <content type="html">Polling shows Marine Le Pen closing in on President Emmanuel Macron ahead of elections Sunday, as the war in Ukraine ripples across Europe’s economic and political landscape.</content>
     <link href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Missile Strike Kills Dozens Fleeing at Donbas Train Station</title>
-    <updated>2022-04-08T15:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672</id>
-    <content type="html">A Russian attack on the Ukrainian city of Kramatorsk killed 50 and injured nearly 100 people as they tried to flee intense fighting in the east, Ukrainian authorities said.</content>
-    <link href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
