@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-08T16:32:13Z</updated>
+  <updated>2022-04-08T18:27:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Woman&#39;s Frantic Search for Family Trapped in Mariupol</title>
+    <updated>2022-04-08T17:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-08:/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201</id>
+    <content type="html">Some 160,000 people remain stranded in the city. One woman has spent weeks contacting acquaintances and strangers in an effort to locate family members there, as Moscow’s assault grinds on.</content>
+    <link href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</title>
+    <updated>2022-04-08T17:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-08:/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200</id>
+    <content type="html">Polling shows Marine Le Pen closing in on President Emmanuel Macron ahead of elections Sunday, as the war in Ukraine ripples across Europe’s economic and political landscape.</content>
+    <link href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Missile Strike Kills Dozens Fleeing at Donbas Train Station</title>
     <updated>2022-04-08T15:40:00Z</updated>
@@ -18,22 +34,6 @@
     <id>tag:www.wsj.com,2022-04-08:/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941</id>
     <content type="html">Xi Jinping looked to ease China’s zero-Covid strategy until the highly contagious variant forced a return to strict lockdowns. He faces a dilemma other world leaders hope their countries never see again.</content>
     <link href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainians Search for Relatives in Besieged Mariupol</title>
-    <updated>2022-04-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201</id>
-    <content type="html">Some 160,000 people remain stranded in the city. One woman has spent weeks contacting acquaintances and strangers in an effort to locate family members there, as Moscow’s assault grinds on.</content>
-    <link href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Inflation Tightens Race Between France&#39;s Macron and Far Right Le Pen</title>
-    <updated>2022-04-08T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200</id>
-    <content type="html">Far-right leader Marine Le Pen is closing in on President Emmanuel Macron as inflation hits voters’ pocketbooks ahead of elections Sunday.</content>
-    <link href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
