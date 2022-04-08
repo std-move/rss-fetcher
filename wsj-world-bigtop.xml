@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-08T10:25:34Z</updated>
+  <updated>2022-04-08T12:41:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</title>
-    <updated>2022-04-08T03:14:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575</id>
-    <content type="html">At a NATO meeting on Thursday, Ukrainian Foreign Minister Dmytro Kuleba underscored his country’s need for a sustainable supply of arms to counter Russia’s offensive in the eastern Donbas area.</content>
-    <link href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575" rel="alternate"></link>
+    <title>Missile Strike Kills Dozens Fleeing at Donbas Train Station</title>
+    <updated>2022-04-08T11:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-08:/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672</id>
+    <content type="html">A Russian attack on the Ukrainian city of Kramatorsk killed 39 and injured dozens more people as they tried to flee intense fighting in the east, Ukrainian authorities said.</content>
+    <link href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainians Search for Relatives in Besieged Mariupol</title>
+    <updated>2022-04-08T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-08:/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201</id>
+    <content type="html">Some 160,000 people remain stranded in the city. One woman has spent weeks contacting acquaintances and strangers in an effort to locate family members there, as Moscow’s assault grinds on.</content>
+    <link href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-04-07:/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202</id>
     <content type="html">Russian soldiers were polite at first, but as their losses mounted they turned on the civilian population.</content>
     <link href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai, in Lockdown, Struggles to Feed Itself</title>
-    <updated>2022-04-07T21:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-07:/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336</id>
-    <content type="html">Food shortages in China’s wealthy coastal megacity are sparking anxiety and desperation for residents as delivery delays continue and stores of vegetables and staples dwindle in a citywide Covid-19 lockdown.</content>
-    <link href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
