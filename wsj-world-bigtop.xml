@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-08T01:47:43Z</updated>
+  <updated>2022-04-08T03:05:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</title>
+    <updated>2022-04-08T01:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-08:/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575</id>
+    <content type="html">At a NATO meeting on Thursday, Ukrainian Foreign Minister Dmytro Kuleba underscored his country’s need for a sustainable supply of arms to counter Russia’s offensive in the eastern Donbas area.</content>
+    <link href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Horrors of Ukraine&#39;s Bucha Laid Bare on Yablunska Street</title>
     <updated>2022-04-07T22:59:00Z</updated>
@@ -18,22 +26,6 @@
     <id>tag:www.wsj.com,2022-04-07:/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336</id>
     <content type="html">Food shortages in China’s wealthy coastal megacity are sparking anxiety and desperation for residents as delivery delays continue and stores of vegetables and staples dwindle in a citywide Covid-19 lockdown.</content>
     <link href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</title>
-    <updated>2022-04-07T20:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-07:/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575</id>
-    <content type="html">At a NATO meeting on Thursday, Ukrainian Foreign Minister Dmytro Kuleba underscored his country’s need for a sustainable supply of arms to counter Russia’s offensive in the eastern Donbas area.</content>
-    <link href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Belarusians, Russians Join Ukraine&#39;s Military, Hoping for Freedom at Home</title>
-    <updated>2022-04-07T09:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-07:/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276</id>
-    <content type="html">Hundreds of volunteers from Belarus have joined a dedicated Belarusian battalion since the invasion of Ukraine, while a separate unit staffed by Russian citizens is also preparing to deploy to the front lines.</content>
-    <link href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
