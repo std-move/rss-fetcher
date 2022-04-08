@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-07T22:22:02Z</updated>
+  <updated>2022-04-08T01:47:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Horrors of Ukraine&#39;s Bucha Laid Bare on Yablunska Street</title>
+    <updated>2022-04-07T22:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-07:/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202</id>
+    <content type="html">Russian soldiers were polite at first, but as their losses mounted they turned on the civilian population.</content>
+    <link href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Shanghai, in Lockdown, Struggles to Feed Itself</title>
     <updated>2022-04-07T21:16:00Z</updated>
