@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-08T22:22:24Z</updated>
+  <updated>2022-04-09T01:41:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Missile Strike Kills Dozens Fleeing at Donbas Train Station</title>
-    <updated>2022-04-08T20:44:00Z</updated>
+    <updated>2022-04-08T23:02:00Z</updated>
     <id>tag:www.wsj.com,2022-04-08:/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672</id>
     <content type="html">A Russian attack on the Ukrainian city of Kramatorsk killed at least 52 people and injured more than 100 as they tried to flee intense fighting in the east, Ukrainian authorities said.</content>
     <link href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672" rel="alternate"></link>
