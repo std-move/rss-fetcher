@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-09T12:35:08Z</updated>
+  <updated>2022-04-09T14:19:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Zelensky Calls Russian Strike on Station a War Crime</title>
-    <updated>2022-04-09T11:08:00Z</updated>
+    <updated>2022-04-09T12:40:00Z</updated>
     <id>tag:www.wsj.com,2022-04-09:/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528</id>
-    <content type="html">Russia is repositioning its forces while Ukraine is trying to move people out of the east as both sides prepare for the next phase of the conflict.</content>
+    <content type="html">Russia is repositioning forces while Ukraine tries to evacuate civilians as both sides brace for battle in the east.</content>
     <link href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</title>
+    <updated>2022-04-09T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-09:/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000</id>
+    <content type="html">A tropical “Little Ukraine” is populated by descendants of Ukrainian immigrants who arrived decades ago and still maintain the old language and customs.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
