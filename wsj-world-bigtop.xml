@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-09T16:30:10Z</updated>
+  <updated>2022-04-09T18:25:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky Calls Russian Strike on Station a War Crime</title>
-    <updated>2022-04-09T12:40:00Z</updated>
+    <title>Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</title>
+    <updated>2022-04-09T17:31:00Z</updated>
     <id>tag:www.wsj.com,2022-04-09:/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528</id>
-    <content type="html">Russia is repositioning its forces and Ukraine is trying to evacuate civilians as both sides brace for a battle in the east.</content>
+    <content type="html">Both sides are gearing up for a full-scale Russian attack in Donbas, with Kyiv trying to send in military supplies while Moscow repositions forces withdrawn from around Kyiv.</content>
     <link href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</title>
+    <updated>2022-04-09T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-09:/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201</id>
+    <content type="html">China has accelerated an expansion of its nuclear arsenal because of a change in its assessment of the threat posed by the U.S., people with knowledge of the Chinese leadership’s thinking say.</content>
+    <link href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,22 +26,6 @@
     <id>tag:www.wsj.com,2022-04-09:/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000</id>
     <content type="html">A tropical “Little Ukraine” is populated by descendants of Ukrainian immigrants who arrived decades ago and still maintain the old language and customs.</content>
     <link href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</title>
-    <updated>2022-04-08T17:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200</id>
-    <content type="html">Polling shows Marine Le Pen closing in on President Emmanuel Macron ahead of elections Sunday, as the war in Ukraine ripples across Europe’s economic and political landscape.</content>
-    <link href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai&#39;s Omicron Outbreak Corners Chinese Leader</title>
-    <updated>2022-04-08T13:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941</id>
-    <content type="html">Xi Jinping looked to ease China’s zero-Covid strategy until the highly contagious variant forced a return to strict lockdowns. He faces a dilemma other world leaders hope their countries never see again.</content>
-    <link href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
