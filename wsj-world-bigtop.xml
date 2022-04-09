@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-09T10:23:41Z</updated>
+  <updated>2022-04-09T12:35:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Missile Strike Kills Dozens Fleeing at Donbas Train Station</title>
-    <updated>2022-04-08T23:02:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672</id>
-    <content type="html">A Russian attack on the Ukrainian city of Kramatorsk killed at least 52 people and injured more than 100 as they tried to flee intense fighting in the east, Ukrainian authorities said.</content>
-    <link href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Woman&#39;s Frantic Search for Family Trapped in Mariupol</title>
-    <updated>2022-04-08T17:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-08:/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201</id>
-    <content type="html">Some 160,000 people remain stranded in the city. One woman has spent weeks contacting acquaintances and strangers in an effort to locate family members there, as Moscow’s assault grinds on.</content>
-    <link href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201" rel="alternate"></link>
+    <title>Zelensky Calls Russian Strike on Station a War Crime</title>
+    <updated>2022-04-09T11:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-09:/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528</id>
+    <content type="html">Russia is repositioning its forces while Ukraine is trying to move people out of the east as both sides prepare for the next phase of the conflict.</content>
+    <link href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
