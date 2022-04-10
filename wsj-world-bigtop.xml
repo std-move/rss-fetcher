@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-10T20:22:02Z</updated>
+  <updated>2022-04-10T22:21:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>France&#39;s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</title>
-    <updated>2022-04-10T18:13:00Z</updated>
+    <updated>2022-04-10T21:55:00Z</updated>
     <id>tag:www.wsj.com,2022-04-10:/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003</id>
     <content type="html">President Emmanuel Macron won the first round with 28.5% of the vote ahead of Marine Le Pen with 24.2%, according to exit polls, setting the stage for a closely contested runoff.</content>
     <link href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003" rel="alternate"></link>
@@ -26,6 +26,14 @@
     <id>tag:www.wsj.com,2022-04-10:/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603</id>
     <content type="html">The Israeli military says it has carried out more than 400 airstrikes targeting Iran and its allies.</content>
     <link href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Shanghai Has Recorded More Than 130,000 Covid Cases---and No Deaths</title>
+    <updated>2022-04-10T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-10:/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402</id>
+    <content type="html">With 25 million people in lockdown, Shanghai has reported no deaths and says currently only one case is severe.</content>
+    <link href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
