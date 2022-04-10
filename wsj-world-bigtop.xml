@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-10T18:26:21Z</updated>
+  <updated>2022-04-10T20:22:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>France&#39;s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</title>
+    <updated>2022-04-10T18:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-10:/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003</id>
+    <content type="html">President Emmanuel Macron won the first round with 28.5% of the vote ahead of Marine Le Pen with 24.2%, according to exit polls, setting the stage for a closely contested runoff.</content>
+    <link href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine, Russia Gear Up for War&#39;s Biggest Battles</title>
     <updated>2022-04-10T17:12:00Z</updated>
     <id>tag:www.wsj.com,2022-04-10:/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496</id>
     <content type="html">The countries poured reinforcements into eastern Ukraine, as refugees fled the looming Russian assault. Unlike the first part of the war, with its guerrilla tactics, officials expect large-scale tank and artillery battles for the eastern Donbas region.</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israel&#39;s &#39;War Between the Wars&#39; With Iran Expands Across the Middle East</title>
+    <updated>2022-04-10T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-10:/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603</id>
+    <content type="html">The Israeli military says it has carried out more than 400 airstrikes targeting Iran and its allies.</content>
+    <link href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
