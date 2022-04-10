@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-10T16:30:19Z</updated>
+  <updated>2022-04-10T18:26:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine, Russia Gear Up for War&#39;s Biggest Battles</title>
-    <updated>2022-04-10T16:07:00Z</updated>
+    <updated>2022-04-10T17:12:00Z</updated>
     <id>tag:www.wsj.com,2022-04-10:/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496</id>
-    <content type="html">Unlike the first part of the war, with its guerrilla tactics, officials expect large-scale tank and artillery battles for the eastern Donbas region.</content>
+    <content type="html">The countries poured reinforcements into eastern Ukraine, as refugees fled the looming Russian assault. Unlike the first part of the war, with its guerrilla tactics, officials expect large-scale tank and artillery battles for the eastern Donbas region.</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
