@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-11T10:26:30Z</updated>
+  <updated>2022-04-11T12:38:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</title>
+    <updated>2022-04-11T10:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-11:/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671</id>
+    <content type="html">The Ukrainian president launched a fresh appeal for help as his country prepares to step up the fight for its eastern regions, while Austria’s chancellor became the first Western leader to visit Russian President Vladimir Putin since the war began.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>What Is the U.S.&#39;s Long-Term Policy Toward Russia Now?</title>
     <updated>2022-04-11T09:33:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-04-11:/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400</id>
     <content type="html">The leader of the National Rally party’s new approach, coupled with a significant rightward shift in French politics over the past five years, helped her win 22.9% of the estimated vote in the first round of France’s presidential election on Sunday. President Emmanuel Macron received 28.2%.</content>
     <link href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine, Russia Gear Up for War&#39;s Biggest Battles</title>
-    <updated>2022-04-10T17:12:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-10:/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496</id>
-    <content type="html">The countries poured reinforcements into eastern Ukraine, as refugees fled the looming Russian assault. Unlike the first part of the war, with its guerrilla tactics, officials expect large-scale tank and artillery battles for the eastern Donbas region.</content>
-    <link href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
