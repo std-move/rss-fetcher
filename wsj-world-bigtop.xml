@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-11T16:33:05Z</updated>
+  <updated>2022-04-11T18:29:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</title>
-    <updated>2022-04-11T16:08:00Z</updated>
+    <updated>2022-04-11T17:56:00Z</updated>
     <id>tag:www.wsj.com,2022-04-11:/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671</id>
     <content type="html">The Ukrainian president launched a fresh appeal for help as his country prepares to step up the fight for its eastern regions, while France sent a police unit from its armed forces to Ukraine to investigate potential war crimes.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671" rel="alternate"></link>
@@ -21,18 +21,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>What Is the U.S.&#39;s Long-Term Policy Toward Russia Now?</title>
-    <updated>2022-04-11T09:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-11:/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581</id>
-    <content type="html">U.S. officials say it is far too soon to draw up a new long-term posture toward Russia, but some wonder what diplomatic and commercial relations would look like if a cease-fire were to be achieved in Ukraine.</content>
-    <link href="https://www.wsj.com/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>France&#39;s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</title>
     <updated>2022-04-11T09:30:00Z</updated>
     <id>tag:www.wsj.com,2022-04-11:/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400</id>
-    <content type="html">The leader of the National Rally party’s new approach, coupled with a significant rightward shift in French politics over the past five years, helped her win 22.9% of the estimated vote in the first round of France’s presidential election on Sunday. President Emmanuel Macron received 28.2%.</content>
+    <content type="html">The National Rally party leader’s new approach, coupled with a significant rightward shift in French politics, helped Marine LePen win 22.9% of the estimated vote in the first round of France’s presidential election. President Emmanuel Macron received 28.2%.</content>
     <link href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
