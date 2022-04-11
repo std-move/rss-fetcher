@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-11T14:20:56Z</updated>
+  <updated>2022-04-11T16:33:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</title>
-    <updated>2022-04-11T10:57:00Z</updated>
+    <updated>2022-04-11T16:08:00Z</updated>
     <id>tag:www.wsj.com,2022-04-11:/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671</id>
-    <content type="html">The Ukrainian president launched a fresh appeal for help as his country prepares to step up the fight for its eastern regions, while Austria’s chancellor became the first Western leader to visit Russian President Vladimir Putin since the war began.</content>
+    <content type="html">The Ukrainian president launched a fresh appeal for help as his country prepares to step up the fight for its eastern regions, while France sent a police unit from its armed forces to Ukraine to investigate potential war crimes.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Moscow&#39;s Central Banker Dismantles What She Built</title>
+    <updated>2022-04-11T14:24:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-11:/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535</id>
+    <content type="html">Elvira Nabiullina, who strove to integrate Russia into the world economy, has dropped that mission for a new one—shielding the populace from the fallout of sanctions over the Ukraine invasion. “She’s clearly been second fiddle in Putin’s orchestra.”</content>
+    <link href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2022-04-11:/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400</id>
     <content type="html">The leader of the National Rally party’s new approach, coupled with a significant rightward shift in French politics over the past five years, helped her win 22.9% of the estimated vote in the first round of France’s presidential election on Sunday. President Emmanuel Macron received 28.2%.</content>
     <link href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel&#39;s &#39;War Between the Wars&#39; With Iran Expands Across the Middle East</title>
-    <updated>2022-04-10T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-10:/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603</id>
-    <content type="html">The Israeli military says it has carried out more than 400 airstrikes targeting Iran and its allies.</content>
-    <link href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
