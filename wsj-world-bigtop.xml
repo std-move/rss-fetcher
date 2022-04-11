@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-11T08:27:07Z</updated>
+  <updated>2022-04-11T10:26:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>France&#39;s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</title>
-    <updated>2022-04-10T21:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-10:/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003</id>
-    <content type="html">President Emmanuel Macron won the first round with 28.5% of the vote ahead of Marine Le Pen with 24.2%, according to exit polls, setting the stage for a closely contested runoff.</content>
-    <link href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003" rel="alternate"></link>
+    <title>What Is the U.S.&#39;s Long-Term Policy Toward Russia Now?</title>
+    <updated>2022-04-11T09:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-11:/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581</id>
+    <content type="html">U.S. officials say it is far too soon to draw up a new long-term posture toward Russia, but some wonder what diplomatic and commercial relations would look like if a cease-fire were to be achieved in Ukraine.</content>
+    <link href="https://www.wsj.com/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>France&#39;s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</title>
+    <updated>2022-04-11T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-11:/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400</id>
+    <content type="html">The leader of the National Rally party’s new approach, coupled with a significant rightward shift in French politics over the past five years, helped her win 22.9% of the estimated vote in the first round of France’s presidential election on Sunday. President Emmanuel Macron received 28.2%.</content>
+    <link href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,22 +34,6 @@
     <id>tag:www.wsj.com,2022-04-10:/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603</id>
     <content type="html">The Israeli military says it has carried out more than 400 airstrikes targeting Iran and its allies.</content>
     <link href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai Has Recorded More Than 130,000 Covid Cases---and No Deaths</title>
-    <updated>2022-04-10T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-10:/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402</id>
-    <content type="html">With 25 million people in lockdown, Shanghai has reported no deaths and says currently only one case is severe.</content>
-    <link href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fleeing Putin, Thousands of Educated Russians Move Abroad</title>
-    <updated>2022-04-10T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-10:/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003</id>
-    <content type="html">Young professionals, often working in tech, have left the country after the Ukraine invasion: “I can’t live in a country that goes to war with its neighbors.”</content>
-    <link href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
