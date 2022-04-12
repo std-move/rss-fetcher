@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-12T16:32:00Z</updated>
+  <updated>2022-04-12T18:26:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Putin Says Ukraine Peace Talks Hit &#39;Dead End,&#39; Vows to Continue Fight</title>
-    <updated>2022-04-12T15:30:00Z</updated>
+    <updated>2022-04-12T17:20:00Z</updated>
     <id>tag:www.wsj.com,2022-04-12:/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356</id>
-    <content type="html">Russian leader cites ‘fake’ war-crimes allegations and states the goal of aiding people in Donbas, as Ukraine probes an alleged Russian chemical-weapons attack in Mariupol.</content>
+    <content type="html">The Russian leader cited “fake” war-crimes allegations and stated the goal of aiding people in Donbas, as Ukraine probed an alleged Russian chemical-weapons attack in Mariupol.</content>
     <link href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</title>
-    <updated>2022-04-12T12:39:00Z</updated>
+    <updated>2022-04-12T16:22:00Z</updated>
     <id>tag:www.wsj.com,2022-04-12:/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154</id>
     <content type="html">Authorities are embarking on a wide-ranging probe of alleged war crimes with the aim of building cases strong enough to persuade an international court to hold the Kremlin and its soldiers responsible.</content>
     <link href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Executive Crossed Globe to Help Ukraine Get Food</title>
-    <updated>2022-04-12T11:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-12:/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380</id>
-    <content type="html">The war has decimated Ukraine’s food supply chain, leading to shortages; Stanislas Vilgrain solicited donations and drove them across Europe to Lviv.</content>
-    <link href="https://www.wsj.com/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
