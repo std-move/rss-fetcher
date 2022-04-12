@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-12T20:23:22Z</updated>
+  <updated>2022-04-12T22:21:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Putin Says Ukraine Peace Talks Hit &#39;Dead End,&#39; Vows to Continue Fight</title>
-    <updated>2022-04-12T18:31:00Z</updated>
+    <updated>2022-04-12T21:51:00Z</updated>
     <id>tag:www.wsj.com,2022-04-12:/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356</id>
-    <content type="html">The Russian leader cited “fake” war-crimes allegations and stated the goal of aiding people in Donbas, as Ukraine probed an alleged Russian chemical-weapons attack in Mariupol.</content>
+    <content type="html">The Russian leader cited ‘fake’ war-crimes allegations and Moscow’s forces bombarded Ukraine’s east. Putin said that without an agreement acceptable to the Kremlin, Russian forces would continue their offensive.</content>
     <link href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
