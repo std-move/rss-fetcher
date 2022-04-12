@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-12T10:26:14Z</updated>
+  <updated>2022-04-12T12:38:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Unleashes New Attacks Overnight on Ukraine&#39;s Eastern Region</title>
-    <updated>2022-04-12T09:05:00Z</updated>
+    <updated>2022-04-12T11:28:00Z</updated>
     <id>tag:www.wsj.com,2022-04-12:/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356</id>
-    <content type="html">Ukrainian authorities are still investigating allegations by their forces that they came under a Russian chemical attack in Mariupol, which Moscow sees as crucial to its efforts to take over eastern Ukraine and push westward.</content>
+    <content type="html">Ukrainian authorities are still investigating allegations by their forces that they came under a Russian chemical attack in Mariupol, a city that Moscow sees as crucial to its efforts to take over eastern Ukraine and push westward.</content>
     <link href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Moscow&#39;s Central Banker Dismantles What She Built</title>
-    <updated>2022-04-11T14:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-11:/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535</id>
-    <content type="html">Elvira Nabiullina, who strove to integrate Russia into the world economy, has dropped that mission for a new one—shielding the populace from the fallout of sanctions over the Ukraine invasion. “She’s clearly been second fiddle in Putin’s orchestra.”</content>
-    <link href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535" rel="alternate"></link>
+    <title>U.S. Executive Crossed Globe to Help Ukraine Get Food</title>
+    <updated>2022-04-12T11:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-12:/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380</id>
+    <content type="html">The war has decimated Ukraine’s food supply chain, leading to shortages; Stanislas Vilgrain solicited donations and drove them across Europe to Lviv.</content>
+    <link href="https://www.wsj.com/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
