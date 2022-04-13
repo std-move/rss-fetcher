@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-13T10:25:08Z</updated>
+  <updated>2022-04-13T12:38:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</title>
-    <updated>2022-04-13T03:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-13:/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356</id>
-    <content type="html">Moscow’s forces bombarded Ukraine military positions and residential areas in the country’s east and unleashed new rocket attacks.</content>
-    <link href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Has Deployed 1,000 People to Investigate Alleged War Crimes in Bucha</title>
-    <updated>2022-04-12T16:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-12:/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154</id>
-    <content type="html">Authorities are embarking on a wide-ranging probe of alleged war crimes with the aim of building cases strong enough to persuade an international court to hold the Kremlin and its soldiers responsible.</content>
-    <link href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154" rel="alternate"></link>
+    <title>Russian Forces Renew Focus on Southern and Eastern Ukraine</title>
+    <updated>2022-04-13T09:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-13:/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020</id>
+    <content type="html">Airstrikes on Ukrainian positions in the besieged city of Mariupol came a day after Russian President Vladimir Putin said peace talks with Kyiv had reached a dead end.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
