@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-13T08:27:54Z</updated>
+  <updated>2022-04-13T10:25:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</title>
+    <title>Ukraine Has Deployed 1,000 People to Investigate Alleged War Crimes in Bucha</title>
     <updated>2022-04-12T16:22:00Z</updated>
     <id>tag:www.wsj.com,2022-04-12:/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154</id>
     <content type="html">Authorities are embarking on a wide-ranging probe of alleged war crimes with the aim of building cases strong enough to persuade an international court to hold the Kremlin and its soldiers responsible.</content>
