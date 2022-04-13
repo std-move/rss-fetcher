@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-13T03:07:49Z</updated>
+  <updated>2022-04-13T04:30:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</title>
-    <updated>2022-04-13T00:47:00Z</updated>
+    <updated>2022-04-13T03:50:00Z</updated>
     <id>tag:www.wsj.com,2022-04-13:/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356</id>
     <content type="html">Moscow’s forces bombarded Ukraine military positions and residential areas in the country’s east and unleashed new rocket attacks.</content>
     <link href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356" rel="alternate"></link>
