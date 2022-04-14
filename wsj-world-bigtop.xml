@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-14T16:34:42Z</updated>
+  <updated>2022-04-14T18:26:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia&#39;s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</title>
-    <updated>2022-04-14T13:49:00Z</updated>
+    <updated>2022-04-14T17:25:00Z</updated>
     <id>tag:www.wsj.com,2022-04-14:/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914</id>
     <content type="html">The missile cruiser Moskva was seriously damaged after its ammunition blew up, Russia’s Defense Ministry said. A Ukrainian military spokesman said the ship had been hit by cruise missiles, causing it to capsize and start to sink.</content>
     <link href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</title>
+    <updated>2022-04-14T15:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-14:/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913</id>
+    <content type="html">Nations are resisting economic sanctions and voicing criticism over the Ukraine invasion, fearful of political and economic repercussions from Moscow or Beijing. “Our position is not that this is not our problem.”</content>
+    <link href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
