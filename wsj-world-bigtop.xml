@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-14T12:43:24Z</updated>
+  <updated>2022-04-14T14:20:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia&#39;s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sank It</title>
-    <updated>2022-04-14T10:22:00Z</updated>
+    <title>Russia&#39;s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</title>
+    <updated>2022-04-14T13:49:00Z</updated>
     <id>tag:www.wsj.com,2022-04-14:/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914</id>
-    <content type="html">The missile cruiser Moskva was abandoned by its crew after its ammunition blew up, Russia’s Defense Ministry said. Ukrainian officials said their forces hit the ship with cruise missiles.</content>
+    <content type="html">The missile cruiser Moskva was seriously damaged after its ammunition blew up, Russia’s Defense Ministry said. A Ukrainian military spokesman said the ship had been hit by cruise missiles, causing it to capsize and start to sink.</content>
     <link href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Secret of Ukraine&#39;s Military Success: Years of NATO Training</title>
-    <updated>2022-04-13T15:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-13:/articles/ukraine-military-success-years-of-nato-training-11649861339</id>
-    <content type="html">Extensive programs have taught thousands of soldiers, plus military brass and lawmakers overseeing the armed forces, how to transform from a rigid Soviet-style force into a modern army that thinks on the move.</content>
-    <link href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
