@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-15T12:37:48Z</updated>
+  <updated>2022-04-15T14:20:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>At Least 150 Injured in Clashes at Jerusalem Holy Site</title>
-    <updated>2022-04-15T11:45:00Z</updated>
+    <updated>2022-04-15T13:24:00Z</updated>
     <id>tag:www.wsj.com,2022-04-15:/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054</id>
     <content type="html">Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.</content>
     <link href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054" rel="alternate"></link>
