@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-15T14:20:30Z</updated>
+  <updated>2022-04-15T16:34:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Kyiv Rocked by Explosions as Russia Steps Up Attacks</title>
+    <updated>2022-04-15T15:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-15:/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113</id>
+    <content type="html">Russia threatened to escalate attacks on Ukrainian command centers in response to alleged strikes inside Russian territory, with both sides gearing up for a new stage in the ground war.</content>
+    <link href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>At Least 150 Injured in Clashes at Jerusalem Holy Site</title>
     <updated>2022-04-15T13:24:00Z</updated>
@@ -13,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Kyiv Rocked by Explosions as Russia Steps Up Attacks</title>
-    <updated>2022-04-15T11:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-15:/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113</id>
-    <content type="html">Russia threatened to escalate attacks on Ukrainian command centers in response to alleged strikes inside Russian territory, with both sides gearing up for a new stage in the ground war.</content>
-    <link href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113" rel="alternate"></link>
+    <title>&#39;I Lost James.&#39; An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan&#39;s Fall.</title>
+    <updated>2022-04-15T13:21:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-15:/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911</id>
+    <content type="html">James was separated from his family in the mob pushing to enter the Kabul airport before the Taliban takeover last summer. That left his father with a terrible choice.</content>
+    <link href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
