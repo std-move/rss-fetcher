@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-16T10:25:07Z</updated>
+  <updated>2022-04-16T12:36:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Kyiv Rocked by Explosions as Russia Steps Up Attacks</title>
-    <updated>2022-04-16T03:59:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-16:/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113</id>
-    <content type="html">Russia threatened to escalate attacks on Ukrainian command centers in response to alleged strikes inside Russian territory, with both sides gearing up for a new stage in the ground war.</content>
-    <link href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113" rel="alternate"></link>
+    <title>Russian Forces Expand Footprint in Eastern Ukraine</title>
+    <updated>2022-04-16T11:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-16:/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094</id>
+    <content type="html">Russian forces are attempting to establish full control over the besieged city of Mariupol, Ukraine’s armed forces said, ahead of what is expected to be an intense wave of fighting in the country’s east.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-04-15:/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054</id>
     <content type="html">Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.</content>
     <link href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Anger Over Covid Lockdowns Mounts in Shanghai</title>
-    <updated>2022-04-15T16:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-15:/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314</id>
-    <content type="html">Restrictions have strained nerves and livelihoods in China’s largest and wealthiest city, eroding some residents’ trust in authorities; “I’ve lost confidence in this government.”</content>
-    <link href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
