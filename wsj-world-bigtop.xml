@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-16T02:56:05Z</updated>
+  <updated>2022-04-16T04:28:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Kyiv Rocked by Explosions as Russia Steps Up Attacks</title>
-    <updated>2022-04-15T22:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-15:/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113</id>
+    <updated>2022-04-16T03:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-16:/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113</id>
     <content type="html">Russia threatened to escalate attacks on Ukrainian command centers in response to alleged strikes inside Russian territory, with both sides gearing up for a new stage in the ground war.</content>
     <link href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113" rel="alternate"></link>
     <summary type="html"></summary>
