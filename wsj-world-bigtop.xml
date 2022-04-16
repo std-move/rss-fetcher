@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-16T18:26:27Z</updated>
+  <updated>2022-04-16T20:22:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</title>
+    <updated>2022-04-16T18:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-16:/articles/mariupol-in-ruins-11650132943</id>
+    <content type="html">The key Ukrainian port city has seen some of the fiercest urban warfare since the Russians invaded.</content>
+    <link href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Forces Expand Footprint in Eastern Ukraine</title>
     <updated>2022-04-16T17:50:00Z</updated>
