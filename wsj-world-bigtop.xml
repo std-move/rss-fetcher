@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-17T08:26:26Z</updated>
+  <updated>2022-04-17T10:23:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russian Forces Closer to Taking Mariupol</title>
-    <updated>2022-04-16T23:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-16:/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094</id>
-    <content type="html">The Russian Defense Ministry said the urban areas of the besieged port city had been cleared of Ukrainian troops, with local military resistance isolated at a metallurgical plant in an industrial area.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</title>
     <updated>2022-04-16T18:15:00Z</updated>
     <id>tag:www.wsj.com,2022-04-16:/articles/mariupol-in-ruins-11650132943</id>
     <content type="html">The key Ukrainian port city has seen some of the fiercest urban warfare since the Russians invaded.</content>
     <link href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</title>
-    <updated>2022-04-16T13:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-16:/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455</id>
-    <content type="html">U.S. charities helped organize communal Seder gatherings in war-torn regions and for Ukrainian refugees abroad.</content>
-    <link href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai&#39;s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</title>
-    <updated>2022-04-16T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-16:/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402</id>
-    <content type="html">As grocery delivery is thrown into disarray, one neighbor gets three oranges in return for lending out his cat.</content>
-    <link href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
