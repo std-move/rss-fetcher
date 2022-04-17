@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-17T12:36:00Z</updated>
+  <updated>2022-04-17T14:19:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Calls on Ukraine&#39;s Surrounded Mariupol Forces to Surrender</title>
-    <updated>2022-04-17T12:26:00Z</updated>
+    <updated>2022-04-17T12:52:00Z</updated>
     <id>tag:www.wsj.com,2022-04-17:/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920</id>
     <content type="html">Moscow offered Mariupol’s defenders an hourslong cease-fire that it said would allow them to leave the battlefield unscathed, as it closed in on capturing the strategic port city after weeks of heavy bombardment.</content>
     <link href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920" rel="alternate"></link>
@@ -26,38 +26,6 @@
     <id>tag:www.wsj.com,2022-04-17:/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802</id>
     <content type="html">Almost three weeks of forced isolation after a positive Covid-19 test made Jane Polubotko, a Ukrainian, feel like a “Covid criminal.”</content>
     <link href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</title>
-    <updated>2022-04-16T18:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-16:/articles/mariupol-in-ruins-11650132943</id>
-    <content type="html">The key Ukrainian port city has seen some of the fiercest urban warfare since the Russians invaded.</content>
-    <link href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Venezuelans Flee Again,This Time to the U.S.</title>
-    <updated>2022-04-15T16:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-15:/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323</id>
-    <content type="html">Struggling in countries hard-hit by the pandemic, tens of thousands of displaced Venezuelans are on the move again, trekking to the U.S. in search of asylum and stability.</content>
-    <link href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>At Least 150 Injured in Clashes at Jerusalem Holy Site</title>
-    <updated>2022-04-15T17:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-15:/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054</id>
-    <content type="html">Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.</content>
-    <link href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#39;I Lost James.&#39; An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan&#39;s Fall.</title>
-    <updated>2022-04-15T13:21:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-15:/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911</id>
-    <content type="html">James was separated from his family in the mob pushing to enter the Kabul airport before the Taliban takeover last summer. That left his father with a terrible choice.</content>
-    <link href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
