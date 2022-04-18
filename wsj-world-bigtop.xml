@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-18T16:33:57Z</updated>
+  <updated>2022-04-18T18:28:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Seven Killed in Russian Missile Strikes on Ukraine&#39;s Lviv, Officials Say</title>
-    <updated>2022-04-18T14:38:00Z</updated>
+    <title>Seven Killed in Russian Missile Strikes on Ukraine&#39;s Lviv</title>
+    <updated>2022-04-18T17:09:00Z</updated>
     <id>tag:www.wsj.com,2022-04-18:/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626</id>
     <content type="html">The attack on the western city—a common destination for displaced Ukrainians—was a reminder that Russia’s long-range weapons remain a threat to areas far from the conflict’s eastern front lines.</content>
     <link href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626" rel="alternate"></link>
