@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-19T20:25:33Z</updated>
+  <updated>2022-04-19T22:24:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Rushes to Evacuate Civilians in East as Russia&#39;s Offensive Pushes Forward</title>
-    <updated>2022-04-19T18:36:00Z</updated>
+    <updated>2022-04-19T20:40:00Z</updated>
     <id>tag:www.wsj.com,2022-04-19:/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570</id>
     <content type="html">The main cities in the Ukrainian-controlled parts of the region have already turned into ghost towns, with almost all stores and businesses closed, streets emptied and only a handful of apartments in each block still inhabited.</content>
     <link href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570" rel="alternate"></link>
