@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-19T16:35:19Z</updated>
+  <updated>2022-04-19T18:28:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Fleeing War, Ukrainians With Cancer Find Refuge in Europe</title>
-    <updated>2022-04-19T13:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-19:/articles/fleeing-war-ukrainians-with-cancer-find-refuge-in-europe-11650366000</id>
-    <content type="html">Revamped hotel in Poland is caring for children whose treatment was disrupted by fighting.</content>
-    <link href="https://www.wsj.com/articles/fleeing-war-ukrainians-with-cancer-find-refuge-in-europe-11650366000" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Ukraine Rushes to Evacuate Civilians in East as Russia&#39;s Offensive Pushes Forward</title>
-    <updated>2022-04-19T12:44:00Z</updated>
+    <updated>2022-04-19T17:42:00Z</updated>
     <id>tag:www.wsj.com,2022-04-19:/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570</id>
     <content type="html">The main cities in the Ukrainian-controlled parts of the region have already turned into ghost towns, with almost all stores and businesses closed, streets emptied and only a handful of apartments in each block still inhabited.</content>
     <link href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How U.S.-Saudi Relations Reached the Breaking Point</title>
+    <updated>2022-04-19T15:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-19:/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578</id>
+    <content type="html">The decadeslong alliance is at risk over disagreements regarding oil production levels, security concerns, human rights and the Russian invasion of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</title>
+    <updated>2022-04-19T14:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-19:/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925</id>
+    <content type="html">Defenders of the besieged port city have frustrated Moscow’s troops, keeping thousands from other battles.</content>
+    <link href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
