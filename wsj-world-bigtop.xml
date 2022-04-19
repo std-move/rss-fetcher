@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-18T22:23:39Z</updated>
+  <updated>2022-04-19T02:02:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Begins New Military Offensive in Ukraine&#39;s East, Ukrainian President Says</title>
-    <updated>2022-04-18T21:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-18:/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626</id>
+    <updated>2022-04-19T01:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-19:/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626</id>
     <content type="html">President Volodymyr Zelensky says Russian forces have started the battle for Donbas.</content>
     <link href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626" rel="alternate"></link>
     <summary type="html"></summary>
