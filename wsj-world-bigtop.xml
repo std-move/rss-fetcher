@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-20T16:37:14Z</updated>
+  <updated>2022-04-20T18:28:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</title>
-    <updated>2022-04-20T15:03:00Z</updated>
+    <updated>2022-04-20T16:28:00Z</updated>
     <id>tag:www.wsj.com,2022-04-20:/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031</id>
     <content type="html">Russian forces made incremental gains in their offensive in eastern Ukraine’s Donbas region, as Western nations rushed more weapons to the outgunned Ukrainian military.</content>
     <link href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-04-20:/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587</id>
     <content type="html">Steel magnate Alexey Mordashov, one of the country’s richest men, dedicated much of his career to strengthening Western ties and distancing himself from politics. Putin’s Ukraine invasion made him a pariah nonetheless.</content>
     <link href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How U.S.-Saudi Relations Reached the Breaking Point</title>
-    <updated>2022-04-19T15:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-19:/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578</id>
-    <content type="html">The decadeslong alliance is at risk over disagreements regarding oil production levels, security concerns, human rights and the Russian invasion of Ukraine.</content>
-    <link href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
