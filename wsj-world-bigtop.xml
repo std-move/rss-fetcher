@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-21T10:26:28Z</updated>
+  <updated>2022-04-21T12:40:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>He Worked for Moscow&#39;s Police for Nearly 20 Years. Then He Spoke Up About Ukraine.</title>
+    <updated>2022-04-21T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-21:/articles/he-worked-for-moscows-police-for-nearly-20-years-then-he-spoke-up-about-the-ukraine-war-11650533400</id>
+    <content type="html">Sergei Klokov now faces 10 years in prison in one of the first known cases under a new Russian law that prohibits spreading information on the war that goes against the Kremlin line.</content>
+    <link href="https://www.wsj.com/articles/he-worked-for-moscows-police-for-nearly-20-years-then-he-spoke-up-about-the-ukraine-war-11650533400" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel Airstrikes Target Gaza After Rocket Fire Amid Jerusalem Tensions</title>
     <updated>2022-04-21T05:23:00Z</updated>
