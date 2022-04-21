@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-21T04:52:59Z</updated>
+  <updated>2022-04-21T06:29:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Airstrikes Target Gaza After Rocket Fire Amid Jerusalem Tensions</title>
+    <updated>2022-04-21T05:23:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-21:/articles/israeli-police-block-jewish-marchers-from-jerusalem-flashpoints-11650478517</id>
+    <content type="html">Attack comes hours after Israeli police blocked Jewish marchers from Jerusalem flashpoints.</content>
+    <link href="https://www.wsj.com/articles/israeli-police-block-jewish-marchers-from-jerusalem-flashpoints-11650478517" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</title>
     <updated>2022-04-21T01:24:00Z</updated>
     <id>tag:www.wsj.com,2022-04-21:/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031</id>
     <content type="html">Russian forces made incremental gains in their offensive in eastern Ukraine’s Donbas region, as Western nations rushed more weapons to the outgunned Ukrainian military.</content>
     <link href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Airstrikes Target Gaza After Rocket Fire Amid Jerusalem Tensions</title>
-    <updated>2022-04-21T00:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-21:/articles/israeli-police-block-jewish-marchers-from-jerusalem-flashpoints-11650478517</id>
-    <content type="html">Attack comes hours after Israeli police blocked Jewish marchers from Jerusalem flashpoints.</content>
-    <link href="https://www.wsj.com/articles/israeli-police-block-jewish-marchers-from-jerusalem-flashpoints-11650478517" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
