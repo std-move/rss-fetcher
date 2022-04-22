@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-21T22:22:50Z</updated>
+  <updated>2022-04-22T02:04:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</title>
-    <updated>2022-04-21T21:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-21:/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039</id>
+    <updated>2022-04-22T00:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-22:/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039</id>
     <content type="html">Russia presented it as one of its first victories in the conflict after weeks of setbacks, though Ukrainian forces were still blockaded inside a steel plant in the city and said they were continuing to launch attacks.</content>
     <link href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039" rel="alternate"></link>
     <summary type="html"></summary>
