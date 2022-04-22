@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-22T10:26:29Z</updated>
+  <updated>2022-04-22T12:43:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</title>
-    <updated>2022-04-22T00:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-22:/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039</id>
-    <content type="html">Russia presented it as one of its first victories in the conflict after weeks of setbacks, though Ukrainian forces were still blockaded inside a steel plant in the city and said they were continuing to launch attacks.</content>
-    <link href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039" rel="alternate"></link>
+    <title>In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</title>
+    <updated>2022-04-22T12:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-22:/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253</id>
+    <content type="html">Parts of what was a sophisticated hub of Ukraine’s science and research now lack basic amenities like running water and electricity. Some 2,000 high-rises have been destroyed, according to the municipality.</content>
+    <link href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</title>
-    <updated>2022-04-21T18:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-21:/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495</id>
-    <content type="html">Treacherous escapes from the besieged coastal city help to explain why so many civilians remained for so long: Staying could mean getting killed, but leaving also comes with high risks.</content>
-    <link href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495" rel="alternate"></link>
+    <title>Russia Advances in Ukraine&#39;s Donbas, Is Accused of Digging Mass Graves</title>
+    <updated>2022-04-22T10:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-22:/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954</id>
+    <content type="html">Russian forces slowly made gains in Ukraine’s east, as Ukrainian officials said thousands of people have been buried in mass graves in Mariupol, most of which has been seized by Russia after nearly two months of combat.</content>
+    <link href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
