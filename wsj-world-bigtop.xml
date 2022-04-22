@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-22T16:35:03Z</updated>
+  <updated>2022-04-22T18:27:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</title>
-    <updated>2022-04-22T14:23:00Z</updated>
+    <updated>2022-04-22T16:43:00Z</updated>
     <id>tag:www.wsj.com,2022-04-22:/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954</id>
     <content type="html">Ukrainian officials accused Russia of burying thousands of civilians in mass graves outside Mariupol, as Moscow pressed its offensive to capture the rest of the eastern Donbas region.</content>
     <link href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Marine Le Pen&#39;s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</title>
+    <updated>2022-04-22T16:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-22:/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840</id>
+    <content type="html">The party, named National Rally, is paying the money to a contractor that is currently under U.S. sanctions, part of a settlement involving a previous loan from a Russian bank.</content>
+    <link href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</title>
+    <updated>2022-04-22T15:29:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-22:/articles/shanghai-nursing-home-covid-deaths-11650641053</id>
+    <content type="html">China’s policy of lockdowns, coupled with low vaccination rates among older people, hasn’t been effective during the highly contagious Omicron wave. “Every hospital is now a mess.”</content>
+    <link href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Macron vs. Le Pen: Growing Voter Discontent Shakes France&#39;s Political Foundations</title>
+    <updated>2022-04-22T14:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-22:/articles/france-macron-le-pen-election-politics-11650487493</id>
+    <content type="html">Voter malaise, fueled by widening economic disparity, has pushed up support for candidates on the far right and far left in election after election. “Our society is broken.”</content>
+    <link href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
