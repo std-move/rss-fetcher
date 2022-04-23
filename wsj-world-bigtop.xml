@@ -1,47 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-23T14:20:15Z</updated>
+  <updated>2022-04-23T16:31:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Shanghai Lockdown Bolsters a Fringe Independence Movement</title>
-    <updated>2022-04-23T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-23:/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204</id>
-    <content type="html">Resentment over the handling of Covid-19 is feeding a view that the city would be better off on its own. In New York, an activist has a flag ready.</content>
-    <link href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Zelensky Warns That Russian Ambitions Don&#39;t End With Ukraine</title>
-    <updated>2022-04-23T08:57:00Z</updated>
+    <updated>2022-04-23T16:23:00Z</updated>
     <id>tag:www.wsj.com,2022-04-23:/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243</id>
     <content type="html">The Ukrainian president warned that Russia had its sights set on other European countries if its troops push past Ukrainian forces trying to hold back a renewed Russian offensive in the south and east of the country.</content>
     <link href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</title>
-    <updated>2022-04-22T19:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-22:/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253</id>
-    <content type="html">Parts of what was a sophisticated hub of Ukraine’s science and research now lack basic amenities like running water and electricity. Some 2,000 high-rises have been destroyed, according to the municipality.</content>
-    <link href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253" rel="alternate"></link>
+    <title>Russia Turned a Bucha Building Into an Execution Site and Underground Prison</title>
+    <updated>2022-04-23T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-23:/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201</id>
+    <content type="html">A nondescript four-story office building on the town’s southernmost stretch was one of the first sites where Ukrainians were questioned, tortured, killed or detained, according to Bucha residents and local officials.</content>
+    <link href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Marine Le Pen&#39;s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</title>
-    <updated>2022-04-22T16:27:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-22:/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840</id>
-    <content type="html">The party, named National Rally, is paying the money to a contractor that is currently under U.S. sanctions, part of a settlement involving a previous loan from a Russian bank.</content>
-    <link href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Macron vs. Le Pen: Growing Voter Discontent Shakes France&#39;s Political Foundations</title>
-    <updated>2022-04-22T14:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-22:/articles/france-macron-le-pen-election-politics-11650487493</id>
-    <content type="html">Voter malaise, fueled by widening economic disparity, has pushed up support for candidates on the far right and far left in election after election. “Our society is broken.”</content>
-    <link href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493" rel="alternate"></link>
+    <title>Shanghai Lockdown Bolsters a Fringe Independence Movement</title>
+    <updated>2022-04-23T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-23:/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204</id>
+    <content type="html">Resentment over the handling of Covid-19 is feeding a view that the city would be better off on its own. In New York, an activist has a flag ready.</content>
+    <link href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
