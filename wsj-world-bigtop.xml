@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-23T12:36:33Z</updated>
+  <updated>2022-04-23T14:20:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-04-23:/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204</id>
     <content type="html">Resentment over the handling of Covid-19 is feeding a view that the city would be better off on its own. In New York, an activist has a flag ready.</content>
     <link href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Zelensky Warns That Russian Ambitions Don&#39;t End With Ukraine</title>
+    <updated>2022-04-23T08:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-23:/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243</id>
+    <content type="html">The Ukrainian president warned that Russia had its sights set on other European countries if its troops push past Ukrainian forces trying to hold back a renewed Russian offensive in the south and east of the country.</content>
+    <link href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
