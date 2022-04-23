@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-23T20:23:21Z</updated>
+  <updated>2022-04-23T22:21:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Blinken, Austin to Visit Ukraine, Zelensky Says</title>
-    <updated>2022-04-23T20:07:00Z</updated>
+    <updated>2022-04-23T21:59:00Z</updated>
     <id>tag:www.wsj.com,2022-04-23:/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243</id>
     <content type="html">A visit by U.S. Secretary of State Antony Blinken and Defense Secretary Lloyd Austin would be the highest-level trip by U.S. officials since the war began.</content>
     <link href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243" rel="alternate"></link>
