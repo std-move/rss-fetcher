@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-22T22:23:15Z</updated>
+  <updated>2022-04-23T01:51:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</title>
+    <updated>2022-04-23T00:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-23:/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954</id>
+    <content type="html">Ukrainian officials accused Russia of burying thousands of civilians in mass graves outside Mariupol, as Moscow pressed its offensive to capture the rest of the eastern Donbas region.</content>
+    <link href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</title>
     <updated>2022-04-22T19:01:00Z</updated>
     <id>tag:www.wsj.com,2022-04-22:/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253</id>
     <content type="html">Parts of what was a sophisticated hub of Ukraine’s science and research now lack basic amenities like running water and electricity. Some 2,000 high-rises have been destroyed, according to the municipality.</content>
     <link href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</title>
-    <updated>2022-04-22T18:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-22:/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954</id>
-    <content type="html">Ukrainian officials accused Russia of burying thousands of civilians in mass graves outside Mariupol, as Moscow pressed its offensive to capture the rest of the eastern Donbas region.</content>
-    <link href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
