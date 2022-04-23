@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-23T04:28:15Z</updated>
+  <updated>2022-04-23T06:27:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</title>
-    <updated>2022-04-23T00:39:00Z</updated>
+    <updated>2022-04-23T05:51:00Z</updated>
     <id>tag:www.wsj.com,2022-04-23:/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954</id>
     <content type="html">Ukrainian officials accused Russia of burying thousands of civilians in mass graves outside Mariupol, as Moscow pressed its offensive to capture the rest of the eastern Donbas region.</content>
     <link href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954" rel="alternate"></link>
