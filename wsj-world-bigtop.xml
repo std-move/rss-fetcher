@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-24T20:23:33Z</updated>
+  <updated>2022-04-24T22:22:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Zelensky Awaits Easter Visit From Top U.S. Officials</title>
-    <updated>2022-04-24T17:17:00Z</updated>
+    <title>Top U.S. Officials Meet With Zelensky in Kyiv</title>
+    <updated>2022-04-24T21:50:00Z</updated>
     <id>tag:www.wsj.com,2022-04-24:/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278</id>
-    <content type="html">President Volodymyr Zelensky prepared to receive U.S. Secretary of State Antony Blinken and Defense Secretary Lloyd Austin in Ukraine Sunday to discuss military assistance as Russian forces build up for an offensive in the east of the country.</content>
+    <content type="html">U.S. Secretary of State Antony Blinken and Defense Secretary Lloyd Austin met with Volodymyr Zelensky in Kyiv on Sunday, an adviser to the Ukrainian president said, in the highest-level visit by U.S. officials to Ukraine since the start of the war.</content>
     <link href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>France&#39;s Macron Wins Second Term</title>
+    <updated>2022-04-24T19:58:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-24:/articles/emmanuel-macron-wins-french-election-2022-11650815682</id>
+    <content type="html">French President Emmanuel Macron was re-elected, according to projections based on early ballot counts, overcoming deep divisions among voters worried about inflation and immigration.</content>
+    <link href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
