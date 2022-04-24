@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-24T12:36:41Z</updated>
+  <updated>2022-04-24T14:20:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</title>
-    <updated>2022-04-23T22:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-23:/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243</id>
-    <content type="html">Trip by U.S. secretaries of state and defense would be highest-level visit by Washington officials since war began.</content>
-    <link href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Turned a Bucha Building Into an Execution Site and Underground Prison</title>
-    <updated>2022-04-23T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-23:/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201</id>
-    <content type="html">A nondescript four-story office building on the town’s southernmost stretch was one of the first sites where Ukrainians were questioned, tortured, killed or detained, according to Bucha residents and local officials.</content>
-    <link href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai Lockdown Bolsters a Fringe Independence Movement</title>
-    <updated>2022-04-23T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-23:/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204</id>
-    <content type="html">Resentment over the handling of Covid-19 is feeding a view that the city would be better off on its own. In New York, an activist has a flag ready.</content>
-    <link href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204" rel="alternate"></link>
+    <title>Ukraine&#39;s Zelensky Awaits Easter Visit From Top U.S. Officials</title>
+    <updated>2022-04-24T12:24:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-24:/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278</id>
+    <content type="html">President Volodymyr Zelensky prepared to receive U.S. Secretary of State Antony Blinken and Defense Secretary Lloyd Austin in Ukraine Sunday to discuss military assistance as Russian forces build up for an offensive in the east of the country.</content>
+    <link href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
