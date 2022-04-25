@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-25T14:21:52Z</updated>
+  <updated>2022-04-25T16:32:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -34,14 +34,6 @@
     <id>tag:www.wsj.com,2022-04-25:/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002</id>
     <content type="html">Moscow’s heavy use and loss of weapons in Ukraine, combined with severe Western sanctions, will crimp its military might and lucrative arms exports for years, hindering its ability to produce everything from new weapons systems to spare parts.</content>
     <link href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</title>
-    <updated>2022-04-24T16:14:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-24:/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894</id>
-    <content type="html">Officials have a sanctions package ready, but they continue to weigh the potential backlash for blacklisting the 39-year-old former Olympic gymnast. The U.S. government says she is the mother of at least three of President Vladimir Putin’s children.</content>
-    <link href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
