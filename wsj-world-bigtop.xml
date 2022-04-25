@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-25T16:32:19Z</updated>
+  <updated>2022-04-25T18:30:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</title>
-    <updated>2022-04-25T12:53:00Z</updated>
+    <updated>2022-04-25T18:02:00Z</updated>
     <id>tag:www.wsj.com,2022-04-25:/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391</id>
     <content type="html">Mr. Austin’s comments came after he and Secretary of State Antony Blinken met with Ukraine’s president and announced more U.S. military aid to the country. In neighboring Russia, large fires broke out at fuel-storage facilities, while Moscow attacked Ukrainian railway hubs.</content>
     <link href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-04-25:/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090</id>
     <content type="html">The candidate won 41.5% of the vote, showing that her once-fringe party is a political contender.</content>
     <link href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Scale of Refugees From Ukraine War on Display in Poland&#39;s Public Schools</title>
-    <updated>2022-04-25T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-25:/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400</id>
-    <content type="html">Around 200,000 children have enrolled in schools since Russia invaded Ukraine. An estimated half-million are living in Poland and not yet enrolled.</content>
-    <link href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
