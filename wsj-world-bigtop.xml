@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-26T20:24:37Z</updated>
+  <updated>2022-04-26T22:22:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia&#39;s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against World War III</title>
-    <updated>2022-04-26T17:34:00Z</updated>
+    <title>Russia&#39;s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</title>
+    <updated>2022-04-26T21:24:00Z</updated>
     <id>tag:www.wsj.com,2022-04-26:/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583</id>
-    <content type="html">Russia’s top diplomat said the West was engaged in a proxy war with his country that could escalate into a world war with nuclear weapons, as Western nations elevated their commitment to helping Ukraine defend itself.</content>
+    <content type="html">Russia’s top diplomat said the West was engaged in a proxy war with his country that could escalate into a global conflict with nuclear weapons, as Western nations elevated their commitment to helping Ukraine defend itself.</content>
     <link href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In Liberated Ukrainian Villages, Fears Grow for Men Taken to Russia</title>
+    <title>In Ukrainian Villages, Fears Grow for Men Taken to Russia</title>
     <updated>2022-04-26T14:06:00Z</updated>
     <id>tag:www.wsj.com,2022-04-26:/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966</id>
     <content type="html">Russian forces stayed only ten days in the tiny village of Velykyi Bobryk, but when they left they took six local men with them. Now their families are trying to find out what happened to their loved ones.</content>
