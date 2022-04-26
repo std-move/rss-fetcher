@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-26T08:29:00Z</updated>
+  <updated>2022-04-26T10:27:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russian Military&#39;s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</title>
-    <updated>2022-04-25T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-25:/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002</id>
-    <content type="html">Moscow’s heavy use and loss of weapons in Ukraine, combined with severe Western sanctions, will crimp its military might and lucrative arms exports for years, hindering its ability to produce everything from new weapons systems to spare parts.</content>
-    <link href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002" rel="alternate"></link>
+    <title>Scale of Refugees From Ukraine War on Display in Poland&#39;s Public Schools</title>
+    <updated>2022-04-25T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-25:/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400</id>
+    <content type="html">Around 200,000 children have enrolled in schools since Russia invaded Ukraine. An estimated half-million are living in Poland and not yet enrolled.</content>
+    <link href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
