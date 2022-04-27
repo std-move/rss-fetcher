@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-27T14:20:58Z</updated>
+  <updated>2022-04-27T16:35:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West</title>
+    <title>Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</title>
     <updated>2022-04-27T11:04:00Z</updated>
     <id>tag:www.wsj.com,2022-04-27:/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494</id>
     <content type="html">The blaze near Belgorod, around 15 miles from the Ukrainian border, was the latest in a series of incidents to afflict Russian military facilities in regions adjacent to Ukraine in recent weeks that could pressure supply lines to Russian forces.</content>
