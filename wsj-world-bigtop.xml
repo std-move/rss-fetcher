@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-27T10:26:13Z</updated>
+  <updated>2022-04-27T12:42:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia&#39;s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</title>
-    <updated>2022-04-26T21:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-26:/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583</id>
-    <content type="html">Russia’s top diplomat said the West was engaged in a proxy war with his country that could escalate into a global conflict with nuclear weapons, as Western nations elevated their commitment to helping Ukraine defend itself.</content>
-    <link href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Ukrainian Villages, Fears Grow for Men Taken to Russia</title>
-    <updated>2022-04-26T14:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-26:/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966</id>
-    <content type="html">Russian forces stayed only ten days in the tiny village of Velykyi Bobryk, but when they left they took six local men with them. Now their families are trying to find out what happened to their loved ones.</content>
-    <link href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966" rel="alternate"></link>
+    <title>Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West</title>
+    <updated>2022-04-27T11:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-27:/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494</id>
+    <content type="html">The blaze near Belgorod, around 15 miles from the Ukrainian border, was the latest in a series of incidents to afflict Russian military facilities in regions adjacent to Ukraine in recent weeks that could pressure supply lines to Russian forces.</content>
+    <link href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
