@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-28T18:30:00Z</updated>
+  <updated>2022-04-28T20:23:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Making Slow Progress in Bid to Cut Off Ukrainian Forces</title>
-    <updated>2022-04-28T15:56:00Z</updated>
+    <updated>2022-04-28T18:47:00Z</updated>
     <id>tag:www.wsj.com,2022-04-28:/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367</id>
     <content type="html">Any success for Moscow’s forces in severing Ukrainian units’ supply lines in the east may not be decisive, analysts say, as Russians would be vulnerable to counterattacks and face tough urban fighting.</content>
     <link href="https://www.wsj.com/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367" rel="alternate"></link>
