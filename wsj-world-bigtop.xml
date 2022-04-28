@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-28T14:19:10Z</updated>
+  <updated>2022-04-28T16:36:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</title>
-    <updated>2022-04-28T01:14:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-28:/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494</id>
-    <content type="html">The blaze near Belgorod, around 15 miles from the Ukrainian border, was the latest in a series of incidents to afflict Russian military facilities in regions adjacent to Ukraine in recent weeks that could pressure supply lines to Russian forces.</content>
-    <link href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494" rel="alternate"></link>
+    <title>Russia Making Slow Progress in Bid to Cut Off Ukrainian Forces</title>
+    <updated>2022-04-28T15:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-28:/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367</id>
+    <content type="html">Any success for Moscow’s forces in severing Ukrainian units’ supply lines in the east may not be decisive, analysts say, as Russians would be vulnerable to counterattacks and face tough urban fighting.</content>
+    <link href="https://www.wsj.com/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>After Russian Retreat, Ukraine&#39;s Farmers Discover Fields Full of Mines</title>
+    <updated>2022-04-28T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-28:/articles/after-russian-retreat-ukraines-farmers-discover-fields-full-of-mines-11651150800</id>
+    <content type="html">The extent of damage to some farms, together with port disruption and a shortage of fertilizer, demonstrates how the war’s impact on Ukraine’s agriculture industry could extend well into next year.</content>
+    <link href="https://www.wsj.com/articles/after-russian-retreat-ukraines-farmers-discover-fields-full-of-mines-11651150800" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Pakistani Militants Test Taliban Promise Not to Host Terror Groups</title>
+    <updated>2022-04-28T12:58:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-28:/articles/pakistani-militants-test-taliban-promise-not-to-host-terror-groups-11651150686</id>
+    <content type="html">Jihadists based in eastern Afghanistan have increased attacks in Pakistan since the Taliban’s takeover and have acquired American military equipment from weaponry left as U.S. troops departed last year.</content>
+    <link href="https://www.wsj.com/articles/pakistani-militants-test-taliban-promise-not-to-host-terror-groups-11651150686" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
