@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-29T14:20:41Z</updated>
+  <updated>2022-04-29T16:33:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia</title>
+    <title>Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</title>
     <updated>2022-04-29T13:43:00Z</updated>
     <id>tag:www.wsj.com,2022-04-29:/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665</id>
-    <content type="html">Rescue workers sifted through the debris of a 21-story apartment block that was struck by a Russian missile, while Ukrainian forces stepped up their efforts to prevent Russian troops from advancing from positions in the east.</content>
+    <content type="html">Rescue workers sifted through the debris of a 21-story apartment building that was struck by a Russian missile, while Ukrainian forces stepped up their efforts to prevent Russian troops from advancing from positions in the east.</content>
     <link href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers</title>
+    <updated>2022-04-29T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-29:/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602</id>
+    <content type="html">Weapons supplied by the U.S. and other Western allies are playing a critical role in enabling Ukrainian forces to repel the massive onslaught of Russian armor; a bottleneck is training.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
