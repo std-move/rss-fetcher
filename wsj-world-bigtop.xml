@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-29T10:24:25Z</updated>
+  <updated>2022-04-29T12:46:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East</title>
-    <updated>2022-04-29T05:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-29:/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367</id>
-    <content type="html">Russia’s military is gradually taking more territory, pushing south from the city of Izyum with the apparent aim of cutting off Ukrainian forces, as President Biden sent Congress a $33 billion request to fund weapons and provide longer-term economic aid to the Kyiv government.</content>
-    <link href="https://www.wsj.com/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>After Russian Retreat, Ukraine&#39;s Farmers Discover Fields Full of Mines</title>
-    <updated>2022-04-28T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-28:/articles/after-russian-retreat-ukraines-farmers-discover-fields-full-of-mines-11651150800</id>
-    <content type="html">The extent of damage to some farms, together with port disruption and a shortage of fertilizer, demonstrates how the war’s impact on Ukraine’s agriculture industry could extend well into next year.</content>
-    <link href="https://www.wsj.com/articles/after-russian-retreat-ukraines-farmers-discover-fields-full-of-mines-11651150800" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pakistani Militants Test Taliban Promise Not to Host Terror Groups</title>
-    <updated>2022-04-28T12:58:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-28:/articles/pakistani-militants-test-taliban-promise-not-to-host-terror-groups-11651150686</id>
-    <content type="html">Jihadists based in eastern Afghanistan have increased attacks in Pakistan since the Taliban’s takeover and have acquired American military equipment from weaponry left as U.S. troops departed last year.</content>
-    <link href="https://www.wsj.com/articles/pakistani-militants-test-taliban-promise-not-to-host-terror-groups-11651150686" rel="alternate"></link>
+    <title>Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia</title>
+    <updated>2022-04-29T11:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-29:/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665</id>
+    <content type="html">Rescue workers sifted through the debris of a 21-story apartment block that was struck by a Russian missile, while Ukrainian forces stepped up their efforts to prevent Russian troops from advancing from positions in the east.</content>
+    <link href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
