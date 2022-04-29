@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-29T20:24:48Z</updated>
+  <updated>2022-04-29T22:23:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-04-29:/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665</id>
     <content type="html">Rescue workers sifted through the debris of a 21-story apartment building that was struck by a Russian missile, while Ukrainian forces stepped up their efforts to prevent Russian troops from advancing from positions in the east.</content>
     <link href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>West Ramps Up Ukraine Aid as Expectations About War&#39;s Outcome Shift</title>
+    <updated>2022-04-29T17:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-29:/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919</id>
+    <content type="html">A war that started with Western efforts at damage control has become one that offers a strategic opportunity for the West to constrain Russia’s expansionist ambitions.</content>
+    <link href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
