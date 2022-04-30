@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-30T20:23:16Z</updated>
+  <updated>2022-04-30T22:22:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainians Suffer Fuel Shortages After Russian Strikes</title>
+    <title>Ukrainians Suffer Fuel Shortages</title>
     <updated>2022-04-30T19:17:00Z</updated>
     <id>tag:www.wsj.com,2022-04-30:/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479</id>
     <content type="html">About two dozen civilians were evacuated from the besieged steel plant in Mariupol, while elsewhere Ukrainians faced shortages of gasoline following Moscow’s recent assault on the country’s oil refineries and storage depots.</content>
