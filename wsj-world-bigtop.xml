@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-04-30T10:24:22Z</updated>
+  <updated>2022-04-30T12:37:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</title>
-    <updated>2022-04-29T20:04:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-29:/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665</id>
-    <content type="html">Rescue workers sifted through the debris of a 21-story apartment building that was struck by a Russian missile, while Ukrainian forces stepped up their efforts to prevent Russian troops from advancing from positions in the east.</content>
-    <link href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665" rel="alternate"></link>
+    <title>Ukrainians Suffer Fuel Shortages After Russian Strikes</title>
+    <updated>2022-04-30T10:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-30:/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479</id>
+    <content type="html">Recent Russian missile strikes on oil refineries and storage depots in Ukraine have resulted in shortages of gasoline and rising prices, and officials have pledged to resolve the crisis with new contracts from Western Europe.</content>
+    <link href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>West Ramps Up Ukraine Aid as Expectations About War&#39;s Outcome Shift</title>
-    <updated>2022-04-29T17:05:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-29:/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919</id>
-    <content type="html">A war that started with Western efforts at damage control has become one that offers a strategic opportunity for the West to constrain Russia’s expansionist ambitions.</content>
-    <link href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919" rel="alternate"></link>
+    <title>Citizens&#39; Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</title>
+    <updated>2022-04-30T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-30:/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001</id>
+    <content type="html">Civilian efforts to document alleged war crimes have helped keep the world’s attention on Ukraine, but it remains an open question whether any of the evidence will hold up in court.</content>
+    <link href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
