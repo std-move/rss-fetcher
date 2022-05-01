@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-01T18:26:37Z</updated>
+  <updated>2022-05-01T20:23:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
+    <updated>2022-05-01T18:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-01:/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666</id>
+    <content type="html">The House speaker and a group of U.S. lawmakers visited President Volodymyr Zelensky in Kyiv, as Russia’s military advance stalled in Ukraine’s east.</content>
+    <link href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Recasts Ukraine Fight as War With West</title>
     <updated>2022-05-01T16:51:00Z</updated>
     <id>tag:www.wsj.com,2022-05-01:/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876</id>
     <content type="html">Moscow links the conflict to the Soviet defeat of Nazi Germany ahead of Russia’s May 9 holiday. There has been a crescendo of hardline comments from the Kremlin and state-controlled media.</content>
     <link href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
-    <updated>2022-05-01T16:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-01:/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666</id>
-    <content type="html">The House speaker and a group of U.S. lawmakers visited President Volodymyr Zelensky in Kyiv, as Russia’s military advance stalled in Ukraine’s east.</content>
-    <link href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
