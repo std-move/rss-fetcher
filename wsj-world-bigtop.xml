@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-01T08:26:54Z</updated>
+  <updated>2022-05-01T10:25:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainians Suffer Fuel Shortages</title>
-    <updated>2022-04-30T19:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-30:/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479</id>
-    <content type="html">About two dozen civilians were evacuated from the besieged steel plant in Mariupol, while elsewhere Ukrainians faced shortages of gasoline following Moscow’s recent assault on the country’s oil refineries and storage depots.</content>
-    <link href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479" rel="alternate"></link>
+    <title>Nancy Pelosi Visits Ukraine&#39;s President Zelensky in Kyiv</title>
+    <updated>2022-05-01T08:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-01:/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666</id>
+    <content type="html">The House speaker led a delegation of U.S. lawmakers on a trip to Ukraine’s capital on Saturday night, as Russia’s military advance stalled in the country’s east.</content>
+    <link href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
