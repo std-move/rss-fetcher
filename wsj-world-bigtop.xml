@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-01T14:20:32Z</updated>
+  <updated>2022-05-01T16:32:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
+    <updated>2022-05-01T16:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-01:/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666</id>
+    <content type="html">The House speaker and a group of U.S. lawmakers visited President Volodymyr Zelensky in Kyiv, as Russia’s military advance stalled in Ukraine’s east.</content>
+    <link href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine War Puts Spy Satellites for Hire in Spotlight</title>
     <updated>2022-05-01T13:00:00Z</updated>
     <id>tag:www.wsj.com,2022-05-01:/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002</id>
     <content type="html">From Russian tanks to mass burial sites, commercial imaging spacecraft are shedding light on the Kremlin’s war on its neighbor.</content>
     <link href="https://www.wsj.com/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
-    <updated>2022-05-01T11:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-01:/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666</id>
-    <content type="html">The House speaker and a group of U.S. lawmakers visited President Volodymyr Zelensky in Kyiv, as Russia’s military advance stalled in Ukraine’s east.</content>
-    <link href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
