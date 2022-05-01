@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-01T10:25:10Z</updated>
+  <updated>2022-05-01T12:38:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Nancy Pelosi Visits Ukraine&#39;s President Zelensky in Kyiv</title>
-    <updated>2022-05-01T08:11:00Z</updated>
+    <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
+    <updated>2022-05-01T11:41:00Z</updated>
     <id>tag:www.wsj.com,2022-05-01:/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666</id>
-    <content type="html">The House speaker led a delegation of U.S. lawmakers on a trip to Ukraine’s capital on Saturday night, as Russia’s military advance stalled in the country’s east.</content>
+    <content type="html">The House speaker and a group of U.S. lawmakers visited President Volodymyr Zelensky in Kyiv, as Russia’s military advance stalled in Ukraine’s east.</content>
     <link href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Citizens&#39; Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</title>
-    <updated>2022-04-30T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-30:/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001</id>
-    <content type="html">Civilian efforts to document alleged war crimes have helped keep the world’s attention on Ukraine, but it remains an open question whether any of the evidence will hold up in court.</content>
-    <link href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001" rel="alternate"></link>
+    <title>Russia&#39;s Occupation of Southern Ukraine Hardens</title>
+    <updated>2022-05-01T11:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-01:/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176</id>
+    <content type="html">A swath of southern Ukraine has been under Russian military rule since early March, and occupation authorities are swiftly appointing collaborationist administrations and introducing Russian documents, education programs and currency.</content>
+    <link href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
