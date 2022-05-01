@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-01T12:38:17Z</updated>
+  <updated>2022-05-01T14:20:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine War Puts Spy Satellites for Hire in Spotlight</title>
+    <updated>2022-05-01T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-01:/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002</id>
+    <content type="html">From Russian tanks to mass burial sites, commercial imaging spacecraft are shedding light on the Kremlin’s war on its neighbor.</content>
+    <link href="https://www.wsj.com/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
     <updated>2022-05-01T11:41:00Z</updated>
@@ -18,6 +26,14 @@
     <id>tag:www.wsj.com,2022-05-01:/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176</id>
     <content type="html">A swath of southern Ukraine has been under Russian military rule since early March, and occupation authorities are swiftly appointing collaborationist administrations and introducing Russian documents, education programs and currency.</content>
     <link href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Citizens&#39; Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</title>
+    <updated>2022-04-30T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-30:/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001</id>
+    <content type="html">Civilian efforts to document alleged war crimes have helped keep the world’s attention on Ukraine, but it remains an open question whether any of the evidence will hold up in court.</content>
+    <link href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
