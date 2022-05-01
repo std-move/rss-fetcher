@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-01T20:23:33Z</updated>
+  <updated>2022-05-01T22:22:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -34,6 +34,14 @@
     <id>tag:www.wsj.com,2022-05-01:/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401</id>
     <content type="html">Excessive reliance by governments on rising prices is seen possibly triggering an upward spiral in interest rates.</content>
     <link href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Scarcity of Medicines in Mexico Leaves Trail of Suffering</title>
+    <updated>2022-04-30T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-04-30:/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200</id>
+    <content type="html">President López Obrador overhauled the way the government bought medicines, alleging corruptions, but a shortage of vital drugs has followed.</content>
+    <link href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
