@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-01T22:22:22Z</updated>
+  <updated>2022-05-02T02:09:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China&#39;s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</title>
+    <updated>2022-05-01T22:42:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-01:/articles/china-economy-recession-covid-lockdowns-11651434168</id>
+    <content type="html">While a traditional recession of two straight quarters of contraction remains unlikely for the country, economists see worrisome signs of a spell of slower growth.</content>
+    <link href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
     <updated>2022-05-01T18:43:00Z</updated>
