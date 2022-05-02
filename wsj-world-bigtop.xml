@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-02T12:45:25Z</updated>
+  <updated>2022-05-02T14:21:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</title>
-    <updated>2022-05-02T05:02:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-02:/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666</id>
-    <content type="html">The House speaker and a group of U.S. lawmakers visited President Volodymyr Zelensky in Kyiv, as Russia’s military advance stalled in Ukraine’s east.</content>
-    <link href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666" rel="alternate"></link>
+    <title>Ukraine Says It Sank Two Russian Naval Vessels</title>
+    <updated>2022-05-02T13:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-02:/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072</id>
+    <content type="html">Ukraine said it sank the boats in the Black Sea with drone strikes, as explosions rang out once again in Russia’s border region of Belgorod and heavy fighting continued in eastern Ukraine. Ukrainian authorities Monday began welcoming civilians evacuated from Mariupol.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</title>
+    <updated>2022-05-02T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-02:/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851</id>
+    <content type="html">Discontent has been widespread on Chinese social media ever since Shanghai started a rigid lockdown in late March. Now, it is moving into the real world.</content>
+    <link href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,38 +26,6 @@
     <id>tag:www.wsj.com,2022-05-01:/articles/china-economy-recession-covid-lockdowns-11651434168</id>
     <content type="html">While a traditional recession of two straight quarters of contraction remains unlikely for the country, economists see worrisome signs of a spell of slower growth.</content>
     <link href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Recasts Ukraine Fight as War With West</title>
-    <updated>2022-05-01T16:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-01:/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876</id>
-    <content type="html">Moscow links the conflict to the Soviet defeat of Nazi Germany ahead of Russia’s May 9 holiday. There has been a crescendo of hardline comments from the Kremlin and state-controlled media.</content>
-    <link href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia&#39;s Occupation of Southern Ukraine Hardens</title>
-    <updated>2022-05-01T11:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-01:/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176</id>
-    <content type="html">A swath of southern Ukraine has been under Russian military rule since early March, and occupation authorities are swiftly appointing collaborationist administrations and introducing Russian documents, education programs and currency.</content>
-    <link href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Economists Leery as Inflation Eases Public Debt Load</title>
-    <updated>2022-05-01T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-01:/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401</id>
-    <content type="html">Excessive reliance by governments on rising prices is seen possibly triggering an upward spiral in interest rates.</content>
-    <link href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Scarcity of Medicines in Mexico Leaves Trail of Suffering</title>
-    <updated>2022-04-30T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-04-30:/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200</id>
-    <content type="html">President López Obrador overhauled the way the government bought medicines, alleging corruptions, but a shortage of vital drugs has followed.</content>
-    <link href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
