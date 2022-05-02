@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-02T18:27:27Z</updated>
+  <updated>2022-05-02T20:20:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Says It Sank Two Russian Naval Vessels</title>
-    <updated>2022-05-02T18:02:00Z</updated>
+    <updated>2022-05-02T19:09:00Z</updated>
     <id>tag:www.wsj.com,2022-05-02:/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072</id>
     <content type="html">Ukraine said it sank the boats in the Black Sea with drone strikes, as explosions rang out once again in Russia’s border region of Belgorod and heavy fighting continued in eastern Ukraine. Ukrainian authorities Monday began welcoming civilians evacuated from Mariupol.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072" rel="alternate"></link>
