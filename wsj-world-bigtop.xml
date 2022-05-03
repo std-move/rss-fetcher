@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-03T12:48:24Z</updated>
+  <updated>2022-05-03T14:19:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</title>
-    <updated>2022-05-03T10:29:00Z</updated>
+    <updated>2022-05-03T13:03:00Z</updated>
     <id>tag:www.wsj.com,2022-05-03:/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375</id>
-    <content type="html">Evacuees are trickling into Ukrainian-held territory from Russian-occupied towns after sometimes long and traumatic journeys, while Russia continues its offensive in Ukraine’s east and targets the strategic port city of Odessa.</content>
+    <content type="html">Evacuees trickled into Ukrainian-controlled territory after sometimes long and traumatic journeys, as Russia continued its offensive in Ukraine’s east and launched a renewed push to capture the Azovstal steel plant in Mariupol.</content>
     <link href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
