@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-03T14:19:39Z</updated>
+  <updated>2022-05-03T16:38:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</title>
-    <updated>2022-05-03T13:03:00Z</updated>
+    <updated>2022-05-03T15:41:00Z</updated>
     <id>tag:www.wsj.com,2022-05-03:/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375</id>
     <content type="html">Evacuees trickled into Ukrainian-controlled territory after sometimes long and traumatic journeys, as Russia continued its offensive in Ukraine’s east and launched a renewed push to capture the Azovstal steel plant in Mariupol.</content>
     <link href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375" rel="alternate"></link>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2022-05-03:/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206</id>
     <content type="html">As Moscow lobs missiles into Ukrainian cities, it is also fighting an information war to control what its citizens learn about the conflict. Some independent outlets are persevering.</content>
     <link href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</title>
-    <updated>2022-05-02T15:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-02:/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940</id>
-    <content type="html">With war in Ukraine upending global grain trade, other countries scramble to fill the gap in supplies, but soaring prices threaten to worsen food insecurity in poor regions.</content>
-    <link href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</title>
-    <updated>2022-05-02T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-02:/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851</id>
-    <content type="html">Discontent has been widespread on Chinese social media ever since Shanghai started a rigid lockdown in late March. Now, it is moving into the real world.</content>
-    <link href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
