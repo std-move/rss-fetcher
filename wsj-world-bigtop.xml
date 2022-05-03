@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-03T10:29:12Z</updated>
+  <updated>2022-05-03T12:48:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Says It Sank Two Russian Naval Vessels</title>
-    <updated>2022-05-03T00:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-03:/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072</id>
-    <content type="html">Ukraine said it sank two Russian naval vessels in the Black Sea and a Russian missile attack killed civilians in Odessa, while the European Union was set to propose a ban on Russian oil.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072" rel="alternate"></link>
+    <title>Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</title>
+    <updated>2022-05-03T10:29:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-03:/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375</id>
+    <content type="html">Evacuees are trickling into Ukrainian-held territory from Russian-occupied towns after sometimes long and traumatic journeys, while Russia continues its offensive in Ukraine’s east and targets the strategic port city of Odessa.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia&#39;s Independent Media Defies Kremlin Crackdown</title>
+    <updated>2022-05-03T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-03:/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206</id>
+    <content type="html">As Moscow lobs missiles into Ukrainian cities, it is also fighting an information war to control what its citizens learn about the conflict. Some independent outlets are persevering.</content>
+    <link href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
