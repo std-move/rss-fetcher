@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-04T20:25:08Z</updated>
+  <updated>2022-05-04T22:23:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</title>
+    <updated>2022-05-04T21:45:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-04:/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618</id>
+    <content type="html">Taiwanese health authorities are gradually removing restrictions even as cases climb to record highs.</content>
+    <link href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</title>
-    <updated>2022-05-04T18:48:00Z</updated>
+    <updated>2022-05-04T20:49:00Z</updated>
     <id>tag:www.wsj.com,2022-05-04:/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856</id>
     <content type="html">Recent Ukrainian gains outside the country’s second most-populous city could blunt Russia’s attempt to conquer the eastern Donbas region.</content>
     <link href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856" rel="alternate"></link>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-05-04:/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865</id>
     <content type="html">More than 3,000 Finnish troops are taking part in a two-week exercise alongside hundreds of American, British, Estonian and Latvian soldiers, shadowed by growing fears that Russia’s war in Ukraine could spread.</content>
     <link href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</title>
-    <updated>2022-05-04T15:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-04:/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618</id>
-    <content type="html">Taiwanese health authorities are gradually removing restrictions even as cases climb to record highs.</content>
-    <link href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
