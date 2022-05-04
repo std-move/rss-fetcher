@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-04T16:37:05Z</updated>
+  <updated>2022-05-04T18:28:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</title>
-    <updated>2022-05-03T21:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-03:/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375</id>
-    <content type="html">Evacuees trickled into Ukrainian-controlled territory after sometimes long and traumatic journeys, as Russia launched a renewed push to capture the Azovstal steel plant in Mariupol.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375" rel="alternate"></link>
+    <title>Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</title>
+    <updated>2022-05-04T15:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-04:/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865</id>
+    <content type="html">More than 3,000 Finnish troops are taking part in a two-week exercise alongside hundreds of American, British, Estonian and Latvian soldiers, shadowed by growing fears that Russia’s war in Ukraine could spread.</content>
+    <link href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia&#39;s Independent Media Defies Kremlin Crackdown</title>
-    <updated>2022-05-03T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-03:/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206</id>
-    <content type="html">As Moscow lobs missiles into Ukrainian cities, it is also fighting an information war to control what its citizens learn about the conflict. Some independent outlets are persevering.</content>
-    <link href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206" rel="alternate"></link>
+    <title>In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</title>
+    <updated>2022-05-04T15:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-04:/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618</id>
+    <content type="html">Taiwanese health authorities are gradually removing restrictions even as cases climb to record highs.</content>
+    <link href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</title>
+    <updated>2022-05-04T14:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-04:/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856</id>
+    <content type="html">Recent Ukrainian gains outside the country’s second most-populous city could blunt Russia’s attempt to conquer the eastern Donbas region.</content>
+    <link href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</title>
+    <updated>2022-05-04T12:42:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-04:/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169</id>
+    <content type="html">Relatives of Russian soldiers killed in the Ukraine war say they were defending both countries from fascists.</content>
+    <link href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
