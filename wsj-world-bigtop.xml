@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-05T08:29:55Z</updated>
+  <updated>2022-05-05T10:26:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-05-04:/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865</id>
     <content type="html">More than 3,000 Finnish troops are taking part in a two-week exercise alongside hundreds of American, British, Estonian and Latvian soldiers, shadowed by growing fears that Russia’s war in Ukraine could spread.</content>
     <link href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</title>
-    <updated>2022-05-04T12:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-04:/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169</id>
-    <content type="html">Relatives of Russian soldiers killed in the Ukraine war say they were defending both countries from fascists.</content>
-    <link href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
