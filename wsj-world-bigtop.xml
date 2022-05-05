@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-05T20:24:09Z</updated>
+  <updated>2022-05-05T22:23:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</title>
-    <updated>2022-05-05T19:48:00Z</updated>
+    <updated>2022-05-05T21:26:00Z</updated>
     <id>tag:www.wsj.com,2022-05-05:/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013</id>
     <content type="html">Moscow is seeking to disrupt deliveries of Western weapons as its offensives in the east of Ukraine appear to have stalled.</content>
     <link href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013" rel="alternate"></link>
