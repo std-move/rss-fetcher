@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-06T12:43:21Z</updated>
+  <updated>2022-05-06T14:21:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Philippines&#39; Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</title>
+    <updated>2022-05-06T12:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-06:/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777</id>
+    <content type="html">The tough-talking populist rocked his country’s alliance with the U.S., forging closer diplomatic and economic ties with China.</content>
+    <link href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Fresh Rescue Efforts Under Way at Ukraine&#39;s Azovstal Steel Plant</title>
     <updated>2022-05-06T12:22:00Z</updated>
