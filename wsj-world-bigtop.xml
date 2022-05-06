@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-06T10:26:00Z</updated>
+  <updated>2022-05-06T12:43:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</title>
-    <updated>2022-05-06T01:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-06:/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013</id>
-    <content type="html">Moscow is seeking to disrupt deliveries of Western weapons as its offensives in the east of Ukraine appear to have stalled.</content>
-    <link href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013" rel="alternate"></link>
+    <title>Fresh Rescue Efforts Under Way at Ukraine&#39;s Azovstal Steel Plant</title>
+    <updated>2022-05-06T12:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-06:/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346</id>
+    <content type="html">More civilians were being evacuated from the labyrinth of bunkers beneath Mariupol’s Azovstal steel plant as Ukraine’s military counterattacked against Russian forces in the east.</content>
+    <link href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Inside Ukraine&#39;s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</title>
-    <updated>2022-05-05T13:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-05:/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818</id>
-    <content type="html">Those trapped inside, including dozens of children, celebrated birthdays and holidays, cheered after each night they survived intact and wept from joy when Ukrainian soldiers brought them supplies.</content>
-    <link href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818" rel="alternate"></link>
+    <title>Mass Graves in Ukraine Reveal Mounting Death Toll</title>
+    <updated>2022-05-06T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-06:/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402</id>
+    <content type="html">Analysis of satellite imagery shows expanding mass burial sites outside of Kyiv and Mariupol.</content>
+    <link href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
