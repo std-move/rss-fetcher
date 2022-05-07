@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-07T14:20:14Z</updated>
+  <updated>2022-05-07T16:31:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Says It Is Targeting Ukrainian Weapons Coming From the West</title>
+    <updated>2022-05-07T13:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-07:/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741</id>
+    <content type="html">Russia said it struck military equipment that Ukraine received from the U.S. and European countries, in what would be Moscow’s latest move aimed at disrupting the flow of Western weapons as its offensive in the east appears to have stalled.</content>
+    <link href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kushner&#39;s New Fund to Invest Saudi Money in Israel</title>
     <updated>2022-05-07T12:40:00Z</updated>
