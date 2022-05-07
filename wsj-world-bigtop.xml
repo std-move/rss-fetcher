@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-07T12:37:45Z</updated>
+  <updated>2022-05-07T14:20:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Fresh Rescue Efforts Under Way at Ukraine&#39;s Azovstal Steel Plant</title>
-    <updated>2022-05-06T21:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-06:/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346</id>
-    <content type="html">More civilians were being evacuated from the labyrinth of bunkers beneath Mariupol’s Azovstal steel plant as Ukraine’s military counterattacked against Russian forces in the east.</content>
-    <link href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346" rel="alternate"></link>
+    <title>Kushner&#39;s New Fund to Invest Saudi Money in Israel</title>
+    <updated>2022-05-07T12:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-07:/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236</id>
+    <content type="html">Saudi Arabia’s sovereign-wealth fund committed $2 billion to Jared Kushner’s Affinity Partners, agreeing to allow investment in Israeli firms for the first time.</content>
+    <link href="https://www.wsj.com/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Philippines&#39; Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</title>
-    <updated>2022-05-06T12:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-06:/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777</id>
-    <content type="html">The tough-talking populist rocked his country’s alliance with the U.S., forging closer diplomatic and economic ties with China.</content>
-    <link href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777" rel="alternate"></link>
+    <title>France&#39;s Emmanuel Macron Begins Second Term With Call for Unity</title>
+    <updated>2022-05-07T12:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-07:/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413</id>
+    <content type="html">In an inaugural speech, the French president pledged to turn the page on his first term, in which he wielded authority without building political consensus.</content>
+    <link href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</title>
+    <updated>2022-05-07T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-07:/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801</id>
+    <content type="html">Russia’s invasion is seeing Ukrainian Holocaust survivors evacuating to Germany in a tragic twist of history that has uprooted them again in the twilight of their lives.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
