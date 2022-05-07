@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-07T16:31:19Z</updated>
+  <updated>2022-05-07T18:26:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Says It Is Targeting Ukrainian Weapons Coming From the West</title>
-    <updated>2022-05-07T13:04:00Z</updated>
+    <updated>2022-05-07T16:54:00Z</updated>
     <id>tag:www.wsj.com,2022-05-07:/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741</id>
     <content type="html">Russia said it struck military equipment that Ukraine received from the U.S. and European countries, in what would be Moscow’s latest move aimed at disrupting the flow of Western weapons as its offensive in the east appears to have stalled.</content>
     <link href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</title>
+    <updated>2022-05-07T16:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-07:/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801</id>
+    <content type="html">Russia’s invasion is seeing Ukrainian Holocaust survivors evacuating to Germany in a tragic twist of history that has uprooted them again in the twilight of their lives.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2022-05-07:/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413</id>
     <content type="html">In an inaugural speech, the French president pledged to turn the page on his first term, in which he wielded authority without building political consensus.</content>
     <link href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</title>
-    <updated>2022-05-07T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-07:/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801</id>
-    <content type="html">Russia’s invasion is seeing Ukrainian Holocaust survivors evacuating to Germany in a tragic twist of history that has uprooted them again in the twilight of their lives.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
