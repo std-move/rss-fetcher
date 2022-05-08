@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-08T20:23:17Z</updated>
+  <updated>2022-05-08T22:22:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End</title>
-    <updated>2022-05-08T17:51:00Z</updated>
+    <title>Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</title>
+    <updated>2022-05-08T20:58:00Z</updated>
     <id>tag:www.wsj.com,2022-05-08:/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227</id>
-    <content type="html">Ukrainian forces besieged by Russian troops in Mariupol vowed to fight till the end, as the government in Kyiv braced for the possibility of heavy strikes on Monday, when Russia commemorates the Soviet Union’s victory in World War II.</content>
+    <content type="html">Russian and Ukrainian forces engaged in strikes and counteroffensives ahead of Moscow’s Monday commemoration of World War II, with Kyiv bracing for possible heavy attacks or a stepped-up mobilization effort by Vladimir Putin.</content>
     <link href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
