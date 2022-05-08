@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-08T12:37:44Z</updated>
+  <updated>2022-05-08T14:20:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Says It Is Targeting Ukrainian Weapons Coming From West</title>
-    <updated>2022-05-07T18:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-07:/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741</id>
-    <content type="html">All women, children and elderly people have been evacuated from the Azovstal steel plant in Mariupol, a Ukrainian official says.</content>
-    <link href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741" rel="alternate"></link>
+    <title>Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says</title>
+    <updated>2022-05-08T14:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-08:/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227</id>
+    <content type="html">A Russian airstrike is believed to have killed some 60 villagers who had taken refuge in a school in Ukraine’s Luhansk region, authorities there said.</content>
+    <link href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Taliban Orders Women to Cover Their Faces</title>
-    <updated>2022-05-07T14:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-07:/articles/taliban-orders-women-to-cover-their-faces-11651934565</id>
-    <content type="html">The Taliban ordered Afghan women to cover their faces in public and to avoid leaving their homes, in their latest restrictions on women since taking power last year.</content>
-    <link href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565" rel="alternate"></link>
+    <title>How Ukrainian Civilians Helped Win the Battle for Kyiv</title>
+    <updated>2022-05-08T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-08:/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200</id>
+    <content type="html">Villagers shared Google map locations with Ukraine’s military on Russian positions at great risk to themselves, turning a highway into the stage for a Kremlin defeat.</content>
+    <link href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Kushner&#39;s New Fund to Invest Saudi Money in Israel</title>
-    <updated>2022-05-07T12:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-07:/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236</id>
-    <content type="html">Saudi Arabia’s sovereign-wealth fund committed $2 billion to Jared Kushner’s Affinity Partners, agreeing to allow investment in Israeli firms for the first time.</content>
-    <link href="https://www.wsj.com/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>France&#39;s Emmanuel Macron Begins Second Term With Call for Unity</title>
-    <updated>2022-05-07T12:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-07:/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413</id>
-    <content type="html">In an inaugural speech, the French president pledged to turn the page on his first term, in which he wielded authority without building political consensus.</content>
-    <link href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413" rel="alternate"></link>
+    <title>Beijing Residents Keep Faith With Government&#39;s Zero-Covid Strategy</title>
+    <updated>2022-05-08T07:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-08:/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670</id>
+    <content type="html">Despite the government’s ratcheting up of virus controls, the mood in China’s capital remains upbeat.</content>
+    <link href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
