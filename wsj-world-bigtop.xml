@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-09T18:28:13Z</updated>
+  <updated>2022-05-09T20:24:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin Uses Russia&#39;s Victory Day Parade to Justify Invasion of Ukraine</title>
+    <updated>2022-05-09T19:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-09:/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244</id>
+    <content type="html">Speaking in Red Square during the annual commemoration of Russia’s victory in World War II, the Kremlin leader said Russia was under threat when it decided to take pre-emptive action in its neighboring country.</content>
+    <link href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ferdinand Marcos Jr., Son of Former Philippines Dictator, on Track for Big Win in Presidential Election</title>
     <updated>2022-05-09T18:03:00Z</updated>
     <id>tag:www.wsj.com,2022-05-09:/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633</id>
     <content type="html">The results mark an extraordinary restoration of the Marcos dynasty more than 3½ decades after their exile.</content>
     <link href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Putin Uses Russia&#39;s Victory Day Parade to Justify Invasion of Ukraine</title>
-    <updated>2022-05-09T17:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-09:/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244</id>
-    <content type="html">Speaking in Red Square during the annual commemoration of Russia’s victory in World War II, the Kremlin leader said Russia was under threat when it decided to take pre-emptive action in its neighboring country.</content>
-    <link href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
