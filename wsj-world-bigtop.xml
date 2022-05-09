@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-09T10:26:55Z</updated>
+  <updated>2022-05-09T12:43:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin Uses Russia&#39;s Victory Day Parade to Justify Invasion of Ukraine</title>
+    <updated>2022-05-09T10:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-09:/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244</id>
+    <content type="html">Speaking in Red Square during the annual commemoration of Russia’s victory in World War II, the Kremlin leader said Russia was under threat when it decided to take pre-emptive action in its neighboring country.</content>
+    <link href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines</title>
+    <updated>2022-05-09T10:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-09:/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311</id>
+    <content type="html">A farming entrepreneur and a pop star are among Ukraine’s Territorial Defense forces, who, steeled in battle, are try to make up with motivation what they lack in experience.</content>
+    <link href="https://www.wsj.com/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Philippines Votes for President With Ex-Dictator&#39;s Son Leading Opinion Polls</title>
     <updated>2022-05-09T09:22:00Z</updated>
@@ -13,35 +29,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Fights for Besieged Mariupol as Russia Marks Key Date</title>
-    <updated>2022-05-08T20:58:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-08:/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227</id>
-    <content type="html">Russian and Ukrainian forces engaged in strikes and counteroffensives ahead of Moscow’s Monday commemoration of World War II, with Kyiv bracing for possible heavy attacks or a stepped-up mobilization effort by Vladimir Putin.</content>
-    <link href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</title>
     <updated>2022-05-08T16:22:00Z</updated>
     <id>tag:www.wsj.com,2022-05-08:/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729</id>
     <content type="html">The illegal arrangements allow some Brazilian migrants to get a green light from Border Patrol and start new lives.</content>
     <link href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Ukrainian Civilians Helped Win the Battle for Kyiv</title>
-    <updated>2022-05-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-08:/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200</id>
-    <content type="html">Villagers shared Google map locations with Ukraine’s military on Russian positions at great risk to themselves, turning a highway into the stage for a Kremlin defeat.</content>
-    <link href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Beijing Residents Keep Faith With Government&#39;s Zero-Covid Strategy</title>
-    <updated>2022-05-08T07:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-08:/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670</id>
-    <content type="html">Despite the government’s ratcheting up of virus controls, the mood in China’s capital remains upbeat.</content>
-    <link href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
