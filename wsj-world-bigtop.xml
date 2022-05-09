@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-09T14:20:59Z</updated>
+  <updated>2022-05-09T16:36:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Ferdinand Marcos Jr., Son of Former Dictator, Leads Race for Philippines Presidency</title>
+    <updated>2022-05-09T16:19:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-09:/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633</id>
+    <content type="html">His strong lead in the election, according to early results, brings him one step closer to the presidency 3½ decades after his father was ousted in a popular uprising.</content>
+    <link href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Putin Uses Russia&#39;s Victory Day Parade to Justify Invasion of Ukraine</title>
-    <updated>2022-05-09T10:47:00Z</updated>
+    <updated>2022-05-09T15:54:00Z</updated>
     <id>tag:www.wsj.com,2022-05-09:/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244</id>
     <content type="html">Speaking in Red Square during the annual commemoration of Russia’s victory in World War II, the Kremlin leader said Russia was under threat when it decided to take pre-emptive action in its neighboring country.</content>
     <link href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines</title>
-    <updated>2022-05-09T10:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-09:/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311</id>
-    <content type="html">A farming entrepreneur and a pop star are among Ukraine’s Territorial Defense forces, who, steeled in battle, are trying to make up with motivation what they lack in experience.</content>
-    <link href="https://www.wsj.com/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Philippines Votes for President With Ex-Dictator&#39;s Son Leading Opinion Polls</title>
-    <updated>2022-05-09T09:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-09:/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633</id>
-    <content type="html">Ferdinand Marcos Jr. is seeking the country’s top political job more than 3½ decades after his father was deposed in 1986.</content>
-    <link href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</title>
-    <updated>2022-05-08T16:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-08:/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729</id>
-    <content type="html">The illegal arrangements allow some Brazilian migrants to get a green light from Border Patrol and start new lives.</content>
-    <link href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729" rel="alternate"></link>
+    <title>The Surprising Backstory of How the Steele Dossier Was Created</title>
+    <updated>2022-05-09T13:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-09:/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582</id>
+    <content type="html">In 2017, publication of the report, which claimed Donald Trump conspired with Russia to steer the U.S. election, rattled the political world. A WSJ review has found the document largely echoed chatter among three friends who were brought together over a minor corporate publicity contract.</content>
+    <link href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
