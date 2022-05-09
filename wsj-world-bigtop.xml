@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-09T06:29:24Z</updated>
+  <updated>2022-05-09T08:30:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</title>
+    <title>Ukraine Fights for Besieged Mariupol as Russia Marks Key Date</title>
     <updated>2022-05-08T20:58:00Z</updated>
     <id>tag:www.wsj.com,2022-05-08:/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227</id>
     <content type="html">Russian and Ukrainian forces engaged in strikes and counteroffensives ahead of Moscow’s Monday commemoration of World War II, with Kyiv bracing for possible heavy attacks or a stepped-up mobilization effort by Vladimir Putin.</content>
