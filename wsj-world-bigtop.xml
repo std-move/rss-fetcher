@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-10T14:26:06Z</updated>
+  <updated>2022-05-10T16:38:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Strikes Shopping Mall, Warehouse in Odessa</title>
+    <updated>2022-05-10T15:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-10:/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102</id>
+    <content type="html">One person was killed and others were wounded in the strike, which confirmed expectations that Russia would intensify its offensive in Ukraine as it celebrates victory in World War II.</content>
+    <link href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In Australian Election Battleground, Rising Prices Are on the Minds of Voters</title>
     <updated>2022-05-10T11:58:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-05-10:/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875</id>
     <content type="html">With no power, water, cellphone coverage or access to news, remaining residents in a Donbas regional city shelter in basements, hoping to survive.</content>
     <link href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Strikes Shopping Mall, Warehouse in Odessa</title>
-    <updated>2022-05-10T11:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-10:/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102</id>
-    <content type="html">One person was killed and others were wounded in the strike, which confirmed expectations that Russia would intensify its offensive in Ukraine as it celebrates victory in World War II.</content>
-    <link href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
