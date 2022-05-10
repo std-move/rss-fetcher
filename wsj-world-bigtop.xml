@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-10T16:38:19Z</updated>
+  <updated>2022-05-10T18:28:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Strikes Shopping Mall, Warehouse in Odessa</title>
-    <updated>2022-05-10T15:03:00Z</updated>
+    <title>U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</title>
+    <updated>2022-05-10T16:58:00Z</updated>
     <id>tag:www.wsj.com,2022-05-10:/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102</id>
-    <content type="html">One person was killed and others were wounded in the strike, which confirmed expectations that Russia would intensify its offensive in Ukraine as it celebrates victory in World War II.</content>
+    <content type="html">The U.S. spy chief said the Russian president still seeks to control swaths of Ukraine beyond the eastern region, after local authorities said Russian missiles struck the port city of Odessa overnight, killing one person and wounding others.</content>
     <link href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In Australian Election Battleground, Rising Prices Are on the Minds of Voters</title>
-    <updated>2022-05-10T11:58:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-10:/articles/in-australian-election-battleground-rising-prices-are-on-the-minds-of-voters-11652183936</id>
-    <content type="html">Robertson, up the coast from Sydney, is an electorate that Prime Minister Scott Morrison’s coalition will likely need to hold to survive an electoral challenge from Anthony Albanese and the center-left Labor Party.</content>
-    <link href="https://www.wsj.com/articles/in-australian-election-battleground-rising-prices-are-on-the-minds-of-voters-11652183936" rel="alternate"></link>
+    <title>Shanghai&#39;s Lockdown Leaves Thousands Sleeping in Its Streets</title>
+    <updated>2022-05-10T14:54:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-10:/articles/shanghais-lockdown-leaves-thousands-sleeping-in-its-streets-11652193941</id>
+    <content type="html">Many of the city’s newly homeless are food-delivery workers facing a difficult choice: locked in without income or locked out with a job.</content>
+    <link href="https://www.wsj.com/articles/shanghais-lockdown-leaves-thousands-sleeping-in-its-streets-11652193941" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-05-10:/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875</id>
     <content type="html">With no power, water, cellphone coverage or access to news, remaining residents in a Donbas regional city shelter in basements, hoping to survive.</content>
     <link href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Three Friends Chatting: How the Steele Dossier Was Created</title>
-    <updated>2022-05-09T13:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-09:/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582</id>
-    <content type="html">In 2017, publication of the report, which claimed Donald Trump conspired with Russia to steer the U.S. election, rattled the political world. A WSJ review has found the document largely echoed conversations among three people who were brought together over a minor corporate publicity contract.</content>
-    <link href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
