@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-09T22:23:03Z</updated>
+  <updated>2022-05-10T01:39:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ferdinand Marcos Jr., Son of Former Philippines Dictator, on Track for Big Win in Presidential Election</title>
-    <updated>2022-05-09T20:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-09:/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633</id>
+    <title>Ferdinand Marcos Jr. Headed for Philippines Presidency</title>
+    <updated>2022-05-10T01:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-10:/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633</id>
     <content type="html">The results mark an extraordinary restoration of the Marcos dynasty more than 3½ decades after their exile.</content>
     <link href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633" rel="alternate"></link>
     <summary type="html"></summary>
