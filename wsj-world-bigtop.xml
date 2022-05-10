@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-10T06:28:45Z</updated>
+  <updated>2022-05-10T08:29:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Shanghai&#39;s Covid Lockdown Gets Tougher: &#39;If One Person Tests Positive, the Whole Building Isolates&#39;</title>
+    <updated>2022-05-10T06:29:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-10:/articles/shanghai-tightens-pandemic-rules-as-beijing-calls-for-victory-over-virus-11652102133</id>
+    <content type="html">Residents said authorities in the coastal city, now in its sixth week under strict lockdown, have begun forcing more people into centralized quarantine facilities.</content>
+    <link href="https://www.wsj.com/articles/shanghai-tightens-pandemic-rules-as-beijing-calls-for-victory-over-virus-11652102133" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ferdinand Marcos Jr. Headed for Philippines Presidency</title>
     <updated>2022-05-10T02:31:00Z</updated>
