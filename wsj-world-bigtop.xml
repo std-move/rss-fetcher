@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-11T02:02:55Z</updated>
+  <updated>2022-05-11T04:44:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</title>
-    <updated>2022-05-10T20:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-10:/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102</id>
+    <updated>2022-05-11T03:42:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-11:/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102</id>
     <content type="html">The U.S. spy chief said the Russian president still seeks to control swaths of Ukraine beyond the eastern region, after local authorities said Russian missiles struck the port city of Odessa overnight, killing one person and wounding others.</content>
     <link href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102" rel="alternate"></link>
     <summary type="html"></summary>
