@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-12T14:23:36Z</updated>
+  <updated>2022-05-12T16:38:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Offers Prisoner Exchange at Mariupol Steel Plant</title>
-    <updated>2022-05-12T12:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-12:/articles/ukraine-offers-prisoner-exchange-at-mariupol-steel-plant-11652348604</id>
-    <content type="html">Ukraine offered to exchange Russian prisoners of war for injured fighters trapped in Mariupol’s Azovstal steel plant, as Finland said it would join the NATO alliance in response to Moscow’s invasion.</content>
-    <link href="https://www.wsj.com/articles/ukraine-offers-prisoner-exchange-at-mariupol-steel-plant-11652348604" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>With Russian Forces at the Door, Zaporizhzhia Shelters Evacuees From Ukraine&#39;s East</title>
-    <updated>2022-05-12T10:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-12:/articles/with-russian-forces-at-the-door-zaporizhzhia-shelters-evacuees-from-ukraines-east-11652352765</id>
-    <content type="html">The eastern Ukrainian city is absorbing the shock of nearly three months of war in the country’s southeast. Evacuees, injured civilians and wounded soldiers are all piling into the city in search of safety and treatment.</content>
-    <link href="https://www.wsj.com/articles/with-russian-forces-at-the-door-zaporizhzhia-shelters-evacuees-from-ukraines-east-11652352765" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
