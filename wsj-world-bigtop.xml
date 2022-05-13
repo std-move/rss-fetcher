@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-13T10:27:30Z</updated>
+  <updated>2022-05-13T12:53:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant</title>
+    <updated>2022-05-13T11:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-13:/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695</id>
+    <content type="html">The Ukrainian government said it had opened talks on evacuating soldiers trapped in the Azovstal steel mill in Mariupol in stages, as the EU was preparing a proposal to boost funding for Ukraine’s military.</content>
+    <link href="https://www.wsj.com/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>&#39;I Cannot Imagine My Life Without Parents.&#39; A Boy&#39;s War Diary Tells of Grief in Ukraine</title>
     <updated>2022-05-13T09:30:00Z</updated>
     <id>tag:www.wsj.com,2022-05-13:/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200</id>
     <content type="html">A 12-year-old Ukrainian boy who lost his mother and stepfather in a Russian attack on a village near Kyiv recounts the sorrow and fear of wartime in his diary.</content>
     <link href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Holds Line as Western Heavy Arms Join Fight</title>
-    <updated>2022-05-12T13:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-12:/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422</id>
-    <content type="html">More than three weeks after the massive Russian offensive that aims to encircle Ukraine’s best forces in Donbas kicked off, Moscow’s achievements so far are limited at best.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
