@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-13T08:28:39Z</updated>
+  <updated>2022-05-13T10:27:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>&#39;I Cannot Imagine My Life Without Parents.&#39; A Boy&#39;s War Diary Tells of Grief in Ukraine</title>
+    <updated>2022-05-13T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-13:/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200</id>
+    <content type="html">A 12-year-old Ukrainian boy who lost his mother and stepfather in a Russian attack on a village near Kyiv recounts the sorrow and fear of wartime in his diary.</content>
+    <link href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Holds Line as Western Heavy Arms Join Fight</title>
     <updated>2022-05-12T13:33:00Z</updated>
