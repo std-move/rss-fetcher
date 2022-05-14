@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-14T20:23:44Z</updated>
+  <updated>2022-05-14T22:23:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</title>
     <updated>2022-05-14T14:51:00Z</updated>
     <id>tag:www.wsj.com,2022-05-14:/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731</id>
-    <content type="html">Ukrainian forces continued clearing villages north of Kharkiv, as President Vladimir Putin warned Finland’s leader that joining NATO would risk damaging ties with Moscow, and GOP senators visited Kyiv.</content>
+    <content type="html">Ukrainian forces continued clearing villages north of Kharkiv, Russian President Vladimir Putin warned Finland’s leader that joining NATO would risk damaging ties with Moscow, and GOP senators visited Kyiv.</content>
     <link href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
