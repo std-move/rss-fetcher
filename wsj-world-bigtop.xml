@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-14T10:26:28Z</updated>
+  <updated>2022-05-14T12:45:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,35 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</title>
-    <updated>2022-05-13T20:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-13:/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399</id>
-    <content type="html">Israeli security forces and Palestinians clashed violently in the West Bank before the funeral of a prominent Palestinian-American journalist in Jerusalem in a bloody day of violence that saw the death of an Israeli police officer.</content>
-    <link href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</title>
-    <updated>2022-05-13T16:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-13:/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449</id>
-    <content type="html">More than two years of border restrictions and a protracted lockdown of Shanghai are prompting some Chinese citizens to contemplate emigration, a prospect once unthinkable for many of them.</content>
-    <link href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>How Putin Drove Finland Into NATO&#39;s Arms</title>
     <updated>2022-05-13T14:09:00Z</updated>
     <id>tag:www.wsj.com,2022-05-13:/articles/putin-russia-ukraine-finland-nato-11652386254</id>
     <content type="html">For many Finns, Russia’s assault on Ukraine recalled the 1939 Soviet invasion of their homeland. Fear of another attack was enough to dismantle Helsinki’s seven-decade strategy of heavily armed nonalignment. “We have no other option.”</content>
     <link href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Boy&#39;s War Diary Tells of Grief in Ukraine: &#39;I Cannot Imagine My Life Without Parents&#39;</title>
-    <updated>2022-05-13T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-13:/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200</id>
-    <content type="html">A 12-year-old Ukrainian boy who lost his mother and stepfather in a Russian attack on a village near Kyiv recounts the sorrow and fear of wartime in his diary.</content>
-    <link href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
