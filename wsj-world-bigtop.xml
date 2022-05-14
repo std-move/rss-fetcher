@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-14T16:32:47Z</updated>
+  <updated>2022-05-14T18:28:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>El Salvador&#39;s President Went All In on Bitcoin. Then It Tanked.</title>
+    <updated>2022-05-14T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-14:/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400</id>
+    <content type="html">Bitcoin’s losses stoke growing fears of a debt default under President Nayib Bukele.</content>
+    <link href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</title>
     <updated>2022-05-14T14:51:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-05-14:/articles/rising-food-prices-roil-developing-world-11652520782</id>
     <content type="html">Soaring prices are triggering shortages and protests as disruption from the Ukraine war adds to existing strains on global supplies of grains, meat and other foodstuffs.</content>
     <link href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Putin Drove Finland Into NATO&#39;s Arms</title>
-    <updated>2022-05-13T14:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-13:/articles/putin-russia-ukraine-finland-nato-11652386254</id>
-    <content type="html">For many Finns, Russia’s assault on Ukraine recalled the 1939 Soviet invasion of their homeland. Fear of another attack was enough to dismantle Helsinki’s seven-decade strategy of heavily armed nonalignment. “We have no other option.”</content>
-    <link href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
