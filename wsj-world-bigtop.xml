@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-14T08:28:16Z</updated>
+  <updated>2022-05-14T10:26:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Rising Food Prices Roil Developing World</title>
+    <updated>2022-05-14T09:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-14:/articles/rising-food-prices-roil-developing-world-11652520782</id>
+    <content type="html">Soaring prices are triggering shortages and protests as disruption from the Ukraine war adds to existing strains on global supplies of grains, meat and other foodstuffs.</content>
+    <link href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</title>
     <updated>2022-05-13T20:31:00Z</updated>
