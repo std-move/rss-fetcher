@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-15T12:44:54Z</updated>
+  <updated>2022-05-15T14:20:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Mass Covid Testing Becomes China&#39;s New Normal</title>
-    <updated>2022-05-15T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-15:/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001</id>
-    <content type="html">China is doubling down on mass testing as a key weapon against Covid-19 even as costs mount and the highly infectious Omicron variant exposes challenges with the strategy.</content>
-    <link href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</title>
-    <updated>2022-05-15T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-15:/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731</id>
-    <content type="html">Ukrainian forces continued clearing villages north of Kharkiv, Russian President Vladimir Putin warned Finland’s leader that joining NATO would risk damaging ties with Moscow, and GOP senators visited Kyiv.</content>
-    <link href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rising Food Prices Roil Developing World</title>
-    <updated>2022-05-14T09:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-14:/articles/rising-food-prices-roil-developing-world-11652520782</id>
-    <content type="html">Soaring prices are triggering shortages and protests as disruption from the Ukraine war adds to existing strains on global supplies of grains, meat and other foodstuffs.</content>
-    <link href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782" rel="alternate"></link>
+    <title>Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City</title>
+    <updated>2022-05-15T13:53:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-15:/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553</id>
+    <content type="html">Finnish President Sauli Niinistö said the government would apply for membership of the North Atlantic Treaty Organization subject to approval by parliament, which is widely expected, in the coming days.</content>
+    <link href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
