@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-15T20:25:22Z</updated>
+  <updated>2022-05-15T22:22:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</title>
-    <updated>2022-05-15T18:58:00Z</updated>
+    <updated>2022-05-15T20:56:00Z</updated>
     <id>tag:www.wsj.com,2022-05-15:/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553</id>
     <content type="html">Finnish President Sauli Niinistö said the government would apply for membership in the North Atlantic Treaty Organization subject to approval by parliament, which is widely expected, in the coming days.</content>
     <link href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553" rel="alternate"></link>
