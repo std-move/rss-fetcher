@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-15T16:32:51Z</updated>
+  <updated>2022-05-15T18:28:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City</title>
+    <title>Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</title>
+    <updated>2022-05-15T16:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-15:/articles/ukraine-russia-war-crimes-11652582051</id>
+    <content type="html">After Mykola Kulichenko was taken from his village in Ukraine, interrogated, beaten and left for dead, he still had to get back home. His account is among many war-crimes cases Ukrainian prosecutors are building against Russia.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</title>
     <updated>2022-05-15T16:08:00Z</updated>
     <id>tag:www.wsj.com,2022-05-15:/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553</id>
     <content type="html">Finnish President Sauli Niinistö said the government would apply for membership of the North Atlantic Treaty Organization subject to approval by parliament, which is widely expected, in the coming days.</content>
     <link href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</title>
-    <updated>2022-05-15T13:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-15:/articles/ukraine-russia-war-crimes-11652582051</id>
-    <content type="html">After Mykola Kulichenko was taken from his village in Ukraine, interrogated, beaten and left for dead, he still had to get back home. His account is among many war-crimes cases Ukrainian prosecutors are building against Russia.</content>
-    <link href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
