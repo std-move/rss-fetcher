@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-16T18:29:59Z</updated>
+  <updated>2022-05-16T20:25:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Turkey Lays Out Demands as Finland, Sweden Plan NATO Entry</title>
-    <updated>2022-05-16T18:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-16:/articles/turkey-lays-out-demands-as-finland-sweden-plan-nato-entry-11652722492</id>
-    <content type="html">Stockholm said that senior officials from Sweden, Finland and Turkey will meet in Ankara to discuss the matter.</content>
-    <link href="https://www.wsj.com/articles/turkey-lays-out-demands-as-finland-sweden-plan-nato-entry-11652722492" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Ukraine&#39;s Military Gains Raise Kyiv&#39;s War Aims</title>
     <updated>2022-05-16T17:26:00Z</updated>
