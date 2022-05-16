@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-16T20:25:59Z</updated>
+  <updated>2022-05-16T22:23:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Military Gains Raise Kyiv&#39;s War Aims</title>
-    <updated>2022-05-16T17:26:00Z</updated>
+    <updated>2022-05-16T21:46:00Z</updated>
     <id>tag:www.wsj.com,2022-05-16:/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700</id>
     <content type="html">Kharkiv’s regional governor said that even as Ukraine wins back territory seized by Russia in recent months, the situation across the region remains volatile.</content>
     <link href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700" rel="alternate"></link>
