@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-16T16:37:35Z</updated>
+  <updated>2022-05-16T18:29:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Refugees Are Heading Home in Droves</title>
-    <updated>2022-05-16T13:14:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-16:/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585</id>
-    <content type="html">Since mid-April, nearly as many people have crossed the Polish border into Ukraine as have come the other direction, a dramatic shift from the early weeks of the war.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585" rel="alternate"></link>
+    <title>Turkey Lays Out Demands as Finland, Sweden Plan NATO Entry</title>
+    <updated>2022-05-16T18:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-16:/articles/turkey-lays-out-demands-as-finland-sweden-plan-nato-entry-11652722492</id>
+    <content type="html">Stockholm said that senior officials from Sweden, Finland and Turkey will meet in Ankara to discuss the matter.</content>
+    <link href="https://www.wsj.com/articles/turkey-lays-out-demands-as-finland-sweden-plan-nato-entry-11652722492" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine&#39;s Military Regains Ground in Northeast</title>
-    <updated>2022-05-16T12:30:00Z</updated>
+    <title>Ukraine&#39;s Military Gains Raise Kyiv&#39;s War Aims</title>
+    <updated>2022-05-16T17:26:00Z</updated>
     <id>tag:www.wsj.com,2022-05-16:/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700</id>
-    <content type="html">Kharkiv’s regional governor said that even as Ukraine wins back territory seized by Russia in recent months, the situation across the region remains extremely volatile.</content>
+    <content type="html">Kharkiv’s regional governor said that even as Ukraine wins back territory seized by Russia in recent months, the situation across the region remains volatile.</content>
     <link href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukrainians in Occupied Village Learn to Live With the Enemy</title>
-    <updated>2022-05-16T11:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-16:/articles/ukrainians-in-occupied-village-learn-to-live-with-the-enemy-11652698914</id>
-    <content type="html">When their village was occupied by Russian soldiers, one Ukrainian family was forced into an uncomfortable intimacy with members of an army that had devastated their lives and country.</content>
-    <link href="https://www.wsj.com/articles/ukrainians-in-occupied-village-learn-to-live-with-the-enemy-11652698914" rel="alternate"></link>
+    <title>​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</title>
+    <updated>2022-05-16T15:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-16:/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630</id>
+    <content type="html">Senior U.S. and European Union officials agreed to expand cooperation on supply chains for critical technologies including semiconductors and materials used in their production.</content>
+    <link href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
