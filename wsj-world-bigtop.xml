@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-17T16:37:33Z</updated>
+  <updated>2022-05-17T18:29:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Soldiers Lay Down Arms at Mariupol&#39;s Azovstal Steel Plant</title>
-    <updated>2022-05-17T14:20:00Z</updated>
+    <title>Mariupol&#39;s Last Defenders Yield, Ending Long Russian Siege</title>
+    <updated>2022-05-17T18:04:00Z</updated>
     <id>tag:www.wsj.com,2022-05-17:/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128</id>
-    <content type="html">Fighters at the steel plant appeared to cede control of the strategic southern port city to Russia after months of bloody battle that ended with a dramatic siege at the sprawling complex where soldiers and civilians took refuge.</content>
+    <content type="html">Completing the capture of Mariupol is a long sought victory for Russia, and Ukrainian soldiers are being taken from the Azovstal steel plant to Russian-controlled territory. Kyiv is pushing for a prisoner swap.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>As Israeli-Palestinian Conflict Flares, a West Bank Hot Spot Reemerges</title>
-    <updated>2022-05-17T13:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-17:/articles/as-israeli-palestinian-conflict-flares-a-hotspot-reemerges-in-the-west-bank-11652794408</id>
-    <content type="html">Jenin in the West Bank has become a militant stronghold, imperiling some economic gains for Palestinians.</content>
-    <link href="https://www.wsj.com/articles/as-israeli-palestinian-conflict-flares-a-hotspot-reemerges-in-the-west-bank-11652794408" rel="alternate"></link>
+    <title>China Eastern Black Box Points to Intentional Nosedive</title>
+    <updated>2022-05-17T16:31:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-17:/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097</id>
+    <content type="html">Flight data suggests that someone in the cockpit of the Boeing 737-800 that crashed in March put the aircraft into a near-vertical descent, according to a preliminary U.S. assessment.</content>
+    <link href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How Germany Is Racing to Sever Dependence on Russian Energy</title>
+    <updated>2022-05-17T15:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-17:/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958</id>
+    <content type="html">Europe’s largest economy is scrambling to find new suppliers and invest billions in infrastructure to reverse decades of policy in weeks; business leaders warn of a financial crisis from higher energy prices.</content>
+    <link href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
