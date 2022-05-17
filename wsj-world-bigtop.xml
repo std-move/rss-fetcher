@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-17T20:24:37Z</updated>
+  <updated>2022-05-17T22:24:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Mariupol&#39;s Last Defenders Yield, Ending Long Russian Siege</title>
-    <updated>2022-05-17T18:04:00Z</updated>
+    <updated>2022-05-17T20:37:00Z</updated>
     <id>tag:www.wsj.com,2022-05-17:/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128</id>
     <content type="html">Completing the capture of Mariupol is a long sought victory for Russia, and Ukrainian soldiers are being taken from the Azovstal steel plant to Russian-controlled territory. Kyiv is pushing for a prisoner swap.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128" rel="alternate"></link>
