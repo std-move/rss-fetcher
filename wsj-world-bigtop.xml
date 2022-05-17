@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-17T14:25:29Z</updated>
+  <updated>2022-05-17T16:37:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Soldiers Lay Down Arms at Mariupol&#39;s Azovstal Steel Plant</title>
-    <updated>2022-05-17T13:38:00Z</updated>
+    <updated>2022-05-17T14:20:00Z</updated>
     <id>tag:www.wsj.com,2022-05-17:/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128</id>
-    <content type="html">Fighters in Mariupol laid down their arms at the Azovstal steel plant, appearing to cede control of the strategic southern port city to Russia after months of bloody battle that ended with a dramatic siege at the sprawling complex where soldiers and civilians took refuge.</content>
+    <content type="html">Fighters at the steel plant appeared to cede control of the strategic southern port city to Russia after months of bloody battle that ended with a dramatic siege at the sprawling complex where soldiers and civilians took refuge.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As Israeli-Palestinian Conflict Flares, a West Bank Hot Spot Reemerges</title>
+    <updated>2022-05-17T13:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-17:/articles/as-israeli-palestinian-conflict-flares-a-hotspot-reemerges-in-the-west-bank-11652794408</id>
+    <content type="html">Jenin in the West Bank has become a militant stronghold, imperiling some economic gains for Palestinians.</content>
+    <link href="https://www.wsj.com/articles/as-israeli-palestinian-conflict-flares-a-hotspot-reemerges-in-the-west-bank-11652794408" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
