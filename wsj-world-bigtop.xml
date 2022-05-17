@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-17T12:48:01Z</updated>
+  <updated>2022-05-17T14:25:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainian Soldiers Lay Down Arms at Mariupol&#39;s Azovstal Steel Plant</title>
-    <updated>2022-05-17T11:36:00Z</updated>
+    <updated>2022-05-17T13:38:00Z</updated>
     <id>tag:www.wsj.com,2022-05-17:/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128</id>
     <content type="html">Fighters in Mariupol laid down their arms at the Azovstal steel plant, appearing to cede control of the strategic southern port city to Russia after months of bloody battle that ended with a dramatic siege at the sprawling complex where soldiers and civilians took refuge.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</title>
-    <updated>2022-05-16T15:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-16:/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630</id>
-    <content type="html">Senior U.S. and European Union officials agreed to expand cooperation on supply chains for critical technologies including semiconductors and materials used in their production.</content>
-    <link href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
