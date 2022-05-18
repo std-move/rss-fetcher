@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-18T14:25:01Z</updated>
+  <updated>2022-05-18T16:37:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Weighs Fate of Ukrainian Defenders in Mariupol</title>
-    <updated>2022-05-18T11:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-18:/articles/russia-weighs-fate-of-ukrainian-defenders-in-mariupol-11652870447</id>
-    <content type="html">Hundreds more Ukrainian soldiers evacuated from Mariupol’s Azovstal steel plant were taken as prisoners to Russian-held areas of Ukraine, Moscow said, as Russian prosecutors called for the regiment that was holed up there to be declared a terrorist organization.</content>
-    <link href="https://www.wsj.com/articles/russia-weighs-fate-of-ukrainian-defenders-in-mariupol-11652870447" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Eastern Black Box Points to Intentional Nosedive</title>
-    <updated>2022-05-17T16:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-17:/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097</id>
-    <content type="html">Flight data suggests that someone in the cockpit of the Boeing 737-800 that crashed in March put the aircraft into a near-vertical descent, according to a preliminary U.S. assessment.</content>
-    <link href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Germany Is Racing to Sever Dependence on Russian Energy</title>
-    <updated>2022-05-17T15:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-17:/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958</id>
-    <content type="html">Europe’s largest economy is scrambling to find new suppliers and invest billions in infrastructure to reverse decades of policy in weeks; business leaders warn of a financial crisis from higher energy prices.</content>
-    <link href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
