@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-19T20:24:43Z</updated>
+  <updated>2022-05-19T22:22:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,11 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>As Russia&#39;s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</title>
-    <updated>2022-05-19T12:02:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-19:/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665</id>
-    <content type="html">Following Russia’s retreat from Kyiv and the northeastern city of Kharkiv, dissenting views on the war have challenged the Kremlin narrative promoted in state-controlled media.</content>
-    <link href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665" rel="alternate"></link>
+    <title>Can Ukraine Win? Five Scenarios for the War&#39;s Next Phase</title>
+    <updated>2022-05-19T16:24:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-19:/articles/ukraine-russia-war-end-11652967707</id>
+    <content type="html">Russia’s shift to a scaled-down offensive in the east and southeast looks increasingly difficult for Putin to pull off. Analysts weigh the possibilities of where the conflict goes from here.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
