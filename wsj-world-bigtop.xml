@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-19T10:27:26Z</updated>
+  <updated>2022-05-19T12:47:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Soldier Who Shot Dead an Unarmed Civilian Testifies in Ukraine War-Crimes Trial</title>
+    <updated>2022-05-19T12:31:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-19:/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390</id>
+    <content type="html">Vadim Shishimarin, a 21-year-old Russian tank-unit officer, told a Kyiv courtroom he opened fire on the man while riding in a commandeered car in northeast Ukraine in late February.</content>
+    <link href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As Russia&#39;s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</title>
+    <updated>2022-05-19T12:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-19:/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665</id>
+    <content type="html">Following Russia’s retreat from Kyiv and the northeastern city of Kharkiv, dissenting views on the war have challenged the Kremlin narrative promoted in state-controlled media.</content>
+    <link href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
