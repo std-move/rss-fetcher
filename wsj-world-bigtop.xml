@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-20T01:59:10Z</updated>
+  <updated>2022-05-20T03:21:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-05-19:/articles/ukraine-russia-war-end-11652967707</id>
     <content type="html">Russia’s shift to a scaled-down offensive in the east and southeast looks increasingly difficult for Putin to pull off. Analysts weigh the possibilities of where the conflict goes from here.</content>
     <link href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Trauma of Fires, Floods Hangs Over Australian Election</title>
+    <updated>2022-05-19T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-19:/articles/trauma-of-fires-floods-hangs-over-australian-election-11652961637</id>
+    <content type="html">Economic issues have dominated the campaign, but climate change will play a role in how many Australians vote Saturday.</content>
+    <link href="https://www.wsj.com/articles/trauma-of-fires-floods-hangs-over-australian-election-11652961637" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
