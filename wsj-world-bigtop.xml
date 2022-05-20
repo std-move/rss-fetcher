@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-20T10:26:44Z</updated>
+  <updated>2022-05-20T12:45:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Can Ukraine Win? Five Scenarios for the War&#39;s Next Phase</title>
-    <updated>2022-05-19T16:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-19:/articles/ukraine-russia-war-end-11652967707</id>
-    <content type="html">Russia’s shift to a scaled-down offensive in the east and southeast looks increasingly difficult for Putin to pull off. Analysts weigh the possibilities of where the conflict goes from here.</content>
-    <link href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707" rel="alternate"></link>
+    <title>Lawyers in Ukraine War-Crimes Trial Argue Over Russian Soldier&#39;s Intent</title>
+    <updated>2022-05-20T10:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-20:/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425</id>
+    <content type="html">The Russian tank sergeant who admitted killing a civilian isn’t guilty of intentional murder, his attorney said as the trial drew to a close, setting the stage for a verdict next week that will offer the first indication of how wartime justice could be meted out by Ukrainian courts.</content>
+    <link href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Trauma of Fires, Floods Hangs Over Australian Election</title>
-    <updated>2022-05-19T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-19:/articles/trauma-of-fires-floods-hangs-over-australian-election-11652961637</id>
-    <content type="html">Economic issues have dominated the campaign, but climate change will play a role in how many Australians vote Saturday.</content>
-    <link href="https://www.wsj.com/articles/trauma-of-fires-floods-hangs-over-australian-election-11652961637" rel="alternate"></link>
+    <title>Ukrainian Families Risk Their Lives to Escape Russian Occupation</title>
+    <updated>2022-05-20T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-20:/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001</id>
+    <content type="html">Russian forces moved into the small town of Orikhiv, about 100 miles from Mariupol, soon after Moscow first ordered its invasion of Ukraine. The town’s residents faced explosions and shootings on a daily basis, forcing them to take the decision to leave.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
