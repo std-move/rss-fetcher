@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-20T14:21:42Z</updated>
+  <updated>2022-05-20T16:33:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Lawyers in Ukraine War-Crimes Trial Argue Over Russian Soldier&#39;s Intent</title>
-    <updated>2022-05-20T10:43:00Z</updated>
+    <title>Russian Soldier Didn&#39;t Commit Murder, His Lawyer Says</title>
+    <updated>2022-05-20T15:16:00Z</updated>
     <id>tag:www.wsj.com,2022-05-20:/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425</id>
-    <content type="html">The Russian tank sergeant who admitted killing a civilian isn’t guilty of intentional murder, his attorney said as the trial drew to a close, setting the stage for a verdict next week that will offer the first indication of how wartime justice could be meted out by Ukrainian courts.</content>
+    <content type="html">The Russian tank sergeant who admitted killing a civilian in Ukraine isn’t guilty of intentional murder, his attorney said as a closely watched war-crimes trial drew to a close, setting the stage for a verdict next week.</content>
     <link href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
