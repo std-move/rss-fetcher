@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-20T20:24:56Z</updated>
+  <updated>2022-05-20T22:24:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Soldier Didn&#39;t Commit Murder, His Lawyer Says</title>
-    <updated>2022-05-20T19:07:00Z</updated>
+    <updated>2022-05-20T20:35:00Z</updated>
     <id>tag:www.wsj.com,2022-05-20:/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425</id>
     <content type="html">The Russian tank sergeant who admitted killing a civilian in Ukraine isn’t guilty of intentional murder, his attorney said as a closely watched war-crimes trial drew to a close, setting the stage for a verdict next week.</content>
     <link href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukrainian Families Risk Their Lives to Escape Russian Occupation</title>
-    <updated>2022-05-20T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-20:/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001</id>
-    <content type="html">Russian forces moved into the small town of Orikhiv, about 100 miles from Mariupol, soon after Moscow first ordered its invasion of Ukraine. The town’s residents faced explosions and shootings on a daily basis, forcing them to take the decision to leave.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001" rel="alternate"></link>
+    <title>A California Church Shooting Highlights a Bitter Divide Among Taiwanese</title>
+    <updated>2022-05-20T20:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-20:/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718</id>
+    <content type="html">The shooting has spotlighted a politically active Presbyterian congregation that is spread across the U.S. and closely associated with supporters of Taiwan independence.</content>
+    <link href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
