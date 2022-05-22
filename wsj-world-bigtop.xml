@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-22T20:23:56Z</updated>
+  <updated>2022-05-22T22:22:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Poland&#39;s President Addresses Ukraine&#39;s Parliament, Calls for Removal of All Russian Troops</title>
+    <updated>2022-05-22T21:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-22:/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429</id>
+    <content type="html">In a surprise visit to Kyiv, Andrzej Duda said that only Ukraine should decide any terms upon which it pursues peace with Moscow.</content>
+    <link href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</title>
     <updated>2022-05-22T16:33:00Z</updated>
     <id>tag:www.wsj.com,2022-05-22:/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183</id>
     <content type="html">The Biden administration is weighing the desire to avoid escalating the military presence against the security of U.S. diplomats in a conflict zone.</content>
     <link href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Poland&#39;s President Addresses Ukraine&#39;s Parliament, Calls for Removal of All Russian Troops</title>
-    <updated>2022-05-22T16:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-22:/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429</id>
-    <content type="html">In a surprise visit to Kyiv, Andrzej Duda said that only Ukraine should decide any terms upon which it pursues peace with Moscow.</content>
-    <link href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
