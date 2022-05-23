@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-22T22:22:30Z</updated>
+  <updated>2022-05-23T01:57:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,7 +21,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>&#39;Why Did You Do This?&#39; The Story Behind Ukraine&#39;s First War-Crimes Trial</title>
+    <title>The Story Behind Ukraine&#39;s First War-Crimes Trial</title>
     <updated>2022-05-22T13:35:00Z</updated>
     <id>tag:www.wsj.com,2022-05-22:/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541</id>
     <content type="html">A verdict is expected Monday in the closely watched war-crimes trial of Russian Sgt. Vadim Shishimarin. This account, based on witness testimony, reconstructs the events leading to his killing of a civilian.</content>
