@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-23T12:43:26Z</updated>
+  <updated>2022-05-23T14:22:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</title>
-    <updated>2022-05-23T12:33:00Z</updated>
+    <updated>2022-05-23T14:01:00Z</updated>
     <id>tag:www.wsj.com,2022-05-23:/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495</id>
-    <content type="html">A Russian soldier was convicted of premeditated murder and sentenced to life in prison in Ukraine’s first war crimes trial since the invasion began in February.</content>
+    <content type="html">A Russian soldier was convicted of premeditated murder and sentenced to life in prison in Ukraine’s first war-crimes trial since the invasion began in February.</content>
     <link href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
