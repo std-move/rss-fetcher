@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-24T16:36:41Z</updated>
+  <updated>2022-05-24T18:30:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls</title>
+    <updated>2022-05-24T17:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-24:/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801</id>
+    <content type="html">Gustavo Petro, who holds a commanding advantage in polls, would be a rare antiestablishment leader for U.S.’s top regional ally.</content>
+    <link href="https://www.wsj.com/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Tries to Tighten Grip on Occupied Areas of Ukraine</title>
     <updated>2022-05-24T16:18:00Z</updated>
@@ -13,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Egypt&#39;s Bread Crisis Awakens Old Fears of Political Unrest</title>
-    <updated>2022-05-23T18:35:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-23:/articles/egypts-bread-crisis-wheat-supplies-russia-ukrain-warawakens-old-fears-of-political-unrest-11653318765</id>
-    <content type="html">The world’s top wheat importer faces strains to its subsidized food program in wake of Russian invasion of Ukraine as shortages, rising prices hit budget. When baladi supplies ran out, “you should have seen the fight.”</content>
-    <link href="https://www.wsj.com/articles/egypts-bread-crisis-wheat-supplies-russia-ukrain-warawakens-old-fears-of-political-unrest-11653318765" rel="alternate"></link>
+    <title>Roman Abramovich Faces Probe After Moving Assets to an Island in the English Channel</title>
+    <updated>2022-05-24T14:45:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-24:/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549</id>
+    <content type="html">Authorities on the island of Jersey are in an awkward standoff with one of their best known customers.</content>
+    <link href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
