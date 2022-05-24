@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-24T18:30:08Z</updated>
+  <updated>2022-05-24T20:26:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Tries to Tighten Grip on Occupied Areas of Ukraine</title>
+    <updated>2022-05-24T18:29:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-24:/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676</id>
+    <content type="html">As its military campaign to take more territory in the eastern Donbas region stalls, Moscow is trying to hold on to areas it occupies and Ukrainian President Volodymyr Zelensky warns that fighting is set to intensify.</content>
+    <link href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls</title>
     <updated>2022-05-24T17:00:00Z</updated>
     <id>tag:www.wsj.com,2022-05-24:/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801</id>
     <content type="html">Gustavo Petro, who holds a commanding advantage in polls, would be a rare antiestablishment leader for U.S.’s top regional ally.</content>
     <link href="https://www.wsj.com/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Tries to Tighten Grip on Occupied Areas of Ukraine</title>
-    <updated>2022-05-24T16:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-24:/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676</id>
-    <content type="html">As its military campaign to take more territory in the eastern Donbas region stalls, Moscow is trying to hold on to areas it occupies and Ukrainian President Volodymyr Zelensky warns that fighting is set to intensify.</content>
-    <link href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
