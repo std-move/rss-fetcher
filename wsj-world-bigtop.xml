@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-24T14:22:34Z</updated>
+  <updated>2022-05-24T16:36:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Tries to Tighten Hold Over Occupied Areas of Ukraine</title>
-    <updated>2022-05-24T11:31:00Z</updated>
+    <title>Russia Tries to Tighten Grip on Occupied Areas of Ukraine</title>
+    <updated>2022-05-24T16:18:00Z</updated>
     <id>tag:www.wsj.com,2022-05-24:/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676</id>
-    <content type="html">As its military campaign to take more territory in the eastern Donbas region stalls in the face of fierce resistance, Moscow is attempting to hold on to areas it occupies already, with Ukrainian President Volodymyr Zelensky warning that fighting is set to intensify.</content>
+    <content type="html">As its military campaign to take more territory in the eastern Donbas region stalls, Moscow is trying to hold on to areas it occupies and Ukrainian President Volodymyr Zelensky warns that fighting is set to intensify.</content>
     <link href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
