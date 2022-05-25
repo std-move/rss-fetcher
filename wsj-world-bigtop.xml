@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-25T14:32:32Z</updated>
+  <updated>2022-05-25T16:36:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Forces Expand Donbas Assault, but at Steep Cost</title>
+    <title>Russian Forces Expand Donbas Assault, Take Heavy Losses</title>
     <updated>2022-05-25T11:14:00Z</updated>
     <id>tag:www.wsj.com,2022-05-25:/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850</id>
-    <content type="html">Moscow’s military units were pushing to encircle two cities in eastern Ukraine, part of an all-out Russian assault in an effort to take control of Donbas. But they are losing so many men that continued Ukrainian resistance could eventually force Russia to shift strategies again.</content>
+    <content type="html">Moscow’s military units were pushing to encircle two cities in eastern Ukraine as part of an all-out assault, but are losing so many men that continued Ukrainian resistance could force Russia to shift strategies again.</content>
     <link href="https://www.wsj.com/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>&#39;Daughter of Hong Kong&#39; Makes Last Stand on Tiananmen Massacre---From a Court Dock</title>
+    <title>Hong Kong Lawyer Uses Her Trials to Keep Memories Alive of China&#39;s Tiananmen Massacre</title>
     <updated>2022-05-25T09:30:00Z</updated>
     <id>tag:www.wsj.com,2022-05-25:/articles/daughter-of-hong-kong-makes-last-stand-on-tiananmen-massacrefrom-a-court-dock-11653471001</id>
     <content type="html">Courtrooms are the main venue left for Hong Kong lawyer Chow Hang-tung to keep alive memories of the events of 1989, as the city erases statues and other memorials.</content>
