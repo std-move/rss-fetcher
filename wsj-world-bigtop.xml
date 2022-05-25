@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-25T10:26:46Z</updated>
+  <updated>2022-05-25T14:32:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</title>
-    <updated>2022-05-24T21:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-24:/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676</id>
-    <content type="html">Olha Sukhenko, the mayor of the village of Motyzhyn, and her family members were abducted and murdered by five Russian service members and three members of the Russian mercenary company Wagner Group, Ukrainian Prosecutor General Iryna Venediktova said.</content>
-    <link href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676" rel="alternate"></link>
+    <title>Russian Forces Expand Donbas Assault, but at Steep Cost</title>
+    <updated>2022-05-25T11:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-25:/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850</id>
+    <content type="html">Moscow’s military units were pushing to encircle two cities in eastern Ukraine, part of an all-out Russian assault in an effort to take control of Donbas. But they are losing so many men that continued Ukrainian resistance could eventually force Russia to shift strategies again.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>&#39;Daughter of Hong Kong&#39; Makes Last Stand on Tiananmen Massacre---From a Court Dock</title>
+    <updated>2022-05-25T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-25:/articles/daughter-of-hong-kong-makes-last-stand-on-tiananmen-massacrefrom-a-court-dock-11653471001</id>
+    <content type="html">Courtrooms are the main venue left for Hong Kong lawyer Chow Hang-tung to keep alive memories of the events of 1989, as the city erases statues and other memorials.</content>
+    <link href="https://www.wsj.com/articles/daughter-of-hong-kong-makes-last-stand-on-tiananmen-massacrefrom-a-court-dock-11653471001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
