@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-25T20:24:51Z</updated>
+  <updated>2022-05-25T22:23:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Forces Expand Donbas Assault, Take Heavy Losses</title>
-    <updated>2022-05-25T19:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-25:/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850</id>
-    <content type="html">Moscow’s military units were pushing to encircle two cities in eastern Ukraine as part of an all-out assault, but are losing so many men that continued Ukrainian resistance could force Russia to shift strategies again.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hong Kong Lawyer Uses Her Trials to Keep Memories Alive of China&#39;s Tiananmen Massacre</title>
-    <updated>2022-05-25T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-25:/articles/daughter-of-hong-kong-makes-last-stand-on-tiananmen-massacrefrom-a-court-dock-11653471001</id>
-    <content type="html">Courtrooms are the main venue left for Hong Kong lawyer Chow Hang-tung to keep alive memories of the events of 1989, as the city erases statues and other memorials.</content>
-    <link href="https://www.wsj.com/articles/daughter-of-hong-kong-makes-last-stand-on-tiananmen-massacrefrom-a-court-dock-11653471001" rel="alternate"></link>
+    <title>Putin&#39;s Powerful Orthodox Church Ally Helps Cement Russian Support for War</title>
+    <updated>2022-05-25T16:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-25:/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434</id>
+    <content type="html">As cracks begin to show in the state media narrative about the invasion of Ukraine, Patriarch Kirill has been unwavering in support, portraying it for millions of faithful as a holy struggle against the West.</content>
+    <link href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
