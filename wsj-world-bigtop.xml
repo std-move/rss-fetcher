@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-25T18:28:56Z</updated>
+  <updated>2022-05-25T20:24:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Forces Expand Donbas Assault, Take Heavy Losses</title>
-    <updated>2022-05-25T17:56:00Z</updated>
+    <updated>2022-05-25T19:48:00Z</updated>
     <id>tag:www.wsj.com,2022-05-25:/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850</id>
     <content type="html">Moscow’s military units were pushing to encircle two cities in eastern Ukraine as part of an all-out assault, but are losing so many men that continued Ukrainian resistance could force Russia to shift strategies again.</content>
     <link href="https://www.wsj.com/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850" rel="alternate"></link>
