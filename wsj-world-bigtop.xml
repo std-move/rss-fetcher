@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-26T10:25:28Z</updated>
+  <updated>2022-05-26T12:45:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin&#39;s Powerful Orthodox Church Ally Helps Cement Russian Support for War</title>
-    <updated>2022-05-25T16:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-25:/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434</id>
-    <content type="html">As cracks begin to show in the state media narrative about the invasion of Ukraine, Patriarch Kirill has been unwavering in support, portraying it for millions of faithful as a holy struggle against the West.</content>
-    <link href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434" rel="alternate"></link>
+    <title>Ukraine Slams Idea of Swapping Land for Peace</title>
+    <updated>2022-05-26T10:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-26:/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912</id>
+    <content type="html">Ukrainian President Volodymyr Zelensky dismissed suggestions that his country should cede territory, comparing them to attempts to appease Nazi Germany, as Russia stepped up its attacks in Ukraine’s east.</content>
+    <link href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As Russian Forces Retreated, Mock Executions and Beatings Increased</title>
+    <updated>2022-05-26T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-26:/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401</id>
+    <content type="html">Caught out by drone attacks and ambushes, Russian patrols began targeting civilians for interrogation in the weeks following the Ukraine invasion, convinced that citizens were taking photos of their positions or passing other information about their formations to Ukrainian forces.</content>
+    <link href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
