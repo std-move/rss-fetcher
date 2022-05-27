@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-27T08:29:20Z</updated>
+  <updated>2022-05-27T10:27:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Slams Idea of Swapping Land for Peace</title>
-    <updated>2022-05-27T01:58:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-27:/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky dismissed suggestions that his country should cede territory, comparing them to attempts to appease Nazi Germany, as Russia stepped up its attacks in Ukraine’s east.</content>
-    <link href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912" rel="alternate"></link>
+    <title>Russia Gains Ground in Bid to Encircle Troops Defending Ukraine&#39;s East</title>
+    <updated>2022-05-27T09:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-27:/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841</id>
+    <content type="html">Fierce fighting raged in the Donbas region, with Russian forces engaging in street battles in the city of Severodonetsk as Moscow brought to bear its advantage in firepower on outgunned Ukrainian defenders.</content>
+    <link href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
