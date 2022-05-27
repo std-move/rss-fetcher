@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-27T10:27:24Z</updated>
+  <updated>2022-05-27T12:46:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Gains Ground in Bid to Encircle Troops Defending Ukraine&#39;s East</title>
-    <updated>2022-05-27T09:50:00Z</updated>
+    <updated>2022-05-27T11:57:00Z</updated>
     <id>tag:www.wsj.com,2022-05-27:/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841</id>
     <content type="html">Fierce fighting raged in the Donbas region, with Russian forces engaging in street battles in the city of Severodonetsk as Moscow brought to bear its advantage in firepower on outgunned Ukrainian defenders.</content>
     <link href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>As Russian Forces Retreated, Mock Executions and Beatings Increased</title>
-    <updated>2022-05-26T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-26:/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401</id>
-    <content type="html">Caught out by drone attacks and ambushes, Russian patrols began targeting civilians for interrogation in the weeks following the Ukraine invasion, convinced that citizens were taking photos of their positions or passing other information about their formations to Ukrainian forces.</content>
-    <link href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401" rel="alternate"></link>
+    <title>Israeli Work Permits for Gazans Help Deter War With Hamas for Now</title>
+    <updated>2022-05-27T11:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-27:/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530</id>
+    <content type="html">An Israeli nationalist march through Arab neighborhoods in Jerusalem on Sunday could put Israel’s strategy of work permits for peace to the test.</content>
+    <link href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
