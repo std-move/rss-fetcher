@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-27T16:35:59Z</updated>
+  <updated>2022-05-27T18:29:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Gains Ground in Bid to Encircle Troops Defending Ukraine&#39;s East</title>
-    <updated>2022-05-27T15:42:00Z</updated>
+    <updated>2022-05-27T18:08:00Z</updated>
     <id>tag:www.wsj.com,2022-05-27:/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841</id>
     <content type="html">Fierce fighting raged in the Donbas region, with Russian forces engaging in street battles in the city of Severodonetsk as Moscow brought to bear its advantage in firepower on outgunned Ukrainian defenders.</content>
     <link href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</title>
+    <updated>2022-05-27T14:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-27:/articles/ukraine-war-down-syndrome-disabilities-11653660722</id>
+    <content type="html">For those with disabilities, the trauma of war is magnified; “usual life has been destroyed.”</content>
+    <link href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
