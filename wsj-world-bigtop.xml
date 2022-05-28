@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-28T16:34:04Z</updated>
+  <updated>2022-05-28T18:27:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Gains Ground in Bid to Encircle Troops Defending Ukraine&#39;s East</title>
-    <updated>2022-05-27T23:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-27:/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841</id>
-    <content type="html">Fierce fighting raged in the Donbas region, with Russian forces engaging in street battles in the city of Severodonetsk as Moscow pressed its advantage in firepower on outgunned Ukrainian defenders.</content>
-    <link href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841" rel="alternate"></link>
+    <title>Putin Says Russia Open to More Talks With Ukraine</title>
+    <updated>2022-05-28T15:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-28:/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308</id>
+    <content type="html">Russia’s president, speaking with his French and German counterparts, also warns that the West’s supply of weapons to Kyiv could exacerbate the crisis.</content>
+    <link href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>U.K.&#39;s Johnson Emerges From Lockdown Scandals to Face Economic Woes</title>
-    <updated>2022-05-27T21:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-27:/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185</id>
-    <content type="html">Luck, global problems to address and the lack of an obvious Tory replacement has ultimately saved the prime minister.</content>
-    <link href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185" rel="alternate"></link>
+    <title>As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a &#39;Petting Zoo&#39;</title>
+    <updated>2022-05-28T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-28:/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803</id>
+    <content type="html">An Air Force intelligence squadron outside Las Vegas tends to a collection of Soviet weapons, using them to teach how to recognize an adversary’s arms—and defeat them.</content>
+    <link href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</title>
-    <updated>2022-05-27T14:14:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-27:/articles/ukraine-war-down-syndrome-disabilities-11653660722</id>
-    <content type="html">For those with disabilities, the trauma of war is magnified; “usual life has been destroyed.”</content>
-    <link href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722" rel="alternate"></link>
+    <title>Ukraine Struggles to Preserve  Alleged War-Crime Evidence</title>
+    <updated>2022-05-28T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-28:/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202</id>
+    <content type="html">Journalists and independent groups want to document alleged Russian abuses, but prosecutors fear their work could make convictions harder.</content>
+    <link href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
