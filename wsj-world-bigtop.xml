@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-29T10:25:26Z</updated>
+  <updated>2022-05-29T12:39:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin Says Russia Open to More Talks With Ukraine</title>
-    <updated>2022-05-28T15:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-28:/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308</id>
-    <content type="html">Russia’s president, speaking with his French and German counterparts, also warns that the West’s supply of weapons to Kyiv could exacerbate the crisis.</content>
-    <link href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308" rel="alternate"></link>
+    <title>Ukraine Renews Calls for Weapons Amid Russian Attack on Eastern Cities</title>
+    <updated>2022-05-29T10:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-29:/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801</id>
+    <content type="html">Kyiv’s fresh appeals to Western nations came as Russia’s offensive threatened the final Ukrainian strongholds in the Luhansk region.</content>
+    <link href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</title>
+    <updated>2022-05-29T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-29:/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640</id>
+    <content type="html">Anna Ivanova has emerged as a symbol for Russian propaganda, inspiring monuments across the country. But her tale is one of grief and poverty in the post-Soviet world.</content>
+    <link href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-05-28:/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803</id>
     <content type="html">An Air Force intelligence squadron outside Las Vegas tends to a collection of Soviet weapons, using them to teach how to recognize an adversary’s arms—and defeat them.</content>
     <link href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Struggles to Preserve  Alleged War-Crime Evidence</title>
-    <updated>2022-05-28T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-28:/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202</id>
-    <content type="html">Journalists and independent groups want to document alleged Russian abuses, but prosecutors fear their work could make convictions harder.</content>
-    <link href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
