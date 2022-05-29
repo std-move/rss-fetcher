@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-29T12:39:27Z</updated>
+  <updated>2022-05-29T14:21:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Renews Calls for Weapons Amid Russian Attack on Eastern Cities</title>
-    <updated>2022-05-29T10:40:00Z</updated>
+    <title>Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</title>
+    <updated>2022-05-29T14:12:00Z</updated>
     <id>tag:www.wsj.com,2022-05-29:/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801</id>
-    <content type="html">Kyiv’s fresh appeals to Western nations came as Russia’s offensive threatened the final Ukrainian strongholds in the Luhansk region.</content>
+    <content type="html">Kyiv’s fresh appeals to Western nations came as Russia’s offensive threatened the final Ukrainian strongholds in the Luhansk region and Ukraine’s president traveled to Kharkiv for the first time since the full-scale invasion began.</content>
     <link href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Anglican Church&#39;s Rifts Over Sexuality Challenge Its Leader</title>
+    <updated>2022-05-29T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-29:/articles/anglican-churchs-rifts-over-sexuality-challenge-its-leader-11653825600</id>
+    <content type="html">Archbishop Justin Welby has hoped to unify a denomination increasingly torn between conservatives, many in Africa, and liberals, particularly in the U.S. But so far, he has failed to reverse the growing rift.</content>
+    <link href="https://www.wsj.com/articles/anglican-churchs-rifts-over-sexuality-challenge-its-leader-11653825600" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-05-29:/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640</id>
     <content type="html">Anna Ivanova has emerged as a symbol for Russian propaganda, inspiring monuments across the country. But her tale is one of grief and poverty in the post-Soviet world.</content>
     <link href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a &#39;Petting Zoo&#39;</title>
-    <updated>2022-05-28T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-28:/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803</id>
-    <content type="html">An Air Force intelligence squadron outside Las Vegas tends to a collection of Soviet weapons, using them to teach how to recognize an adversary’s arms—and defeat them.</content>
-    <link href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
