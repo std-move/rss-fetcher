@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-30T10:26:45Z</updated>
+  <updated>2022-05-30T12:45:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</title>
-    <updated>2022-05-29T15:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-29:/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801</id>
-    <content type="html">Kyiv’s fresh appeals to Western nations came as Russia’s offensive threatened the final Ukrainian strongholds in the Luhansk region and Ukraine’s president traveled to Kharkiv for the first time since the full-scale invasion began.</content>
-    <link href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Anglican Church&#39;s Rifts Over Sexuality Challenge Its Leader</title>
-    <updated>2022-05-29T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-29:/articles/anglican-churchs-rifts-over-sexuality-challenge-its-leader-11653825600</id>
-    <content type="html">Archbishop Justin Welby has hoped to unify a denomination increasingly torn between conservatives, many in Africa, and liberals, particularly in the U.S. But so far, he has failed to reverse the growing rift.</content>
-    <link href="https://www.wsj.com/articles/anglican-churchs-rifts-over-sexuality-challenge-its-leader-11653825600" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Lockdowns Prompt a Rethinking of Life Plans Among the Young</title>
-    <updated>2022-05-29T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-29:/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000</id>
-    <content type="html">Versions of Shanghai’s lockdown are playing out across the country, adding to anxiety among many younger Chinese over limited upward mobility and dissipating their desire to start families, buy apartments or start businesses.</content>
-    <link href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</title>
-    <updated>2022-05-29T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-29:/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640</id>
-    <content type="html">Anna Ivanova has emerged as a symbol for Russian propaganda, inspiring monuments across the country. But her tale is one of grief and poverty in the post-Soviet world.</content>
-    <link href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640" rel="alternate"></link>
+    <title>Russian Forces Push Into Key City in East Ukraine</title>
+    <updated>2022-05-30T10:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-30:/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335</id>
+    <content type="html">The fight for Severodonetsk, one of the last Ukrainian strongholds in the eastern Donbas region, underscores the central role of artillery in the war.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
