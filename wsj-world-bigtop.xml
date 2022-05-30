@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-30T12:45:51Z</updated>
+  <updated>2022-05-30T14:22:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Forces Push Into Key City in East Ukraine</title>
-    <updated>2022-05-30T10:25:00Z</updated>
+    <updated>2022-05-30T12:52:00Z</updated>
     <id>tag:www.wsj.com,2022-05-30:/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335</id>
     <content type="html">The fight for Severodonetsk, one of the last Ukrainian strongholds in the eastern Donbas region, underscores the central role of artillery in the war.</content>
     <link href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335" rel="alternate"></link>
