@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-05-30T22:24:13Z</updated>
+  <updated>2022-05-31T02:05:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Forces Push Into Key City in East Ukraine</title>
+    <updated>2022-05-30T22:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-05-30:/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335</id>
+    <content type="html">The fight for Severodonetsk, one of the last Ukrainian strongholds in the eastern Donbas region, underscores the central role of artillery in the war.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</title>
     <updated>2022-05-30T22:04:00Z</updated>
     <id>tag:www.wsj.com,2022-05-30:/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001</id>
     <content type="html">Across Ukraine, farmers are navigating mines, traversing bombed bridges and risking dangerous maneuvers at overworked ports to circumvent a Russian blockade and get their grains to a world desperate for them.</content>
     <link href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Forces Push Into Key City in East Ukraine</title>
-    <updated>2022-05-30T19:29:00Z</updated>
-    <id>tag:www.wsj.com,2022-05-30:/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335</id>
-    <content type="html">The fight for Severodonetsk, one of the last Ukrainian strongholds in the eastern Donbas region, underscores the central role of artillery in the war.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
