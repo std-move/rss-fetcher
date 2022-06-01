@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-01T14:29:39Z</updated>
+  <updated>2022-06-01T16:36:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Won&#39;t Attack Russian Territory, Zelensky Says</title>
-    <updated>2022-06-01T12:52:00Z</updated>
+    <updated>2022-06-01T16:10:00Z</updated>
     <id>tag:www.wsj.com,2022-06-01:/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526</id>
     <content type="html">Ukraine’s president said that supplying his country with long-range weapons doesn’t increase the risk of it attacking Russian territory, despite its invasion.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine&#39;s Volunteers Learn Battlefield Skills From Private Drillmasters</title>
-    <updated>2022-06-01T10:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-01:/articles/ukraines-citizen-soldiers-learn-battlefield-skills-from-private-drillmasters-11654080725</id>
-    <content type="html">With authorities in Kyiv stretched thin, nongovernmental organizations are training citizen soldiers in the basics, from shooting to first aid.</content>
-    <link href="https://www.wsj.com/articles/ukraines-citizen-soldiers-learn-battlefield-skills-from-private-drillmasters-11654080725" rel="alternate"></link>
+    <title>Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</title>
+    <updated>2022-06-01T14:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-01:/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212</id>
+    <content type="html">Desertions and refusal to engage in the invasion have put Moscow in a bind over how to punish service members without drawing more attention to the problem. “So many people don’t want to fight.”</content>
+    <link href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
