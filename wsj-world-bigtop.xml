@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-01T08:34:18Z</updated>
+  <updated>2022-06-01T10:31:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv&#39;s Firepower</title>
-    <updated>2022-06-01T03:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-01:/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273</id>
-    <content type="html">Moscow has intensified its push to take Severodonetsk, as Western leaders take new measures to punish Russia and the Biden administration plans to provide Ukraine with precision-guided rocket systems.</content>
-    <link href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273" rel="alternate"></link>
+    <title>Ukraine&#39;s Zelensky Rejects Trading Land for Peace With Russia</title>
+    <updated>2022-06-01T08:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-01:/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526</id>
+    <content type="html">Moscow’s forces advanced in the eastern Donbas area, where Ukraine has been losing control of the pivotal city of Severodonetsk, as the U.S. pledged stronger weapons to Kyiv.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
