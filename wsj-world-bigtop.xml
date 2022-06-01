@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-01T18:30:49Z</updated>
+  <updated>2022-06-01T20:26:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Won&#39;t Attack Russian Territory, Zelensky Says</title>
-    <updated>2022-06-01T17:24:00Z</updated>
+    <updated>2022-06-01T19:18:00Z</updated>
     <id>tag:www.wsj.com,2022-06-01:/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526</id>
     <content type="html">Ukraine’s president said that supplying his country with long-range weapons doesn’t increase the risk of it attacking Russian territory, despite its invasion.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526" rel="alternate"></link>
