@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-02T18:28:12Z</updated>
+  <updated>2022-06-02T20:23:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Thousands Flee Front-Line Towns in Ukraine as Russian Forces Advance</title>
+    <updated>2022-06-02T19:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-02:/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724</id>
+    <content type="html">Russian forces sought to push beyond the city of Severodonetsk, and Kyiv probed Russian defenses in areas where Moscow’s occupying forces are more thinly stretched.</content>
+    <link href="https://www.wsj.com/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
