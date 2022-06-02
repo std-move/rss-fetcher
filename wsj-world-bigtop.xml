@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-02T16:37:43Z</updated>
+  <updated>2022-06-02T18:28:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Pushes Forward in Donbas as Ukraine Looks to Take Back Lost Ground</title>
-    <updated>2022-06-02T13:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-02:/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724</id>
-    <content type="html">Moscow’s advantage in artillery enables gradual advances in fighting in eastern Ukraine that is inflicting heavy casualties on both sides.</content>
-    <link href="https://www.wsj.com/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Security Services Hunt for Russia Supporters and Agents</title>
-    <updated>2022-06-02T09:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-02:/articles/ukraine-security-services-hunt-for-russia-supporters-and-agents-in-their-midst-11654161968</id>
-    <content type="html">While the invasion has tarnished Moscow’s appeal, some in eastern Ukraine still back the Kremlin as Russian forces bombard their hometowns.</content>
-    <link href="https://www.wsj.com/articles/ukraine-security-services-hunt-for-russia-supporters-and-agents-in-their-midst-11654161968" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
