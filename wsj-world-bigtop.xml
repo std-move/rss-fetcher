@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-02T10:28:14Z</updated>
+  <updated>2022-06-02T12:53:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Won&#39;t Attack Russian Territory, Zelensky Says</title>
-    <updated>2022-06-01T20:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-01:/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526</id>
-    <content type="html">Ukraine’s president said that supplying his country with long-range weapons doesn’t increase the risk of it attacking Russian territory, despite its invasion.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-rejects-trading-land-for-peace-with-russia-11654072526" rel="alternate"></link>
+    <title>Russia Pushes Forward in Donbas as Ukraine Looks to Take Back Lost Ground</title>
+    <updated>2022-06-02T10:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-02:/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724</id>
+    <content type="html">Moscow’s advantage in artillery enables gradual advances in fighting in eastern Ukraine that is inflicting heavy casualties on both sides.</content>
+    <link href="https://www.wsj.com/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Documents Reveal Hundreds of Russian Troops Broke Ranks Over Ukraine Orders</title>
-    <updated>2022-06-01T14:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-01:/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212</id>
-    <content type="html">Desertions and refusal to engage in the invasion have put Moscow in a bind over how to punish service members without drawing more attention to the problem. “So many people don’t want to fight.”</content>
-    <link href="https://www.wsj.com/articles/documents-reveal-hundreds-of-russian-troops-broke-ranks-over-ukraine-orders-11654094212" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Queen&#39;s Jubilee Sees Celebration, Reckoning</title>
-    <updated>2022-06-01T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-01:/articles/queen-elizabeth-iis-platinum-jubilee-marks-moment-of-royal-celebration-and-reckoning-11654075801</id>
-    <content type="html">The four-day event will include all the pomp and ceremony associated with a British royal event. Hanging over the pageantry though is a deeper question of where the monarchy will head next.</content>
-    <link href="https://www.wsj.com/articles/queen-elizabeth-iis-platinum-jubilee-marks-moment-of-royal-celebration-and-reckoning-11654075801" rel="alternate"></link>
+    <title>Ukraine Security Services Hunt for Russia Supporters and Agents</title>
+    <updated>2022-06-02T09:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-02:/articles/ukraine-security-services-hunt-for-russia-supporters-and-agents-in-their-midst-11654161968</id>
+    <content type="html">While the invasion has tarnished Moscow’s appeal, some in eastern Ukraine still back the Kremlin as Russian forces bombard their hometowns.</content>
+    <link href="https://www.wsj.com/articles/ukraine-security-services-hunt-for-russia-supporters-and-agents-in-their-midst-11654161968" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
