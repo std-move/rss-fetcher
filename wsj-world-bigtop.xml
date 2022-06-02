@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-02T12:53:02Z</updated>
+  <updated>2022-06-02T14:26:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Pushes Forward in Donbas as Ukraine Looks to Take Back Lost Ground</title>
-    <updated>2022-06-02T10:12:00Z</updated>
+    <updated>2022-06-02T13:28:00Z</updated>
     <id>tag:www.wsj.com,2022-06-02:/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724</id>
     <content type="html">Moscow’s advantage in artillery enables gradual advances in fighting in eastern Ukraine that is inflicting heavy casualties on both sides.</content>
     <link href="https://www.wsj.com/articles/russia-pushes-forward-in-donbas-as-ukraine-looks-to-take-back-lost-ground-11654164724" rel="alternate"></link>
