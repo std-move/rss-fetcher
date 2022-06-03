@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-03T14:19:20Z</updated>
+  <updated>2022-06-03T16:32:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Japan&#39;s New Thinking on Low Birthrate: Don&#39;t Worry, Be Happy</title>
-    <updated>2022-06-03T11:12:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-03:/articles/japans-new-thinking-on-low-birthrate-dont-worry-be-happy-11654254757</id>
-    <content type="html">The country’s fertility rate hit a 16-year low during Covid-19, but the focus is now on adapting to an aging society rather than reversing it.</content>
-    <link href="https://www.wsj.com/articles/japans-new-thinking-on-low-birthrate-dont-worry-be-happy-11654254757" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Russia&#39;s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</title>
     <updated>2022-06-03T10:09:00Z</updated>
