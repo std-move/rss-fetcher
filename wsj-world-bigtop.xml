@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-03T16:32:38Z</updated>
+  <updated>2022-06-03T18:27:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia&#39;s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</title>
-    <updated>2022-06-03T10:09:00Z</updated>
+    <updated>2022-06-03T16:48:00Z</updated>
     <id>tag:www.wsj.com,2022-06-03:/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938</id>
     <content type="html">A war of attrition for Ukraine’s survival—and Vladimir Putin’s vision of Russia—devours both countries’ resources while hurting the world economy.</content>
     <link href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938" rel="alternate"></link>
