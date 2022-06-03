@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-03T20:22:55Z</updated>
+  <updated>2022-06-03T22:21:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</title>
+    <updated>2022-06-03T20:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-03:/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037</id>
+    <content type="html">Ukrainians fleeing the Russian advance are heading westward with few possessions and little clue where to go next, aided by a network of volunteer drivers shuttling people away from bombed-out towns.</content>
+    <link href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia&#39;s War on Ukraine at 100 Days Has No End in Sight, Threatening Global Costs</title>
     <updated>2022-06-03T16:48:00Z</updated>
