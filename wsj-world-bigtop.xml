@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-04T10:22:31Z</updated>
+  <updated>2022-06-04T12:34:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-06-04:/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938</id>
     <content type="html">A war of attrition for Ukraine’s survival—and Vladimir Putin’s vision of Russia—devours both countries’ resources while hurting the world economy.</content>
     <link href="https://www.wsj.com/articles/russias-war-on-ukraine-at-100-days-has-no-end-in-sight-threatening-global-costs-11654250938" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Aboard the Last Train Service Evacuating Front-Line Towns in Donbas</title>
-    <updated>2022-06-03T20:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-03:/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037</id>
-    <content type="html">Ukrainians fleeing the Russian advance are heading westward with few possessions and little clue where to go next, aided by a network of volunteer drivers shuttling people away from bombed-out towns.</content>
-    <link href="https://www.wsj.com/articles/aboard-the-last-train-service-evacuating-front-line-ukrainian-towns-in-the-donbas-11654287037" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
