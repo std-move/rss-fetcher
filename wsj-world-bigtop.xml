@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-05T14:19:23Z</updated>
+  <updated>2022-06-05T16:29:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Counterattack Takes Back Parts of Strategic Donbas City</title>
-    <updated>2022-06-05T13:13:00Z</updated>
+    <updated>2022-06-05T15:45:00Z</updated>
     <id>tag:www.wsj.com,2022-06-05:/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098</id>
     <content type="html">Close urban combat in Severodonetsk makes it harder for Russia to use artillery, as Kyiv awaits the arrival of a long-range rocket system from the U.S.</content>
     <link href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</title>
-    <updated>2022-06-04T17:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-04:/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479</id>
-    <content type="html">Hong Kong police blanketed a busy district and stopped people entering a park that traditionally held a mass vigil on the anniversary of the Tiananmen Square Massacre, but many people staged small acts of defiance.</content>
-    <link href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479" rel="alternate"></link>
+    <title>U.S. Urged to Step Up in the Pacific After China&#39;s Whirlwind Trip</title>
+    <updated>2022-06-05T12:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-05:/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738</id>
+    <content type="html">Fijians warn the U.S. is at risk of losing influence as Beijing seeks closer ties in the region. “It’s not only about having McDonald’s in Fiji.”</content>
+    <link href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
