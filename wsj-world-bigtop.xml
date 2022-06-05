@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-05T18:25:31Z</updated>
+  <updated>2022-06-05T20:21:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Azov Battalion Looks to Regroup and Clean Up Image</title>
+    <updated>2022-06-05T19:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-05:/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889</id>
+    <content type="html">Hundreds of its fighters are prisoners of war after a brutal battle with Russia for Mariupol, but the regiment is training new members and hoping to benefit from Western aid.</content>
+    <link href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Counterattack Takes Back Parts of Strategic Donbas City</title>
     <updated>2022-06-05T18:16:00Z</updated>
