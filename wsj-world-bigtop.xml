@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-05T20:21:35Z</updated>
+  <updated>2022-06-05T22:20:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Counterattack Takes Back Parts of Strategic Donbas City</title>
+    <updated>2022-06-05T22:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-05:/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098</id>
+    <content type="html">Close urban combat in Severodonetsk comes as Ukraine awaits U.S. weapons and France’s Emmanuel Macron warns of escalating the conflict.</content>
+    <link href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Azov Battalion Looks to Regroup and Clean Up Image</title>
     <updated>2022-06-05T19:41:00Z</updated>
     <id>tag:www.wsj.com,2022-06-05:/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889</id>
     <content type="html">Hundreds of its fighters are prisoners of war after a brutal battle with Russia for Mariupol, but the regiment is training new members and hoping to benefit from Western aid.</content>
     <link href="https://www.wsj.com/articles/ukraines-azov-battalion-looks-to-regroup-and-clean-up-image-11654453889" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Counterattack Takes Back Parts of Strategic Donbas City</title>
-    <updated>2022-06-05T18:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-05:/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098</id>
-    <content type="html">Close urban combat in Severodonetsk comes as Ukraine awaits U.S. weapons and France’s Emmanuel Macron warns of escalating the conflict.</content>
-    <link href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
