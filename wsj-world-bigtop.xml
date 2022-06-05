@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-05T10:22:27Z</updated>
+  <updated>2022-06-05T12:36:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia, Ukraine Battle in Key Eastern City</title>
-    <updated>2022-06-04T17:38:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-04:/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618</id>
-    <content type="html">Both sides send in additional troops as they fight over the pivotal city of Severodonetsk in the Donbas region.</content>
-    <link href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618" rel="alternate"></link>
+    <title>Ukraine Counterattack Takes Back Parts of Strategic Donbas City</title>
+    <updated>2022-06-05T11:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-05:/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098</id>
+    <content type="html">Close urban combat in Severodonetsk makes it harder for Russia to use artillery, as Kyiv awaits the arrival of a long-range rocket system from the U.S.</content>
+    <link href="https://www.wsj.com/articles/ukraine-counterattack-takes-back-parts-of-strategic-donbas-city-11654422098" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
