@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-04T22:20:12Z</updated>
+  <updated>2022-06-05T02:04:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-06-04:/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618</id>
     <content type="html">Both sides send in additional troops as they fight over the pivotal city of Severodonetsk in the Donbas region.</content>
     <link href="https://www.wsj.com/articles/russia-faces-fierce-ukrainian-resistance-in-key-eastern-city-11654342618" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hong Kong Police Quash Vigil to Mark Tiananmen Square Massacre</title>
+    <updated>2022-06-04T17:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-04:/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479</id>
+    <content type="html">Hong Kong police blanketed a busy district and stopped people entering a park that traditionally held a mass vigil on the anniversary of the Tiananmen Square Massacre, but many people staged small acts of defiance.</content>
+    <link href="https://www.wsj.com/articles/hong-kong-police-quash-vigil-to-mark-tiananmen-square-massacre-11654362479" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
