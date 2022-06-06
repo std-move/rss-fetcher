@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-06T18:26:36Z</updated>
+  <updated>2022-06-06T20:22:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Zelensky Visits Eastern Front as Ukraine Tries to Beat Back Russian Advance</title>
-    <updated>2022-06-06T10:53:00Z</updated>
+    <updated>2022-06-06T18:29:00Z</updated>
     <id>tag:www.wsj.com,2022-06-06:/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701</id>
     <content type="html">Ukrainian President Volodymyr Zelensky visited the front lines of the fighting in the eastern Luhansk region, miles from where a Russian general was killed, highlighting the shifting military situation in the area.</content>
     <link href="https://www.wsj.com/articles/zelensky-visits-eastern-front-as-ukraine-tries-to-beat-back-russian-advance-11654506701" rel="alternate"></link>
