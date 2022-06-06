@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-06T04:36:50Z</updated>
+  <updated>2022-06-06T06:28:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -32,7 +32,7 @@
     <title>U.S. Urged to Step Up in the Pacific After China&#39;s Whirlwind Trip</title>
     <updated>2022-06-05T12:55:00Z</updated>
     <id>tag:www.wsj.com,2022-06-05:/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738</id>
-    <content type="html">Fijians warn the U.S. is at risk of losing influence as Beijing seeks closer ties in the region. “It’s not only about having McDonald’s in Fiji.”</content>
+    <content type="html">Fijians warn the U.S. is at risk of losing influence as Beijing seeks closer ties in the region. “We see China everywhere.”</content>
     <link href="https://www.wsj.com/articles/u-s-urged-to-step-up-in-the-pacific-after-chinas-whirlwind-trip-11654433738" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
