@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-07T16:34:04Z</updated>
+  <updated>2022-06-07T18:26:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Is Weaponizing Food Supplies, Europe Says</title>
-    <updated>2022-06-07T15:42:00Z</updated>
+    <updated>2022-06-07T16:57:00Z</updated>
     <id>tag:www.wsj.com,2022-06-07:/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039</id>
     <content type="html">European officials blamed Moscow for a looming global food crisis as Russia’s blockade of Ukrainian ports threatens the country’s grain exports, while fighting rages in the east.</content>
     <link href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039" rel="alternate"></link>
