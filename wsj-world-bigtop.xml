@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-07T14:21:36Z</updated>
+  <updated>2022-06-07T16:34:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Is Weaponizing Food Supplies, Europe Says</title>
-    <updated>2022-06-07T10:17:00Z</updated>
+    <updated>2022-06-07T15:42:00Z</updated>
     <id>tag:www.wsj.com,2022-06-07:/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039</id>
     <content type="html">European officials blamed Moscow for a looming global food crisis as Russia’s blockade of Ukrainian ports threatens the country’s grain exports, while fighting rages in the east.</content>
     <link href="https://www.wsj.com/articles/russia-is-weaponizing-food-supplies-in-ukraine-europe-says-11654597039" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>In Russia&#39;s Battle for East Ukraine, Both Sides Have Higher Stakes at Play</title>
+    <updated>2022-06-07T13:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-07:/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965</id>
+    <content type="html">Moscow aims to prove it can gain and retain territory, while Ukraine wants to show some wary Western allies that it has a chance of prevailing against bigger Russian forces.</content>
+    <link href="https://www.wsj.com/articles/in-russias-battle-for-east-ukraine-both-sides-have-higher-stakes-at-play-11654606965" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
