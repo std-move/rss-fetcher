@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-08T16:31:56Z</updated>
+  <updated>2022-06-08T18:27:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Takes Captured Mariupol Fighters to Its Territory</title>
-    <updated>2022-06-08T13:57:00Z</updated>
+    <updated>2022-06-08T16:24:00Z</updated>
     <id>tag:www.wsj.com,2022-06-08:/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870</id>
     <content type="html">More than 1,000 Ukrainian soldiers taken prisoner after the siege of Mariupol have been transferred to Russia, a Russian state-news agency reported, giving Moscow a powerful bargaining chip as its military campaign makes slow progress in eastern Ukraine.</content>
     <link href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fertilizer Price Surge Drives Brazil to High-Tech Alternatives</title>
+    <updated>2022-06-08T15:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-08:/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075</id>
+    <content type="html">Brazil has been testing ways to boost farm productivity and reduce the need for imported fertilizers for years, trying solutions that are now subjects of widespread interest because of the Ukraine war’s effect on global supplies.</content>
+    <link href="https://www.wsj.com/articles/fertilizer-price-surge-drives-brazil-to-high-tech-alternatives-11654701075" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
