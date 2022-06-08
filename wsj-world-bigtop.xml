@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-08T12:46:38Z</updated>
+  <updated>2022-06-08T14:19:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Takes Captured Mariupol Fighters to Its Territory</title>
+    <updated>2022-06-08T13:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-08:/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870</id>
+    <content type="html">More than 1,000 Ukrainian soldiers taken prisoner after the siege of Mariupol have been transferred to Russia, a Russian state-news agency reported, giving Moscow a powerful bargaining chip as its military campaign makes slow progress in eastern Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Fear and Destruction Turn Ukraine&#39;s Front-Line Cities Into Ghost Towns</title>
     <updated>2022-06-08T09:30:00Z</updated>
     <id>tag:www.wsj.com,2022-06-08:/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602</id>
     <content type="html">As Moscow’s forces push west, seeking to dislodge Ukrainians from their positions and seize control of the country’s east, residents are fleeing in droves, aided by volunteers who risk their lives to ferry them out.</content>
     <link href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sweden&#39;s NATO Bid Rattles Kurdish Diaspora</title>
-    <updated>2022-06-07T14:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-07:/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490</id>
-    <content type="html">Turkey is blocking Sweden’s bid to join NATO over Stockholm’s contacts with Kurdish groups hoping to carve out a homeland straddling the borders of Turkey and Syria.</content>
-    <link href="https://www.wsj.com/articles/swedens-nato-bid-rattles-kurdish-diaspora-11654612490" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
