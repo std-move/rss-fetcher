@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-07T22:21:14Z</updated>
+  <updated>2022-06-08T01:58:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Biden Administration Divided as Food Crisis Related to Ukraine War Looms</title>
+    <updated>2022-06-07T23:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-07:/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588</id>
+    <content type="html">At issue is a plan calling for Belarus to help move grain to market, with a six-month waiver of sanctions on its potash fertilizer industry offered as an incentive.</content>
+    <link href="https://www.wsj.com/articles/looming-food-crisis-related-to-ukraine-war-divides-biden-administration-11654639588" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Is Weaponizing Food Supplies, Europe Says</title>
     <updated>2022-06-07T16:57:00Z</updated>
