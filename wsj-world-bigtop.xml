@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-09T10:26:38Z</updated>
+  <updated>2022-06-09T12:52:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Takes Captured Mariupol Fighters to Its Territory</title>
-    <updated>2022-06-08T18:37:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-08:/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870</id>
-    <content type="html">More than 1,000 Ukrainian soldiers taken prisoner after the siege of Mariupol have been transferred to Russia, a Russian state-news agency reported, giving Moscow a powerful bargaining chip as its military campaign makes slow progress in eastern Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russia-takes-captured-ukrainian-fighters-from-mariupol-to-its-territory-11654686870" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fear and Destruction Turn Ukraine&#39;s Front-Line Cities Into Ghost Towns</title>
-    <updated>2022-06-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-08:/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602</id>
-    <content type="html">As Moscow’s forces push west, seeking to dislodge Ukrainians from their positions and seize control of the country’s east, residents are fleeing in droves, aided by volunteers who risk their lives to ferry them out.</content>
-    <link href="https://www.wsj.com/articles/fear-and-destruction-are-turning-ukraines-frontline-cities-into-ghost-towns-11654680602" rel="alternate"></link>
+    <title>Russian Attacks on Kharkiv Shatter Recent Calm, Pose Dilemma for Ukraine</title>
+    <updated>2022-06-09T10:28:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-09:/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530</id>
+    <content type="html">Ukrainian officials say shelling of the region comes from inside Russia, but Kyiv faces restrictions on using Western weapons to fire back.</content>
+    <link href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
