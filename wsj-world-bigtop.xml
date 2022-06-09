@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-09T16:33:09Z</updated>
+  <updated>2022-06-09T18:26:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Attacks on Kharkiv Shatter Recent Calm, Pose Dilemma for Ukraine</title>
-    <updated>2022-06-09T14:53:00Z</updated>
+    <title>Three Foreigners Fighting Alongside Ukrainian Forces Sentenced to Death</title>
+    <updated>2022-06-09T17:51:00Z</updated>
     <id>tag:www.wsj.com,2022-06-09:/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530</id>
-    <content type="html">Ukrainian officials say shelling of the region comes from inside Russia, but Kyiv faces restrictions on using Western weapons to fire back.</content>
+    <content type="html">A Russia-backed court in the unrecognized Donetsk People’s Republic said the men, two from the U.K. and one from Morocco, were guilty of working as mercenaries; Britain condemns the trial</content>
     <link href="https://www.wsj.com/articles/russian-attacks-on-kharkiv-shatter-recent-calm-pose-dilemma-for-ukraine-11654770530" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
