@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-11T14:19:02Z</updated>
+  <updated>2022-06-11T16:28:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</title>
-    <updated>2022-06-11T11:07:00Z</updated>
+    <updated>2022-06-11T15:13:00Z</updated>
     <id>tag:www.wsj.com,2022-06-11:/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658</id>
     <content type="html">Ukraine issued fresh calls for urgent supplies of weapons from the West, as officials warned that battles in the east increasingly favor Moscow’s better-equipped forces.</content>
     <link href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658" rel="alternate"></link>
