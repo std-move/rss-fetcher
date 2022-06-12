@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-12T12:35:29Z</updated>
+  <updated>2022-06-12T14:18:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Exploits Artillery Advantage as Ukraine Braces for Attacks on More Eastern Cities</title>
-    <updated>2022-06-11T15:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-11:/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658</id>
-    <content type="html">Ukraine issued fresh calls for urgent supplies of weapons from the West, as officials warned that battles in the east increasingly favor Moscow’s better-equipped forces.</content>
-    <link href="https://www.wsj.com/articles/russia-exploits-artillery-advantage-as-ukraine-braces-for-attacks-on-more-eastern-cities-11654945658" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What Do Chinese Consumers Want? Walmart Can&#39;t Figure It Out.</title>
-    <updated>2022-06-11T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-11:/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060</id>
-    <content type="html">The hypermarket model is losing ground, local rivals do better on fast delivery, and geopolitics gives the company headaches. Then there’s the red dates problem.</content>
-    <link href="https://www.wsj.com/articles/what-do-chinese-consumers-want-walmart-cant-figure-it-out-11654920060" rel="alternate"></link>
+    <title>Russia Shells Chemical Plant Sheltering Civilians, Ukraine Says</title>
+    <updated>2022-06-12T10:51:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-12:/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115</id>
+    <content type="html">Moscow’s assault on the eastern city of Severodonetsk also took out a second bridge linking it to neighboring Lysychansk, according to the Luhansk region’s governor.</content>
+    <link href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
