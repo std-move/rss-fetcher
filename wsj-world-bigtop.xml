@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-13T08:29:39Z</updated>
+  <updated>2022-06-13T10:25:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>French, German and Italian Leaders to Meet With Zelensky in Kyiv</title>
-    <updated>2022-06-12T15:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-12:/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115</id>
-    <content type="html">Messrs. Macron, Scholz and Draghi plan to meet with the Ukrainian president this week, officials said, as reports showed Russia making gains in the country’s east.</content>
-    <link href="https://www.wsj.com/articles/russia-shells-chemical-plant-sheltering-civilians-ukraine-says-11655031115" rel="alternate"></link>
+    <title>Ukraine Fears Defeat in East Without Surge in Military Aid</title>
+    <updated>2022-06-13T10:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-13:/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861</id>
+    <content type="html">Russia is advancing in the Donbas region as the U.S. and its allies prepare to discuss new heavy-weapons supplies for Kyiv.</content>
+    <link href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
