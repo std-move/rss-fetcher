@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-14T16:35:12Z</updated>
+  <updated>2022-06-14T18:27:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Militant Indigenous Uprising in Chile Tests New Leftist Leader</title>
+    <updated>2022-06-14T16:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-14:/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618</id>
+    <content type="html">President Gabriel Boric shifts gears to halt violent attacks on forestry companies and police by radical Mapuche members with claims on ancestral lands.</content>
+    <link href="https://www.wsj.com/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Forces Destroy Last Bridge to Key Eastern Ukrainian City</title>
     <updated>2022-06-14T15:46:00Z</updated>
@@ -18,22 +26,6 @@
     <id>tag:www.wsj.com,2022-06-14:/articles/the-19th-century-technology-driving-russias-latest-gains-in-ukraine-railroads-11655218602</id>
     <content type="html">After struggling to supply troops early in the war, Moscow has returned to Soviet-era shipping methods. That could limit its reach going forward.</content>
     <link href="https://www.wsj.com/articles/the-19th-century-technology-driving-russias-latest-gains-in-ukraine-railroads-11655218602" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Afghan Officials Escaped to Luxury Homes Abroad</title>
-    <updated>2022-06-13T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-13:/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600</id>
-    <content type="html">As Afghan evacuees struggle world-wide, some top former officials have landed in villas and beachfront homes.</content>
-    <link href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fears of Renewed Russian Strikes Hang Over Return to Kharkiv</title>
-    <updated>2022-06-14T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-14:/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000</id>
-    <content type="html">As residents who fled the bombardment of the northern Ukrainian city look to return following Russia’s withdrawal, the threat of attack still looms.</content>
-    <link href="https://www.wsj.com/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
