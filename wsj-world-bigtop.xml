@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-14T08:28:51Z</updated>
+  <updated>2022-06-14T10:27:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fears of Renewed Russian Strikes Hang Over Return to Kharkiv</title>
+    <updated>2022-06-14T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-14:/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000</id>
+    <content type="html">As residents who fled the bombardment of the northern Ukrainian city look to return following Russia’s withdrawal, the threat of attack still looms.</content>
+    <link href="https://www.wsj.com/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Forces Expand Control of Strategic City Severodonetsk</title>
     <updated>2022-06-13T23:31:00Z</updated>
     <id>tag:www.wsj.com,2022-06-13:/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164</id>
     <content type="html">In a scenario similar to the battle for Mariupol, a large number of Ukrainian troops in Severodonetsk are holding out near the city’s Azot chemical plant, but reinforcements have been effectively cut off.</content>
     <link href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Fears Defeat in East Without Surge in Military Aid</title>
-    <updated>2022-06-13T10:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-13:/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861</id>
-    <content type="html">Russia is advancing in the Donbas region as the U.S. and its allies prepare to discuss new heavy-weapons supplies for Kyiv.</content>
-    <link href="https://www.wsj.com/articles/ukraine-fears-defeat-in-east-without-surge-in-military-aid-11655092861" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
