@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-14T20:24:33Z</updated>
+  <updated>2022-06-14T22:19:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Forces Destroy Last Bridge to Key Eastern Ukrainian City</title>
+    <updated>2022-06-14T21:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-14:/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739</id>
+    <content type="html">Russia continued to bombard achemical plant in Severodonetsk that is providing refuge for hundreds of civilians and soldiers, and has drawn comparisons with the protracted battle for Mariupol.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Militant Indigenous Uprising in Chile Tests New Leftist Leader</title>
     <updated>2022-06-14T16:03:00Z</updated>
     <id>tag:www.wsj.com,2022-06-14:/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618</id>
     <content type="html">President Gabriel Boric shifts gears to halt violent attacks on forestry companies and police by radical Mapuche members with claims on ancestral lands.</content>
     <link href="https://www.wsj.com/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Forces Destroy Last Bridge to Key Eastern Ukrainian City</title>
-    <updated>2022-06-14T15:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-14:/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739</id>
-    <content type="html">Russia continued to bombard achemical plant in Severodonetsk that is providing refuge for hundreds of civilians and soldiers, and has drawn comparisons with the protracted battle for Mariupol.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
