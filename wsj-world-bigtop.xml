@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-14T14:19:25Z</updated>
+  <updated>2022-06-14T16:35:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Fears of Renewed Russian Strikes Hang Over Return to Kharkiv</title>
-    <updated>2022-06-14T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-14:/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000</id>
-    <content type="html">As residents who fled the bombardment of the northern Ukrainian city look to return following Russia’s withdrawal, the threat of attack still looms.</content>
-    <link href="https://www.wsj.com/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000" rel="alternate"></link>
+    <title>Russian Forces Destroy Last Bridge to Key Eastern Ukrainian City</title>
+    <updated>2022-06-14T15:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-14:/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739</id>
+    <content type="html">Russia continued to bombard achemical plant in Severodonetsk that is providing refuge for hundreds of civilians and soldiers, and has drawn comparisons with the protracted battle for Mariupol.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russian Forces Expand Control of Strategic City Severodonetsk</title>
-    <updated>2022-06-13T23:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-13:/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164</id>
-    <content type="html">In a scenario similar to the battle for Mariupol, a large number of Ukrainian troops in Severodonetsk are holding out near the city’s Azot chemical plant, but reinforcements have been effectively cut off.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-expand-control-of-strategic-city-severodonetsk-11655118164" rel="alternate"></link>
+    <title>The 19th-Century Technology Driving Russia&#39;s Latest Gains in Ukraine: Railroads</title>
+    <updated>2022-06-14T14:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-14:/articles/the-19th-century-technology-driving-russias-latest-gains-in-ukraine-railroads-11655218602</id>
+    <content type="html">After struggling to supply troops early in the war, Moscow has returned to Soviet-era shipping methods. That could limit its reach going forward.</content>
+    <link href="https://www.wsj.com/articles/the-19th-century-technology-driving-russias-latest-gains-in-ukraine-railroads-11655218602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,6 +26,14 @@
     <id>tag:www.wsj.com,2022-06-13:/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600</id>
     <content type="html">As Afghan evacuees struggle world-wide, some top former officials have landed in villas and beachfront homes.</content>
     <link href="https://www.wsj.com/articles/high-ranking-afghan-officials-escaped-to-luxury-homes-abroad-11655112600" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fears of Renewed Russian Strikes Hang Over Return to Kharkiv</title>
+    <updated>2022-06-14T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-14:/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000</id>
+    <content type="html">As residents who fled the bombardment of the northern Ukrainian city look to return following Russia’s withdrawal, the threat of attack still looms.</content>
+    <link href="https://www.wsj.com/articles/fears-of-renewed-russian-strikes-hang-over-return-to-kharkiv-11655199000" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
