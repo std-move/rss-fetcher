@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-15T16:31:16Z</updated>
+  <updated>2022-06-15T18:27:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Troops Resist Russian Onslaught in the East</title>
-    <updated>2022-06-15T12:16:00Z</updated>
+    <title>Macron Says Ukraine and Russia Must Eventually Talk</title>
+    <updated>2022-06-15T15:07:00Z</updated>
     <id>tag:www.wsj.com,2022-06-15:/articles/ukrainian-troops-resist-russian-onslaught-in-the-east-11655288737</id>
-    <content type="html">Ukrainians forces fought hard to hold back the Russian advance in the country’s east, while French President Emmanuel Macron said Kyiv will eventually have to sit down at the negotiating table with Russia.</content>
+    <content type="html">The French president’s comments underlined the view in Western European capitals that the war will ultimately need a diplomatic solution, which has raised hackles in Europe’s East.</content>
     <link href="https://www.wsj.com/articles/ukrainian-troops-resist-russian-onslaught-in-the-east-11655288737" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
