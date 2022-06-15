@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-15T10:26:34Z</updated>
+  <updated>2022-06-15T12:45:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Forces Destroy Last Bridge to Key Eastern Ukrainian City</title>
-    <updated>2022-06-14T21:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-14:/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739</id>
-    <content type="html">Russia continued to bombard achemical plant in Severodonetsk that is providing refuge for hundreds of civilians and soldiers, and has drawn comparisons with the protracted battle for Mariupol.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-destroy-last-bridge-to-key-eastern-ukrainian-city-11655202739" rel="alternate"></link>
+    <title>Ukrainian Troops Resist Russian Onslaught in the East</title>
+    <updated>2022-06-15T12:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-15:/articles/ukrainian-troops-resist-russian-onslaught-in-the-east-11655288737</id>
+    <content type="html">Ukrainians forces fought hard to hold back the Russian advance in the country’s east, while French President Emmanuel Macron said Kyiv will eventually have to sit down at the negotiating table with Russia.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-troops-resist-russian-onslaught-in-the-east-11655288737" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-06-14:/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618</id>
     <content type="html">President Gabriel Boric shifts gears to halt violent attacks on forestry companies and police by radical Mapuche members with claims on ancestral lands.</content>
     <link href="https://www.wsj.com/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The 19th-Century Technology Driving Russia&#39;s Latest Gains in Ukraine: Railroads</title>
-    <updated>2022-06-14T14:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-14:/articles/the-19th-century-technology-driving-russias-latest-gains-in-ukraine-railroads-11655218602</id>
-    <content type="html">After struggling to supply troops early in the war, Moscow has returned to Soviet-era shipping methods. That could limit its reach going forward.</content>
-    <link href="https://www.wsj.com/articles/the-19th-century-technology-driving-russias-latest-gains-in-ukraine-railroads-11655218602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
