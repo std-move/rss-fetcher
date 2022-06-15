@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-15T12:45:16Z</updated>
+  <updated>2022-06-15T14:24:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-06-15:/articles/ukrainian-troops-resist-russian-onslaught-in-the-east-11655288737</id>
     <content type="html">Ukrainians forces fought hard to hold back the Russian advance in the country’s east, while French President Emmanuel Macron said Kyiv will eventually have to sit down at the negotiating table with Russia.</content>
     <link href="https://www.wsj.com/articles/ukrainian-troops-resist-russian-onslaught-in-the-east-11655288737" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Militant Indigenous Uprising in Chile Tests New Leftist Leader</title>
-    <updated>2022-06-14T16:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-14:/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618</id>
-    <content type="html">President Gabriel Boric shifts gears to halt violent attacks on forestry companies and police by radical Mapuche members with claims on ancestral lands.</content>
-    <link href="https://www.wsj.com/articles/militant-indigenous-uprising-in-chile-tests-new-leftist-leader-11655222618" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
