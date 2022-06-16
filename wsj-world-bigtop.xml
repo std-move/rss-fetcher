@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-16T16:34:07Z</updated>
+  <updated>2022-06-16T18:28:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>European Leaders Visit Ukraine as Kyiv Renews Calls for More Military Support</title>
-    <updated>2022-06-16T12:16:00Z</updated>
+    <title>France, Germany, Italy, Romania Back Ukraine&#39;s Bid for EU Membership</title>
+    <updated>2022-06-16T17:55:00Z</updated>
     <id>tag:www.wsj.com,2022-06-16:/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940</id>
-    <content type="html">French President Emmanuel Macron, German Chancellor Olaf Scholz and Italian Prime Minister Mario Draghi met with President Volodymyr Zelensky in the Ukrainian capital.</content>
+    <content type="html">The endorsement of the EU’s largest economies creates diplomatic momentum and sends a signal to Moscow that Ukraine’s economic future lies with Europe and the West.</content>
     <link href="https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
