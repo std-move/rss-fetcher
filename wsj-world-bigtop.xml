@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-17T14:20:38Z</updated>
+  <updated>2022-06-17T16:33:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>France, Germany, Italy, Romania Back Ukraine&#39;s Bid for EU Membership</title>
-    <updated>2022-06-16T17:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-16:/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940</id>
-    <content type="html">The endorsement of the EU’s largest economies creates diplomatic momentum and sends a signal to Moscow that Ukraine’s economic future lies with Europe and the West.</content>
-    <link href="https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940" rel="alternate"></link>
+    <title>Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</title>
+    <updated>2022-06-17T14:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-17:/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521</id>
+    <content type="html">Alleged theft is heaping more misery upon Ukraine’s beleaguered farming industry and threatening to crimp harvests when the world needs Ukrainian crops.</content>
+    <link href="https://www.wsj.com/articles/ukraines-farmers-contending-with-stolen-grain-and-mined-fields-now-say-land-is-being-seized-11655462521" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russians Hunt for Spies at Ukrainian Nuclear Power Plant</title>
+    <updated>2022-06-17T14:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-17:/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931</id>
+    <content type="html">Workers at Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. A maintenance technician was shot by soldiers. “He is still alive, but he won’t survive,” said a Russian soldier.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
