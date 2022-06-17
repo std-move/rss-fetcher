@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-17T18:27:56Z</updated>
+  <updated>2022-06-17T20:21:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Colombia&#39;s Election Is Latest Blow to Latin America&#39;s Political Center</title>
+    <updated>2022-06-17T17:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-17:/articles/colombia-election-latin-america-politics-11655484389</id>
+    <content type="html">The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. ‘The forces that operated in the center of the political spectrum have perished.’</content>
+    <link href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukrainian Farms Are Being Seized in Occupied Territories, Farmers Say</title>
     <updated>2022-06-17T14:13:00Z</updated>
@@ -16,7 +24,7 @@
     <title>Russians Hunt for Spies at Ukrainian Nuclear Power Plant</title>
     <updated>2022-06-17T14:11:00Z</updated>
     <id>tag:www.wsj.com,2022-06-17:/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931</id>
-    <content type="html">Workers at Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. A maintenance technician was shot by soldiers. “He is still alive, but he won’t survive,” said a Russian soldier.</content>
+    <content type="html">Workers at the Zaporizhzhia facility have been hauled away for questioning about loyalty to Kyiv, and some haven’t returned. A maintenance technician was shot by soldiers. “He is still alive, but he won’t survive,” said a Russian soldier.</content>
     <link href="https://www.wsj.com/articles/ukrainian-nuclear-plant-zaporizhzhia-russia-spies-11655474931" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
