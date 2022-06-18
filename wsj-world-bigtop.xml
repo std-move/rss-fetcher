@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-18T18:26:18Z</updated>
+  <updated>2022-06-18T20:21:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-06-18:/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601</id>
     <content type="html">Moscow’s recent battlefield gains have put its forces closer to Ukrainian strongholds, but a dearth of troops to break through Ukrainian lines is slowing their advance, say analysts.</content>
     <link href="https://www.wsj.com/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Colombia&#39;s Election Is Latest Blow to Latin America&#39;s Political Center</title>
-    <updated>2022-06-17T17:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-17:/articles/colombia-election-latin-america-politics-11655484389</id>
-    <content type="html">The U.S.’s top regional ally joins countries across Latin America where frustrated voters have ushered in antiestablishment politicians. “The forces that operated in the center of the political spectrum have perished.”</content>
-    <link href="https://www.wsj.com/articles/colombia-election-latin-america-politics-11655484389" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
