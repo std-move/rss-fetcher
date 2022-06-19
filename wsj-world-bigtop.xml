@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-19T12:37:23Z</updated>
+  <updated>2022-06-19T14:18:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Intensifies Strikes Against Russian-Controlled Areas</title>
+    <updated>2022-06-19T13:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-19:/articles/ukraine-intensifies-strikes-against-russian-controlled-areas-11655643930</id>
+    <content type="html">Ukrainian attacks in Donbas came as Moscow unleashed new salvoes of long-range missiles—some of them shot down by air defenses—on cities across the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-intensifies-strikes-against-russian-controlled-areas-11655643930" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s Farmers Start Harvest With Few Places to Store Grain</title>
+    <updated>2022-06-19T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-19:/articles/ukraines-farmers-start-harvest-with-few-places-to-store-grain-11655636400</id>
+    <content type="html">Silos and warehouses are holding millions of tons of older grains and seeds, with export routes blocked.</content>
+    <link href="https://www.wsj.com/articles/ukraines-farmers-start-harvest-with-few-places-to-store-grain-11655636400" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Brazilian Police Probe Illegal Fishermen Over Amazon Double Homicide</title>
     <updated>2022-06-18T19:56:00Z</updated>
     <id>tag:www.wsj.com,2022-06-18:/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196</id>
     <content type="html">Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him.</content>
     <link href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Losing Troops in Ukraine, Russia Grapples With Its Manpower Problem</title>
-    <updated>2022-06-18T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-18:/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601</id>
-    <content type="html">Moscow’s recent battlefield gains have put its forces closer to Ukrainian strongholds, but a dearth of troops to break through Ukrainian lines is slowing their advance, say analysts.</content>
-    <link href="https://www.wsj.com/articles/losing-troops-in-ukraine-russia-grapples-with-its-manpower-problem-11655544601" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
