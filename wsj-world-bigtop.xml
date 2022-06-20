@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-20T20:24:45Z</updated>
+  <updated>2022-06-20T22:21:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>France&#39;s Macron Lost Grip on Parliament Amid Russian Energy Squeeze</title>
+    <updated>2022-06-20T21:19:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-20:/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536</id>
+    <content type="html">Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition.</content>
+    <link href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Strikes Ukrainian Positions, Residential Areas in Donbas</title>
     <updated>2022-06-20T19:48:00Z</updated>
