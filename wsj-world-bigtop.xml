@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-20T14:19:48Z</updated>
+  <updated>2022-06-20T16:35:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Strikes Ukrainian Positions, Residential Areas in Donbas</title>
-    <updated>2022-06-20T12:14:00Z</updated>
+    <updated>2022-06-20T15:46:00Z</updated>
     <id>tag:www.wsj.com,2022-06-20:/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692</id>
-    <content type="html">Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine and the fight for control of the key city of Severodonetsk intensified.</content>
+    <content type="html">Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa.</content>
     <link href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-06-18:/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196</id>
     <content type="html">Gunmen targeted indigenous expert Bruno Pereira, investigators said, and then turned weapon on British journalist Dom Phillips, likely to silence him.</content>
     <link href="https://www.wsj.com/articles/brazilian-police-probe-illegal-fishermen-over-amazon-double-homicide-11655582196" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Heat Wave Devastates India&#39;s Mango Harvest</title>
+    <updated>2022-06-18T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-18:/articles/heat-wave-devastates-indias-mango-harvest-11655557200</id>
+    <content type="html">Record temperatures have wreaked havoc on crops, threatening the livelihoods of farmers and elevating food prices for the country’s nearly 1.4 billion people.</content>
+    <link href="https://www.wsj.com/articles/heat-wave-devastates-indias-mango-harvest-11655557200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
