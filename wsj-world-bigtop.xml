@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-21T10:30:59Z</updated>
+  <updated>2022-06-21T12:49:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>France&#39;s Macron Lost Grip on Parliament Amid Russian Energy Squeeze</title>
-    <updated>2022-06-20T21:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-20:/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536</id>
-    <content type="html">Election defeat is early sign of higher stakes for European leaders as fighting in Ukraine becomes war of attrition.</content>
-    <link href="https://www.wsj.com/articles/frances-macron-lost-grip-on-parliament-amid-russian-squeeze-on-energy-prices-11655755536" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Strikes Ukrainian Positions, Residential Areas in Donbas</title>
-    <updated>2022-06-20T19:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-20:/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692</id>
-    <content type="html">Russian forces launched airstrikes and artillery attacks as they pressed their offensive in eastern Ukraine, and explosions also rocked the southern port city of Odessa.</content>
-    <link href="https://www.wsj.com/articles/russia-strikes-ukrainian-positions-residential-areas-in-donbas-11655720692" rel="alternate"></link>
+    <title>Russia Pushes to Seize Chemical Plant in Severodonetsk</title>
+    <updated>2022-06-21T10:19:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-21:/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774</id>
+    <content type="html">Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures.</content>
+    <link href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
