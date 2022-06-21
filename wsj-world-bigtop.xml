@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-21T14:21:15Z</updated>
+  <updated>2022-06-21T16:37:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Pushes to Seize Chemical Plant in Severodonetsk</title>
-    <updated>2022-06-21T10:19:00Z</updated>
+    <updated>2022-06-21T14:57:00Z</updated>
     <id>tag:www.wsj.com,2022-06-21:/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774</id>
-    <content type="html">Russia intensified its major offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine vowed to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures.</content>
+    <content type="html">Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures.</content>
     <link href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
