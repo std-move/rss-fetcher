@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-22T12:45:06Z</updated>
+  <updated>2022-06-22T14:20:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Refinery Set Ablaze by Drone Crash</title>
-    <updated>2022-06-22T11:22:00Z</updated>
+    <title>Russia Hits Grain Terminals in Latest Attack on Ukraine&#39;s Food Infrastructure</title>
+    <updated>2022-06-22T13:58:00Z</updated>
     <id>tag:www.wsj.com,2022-06-22:/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950</id>
-    <content type="html">A major Russian oil-and-gas refinery close to the Ukrainian border was set ablaze after a drone allegedly controlled by Kyiv’s forces crashed into it, according to local authorities and the plant’s management.</content>
+    <content type="html">Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food.</content>
     <link href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
