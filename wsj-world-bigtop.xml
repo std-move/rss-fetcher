@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-22T14:20:36Z</updated>
+  <updated>2022-06-22T16:34:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Hits Grain Terminals in Latest Attack on Ukraine&#39;s Food Infrastructure</title>
-    <updated>2022-06-22T13:58:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-22:/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950</id>
-    <content type="html">Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food.</content>
-    <link href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950" rel="alternate"></link>
+    <title>Earthquake in Afghanistan Kills At Least 1,000</title>
+    <updated>2022-06-22T16:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-22:/articles/hundreds-killed-in-afghanistan-earthquake-11655890263</id>
+    <content type="html">The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster.</content>
+    <link href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</title>
-    <updated>2022-06-22T10:59:00Z</updated>
+    <updated>2022-06-22T15:49:00Z</updated>
     <id>tag:www.wsj.com,2022-06-22:/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593</id>
     <content type="html">Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in.</content>
     <link href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia Hits Grain Terminals in Latest Attack on Ukraine&#39;s Food Infrastructure</title>
+    <updated>2022-06-22T15:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-22:/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950</id>
+    <content type="html">Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food.</content>
+    <link href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
