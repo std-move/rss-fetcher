@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-22T20:23:01Z</updated>
+  <updated>2022-06-22T22:21:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Earthquake in Afghanistan Kills at Least 1,000</title>
-    <updated>2022-06-22T17:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-22:/articles/hundreds-killed-in-afghanistan-earthquake-11655890263</id>
-    <content type="html">The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster.</content>
-    <link href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Russia Hits Grain Terminals in Latest Attack on Ukraine&#39;s Food Infrastructure</title>
     <updated>2022-06-22T17:48:00Z</updated>
@@ -21,11 +13,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</title>
-    <updated>2022-06-22T15:49:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-22:/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593</id>
-    <content type="html">Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in.</content>
-    <link href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593" rel="alternate"></link>
+    <title>Earthquake in Afghanistan Kills at Least 1,000</title>
+    <updated>2022-06-22T17:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-22:/articles/hundreds-killed-in-afghanistan-earthquake-11655890263</id>
+    <content type="html">The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster.</content>
+    <link href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How Singapore Got Its Manufacturing Mojo Back</title>
+    <updated>2022-06-22T14:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-22:/articles/singapore-manufacturing-factory-automation-11655488002</id>
+    <content type="html">The city-state courted high-tech production to become a rare wealthy country to reverse its factory downturn, but that has come by automating away many jobs. “It’s skills-intensive, it’s not labor-intensive.”</content>
+    <link href="https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
