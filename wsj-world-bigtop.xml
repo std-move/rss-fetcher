@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-22T10:26:59Z</updated>
+  <updated>2022-06-22T12:45:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Pushes to Seize Chemical Plant in Severodonetsk</title>
-    <updated>2022-06-21T19:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-21:/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774</id>
-    <content type="html">Russia intensified its offensive to take a chemical plant that serves as the last bastion for Ukrainian forces, as Ukraine pledged to continue its defense of the strategic eastern city and said it was rooting out suspected spies in state structures.</content>
-    <link href="https://www.wsj.com/articles/russia-pushes-to-seize-chemical-plant-in-severodonetsk-as-ukraine-detains-suspected-spies-11655806774" rel="alternate"></link>
+    <title>Russian Refinery Set Ablaze by Drone Crash</title>
+    <updated>2022-06-22T11:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-22:/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950</id>
+    <content type="html">A major Russian oil-and-gas refinery close to the Ukrainian border was set ablaze after a drone allegedly controlled by Kyiv’s forces crashed into it, according to local authorities and the plant’s management.</content>
+    <link href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>With New Colombian President, the Left Surges in Latin America</title>
-    <updated>2022-06-21T16:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-21:/articles/with-new-colombian-president-the-left-surges-in-latin-america-11655828410</id>
-    <content type="html">The shift signals less influence for the U.S., particularly on migration and drugs.</content>
-    <link href="https://www.wsj.com/articles/with-new-colombian-president-the-left-surges-in-latin-america-11655828410" rel="alternate"></link>
+    <title>Cracks Emerge in U.K. System for Hosting Ukrainian Refugees</title>
+    <updated>2022-06-22T10:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-22:/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593</id>
+    <content type="html">Tens of thousands of Ukrainians who fled the Russian invasion are staying in British homes, but as the war drags on the reality for guests and hosts is setting in.</content>
+    <link href="https://www.wsj.com/articles/cracks-emerge-in-u-k-system-for-hosting-ukrainian-refugees-11655895593" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
