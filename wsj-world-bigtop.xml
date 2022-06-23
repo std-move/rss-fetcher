@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-23T12:47:13Z</updated>
+  <updated>2022-06-23T14:20:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Earthquake in Afghanistan Kills at Least 1,000</title>
-    <updated>2022-06-22T17:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-22:/articles/hundreds-killed-in-afghanistan-earthquake-11655890263</id>
-    <content type="html">The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster.</content>
-    <link href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263" rel="alternate"></link>
+    <title>Ukrainian Farmers Harvest Wheat Amid Russian Rockets, Crossfire</title>
+    <updated>2022-06-23T14:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-23:/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279</id>
+    <content type="html">Russia’s invasion has hit some of Ukraine’s most productive agricultural land, disrupting supplies and pushing up food prices. As harvest season begins, farmers are feeling the heat of relentless fighting.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia Hits Grain Terminals in Latest Attack on Ukraine&#39;s Food Infrastructure</title>
-    <updated>2022-06-22T17:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-22:/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950</id>
-    <content type="html">Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food.</content>
-    <link href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950" rel="alternate"></link>
+    <title>Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</title>
+    <updated>2022-06-23T11:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-23:/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775</id>
+    <content type="html">Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How Singapore Got Its Manufacturing Mojo Back</title>
-    <updated>2022-06-22T14:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-22:/articles/singapore-manufacturing-factory-automation-11655488002</id>
-    <content type="html">The city-state courted high-tech production to become a rare wealthy country to reverse its factory downturn, but that has come by automating away many jobs. “It’s skills-intensive, it’s not labor-intensive.”</content>
-    <link href="https://www.wsj.com/articles/singapore-manufacturing-factory-automation-11655488002" rel="alternate"></link>
+    <title>Pope&#39;s Wariness of U.S.-Dominated World Shapes Russia, China Stances</title>
+    <updated>2022-06-23T09:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-23:/articles/popes-wariness-of-u-s-dominated-world-shapes-his-russia-china-stances-11655976795</id>
+    <content type="html">Pope Francis’ reluctance to condemn without qualification Russia’s aggression against a sovereign nation state has raised eyebrows within and far beyond the Catholic Church.</content>
+    <link href="https://www.wsj.com/articles/popes-wariness-of-u-s-dominated-world-shapes-his-russia-china-stances-11655976795" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
