@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-22T22:21:40Z</updated>
+  <updated>2022-06-23T02:04:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Hits Grain Terminals in Latest Attack on Ukraine&#39;s Food Infrastructure</title>
-    <updated>2022-06-22T17:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-22:/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950</id>
-    <content type="html">Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food.</content>
-    <link href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Earthquake in Afghanistan Kills at Least 1,000</title>
     <updated>2022-06-22T17:48:00Z</updated>
     <id>tag:www.wsj.com,2022-06-22:/articles/hundreds-killed-in-afghanistan-earthquake-11655890263</id>
     <content type="html">The Taliban asked foreign-aid agencies for help for the country, which is already reeling from humanitarian disaster.</content>
     <link href="https://www.wsj.com/articles/hundreds-killed-in-afghanistan-earthquake-11655890263" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia Hits Grain Terminals in Latest Attack on Ukraine&#39;s Food Infrastructure</title>
+    <updated>2022-06-22T17:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-22:/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950</id>
+    <content type="html">Russian forces targeted at least two large North American-owned grain terminals in the port of Mykolaiv, as part of what Kyiv and Western governments say is a campaign to degrade Ukraine’s ability to export food.</content>
+    <link href="https://www.wsj.com/articles/russian-refinery-set-ablaze-by-drone-crash-11655896950" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
