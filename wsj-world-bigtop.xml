@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-23T18:28:58Z</updated>
+  <updated>2022-06-23T20:23:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</title>
-    <updated>2022-06-23T16:21:00Z</updated>
+    <updated>2022-06-23T19:03:00Z</updated>
     <id>tag:www.wsj.com,2022-06-23:/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775</id>
     <content type="html">Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-06-23:/articles/nuclear-power-climate-change-russia-energy-11655995024</id>
     <content type="html">Western countries are making big bets on nuclear energy to help tackle climate change and reduce dependence on Russian oil and gas, but are short on experience in building the plants after shunning them for years.</content>
     <link href="https://www.wsj.com/articles/nuclear-power-climate-change-russia-energy-11655995024" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainian Farmers Harvest Wheat Amid Russian Rockets, Crossfire</title>
-    <updated>2022-06-23T14:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-23:/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279</id>
-    <content type="html">Russia’s invasion has hit some of Ukraine’s most productive agricultural land, disrupting supplies and pushing up food prices. As harvest season begins, farmers are feeling the heat of relentless fighting.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-farmers-harvest-wheat-amid-russian-rockets-crossfire-11655990279" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
