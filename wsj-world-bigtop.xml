@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-24T06:28:00Z</updated>
+  <updated>2022-06-24T08:29:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Loses Ground in Battle for Severodonetsk but Gains Firepower From U.S.</title>
-    <updated>2022-06-23T21:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-23:/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775</id>
-    <content type="html">Russian forces captured two villages southwest of Lysychansk and looked to control a third as they pushed toward the river bank west of Severodonetsk.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-forces-cede-ground-in-weekslong-battle-for-severodonetsk-11655979775" rel="alternate"></link>
+    <title>Ukraine Orders Withdrawal From Severodonetsk to Avoid Encirclement</title>
+    <updated>2022-06-24T07:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-24:/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814</id>
+    <content type="html">The pullback ends a battle that lasted nearly two months and gives Russia a small but symbolically important victory in the grinding war for control of eastern Ukraine’s Donbas area.</content>
+    <link href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
