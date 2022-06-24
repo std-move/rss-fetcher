@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-24T10:26:38Z</updated>
+  <updated>2022-06-24T12:47:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-06-24:/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814</id>
     <content type="html">The pullback ends a battle that lasted nearly two months and gives Russia a small but symbolically important victory in the grinding war for control of eastern Ukraine’s Donbas area.</content>
     <link href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Aid Begins to Arrive for Afghan Earthquake Victims</title>
+    <updated>2022-06-23T21:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-23:/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849</id>
+    <content type="html">The Taliban government is racing to get recovery efforts under way in the country’s disaster-stricken east, where entire families were wiped out by a quake that left over 1,000 people dead.</content>
+    <link href="https://www.wsj.com/articles/afghanistan-earthquake-aid-begins-to-arrive-for-survivors-11656006849" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
