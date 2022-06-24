@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-24T16:33:58Z</updated>
+  <updated>2022-06-24T18:29:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Troops Retreat From Severodonetsk After Long Battle</title>
+    <updated>2022-06-24T18:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-24:/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814</id>
+    <content type="html">The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment.</content>
+    <link href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Colombian President-Elect&#39;s  Economic Revamp Faces Cost Crunch</title>
     <updated>2022-06-24T12:34:00Z</updated>
     <id>tag:www.wsj.com,2022-06-24:/articles/colombian-president-elects-economic-revamp-faces-cost-crunch-11656074047</id>
     <content type="html">Gustavo Petro proposed jobs for all and cuts to oil output, but many doubt he will have the funds or clout to implement sweeping change.</content>
     <link href="https://www.wsj.com/articles/colombian-president-elects-economic-revamp-faces-cost-crunch-11656074047" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Orders Withdrawal From Severodonetsk to Avoid Encirclement</title>
-    <updated>2022-06-24T07:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-24:/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814</id>
-    <content type="html">The pullback ends a battle that lasted nearly two months and gives Russia a small but symbolically important victory in the grinding war for control of eastern Ukraine’s Donbas area.</content>
-    <link href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
