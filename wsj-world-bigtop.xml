@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-25T20:22:58Z</updated>
+  <updated>2022-06-25T22:21:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-06-25:/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529</id>
     <content type="html">Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Shanghai&#39;s Covid Lockdown Legacy: Confusion, Despair, Departure</title>
+    <updated>2022-06-25T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-25:/articles/shanghais-covid-lockdown-legacy-confusion-despair-departure-11656149401</id>
+    <content type="html">Diaries of residents who lived through the city’s long battle against Covid-19 reveal their journey from complacency to shock to a growing sense of disillusionment with the government.</content>
+    <link href="https://www.wsj.com/articles/shanghais-covid-lockdown-legacy-confusion-despair-departure-11656149401" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
