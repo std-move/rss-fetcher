@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-25T14:18:56Z</updated>
+  <updated>2022-06-25T16:29:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Troops Retreat From Severodonetsk After Long Battle</title>
-    <updated>2022-06-24T19:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-24:/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814</id>
-    <content type="html">The Ukrainian withdrawal from the city after a battle that lasted nearly two months marks a small but symbolically important victory for Russia, but at a huge cost in lives and equipment.</content>
-    <link href="https://www.wsj.com/articles/ukraine-orders-withdrawal-from-severodonetsk-to-avoid-encirclement-11656056814" rel="alternate"></link>
+    <title>Outgunned Ukrainian Forces Work to Avoid Becoming Surrounded in Donbas</title>
+    <updated>2022-06-25T12:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-25:/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529</id>
+    <content type="html">Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
