@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-26T10:23:09Z</updated>
+  <updated>2022-06-26T12:37:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Tiny Snake Island Plays an Outsize Role in the War</title>
-    <updated>2022-06-25T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-25:/articles/ukraines-tiny-snake-island-plays-an-outsize-role-in-the-war-11656162000</id>
-    <content type="html">The rocky Black Sea outcrop has been fiercely contested territory since Russia conquered it in February. But for Moscow, it is as much a liability as an asset.</content>
-    <link href="https://www.wsj.com/articles/ukraines-tiny-snake-island-plays-an-outsize-role-in-the-war-11656162000" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Outgunned Ukrainian Forces Work to Avoid Becoming Surrounded in Donbas</title>
-    <updated>2022-06-25T12:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-25:/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529</id>
-    <content type="html">Ukrainian troops have sought to occupy higher ground in the town of Lysychansk after losing nearby Severodonetsk as Russia targeted military facilities across western and northern Ukraine.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-forces-work-to-avoid-becoming-surrounded-in-donbas-11656161529" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai&#39;s Covid Lockdown Legacy: Confusion, Despair, Departure</title>
-    <updated>2022-06-25T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-25:/articles/shanghais-covid-lockdown-legacy-confusion-despair-departure-11656149401</id>
-    <content type="html">Diaries of residents who lived through the city’s long battle against Covid-19 reveal their journey from complacency to shock to a growing sense of disillusionment with the government.</content>
-    <link href="https://www.wsj.com/articles/shanghais-covid-lockdown-legacy-confusion-despair-departure-11656149401" rel="alternate"></link>
+    <title>Russian Missiles Strike Kyiv Homes</title>
+    <updated>2022-06-26T12:23:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-26:/articles/russian-missiles-strikes-kyiv-homes-11656243165</id>
+    <content type="html">The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
