@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-26T22:20:30Z</updated>
+  <updated>2022-06-27T02:09:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In Ukraine&#39;s South, Counterattacks Offer Kyiv Hope for Turning Back Russia</title>
-    <updated>2022-06-26T12:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-26:/articles/in-ukraines-south-counter-attacks-offer-kyiv-hope-for-turning-back-russia-11656245619</id>
-    <content type="html">Kyiv’s forces in southern Ukraine are fighting to extend one of their most successful counterattacks against Russia and push beyond this small, artillery-scarred village to chip away at Moscow’s presence in a strategically vital area along the Black Sea.</content>
-    <link href="https://www.wsj.com/articles/in-ukraines-south-counter-attacks-offer-kyiv-hope-for-turning-back-russia-11656245619" rel="alternate"></link>
+    <title>Russian Missiles Strike Kyiv Homes</title>
+    <updated>2022-06-26T21:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-26:/articles/russian-missiles-strikes-kyiv-homes-11656243165</id>
+    <content type="html">The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Killing of Jesuit Priests in Mexico Shakes Nation Afflicted by Violence</title>
+    <updated>2022-06-26T19:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-26:/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767</id>
+    <content type="html">A local cartel boss in one of the most violent areas of Mexico is accused of killing the two priests, says a local attorney general, and then asked a third to hear his confession. “So many killings in Mexico,” said Pope Francis.</content>
+    <link href="https://www.wsj.com/articles/killing-of-jesuit-priests-in-mexico-shakes-nation-afflicted-by-violence-11656272767" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
