@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-27T14:23:17Z</updated>
+  <updated>2022-06-27T16:35:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Forces Push to Extend Gains in Eastern Ukraine</title>
-    <updated>2022-06-27T13:53:00Z</updated>
+    <updated>2022-06-27T16:19:00Z</updated>
     <id>tag:www.wsj.com,2022-06-27:/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794</id>
     <content type="html">The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia.</content>
     <link href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Shanghai Has Reopened, but Not Disneyland</title>
+    <updated>2022-06-27T10:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-27:/articles/shanghai-has-reopened-but-not-disneyland-11656326476</id>
+    <content type="html">The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy.</content>
+    <link href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
