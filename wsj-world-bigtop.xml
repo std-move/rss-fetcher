@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-27T12:47:41Z</updated>
+  <updated>2022-06-27T14:23:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Missiles Strike Kyiv Homes</title>
-    <updated>2022-06-26T21:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-26:/articles/russian-missiles-strikes-kyiv-homes-11656243165</id>
-    <content type="html">The largest Russian missile barrage in weeks hit the Ukrainian capital of Kyiv early Sunday, hours before a Group of Seven meeting convened in Germany to discuss new economic measures to stop Moscow’s invasion.</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-strikes-kyiv-homes-11656243165" rel="alternate"></link>
+    <title>Russian Forces Push to Extend Gains in Eastern Ukraine</title>
+    <updated>2022-06-27T13:53:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-27:/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794</id>
+    <content type="html">The plodding yet persistent Russian advance adds to pressure on Western leaders meeting at two summits this week to discuss how to support Ukraine and punish Russia.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
