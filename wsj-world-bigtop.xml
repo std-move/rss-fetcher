@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-28T10:26:02Z</updated>
+  <updated>2022-06-28T12:46:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</title>
-    <updated>2022-06-27T23:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-27:/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794</id>
-    <content type="html">A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Shanghai Has Reopened, but Not Disneyland</title>
-    <updated>2022-06-27T10:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-27:/articles/shanghai-has-reopened-but-not-disneyland-11656326476</id>
-    <content type="html">The theme park remains closed as it and other businesses deal with the possibility of abrupt and disruptive lockdowns because of China’s zero-Covid policy.</content>
-    <link href="https://www.wsj.com/articles/shanghai-has-reopened-but-not-disneyland-11656326476" rel="alternate"></link>
+    <title>Ukrainian Rescuers Search for Survivors After Mall Strike</title>
+    <updated>2022-06-28T12:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-28:/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787</id>
+    <content type="html">Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
