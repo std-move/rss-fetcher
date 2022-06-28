@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-28T16:38:17Z</updated>
+  <updated>2022-06-28T18:32:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>China&#39;s Xi to Visit Hong Kong, a City of Dashed Democracy Dreams 25 Years After Handover</title>
-    <updated>2022-06-28T11:37:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-28:/articles/chinas-xi-to-visit-hong-kong-a-city-of-dashed-democracy-dreams-25-years-after-handover-11656416248</id>
-    <content type="html">Chinese leader Xi Jinping’s planned visit to Hong Kong to mark the 25th anniversary of its handover from the U.K. bookends a period in which Beijing has taken full control of the city, ending debate over its political future.</content>
-    <link href="https://www.wsj.com/articles/chinas-xi-to-visit-hong-kong-a-city-of-dashed-democracy-dreams-25-years-after-handover-11656416248" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
