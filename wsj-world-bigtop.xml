@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-28T14:20:28Z</updated>
+  <updated>2022-06-28T16:38:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukrainian Rescuers Search for Survivors After Mall Attack</title>
-    <updated>2022-06-28T12:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-28:/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787</id>
-    <content type="html">Search efforts continued in Kremenchuk, Ukraine, the day after it was struck by Russian missiles, as Western leaders vowed fresh measures to increase economic pressure on Moscow to call off its forces.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-rescuers-search-for-survivors-after-russian-missile-strikes-mall-11656410787" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>China&#39;s Xi to Visit Hong Kong, a City of Dashed Democracy Dreams 25 Years After Handover</title>
     <updated>2022-06-28T11:37:00Z</updated>
