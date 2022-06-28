@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-27T22:21:38Z</updated>
+  <updated>2022-06-28T02:08:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missiles Hit Ukraine Mall as G-7 Leaders Promise More Aid</title>
-    <updated>2022-06-27T20:36:00Z</updated>
+    <updated>2022-06-27T23:07:00Z</updated>
     <id>tag:www.wsj.com,2022-06-27:/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794</id>
     <content type="html">A plodding yet persistent Russian advance and reports of attacks on Ukrainian civilian targets add to pressure on Western leaders meeting at two summits to discuss how to support Kyiv and punish Moscow.</content>
     <link href="https://www.wsj.com/articles/russian-forces-push-to-extend-gains-in-eastern-ukraine-after-striking-kyiv-11656326794" rel="alternate"></link>
