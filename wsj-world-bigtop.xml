@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-29T16:52:31Z</updated>
+  <updated>2022-06-29T18:32:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,19 +13,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine&#39;s War of Attrition Exacts Heavy Toll on Both Sides</title>
-    <updated>2022-06-29T10:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-29:/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825</id>
-    <content type="html">Kyiv’s strategy to make Russian forces pay dearly for ever-smaller pockets of territory risks wearing down its own military, which has incurred heavy casualties defending and ultimately losing one grueling fight after another.</content>
-    <link href="https://www.wsj.com/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825" rel="alternate"></link>
+    <title>In Hong Kong, Young People&#39;s Hopes Fade 25 Years After Handover From U.K.</title>
+    <updated>2022-06-29T15:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-29:/articles/in-hong-kong-hopes-fade-for-what-some-call-the-cursed-generation-25-years-after-handover-from-britain-11656514865</id>
+    <content type="html">As Hong Kong authorities roll out celebrations this week to commemorate a quarter-century under Chinese rule and inaugurate a new local government, one of their biggest challenges is to address the frustrated ambitions of the city’s younger population.</content>
+    <link href="https://www.wsj.com/articles/in-hong-kong-hopes-fade-for-what-some-call-the-cursed-generation-25-years-after-handover-from-britain-11656514865" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Rice Is Saving Asia as Ukraine War Drives Up Food Prices</title>
-    <updated>2022-06-29T09:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-29:/articles/rice-is-saving-asia-as-ukraine-war-drives-up-food-prices-11656495181</id>
-    <content type="html">Unlike wheat and corn, rice has generally been cheaper this year than it was last year—a boon for many Asian countries where it is integral to diets.</content>
-    <link href="https://www.wsj.com/articles/rice-is-saving-asia-as-ukraine-war-drives-up-food-prices-11656495181" rel="alternate"></link>
+    <title>Norway Was a Pandemic Success. Then It Spent Two Years Studying Its Failures.</title>
+    <updated>2022-06-29T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-29:/articles/norway-covid-pandemic-commission-11656453506</id>
+    <content type="html">Why one country wrote a playbook for the rest of the world. “Everybody turns up to help and do a job together.”</content>
+    <link href="https://www.wsj.com/articles/norway-covid-pandemic-commission-11656453506" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
