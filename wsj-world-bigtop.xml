@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-29T12:48:31Z</updated>
+  <updated>2022-06-29T14:18:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Zelensky Calls on U.N. to Visit Destroyed Mall</title>
-    <updated>2022-06-29T12:12:00Z</updated>
+    <updated>2022-06-29T13:56:00Z</updated>
     <id>tag:www.wsj.com,2022-06-29:/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346</id>
     <content type="html">President Volodymyr Zelensky proposed that United Nations officials visit the site of the mall in Kremenchuk that was attacked on Monday killing at least 20 people, to dispute claims from Russia that it had been targeting munitions stored at an adjacent factory.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346" rel="alternate"></link>
