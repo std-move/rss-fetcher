@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-29T10:26:20Z</updated>
+  <updated>2022-06-29T12:48:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Zelensky Calls on U.N. to Visit Destroyed Mall</title>
+    <updated>2022-06-29T12:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-29:/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346</id>
+    <content type="html">President Volodymyr Zelensky proposed that United Nations officials visit the site of the mall in Kremenchuk that was attacked on Monday killing at least 20 people, to dispute claims from Russia that it had been targeting munitions stored at an adjacent factory.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s War of Attrition Exacts Heavy Toll on Both Sides</title>
+    <updated>2022-06-29T10:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-29:/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825</id>
+    <content type="html">Kyiv’s strategy to make Russian forces pay dearly for ever-smaller pockets of territory risks wearing down its own military, which has incurred heavy casualties defending and ultimately losing one grueling fight after another.</content>
+    <link href="https://www.wsj.com/articles/ukraines-war-of-attrition-exacts-heavy-toll-on-both-sides-11656498825" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Rice Is Saving Asia as Ukraine War Drives Up Food Prices</title>
+    <updated>2022-06-29T09:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-29:/articles/rice-is-saving-asia-as-ukraine-war-drives-up-food-prices-11656495181</id>
+    <content type="html">Unlike wheat and corn, rice has generally been cheaper this year than it was last year—a boon for many Asian countries where it is integral to diets.</content>
+    <link href="https://www.wsj.com/articles/rice-is-saving-asia-as-ukraine-war-drives-up-food-prices-11656495181" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
