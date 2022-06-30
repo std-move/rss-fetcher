@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-30T14:20:00Z</updated>
+  <updated>2022-06-30T16:37:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Troops Withdraw From Ukraine&#39;s Snake Island</title>
-    <updated>2022-06-30T12:21:00Z</updated>
+    <updated>2022-06-30T16:20:00Z</updated>
     <id>tag:www.wsj.com,2022-06-30:/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672</id>
     <content type="html">Russian forces withdrew from a strategically important Ukrainian island on the Black Sea even as President Vladimir Putin said he wouldn’t set a deadline for the end of his war, now in its fifth month.</content>
     <link href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672" rel="alternate"></link>
