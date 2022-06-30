@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-30T10:30:16Z</updated>
+  <updated>2022-06-30T12:48:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine, Russia Exchange Prisoners as War Grinds On</title>
-    <updated>2022-06-29T20:53:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-29:/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346</id>
-    <content type="html">The two sides reported what Kyiv said was the largest exchange of captives since the invasion, as Russian forces pushed to encircle Lysychansk in the east and NATO members bolstered the alliance to counter Moscow.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346" rel="alternate"></link>
+    <title>Russian Troops Withdraw From Ukraine&#39;s Snake Island</title>
+    <updated>2022-06-30T12:21:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-30:/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672</id>
+    <content type="html">Russian forces withdrew from a strategically important Ukrainian island on the Black Sea even as President Vladimir Putin said he wouldn’t set a deadline for the end of his war, now in its fifth month.</content>
+    <link href="https://www.wsj.com/articles/russia-will-respond-in-kind-to-nato-expansion-putin-warns-11656582672" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Xi Jinping Visits Hong Kong to Mark Anniversary, Cap Crushing of Dissent</title>
+    <updated>2022-06-30T10:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-06-30:/articles/xi-jinping-visits-hong-kong-to-mark-anniversary-cap-crushing-of-dissent-11656585292</id>
+    <content type="html">The visit to commemorate 25 years since Britain returned the city to Beijing, marked a milestone in the Chinese leader’s pledge to deliver a strong and unified nation as he moves to extend his rule.</content>
+    <link href="https://www.wsj.com/articles/xi-jinping-visits-hong-kong-to-mark-anniversary-cap-crushing-of-dissent-11656585292" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
