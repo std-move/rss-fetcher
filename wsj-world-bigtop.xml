@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-30T06:28:48Z</updated>
+  <updated>2022-06-30T08:31:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2022-06-29:/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346</id>
     <content type="html">The two sides reported what Kyiv said was the largest exchange of captives since the invasion, as Russian forces pushed to encircle Lysychansk in the east and NATO members bolstered the alliance to counter Moscow.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-on-u-n-to-visit-destroyed-mall-11656503346" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Hong Kong, Young People&#39;s Hopes Fade 25 Years After Handover From U.K.</title>
-    <updated>2022-06-29T15:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-29:/articles/in-hong-kong-hopes-fade-for-what-some-call-the-cursed-generation-25-years-after-handover-from-britain-11656514865</id>
-    <content type="html">As Hong Kong authorities roll out celebrations this week to commemorate a quarter-century under Chinese rule and inaugurate a new local government, one of their biggest challenges is to address the frustrated ambitions of the city’s younger population.</content>
-    <link href="https://www.wsj.com/articles/in-hong-kong-hopes-fade-for-what-some-call-the-cursed-generation-25-years-after-handover-from-britain-11656514865" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Norway Was a Pandemic Success. Then It Spent Two Years Studying Its Failures.</title>
-    <updated>2022-06-29T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-06-29:/articles/norway-covid-pandemic-commission-11656453506</id>
-    <content type="html">Why one country wrote a playbook for the rest of the world. “Everybody turns up to help and do a job together.”</content>
-    <link href="https://www.wsj.com/articles/norway-covid-pandemic-commission-11656453506" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
