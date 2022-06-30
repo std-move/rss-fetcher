@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-06-30T12:48:51Z</updated>
+  <updated>2022-06-30T14:20:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Xi Jinping Visits Hong Kong to Mark Anniversary, Cap Crushing of Dissent</title>
+    <title>Xi Jinping Visits Hong Kong to Mark Anniversary, Capping Crushing of Dissent</title>
     <updated>2022-06-30T10:34:00Z</updated>
     <id>tag:www.wsj.com,2022-06-30:/articles/xi-jinping-visits-hong-kong-to-mark-anniversary-cap-crushing-of-dissent-11656585292</id>
     <content type="html">The visit to commemorate 25 years since Britain returned the city to Beijing, marked a milestone in the Chinese leader’s pledge to deliver a strong and unified nation as he moves to extend his rule.</content>
