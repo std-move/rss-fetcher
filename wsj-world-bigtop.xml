@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-01T12:48:37Z</updated>
+  <updated>2022-07-01T14:21:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In Russia&#39;s Biggest Cities, Ukraine War Fades to Background Noise</title>
-    <updated>2022-07-01T10:12:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/in-russias-biggest-cities-ukraine-war-fades-to-background-noise-11656670347</id>
-    <content type="html">Bars are filled to the brim, film and jazz festivals are sold out and Moscow’s police officers are busier handing out fines for public drinking than putting down dissent.</content>
-    <link href="https://www.wsj.com/articles/in-russias-biggest-cities-ukraine-war-fades-to-background-noise-11656670347" rel="alternate"></link>
+    <title>Xi Jinping&#39;s Hong Kong Tour Signals Confidence That City Is Under Control</title>
+    <updated>2022-07-01T13:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-01:/articles/xi-jinpings-hong-kong-tour-signals-confidence-that-city-is-under-control-11656681135</id>
+    <content type="html">China’s president left Hong Kong after a truncated trip to mark the 25th anniversary of the city’s return to Chinese rule, with apparently a new era of stability in a territory rocked by violent protests a few years ago.</content>
+    <link href="https://www.wsj.com/articles/xi-jinpings-hong-kong-tour-signals-confidence-that-city-is-under-control-11656681135" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>American Father Reunited With Child Lost During Kabul Evacuation</title>
-    <updated>2022-07-01T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801</id>
-    <content type="html">The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August.</content>
-    <link href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Missiles Kill 18 in Residential Area in Odessa Region, Ukraine Says</title>
-    <updated>2022-07-01T08:51:00Z</updated>
+    <title>Russian Missiles Kill 20 in Residential Area in Odessa Region, Ukraine Says</title>
+    <updated>2022-07-01T12:59:00Z</updated>
     <id>tag:www.wsj.com,2022-07-01:/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500</id>
     <content type="html">The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.”</content>
     <link href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500" rel="alternate"></link>
