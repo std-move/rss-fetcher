@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-01T18:30:07Z</updated>
+  <updated>2022-07-01T20:24:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</title>
+    <updated>2022-07-01T19:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-01:/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500</id>
+    <content type="html">The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.”</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>New U.S. Guided Rockets Strengthen Ukraine&#39;s Hand</title>
     <updated>2022-07-01T18:08:00Z</updated>
@@ -13,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</title>
-    <updated>2022-07-01T18:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500</id>
-    <content type="html">The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.”</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500" rel="alternate"></link>
+    <title>Taliban Splits Emerge Over Religion, Power and Girls&#39; Schools</title>
+    <updated>2022-07-01T13:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-01:/articles/taliban-splits-afghanistan-religion-girls-schools-11656682831</id>
+    <content type="html">The Taliban stayed cohesive as a fighting force during the 20-year insurgency. Now cracks are appearing on multiple fronts.</content>
+    <link href="https://www.wsj.com/articles/taliban-splits-afghanistan-religion-girls-schools-11656682831" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
