@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-01T10:25:53Z</updated>
+  <updated>2022-07-01T12:48:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In Russia&#39;s Biggest Cities, Ukraine War Fades to Background Noise</title>
+    <updated>2022-07-01T10:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-01:/articles/in-russias-biggest-cities-ukraine-war-fades-to-background-noise-11656670347</id>
+    <content type="html">Bars are filled to the brim, film and jazz festivals are sold out and Moscow’s police officers are busier handing out fines for public drinking than putting down dissent.</content>
+    <link href="https://www.wsj.com/articles/in-russias-biggest-cities-ukraine-war-fades-to-background-noise-11656670347" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>American Father Reunited With Child Lost During Kabul Evacuation</title>
+    <updated>2022-07-01T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-01:/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801</id>
+    <content type="html">The story of 8-year-old James mirrored that of thousands of Afghan families torn apart during the evacuation effort that took place after the Taliban seized power last August.</content>
+    <link href="https://www.wsj.com/articles/american-father-reunited-with-child-lost-during-kabul-evacuation-11656667801" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Missiles Kill 18 in Residential Area in Odessa Region, Ukraine Says</title>
     <updated>2022-07-01T08:51:00Z</updated>
     <id>tag:www.wsj.com,2022-07-01:/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500</id>
     <content type="html">The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.”</content>
     <link href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xi Says Hong Kong&#39;s Loyalty to Beijing Will Ensure Prosperous Future</title>
-    <updated>2022-07-01T05:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943</id>
-    <content type="html">Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule.</content>
-    <link href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
