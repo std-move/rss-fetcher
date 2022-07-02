@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-02T10:23:36Z</updated>
+  <updated>2022-07-02T12:37:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Missiles Kill 21 in Residential Area in Odessa Region, Ukraine Says</title>
-    <updated>2022-07-01T21:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500</id>
-    <content type="html">The overnight attack, the latest in a surge of Russian strikes, occurred hours after the conclusion of a NATO summit where President Biden promised to support Ukraine “for as long as it takes.”</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-kill-18-in-residential-area-in-odessa-region-ukraine-says-11656665500" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>New U.S. Guided Rockets Strengthen Ukraine&#39;s Hand</title>
-    <updated>2022-07-01T18:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/new-u-s-guided-rockets-strengthen-ukraines-hand-against-russia-11656698614</id>
-    <content type="html">Ukrainian officers say the Himars batteries are already shifting the balance of power in the artillery duel being fought with Russian forces in the Donbas region.</content>
-    <link href="https://www.wsj.com/articles/new-u-s-guided-rockets-strengthen-ukraines-hand-against-russia-11656698614" rel="alternate"></link>
+    <title>Mines, Port Damage Threaten Revival of Sea Route for Ukraine Grain</title>
+    <updated>2022-07-02T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-02:/articles/mines-port-damage-threaten-revival-of-sea-route-for-ukraine-grain-11656754200</id>
+    <content type="html">U.N.-sponsored talks are aimed at striking an agreement between Moscow and Kyiv to give shipments of Ukrainian grain safe passage—but it could still take weeks, or even months, to get traffic moving again.</content>
+    <link href="https://www.wsj.com/articles/mines-port-damage-threaten-revival-of-sea-route-for-ukraine-grain-11656754200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
