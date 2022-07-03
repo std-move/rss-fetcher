@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-03T16:29:51Z</updated>
+  <updated>2022-07-03T18:25:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Claims Control of Luhansk as Ukrainian Forces Retreat From Lysychansk</title>
-    <updated>2022-07-03T15:04:00Z</updated>
+    <updated>2022-07-03T17:12:00Z</updated>
     <id>tag:www.wsj.com,2022-07-03:/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582</id>
     <content type="html">The Ukrainian withdrawal effectively placed under Russian control the eastern region at the center of the war in recent months.</content>
     <link href="https://www.wsj.com/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582" rel="alternate"></link>
