@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-03T14:19:09Z</updated>
+  <updated>2022-07-03T16:29:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Strike Kills Four in Eastern Ukrainian City of Slovyansk</title>
-    <updated>2022-07-02T13:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-02:/articles/russian-strike-kills-four-in-eastern-ukrainian-city-of-slovyansk-11656760755</id>
-    <content type="html">Ukrainian officials said the latest deadly attack is part of a new Russian strategy to terrorize Ukraine into submission.</content>
-    <link href="https://www.wsj.com/articles/russian-strike-kills-four-in-eastern-ukrainian-city-of-slovyansk-11656760755" rel="alternate"></link>
+    <title>Russia Claims Control of Luhansk as Ukrainian Forces Retreat From Lysychansk</title>
+    <updated>2022-07-03T15:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-03:/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582</id>
+    <content type="html">The Ukrainian withdrawal effectively placed under Russian control the eastern region at the center of the war in recent months.</content>
+    <link href="https://www.wsj.com/articles/russia-claims-control-of-luhansk-as-ukrainian-forces-retreat-from-lysychansk-11656851582" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Mines, Port Damage Threaten Revival of Sea Route for Ukraine Grain</title>
-    <updated>2022-07-02T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-02:/articles/mines-port-damage-threaten-revival-of-sea-route-for-ukraine-grain-11656754200</id>
-    <content type="html">U.N.-sponsored talks are aimed at striking an agreement between Moscow and Kyiv to give shipments of Ukrainian grain safe passage—but it could still take weeks, or even months, to get traffic moving again.</content>
-    <link href="https://www.wsj.com/articles/mines-port-damage-threaten-revival-of-sea-route-for-ukraine-grain-11656754200" rel="alternate"></link>
+    <title>How Food Became Putin&#39;s New Strategic Weapon</title>
+    <updated>2022-07-03T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-03:/articles/how-food-became-putins-new-strategic-weapon-11656849602</id>
+    <content type="html">Russia has used its increased leverage over food exports from Ukraine to divide the international community and expand influence over developing economies in the Middle East, Africa and Asia.</content>
+    <link href="https://www.wsj.com/articles/how-food-became-putins-new-strategic-weapon-11656849602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
