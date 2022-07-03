@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-03T02:20:57Z</updated>
+  <updated>2022-07-03T04:33:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2022-07-02:/articles/mines-port-damage-threaten-revival-of-sea-route-for-ukraine-grain-11656754200</id>
     <content type="html">U.N.-sponsored talks are aimed at striking an agreement between Moscow and Kyiv to give shipments of Ukrainian grain safe passage—but it could still take weeks, or even months, to get traffic moving again.</content>
     <link href="https://www.wsj.com/articles/mines-port-damage-threaten-revival-of-sea-route-for-ukraine-grain-11656754200" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Taliban Splits Emerge Over Religion, Power and Girls&#39; Schools</title>
-    <updated>2022-07-01T13:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/taliban-splits-afghanistan-religion-girls-schools-11656682831</id>
-    <content type="html">The Taliban stayed cohesive as a fighting force during the 20-year insurgency. Now cracks are appearing on multiple fronts.</content>
-    <link href="https://www.wsj.com/articles/taliban-splits-afghanistan-religion-girls-schools-11656682831" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xi Says Hong Kong&#39;s Loyalty to Beijing Will Ensure Prosperous Future</title>
-    <updated>2022-07-01T05:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-01:/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943</id>
-    <content type="html">Chinese leader Xi Jinping urged Hong Kong to show more patriotic fervor and rally around his vision of a strong and unified China as he prepares to extend his rule.</content>
-    <link href="https://www.wsj.com/articles/chinas-xi-jinping-says-hong-kongs-loyalty-to-beijing-will-ensure-prosperous-future-11656653943" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
