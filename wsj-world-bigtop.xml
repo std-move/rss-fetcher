@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-04T12:47:03Z</updated>
+  <updated>2022-07-04T14:29:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-07-04:/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182</id>
     <content type="html">The U.S. and its allies are studying Europe’s biggest conflict in decades. “You can’t cyber your way across a river.”</content>
     <link href="https://www.wsj.com/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Food Became Putin&#39;s New Strategic Weapon</title>
-    <updated>2022-07-03T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-03:/articles/how-food-became-putins-new-strategic-weapon-11656849602</id>
-    <content type="html">Russia has used its increased leverage over food exports from Ukraine to divide the international community and expand influence over developing economies in the Middle East, Africa and Asia.</content>
-    <link href="https://www.wsj.com/articles/how-food-became-putins-new-strategic-weapon-11656849602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
