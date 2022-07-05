@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-05T20:25:29Z</updated>
+  <updated>2022-07-05T22:21:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</title>
-    <updated>2022-07-05T19:25:00Z</updated>
+    <updated>2022-07-05T20:24:00Z</updated>
     <id>tag:www.wsj.com,2022-07-05:/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324</id>
     <content type="html">Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance.</content>
     <link href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russian Army Turns Ukraine&#39;s Largest Nuclear Plant Into a Military Base</title>
+    <updated>2022-07-05T15:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-05:/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694</id>
+    <content type="html">The new infusion of weaponry effectively shields the Zaporizhzhia station from a counterattack by Ukrainian forces, and amounts to something the carefully regulated atomic-energy industry has never seen before: the slow-motion transformation of a nuclear power station into a military garrison.</content>
+    <link href="https://www.wsj.com/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
