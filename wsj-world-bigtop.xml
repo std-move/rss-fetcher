@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-05T10:25:22Z</updated>
+  <updated>2022-07-05T12:52:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine War Lessons: You Can&#39;t Hide and Weapons Stockpiles Are Essential</title>
-    <updated>2022-07-04T09:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-04:/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182</id>
-    <content type="html">The U.S. and its allies are studying Europe’s biggest conflict in decades. “You can’t cyber your way across a river.”</content>
-    <link href="https://www.wsj.com/articles/lessons-of-russias-war-in-ukraine-you-cant-hide-and-weapons-stockpiles-are-essential-11656927182" rel="alternate"></link>
+    <title>NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</title>
+    <updated>2022-07-05T12:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-05:/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324</id>
+    <content type="html">Ukrainian troops repelled a Russian attack on one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while the North Atlantic Treaty Organization advanced plans to add Sweden and Finland to the alliance in the face of Russian aggression in Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
