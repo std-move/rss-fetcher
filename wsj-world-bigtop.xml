@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-06T14:21:22Z</updated>
+  <updated>2022-07-06T16:35:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>NATO Advances Sweden, Finland Toward Membership as Fighting Rages in Eastern Ukraine</title>
-    <updated>2022-07-05T20:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-05:/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324</id>
-    <content type="html">Russian artillery pounded Sloviansk, one of Ukraine’s last lines of defense to protect the remaining Kyiv-held strongholds in eastern Ukraine, while NATO advanced plans to add Sweden and Finland to the alliance.</content>
-    <link href="https://www.wsj.com/articles/russia-accuses-nato-of-stoking-tensions-as-fighting-rages-in-eastern-ukraine-11657017324" rel="alternate"></link>
+    <title>Russian and Ukrainian Forces Prepare for Next Phase of Battle for Donbas</title>
+    <updated>2022-07-06T12:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-06:/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128</id>
+    <content type="html">Russia’s invading army shelled the positions of Ukrainian defenders along the front line as both sides girded for the next battles for control of Ukraine’s east.</content>
+    <link href="https://www.wsj.com/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russian Army Turns Ukraine&#39;s Largest Nuclear Plant Into a Military Base</title>
-    <updated>2022-07-05T15:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-05:/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694</id>
-    <content type="html">The new infusion of weaponry effectively shields the Zaporizhzhia station from a counterattack by Ukrainian forces, and amounts to something the carefully regulated atomic-energy industry has never seen before: the slow-motion transformation of a nuclear power station into a military garrison.</content>
-    <link href="https://www.wsj.com/articles/russian-army-turns-ukraines-largest-nuclear-plant-into-a-military-base-11657035694" rel="alternate"></link>
+    <title>Russia&#39;s Tactical Shift in Ukraine Raises Prospect of Protracted War</title>
+    <updated>2022-07-06T11:20:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-06:/articles/russias-tactical-shift-in-ukraine-raises-prospect-of-protracted-war-11657106436</id>
+    <content type="html">After early missteps, Moscow has found tactics that are working and is making steady advances in eastern Ukraine, setting the stage for a war of attrition in which Kyiv needs more Western weapons and help training new soldiers to turn the tide.</content>
+    <link href="https://www.wsj.com/articles/russias-tactical-shift-in-ukraine-raises-prospect-of-protracted-war-11657106436" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
