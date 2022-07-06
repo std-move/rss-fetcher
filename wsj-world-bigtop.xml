@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-06T16:35:41Z</updated>
+  <updated>2022-07-06T18:28:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian and Ukrainian Forces Prepare for Next Phase of Battle for Donbas</title>
-    <updated>2022-07-06T12:22:00Z</updated>
+    <updated>2022-07-06T17:56:00Z</updated>
     <id>tag:www.wsj.com,2022-07-06:/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128</id>
     <content type="html">Russia’s invading army shelled the positions of Ukrainian defenders along the front line as both sides girded for the next battles for control of Ukraine’s east.</content>
     <link href="https://www.wsj.com/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128" rel="alternate"></link>
