@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-07T12:52:44Z</updated>
+  <updated>2022-07-07T14:31:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.K.&#39;s Boris Johnson Resigns, but Will Remain Prime Minister Until Successor Is Found</title>
+    <title>Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.&#39;s Prime Minister Until Successor Is Found</title>
     <updated>2022-07-07T11:56:00Z</updated>
     <id>tag:www.wsj.com,2022-07-07:/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819</id>
     <content type="html">Boris Johnson said that he would step down as British prime minister, following a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years.</content>
