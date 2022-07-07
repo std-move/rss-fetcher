@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-07T20:23:53Z</updated>
+  <updated>2022-07-07T22:22:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.&#39;s Prime Minister Until Successor Is Found</title>
-    <updated>2022-07-07T19:38:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-07:/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819</id>
-    <content type="html">Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years.</content>
-    <link href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</title>
-    <updated>2022-07-07T17:13:00Z</updated>
+    <updated>2022-07-07T22:03:00Z</updated>
     <id>tag:www.wsj.com,2022-07-07:/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686</id>
     <content type="html">President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.&#39;s Prime Minister Until Successor Is Found</title>
+    <updated>2022-07-07T20:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-07:/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819</id>
+    <content type="html">Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years.</content>
+    <link href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
