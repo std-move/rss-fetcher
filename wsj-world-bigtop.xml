@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-07T06:29:34Z</updated>
+  <updated>2022-07-07T08:29:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,11 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia&#39;s Tactical Shift in Ukraine Raises Prospect of Protracted War</title>
-    <updated>2022-07-06T11:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-06:/articles/russias-tactical-shift-in-ukraine-raises-prospect-of-protracted-war-11657106436</id>
-    <content type="html">After early missteps, Moscow has found tactics that are working and is making steady advances in eastern Ukraine, setting the stage for a war of attrition in which Kyiv needs more Western weapons and help training new soldiers to turn the tide.</content>
-    <link href="https://www.wsj.com/articles/russias-tactical-shift-in-ukraine-raises-prospect-of-protracted-war-11657106436" rel="alternate"></link>
+    <title>China Police Database Was Left Open Online for Over a Year</title>
+    <updated>2022-07-06T15:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-06:/articles/china-police-database-was-left-open-online-for-over-a-year-enabling-leak-11657119903</id>
+    <content type="html">Cybersecurity experts say the error enabled the theft of records of nearly 1 billion people, including senior officials, leading to a $200,000 ransom note.</content>
+    <link href="https://www.wsj.com/articles/china-police-database-was-left-open-online-for-over-a-year-enabling-leak-11657119903" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
