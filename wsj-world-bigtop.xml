@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-07T10:26:33Z</updated>
+  <updated>2022-07-07T12:52:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian and Ukrainian Forces Prepare for Next Phase of Battle for Donbas</title>
-    <updated>2022-07-06T17:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-06:/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128</id>
-    <content type="html">Russia’s invading army shelled the positions of Ukrainian defenders along the front line as both sides girded for the next battles for control of Ukraine’s east.</content>
-    <link href="https://www.wsj.com/articles/russian-and-ukrainian-forces-prepare-for-next-phase-of-battle-for-donbas-11657110128" rel="alternate"></link>
+    <title>U.K.&#39;s Boris Johnson Resigns, but Will Remain Prime Minister Until Successor Is Found</title>
+    <updated>2022-07-07T11:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-07:/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819</id>
+    <content type="html">Boris Johnson said that he would step down as British prime minister, following a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years.</content>
+    <link href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China Police Database Was Left Open Online for Over a Year</title>
-    <updated>2022-07-06T15:05:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-06:/articles/china-police-database-was-left-open-online-for-over-a-year-enabling-leak-11657119903</id>
-    <content type="html">Cybersecurity experts say the error enabled the theft of records of nearly 1 billion people, including senior officials, leading to a $200,000 ransom note.</content>
-    <link href="https://www.wsj.com/articles/china-police-database-was-left-open-online-for-over-a-year-enabling-leak-11657119903" rel="alternate"></link>
+    <title>Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</title>
+    <updated>2022-07-07T10:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-07:/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686</id>
+    <content type="html">President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
