@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-08T16:38:12Z</updated>
+  <updated>2022-07-08T18:28:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</title>
-    <updated>2022-07-08T11:05:00Z</updated>
+    <updated>2022-07-08T17:47:00Z</updated>
     <id>tag:www.wsj.com,2022-07-08:/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324</id>
     <content type="html">Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.”</content>
     <link href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Food Prices Squeeze Poorest in Rich Countries</title>
-    <updated>2022-07-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-08:/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602</id>
-    <content type="html">Some 44% of adults polled by the U.K. recently said they were buying less food, as the pain from higher prices spreads beyond less-developed nations.</content>
-    <link href="https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Afghanistan&#39;s Independent Media Is Fading Away, but a Few Hold Out</title>
-    <updated>2022-07-07T19:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-07:/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005</id>
-    <content type="html">Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.”</content>
-    <link href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005" rel="alternate"></link>
+    <title>José Eduardo dos Santos, Autocrat Who Led Angola, Dies</title>
+    <updated>2022-07-08T13:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-08:/articles/jose-eduardo-dos-santos-autocrat-who-led-angola-dies-11657284437</id>
+    <content type="html">The former president, who brutally crushed dissent during his 38 years in power as those around him grew rich, died in a hospital in Barcelona following a long illness.</content>
+    <link href="https://www.wsj.com/articles/jose-eduardo-dos-santos-autocrat-who-led-angola-dies-11657284437" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
