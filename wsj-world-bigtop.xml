@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-08T18:28:20Z</updated>
+  <updated>2022-07-08T20:28:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Post-Brexit Turmoil, Inflation, EnergyPose Tests for Johnson&#39;s Successor</title>
+    <updated>2022-07-08T17:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-08:/articles/post-brexit-turmoil-inflation-energypose-challenges-for-successor-to-u-k-s-boris-johnson-11657299995</id>
+    <content type="html">Brexit has been a chronic drag on British growth, compounding the pain of inflation that is the highest among the G-7 economies</content>
+    <link href="https://www.wsj.com/articles/post-brexit-turmoil-inflation-energypose-challenges-for-successor-to-u-k-s-boris-johnson-11657299995" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</title>
     <updated>2022-07-08T17:47:00Z</updated>
