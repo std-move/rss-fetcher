@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-07T22:22:36Z</updated>
+  <updated>2022-07-08T02:19:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-07-07:/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819</id>
     <content type="html">Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years.</content>
     <link href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Afghanistan&#39;s Independent Media Is Fading Away, but a Few Hold Out</title>
+    <updated>2022-07-07T19:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-07:/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005</id>
+    <content type="html">Tolo News covers women’s rights and the Taliban resistance at great risk to its journalists; “there are new rules nearly every day.”</content>
+    <link href="https://www.wsj.com/articles/afghanistans-independent-media-is-fading-away-but-a-few-hold-out-11657221005" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
