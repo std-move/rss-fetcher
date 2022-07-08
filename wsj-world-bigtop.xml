@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-08T10:26:05Z</updated>
+  <updated>2022-07-08T12:46:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Says Western Weapons Begin to Help as It Raises Flag on Snake Island</title>
-    <updated>2022-07-07T22:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-07:/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686</id>
-    <content type="html">President Volodymyr Zelensky said that Western heavy weapons are starting to have an effect on the battlefield but urged speedier deliveries, particularly of antiaircraft systems, as Russia continued lobbing missiles into Ukrainian cities.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-western-weapons-begin-to-help-as-it-raises-flag-on-snake-island-11657190686" rel="alternate"></link>
+    <title>Russia Says It Is Open to Talks With Ukraine, Turkey on Grain Exports</title>
+    <updated>2022-07-08T11:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-08:/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324</id>
+    <content type="html">Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.”</content>
+    <link href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Boris Johnson Resigns Amid Scandals but Says He Will Remain U.K.&#39;s Prime Minister Until Successor Is Found</title>
-    <updated>2022-07-07T20:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-07:/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819</id>
-    <content type="html">Boris Johnson said he would step down after a wide-scale rebellion in his party, capping an astonishing fall from grace for a politician who once looked poised to dominate U.K. politics for years.</content>
-    <link href="https://www.wsj.com/articles/u-k-s-boris-johnson-quits-after-scandals-grow-too-great-to-handle-11657183819" rel="alternate"></link>
+    <title>Food Insecurity Hits Rich Countries as Inflation Makes Basics Unaffordable for Many</title>
+    <updated>2022-07-08T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-08:/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602</id>
+    <content type="html">Some 44% of adults polled by the U.K. recently said they were buying less food, as the pain from higher prices spreads beyond less-developed nations.</content>
+    <link href="https://www.wsj.com/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
