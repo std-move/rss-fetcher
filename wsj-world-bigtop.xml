@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-08T14:23:35Z</updated>
+  <updated>2022-07-08T16:38:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Food Insecurity Hits Rich Countries as Inflation Makes Basics Unaffordable for Many</title>
+    <title>Food Prices Squeeze Poorest in Rich Countries</title>
     <updated>2022-07-08T09:30:00Z</updated>
     <id>tag:www.wsj.com,2022-07-08:/articles/food-insecurity-hits-rich-countries-as-inflation-makes-basics-unaffordable-for-many-11657272602</id>
     <content type="html">Some 44% of adults polled by the U.K. recently said they were buying less food, as the pain from higher prices spreads beyond less-developed nations.</content>
