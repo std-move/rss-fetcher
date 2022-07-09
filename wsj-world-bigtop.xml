@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-09T02:02:55Z</updated>
+  <updated>2022-07-09T04:29:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-07-08:/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324</id>
     <content type="html">Comments from Russian Foreign Minister Sergei Lavrov came as his Ukrainian counterpart said a Russian naval blockade on Ukraine has “shredded global chains of food supply.”</content>
     <link href="https://www.wsj.com/articles/russia-says-it-is-open-to-talks-with-ukraine-turkey-on-grain-exports-11657278324" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>José Eduardo dos Santos, Autocrat Who Led Angola, Dies</title>
-    <updated>2022-07-08T13:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-08:/articles/jose-eduardo-dos-santos-autocrat-who-led-angola-dies-11657284437</id>
-    <content type="html">The former president, who brutally crushed dissent during his 38 years in power as those around him grew rich, died in a hospital in Barcelona following a long illness.</content>
-    <link href="https://www.wsj.com/articles/jose-eduardo-dos-santos-autocrat-who-led-angola-dies-11657284437" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
