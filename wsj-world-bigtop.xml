@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-10T14:20:04Z</updated>
+  <updated>2022-07-10T16:30:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine War Pushes Millions of the World&#39;s Poorest Toward Starvation</title>
+    <updated>2022-07-10T15:21:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-10:/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470</id>
+    <content type="html">Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Defense Minister Says It Has &#39;Passed Test&#39; on New U.S. Guided Rockets, Needs More</title>
     <updated>2022-07-10T12:29:00Z</updated>
     <id>tag:www.wsj.com,2022-07-10:/articles/ukraines-defense-minister-says-it-has-passed-test-on-new-u-s-guided-rockets-needs-more-11657455388</id>
     <content type="html">Oleksii Reznikov stressed that the high attrition rate along Ukraine’s extensive front line has made the demand for additional supplies more urgent.</content>
     <link href="https://www.wsj.com/articles/ukraines-defense-minister-says-it-has-passed-test-on-new-u-s-guided-rockets-needs-more-11657455388" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Luis Echeverría, Former President of Mexico, Dies at 100</title>
-    <updated>2022-07-10T00:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-10:/articles/luis-echeverria-former-president-of-mexico-dies-at-100-11657411277</id>
-    <content type="html">Known for his leftist rhetoric, Mr. Echeverría presided over a regime during which hundreds disappeared. He would later face genocide accusations.</content>
-    <link href="https://www.wsj.com/articles/luis-echeverria-former-president-of-mexico-dies-at-100-11657411277" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
