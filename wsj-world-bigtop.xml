@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-09T22:21:49Z</updated>
+  <updated>2022-07-10T02:26:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Luis Echeverría, Former President of Mexico, Dies at 100</title>
+    <updated>2022-07-10T00:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-10:/articles/luis-echeverria-former-president-of-mexico-dies-at-100-11657411277</id>
+    <content type="html">Known for his leftist rhetoric, Mr. Echeverría presided over a regime during which hundreds disappeared. He would later face genocide accusations.</content>
+    <link href="https://www.wsj.com/articles/luis-echeverria-former-president-of-mexico-dies-at-100-11657411277" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Prepares to Defend City It Retook After 2014 Revolt</title>
     <updated>2022-07-09T19:19:00Z</updated>
