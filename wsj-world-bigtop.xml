@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-11T12:48:52Z</updated>
+  <updated>2022-07-11T14:32:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Digs for Survivors in Rubble of Apartment Building Destroyed by Russian Missile</title>
-    <updated>2022-07-11T11:44:00Z</updated>
+    <updated>2022-07-11T13:23:00Z</updated>
     <id>tag:www.wsj.com,2022-07-11:/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606</id>
-    <content type="html">Death toll rises to 19 killed in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued.</content>
+    <content type="html">Death toll rises to 19 in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued.</content>
     <link href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine War Pushes Millions of the World&#39;s Poorest Toward Starvation</title>
-    <updated>2022-07-10T15:21:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-10:/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470</id>
-    <content type="html">Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia’s invasion of Ukraine.</content>
-    <link href="https://www.wsj.com/articles/ukraine-war-pushes-millions-of-the-worlds-poorest-toward-starvation-11657466470" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.K. Weighs Saying Cheerio to Metric System. Opponent: &#39;This Is Insane.&#39;</title>
-    <updated>2022-07-10T14:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-10:/articles/u-k-metric-imperial-measurement-system-11657463960</id>
-    <content type="html">Freed of an EU edict, government formally studies dumping meters and embracing old measurements.</content>
-    <link href="https://www.wsj.com/articles/u-k-metric-imperial-measurement-system-11657463960" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
