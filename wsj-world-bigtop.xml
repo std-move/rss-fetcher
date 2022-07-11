@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-11T14:32:26Z</updated>
+  <updated>2022-07-11T16:36:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Digs for Survivors in Rubble of Apartment Building Destroyed by Russian Missile</title>
-    <updated>2022-07-11T13:23:00Z</updated>
+    <title>Ukraine Digs for Survivors in Rubble of Residential Attacks by Russian Missiles</title>
+    <updated>2022-07-11T15:52:00Z</updated>
     <id>tag:www.wsj.com,2022-07-11:/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606</id>
-    <content type="html">Death toll rises to 19 in missile strike on apartment building in Chasiv Yar; eight survivors have been rescued.</content>
+    <content type="html">Death toll rises to 26 in missile strike on apartment building in Chasiv Yar; three dead in Kharkiv attack, regional official says.</content>
     <link href="https://www.wsj.com/articles/ukraine-digs-for-survivors-in-rubble-of-apartment-building-destroyed-by-russian-missile-11657537606" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
