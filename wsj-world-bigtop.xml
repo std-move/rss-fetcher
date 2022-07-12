@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-12T12:49:22Z</updated>
+  <updated>2022-07-12T14:25:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Hits Military Depot in Russian-Controlled City</title>
-    <updated>2022-07-12T10:50:00Z</updated>
+    <updated>2022-07-12T14:03:00Z</updated>
     <id>tag:www.wsj.com,2022-07-12:/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010</id>
     <content type="html">Ukrainian forces struck an ammunition depot deep inside Russian-occupied territory in the country’s south, as Russia shelled Ukrainian cities in the Donbas region in the east, Ukrainian officials said.</content>
     <link href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010" rel="alternate"></link>
