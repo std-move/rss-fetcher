@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-13T16:36:28Z</updated>
+  <updated>2022-07-13T18:26:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Strikes Show Impact of New Weapons</title>
-    <updated>2022-07-13T16:20:00Z</updated>
+    <updated>2022-07-13T18:13:00Z</updated>
     <id>tag:www.wsj.com,2022-07-13:/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988</id>
     <content type="html">Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus.</content>
     <link href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link</title>
-    <updated>2022-07-12T13:58:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-12:/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783</id>
-    <content type="html">Ownership shuffles and a tradition of secrecy have thwarted efforts by the Alpine financial haven to punish billionaire allies of Russian President Vladimir Putin.</content>
-    <link href="https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783" rel="alternate"></link>
+    <title>Sri Lanka&#39;s Debt Crisis Tests China&#39;s Role as Financier to Poor Countries</title>
+    <updated>2022-07-13T18:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-13:/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179</id>
+    <content type="html">Developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues.</content>
+    <link href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>12 Hours of Misery at One of the World&#39;s Busiest Airports</title>
+    <updated>2022-07-13T14:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-13:/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958</id>
+    <content type="html">A recent day at the London airport saw hundreds of delayed flights, lines of travelers spilling into each other and a mysteriously closed lost-luggage desk. “This is the new normal.”</content>
+    <link href="https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
