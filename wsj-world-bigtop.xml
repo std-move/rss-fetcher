@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-13T10:29:19Z</updated>
+  <updated>2022-07-13T12:44:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Hits Military Depots in Russian-Controlled Cities</title>
-    <updated>2022-07-12T22:37:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-12:/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010</id>
-    <content type="html">Long-range rockets provided by the U.S. “have changed the rules of the game,” Ukrainian official says.</content>
-    <link href="https://www.wsj.com/articles/ukraine-hits-military-depot-in-russian-controlled-city-11657623010" rel="alternate"></link>
+    <title>Ukraine Strikes Show Impact of New Weapons</title>
+    <updated>2022-07-13T10:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-13:/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988</id>
+    <content type="html">Ukrainian forces struck an air-defense system in Russian-occupied territory in the east of the country, in the latest sign of how long-range artillery sent by the West is shifting the war’s calculus.</content>
+    <link href="https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
