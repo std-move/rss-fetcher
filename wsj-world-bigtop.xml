@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-14T20:24:39Z</updated>
+  <updated>2022-07-14T22:24:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Strikes Residential, Business District in Central Ukraine, Killing 23</title>
-    <updated>2022-07-14T19:21:00Z</updated>
+    <updated>2022-07-14T21:20:00Z</updated>
     <id>tag:www.wsj.com,2022-07-14:/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676</id>
     <content type="html">The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes.</content>
     <link href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sri Lanka Meltdown Hints at Troubles in Developing World</title>
-    <updated>2022-07-14T18:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-14:/articles/sri-lanka-meltdown-hints-at-troubles-in-developing-world-11657817654</id>
-    <content type="html">From Pakistan to Tunisia, governments are struggling to keep public finances stable even as people grow angry about rising prices.</content>
-    <link href="https://www.wsj.com/articles/sri-lanka-meltdown-hints-at-troubles-in-developing-world-11657817654" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
