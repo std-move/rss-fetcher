@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-14T08:28:16Z</updated>
+  <updated>2022-07-14T10:26:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Sri Lanka&#39;s Debt Crisis Tests China&#39;s Role as Financier to Poor Countries</title>
-    <updated>2022-07-13T18:04:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-13:/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179</id>
-    <content type="html">The developing world faces a credit crunch, but the biggest lender of all has been slow to cooperate with Western-style rescues.</content>
-    <link href="https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>12 Hours of Misery at One of the World&#39;s Busiest Airports</title>
     <updated>2022-07-13T14:52:00Z</updated>
