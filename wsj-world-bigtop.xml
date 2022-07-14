@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-14T10:26:44Z</updated>
+  <updated>2022-07-14T12:46:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Strikes Residential, Business District in Central Ukraine, Killing 17</title>
+    <updated>2022-07-14T12:20:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-14:/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676</id>
+    <content type="html">The strike on the city of Vinnytsia, far from the front lines in Ukraine, comes as Moscow appears to be doubling down on long-range missile attacks and airstrikes.</content>
+    <link href="https://www.wsj.com/articles/ukraine-war-threatens-global-economy-this-year-and-next-imf-warns-11657791676" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Sri Lanka&#39;s President Misses Resignation Deadline</title>
+    <updated>2022-07-14T09:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-14:/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519</id>
+    <content type="html">The parliamentary speaker had said the president would resign on July 13, but President Gotabaya Rajapaksa left the country in the early hours of that day.</content>
+    <link href="https://www.wsj.com/articles/sri-lankas-president-misses-resignation-deadline-after-fleeing-country-11657792519" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>12 Hours of Misery at One of the World&#39;s Busiest Airports</title>
     <updated>2022-07-13T14:52:00Z</updated>
