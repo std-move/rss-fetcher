@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-15T18:28:02Z</updated>
+  <updated>2022-07-15T20:24:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</title>
-    <updated>2022-07-15T16:44:00Z</updated>
+    <updated>2022-07-15T20:12:00Z</updated>
     <id>tag:www.wsj.com,2022-07-15:/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992</id>
-    <content type="html">At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country.</content>
+    <content type="html">At least 10 missiles struck Mykolaiv on Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on a civilian areas in Ukraine.</content>
     <link href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Draghi Resignation Puts Italy&#39;s Leadership in Flux</title>
+    <updated>2022-07-15T15:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-15:/articles/mario-draghi-resignation-puts-italys-leadership-in-flux-11657900535</id>
+    <content type="html">The far-right party leading in polls is calling for immediate elections, while Mario Draghi, after offering his resignation as prime minister, is set to address Parliament on Wednesday about possible next steps.</content>
+    <link href="https://www.wsj.com/articles/mario-draghi-resignation-puts-italys-leadership-in-flux-11657900535" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -24,7 +32,7 @@
     <title>China&#39;s Economic Comeback From Covid-19 Shutdowns Likely to Be Slow and Bumpy</title>
     <updated>2022-07-15T12:45:00Z</updated>
     <id>tag:www.wsj.com,2022-07-15:/articles/chinas-economic-comeback-from-covid-shutdowns-likely-to-be-slow-and-bumpy-11657889141</id>
-    <content type="html">Economists expect drawn-out rebound as weakness in real-estate market, business confidence and exports drags on growth.</content>
+    <content type="html">Economists expect a drawn-out rebound as weakness in the real-estate market, business confidence and exports drags on growth.</content>
     <link href="https://www.wsj.com/articles/chinas-economic-comeback-from-covid-shutdowns-likely-to-be-slow-and-bumpy-11657889141" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
