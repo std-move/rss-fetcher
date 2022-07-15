@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-15T14:26:14Z</updated>
+  <updated>2022-07-15T16:35:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</title>
-    <updated>2022-07-15T12:53:00Z</updated>
+    <updated>2022-07-15T15:47:00Z</updated>
     <id>tag:www.wsj.com,2022-07-15:/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992</id>
     <content type="html">At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country.</content>
     <link href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Europeans Are Working Even Less, and Not by Choice</title>
+    <updated>2022-07-15T12:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-15:/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680</id>
+    <content type="html">Since the pandemic began, Americans have increased their working hours by about 1%, while Europeans have trimmed theirs by around 2%. Many companies reduced hours and instituted furlough programs.</content>
+    <link href="https://www.wsj.com/articles/europeans-work-less-short-workweek-employment-pandemic-11657889680" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China&#39;s Economic Comeback From Covid-19 Shutdowns Likely to Be Slow and Bumpy</title>
+    <updated>2022-07-15T12:45:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-15:/articles/chinas-economic-comeback-from-covid-shutdowns-likely-to-be-slow-and-bumpy-11657889141</id>
+    <content type="html">Economists expect drawn-out rebound as weakness in real-estate market, business confidence and exports drags on growth.</content>
+    <link href="https://www.wsj.com/articles/chinas-economic-comeback-from-covid-shutdowns-likely-to-be-slow-and-bumpy-11657889141" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
