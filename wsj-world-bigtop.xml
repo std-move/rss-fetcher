@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-15T12:51:34Z</updated>
+  <updated>2022-07-15T14:26:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missile Attacks Hit Another Ukrainian City, Regional Officials Say</title>
-    <updated>2022-07-15T10:20:00Z</updated>
+    <updated>2022-07-15T12:53:00Z</updated>
     <id>tag:www.wsj.com,2022-07-15:/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992</id>
     <content type="html">At least 10 missiles struck the southern Ukrainian city of Mykolaiv Friday morning, hitting two local universities, according to regional officials—the latest Russian airstrike on civilian areas around the country.</content>
     <link href="https://www.wsj.com/articles/russian-missile-attacks-hit-another-ukrainian-city-regional-officials-say-11657876992" rel="alternate"></link>
