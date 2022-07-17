@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-17T14:19:37Z</updated>
+  <updated>2022-07-17T16:30:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Strikes Intensify as Moscow Aims to Tighten Grip on Donbas</title>
-    <updated>2022-07-17T12:50:00Z</updated>
+    <updated>2022-07-17T15:37:00Z</updated>
     <id>tag:www.wsj.com,2022-07-17:/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249</id>
     <content type="html">Russian forces continued a campaign of airstrikes in eastern and southern Ukraine, a day after Moscow ordered intensified military operations to prevent Ukraine from carrying out strikes on Russian-controlled cities.</content>
     <link href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249" rel="alternate"></link>
