@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-17T22:21:26Z</updated>
+  <updated>2022-07-18T02:19:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Strikes Intensify as Moscow Aims to Tighten Grip on Donbas</title>
-    <updated>2022-07-17T15:37:00Z</updated>
+    <title>Zelensky Removes Ukraine&#39;s General Prosecutor, Head of Secret Service</title>
+    <updated>2022-07-17T22:41:00Z</updated>
     <id>tag:www.wsj.com,2022-07-17:/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249</id>
-    <content type="html">Russian forces continued a campaign of airstrikes in eastern and southern Ukraine, a day after Moscow ordered intensified military operations to prevent Ukraine from carrying out strikes on Russian-controlled cities.</content>
+    <content type="html">Dismissals come amid allegations that employees in the two offices were collaborating with Russia.</content>
     <link href="https://www.wsj.com/articles/russian-strikes-intensify-as-moscow-aims-to-tighten-grip-on-donbas-11658059249" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Afghan Economy Crumbles Since Taliban Takeover</title>
+    <updated>2022-07-17T12:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-17:/articles/afghan-economy-crumbles-since-taliban-takeover-11658061588</id>
+    <content type="html">Businesses are struggling to import supplies or find customers who can pay amid crushing inflation and banking dysfunction, as the isolated government has driven away both foreign aid and investors.</content>
+    <link href="https://www.wsj.com/articles/afghan-economy-crumbles-since-taliban-takeover-11658061588" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
