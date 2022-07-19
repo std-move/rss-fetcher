@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-19T16:36:48Z</updated>
+  <updated>2022-07-19T18:30:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-07-19:/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001</id>
     <content type="html">Modern and effective Western weapons are now being used in the country’s war with Russia and are already making a difference. But absorbing this new equipment into the Ukrainian army is proving a serious challenge.</content>
     <link href="https://www.wsj.com/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Air Travel Is Broken. Here&#39;s Why.</title>
-    <updated>2022-07-18T13:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-18:/articles/air-travel-is-broken-heres-why-11658152047</id>
-    <content type="html">Cutbacks in 2020 mean there aren’t enough baggage handlers, pilots and many others. So when something goes wrong, it ripples through to long lines, flight delays, cancellations and lost luggage.</content>
-    <link href="https://www.wsj.com/articles/air-travel-is-broken-heres-why-11658152047" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
