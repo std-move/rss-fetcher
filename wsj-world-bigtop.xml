@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-19T02:29:51Z</updated>
+  <updated>2022-07-19T05:12:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Orders Troops to Target Ukraine&#39;s Western-Supplied Long-Range Weapons</title>
-    <updated>2022-07-18T16:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-18:/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358</id>
+    <updated>2022-07-19T03:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-19:/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358</id>
     <content type="html">A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear.</content>
     <link href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358" rel="alternate"></link>
     <summary type="html"></summary>
