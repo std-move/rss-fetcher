@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-19T10:27:08Z</updated>
+  <updated>2022-07-19T12:48:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Orders Troops to Target Ukraine&#39;s Western-Supplied Long-Range Weapons</title>
-    <updated>2022-07-19T03:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-19:/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358</id>
-    <content type="html">A recent shipment of advanced Western weapons has reinforced Ukraine’s efforts to fend off Russia’s invasion, but whether they will enable Kyiv to turn the tide remains unclear.</content>
-    <link href="https://www.wsj.com/articles/russia-orders-troops-to-target-ukraines-western-supplied-weapons-11658144358" rel="alternate"></link>
+    <title>Ukraine Faces Difficulties Getting Western Weapons to Front Lines</title>
+    <updated>2022-07-19T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-19:/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001</id>
+    <content type="html">Modern and effective Western weapons are now being used in the country’s war with Russia and are already making a difference. But absorbing this new equipment into the Ukrainian army is proving a serious challenge.</content>
+    <link href="https://www.wsj.com/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-07-18:/articles/air-travel-is-broken-heres-why-11658152047</id>
     <content type="html">Cutbacks in 2020 mean there aren’t enough baggage handlers, pilots and many others. So when something goes wrong, it ripples through to long lines, flight delays, cancellations and lost luggage.</content>
     <link href="https://www.wsj.com/articles/air-travel-is-broken-heres-why-11658152047" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Maternity Care Is Faltering Under the Taliban</title>
-    <updated>2022-07-18T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-18:/articles/afghanistan-maternity-care-is-faltering-11658136601</id>
-    <content type="html">Decades of progress in maternal and neonatal healthcare in Afghanistan are eroding due to hunger, fleeing hospital staff and curbs on women’s freedom, doctors and international organizations say.</content>
-    <link href="https://www.wsj.com/articles/afghanistan-maternity-care-is-faltering-11658136601" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
