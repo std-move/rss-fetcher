@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-20T18:27:54Z</updated>
+  <updated>2022-07-20T20:25:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Targets Key Bridge, Prepares Counteroffensive in South</title>
-    <updated>2022-07-20T17:25:00Z</updated>
+    <updated>2022-07-20T19:13:00Z</updated>
     <id>tag:www.wsj.com,2022-07-20:/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958</id>
     <content type="html">Ukraine struck for the second day in a row the strategic bridge linking Russian-occupied Kherson with the rest of the Russian-held areas in southern Ukraine, part of preparations for a counteroffensive.</content>
     <link href="https://www.wsj.com/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958" rel="alternate"></link>
