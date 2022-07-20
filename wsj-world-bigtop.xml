@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-20T12:48:19Z</updated>
+  <updated>2022-07-20T14:24:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Targets Key Bridge, Prepares Counteroffensive in South</title>
-    <updated>2022-07-20T12:34:00Z</updated>
+    <updated>2022-07-20T13:30:00Z</updated>
     <id>tag:www.wsj.com,2022-07-20:/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958</id>
     <content type="html">Ukraine struck for the second day in a row the strategic bridge linking Russian-occupied Kherson with the rest of the Russian-held areas in southern Ukraine, part of preparations for a counteroffensive.</content>
     <link href="https://www.wsj.com/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Record-Breaking Heat Scorches Europe</title>
+    <updated>2022-07-20T10:23:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-20:/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621</id>
+    <content type="html">Extreme heat has swept through Europe over the past week, with thousands of people evacuated from their homes as wildfires broke out in swaths of the region’s south.</content>
+    <link href="https://www.wsj.com/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
