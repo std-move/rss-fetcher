@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-20T14:24:21Z</updated>
+  <updated>2022-07-20T16:34:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>French Wildfires Highlight Hotter Europe&#39;s Growing Challenge</title>
+    <updated>2022-07-20T16:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-20:/articles/french-wildfires-highlight-hotter-europes-growing-challenge-11658329220</id>
+    <content type="html">Record-setting fires across France and other parts of Europe have turned some of the continent’s most popular destinations for summer tourism into tinderboxes and highlighted the struggle to adapt to a changing climate.</content>
+    <link href="https://www.wsj.com/articles/french-wildfires-highlight-hotter-europes-growing-challenge-11658329220" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Sri Lanka&#39;s Parliament Elects New President</title>
+    <updated>2022-07-20T14:24:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-20:/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553</id>
+    <content type="html">Ranil Wickremesinghe is widely unpopular among Sri Lanka’s protest movement for his ties to previous leadership.</content>
+    <link href="https://www.wsj.com/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Targets Key Bridge, Prepares Counteroffensive in South</title>
     <updated>2022-07-20T13:30:00Z</updated>
@@ -18,14 +34,6 @@
     <id>tag:www.wsj.com,2022-07-20:/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621</id>
     <content type="html">Extreme heat has swept through Europe over the past week, with thousands of people evacuated from their homes as wildfires broke out in swaths of the region’s south.</content>
     <link href="https://www.wsj.com/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sri Lanka&#39;s Parliament Elects New President</title>
-    <updated>2022-07-20T10:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-20:/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553</id>
-    <content type="html">Ranil Wickremesinghe is widely unpopular among Sri Lanka’s protest movement for his ties to previous leadership.</content>
-    <link href="https://www.wsj.com/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
