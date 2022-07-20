@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-19T22:22:29Z</updated>
+  <updated>2022-07-20T02:15:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Faces Difficulties Getting Western Weapons to Front Lines</title>
+    <updated>2022-07-19T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-19:/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001</id>
+    <content type="html">Modern and effective Western weapons are now being used in the country’s war with Russia and are already making a difference. But absorbing this new equipment into the Ukrainian army is proving a serious challenge.</content>
+    <link href="https://www.wsj.com/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
