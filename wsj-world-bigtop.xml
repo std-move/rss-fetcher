@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-20T16:34:41Z</updated>
+  <updated>2022-07-20T18:27:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>French Wildfires Highlight Hotter Europe&#39;s Growing Challenge</title>
-    <updated>2022-07-20T16:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-20:/articles/french-wildfires-highlight-hotter-europes-growing-challenge-11658329220</id>
-    <content type="html">Record-setting fires across France and other parts of Europe have turned some of the continent’s most popular destinations for summer tourism into tinderboxes and highlighted the struggle to adapt to a changing climate.</content>
-    <link href="https://www.wsj.com/articles/french-wildfires-highlight-hotter-europes-growing-challenge-11658329220" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sri Lanka&#39;s Parliament Elects New President</title>
-    <updated>2022-07-20T14:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-20:/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553</id>
-    <content type="html">Ranil Wickremesinghe is widely unpopular among Sri Lanka’s protest movement for his ties to previous leadership.</content>
-    <link href="https://www.wsj.com/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Ukraine Targets Key Bridge, Prepares Counteroffensive in South</title>
-    <updated>2022-07-20T13:30:00Z</updated>
+    <updated>2022-07-20T17:25:00Z</updated>
     <id>tag:www.wsj.com,2022-07-20:/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958</id>
     <content type="html">Ukraine struck for the second day in a row the strategic bridge linking Russian-occupied Kherson with the rest of the Russian-held areas in southern Ukraine, part of preparations for a counteroffensive.</content>
     <link href="https://www.wsj.com/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Putin&#39;s Gas Game: Toy With Europe&#39;s Supply and Make Its Leaders Squirm</title>
+    <updated>2022-07-20T15:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-20:/articles/putins-natural-gas-game-toy-with-europes-supply-and-make-its-leaders-squirm-russia-ukraine-nord-stream-11658328109</id>
+    <content type="html">The Kremlin is weaponizing energy over Ukraine sanctions, a gambit that carries huge risks for both sides as customers race to lock in alternative sources.</content>
+    <link href="https://www.wsj.com/articles/putins-natural-gas-game-toy-with-europes-supply-and-make-its-leaders-squirm-russia-ukraine-nord-stream-11658328109" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
