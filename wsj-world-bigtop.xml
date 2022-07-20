@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-20T10:26:26Z</updated>
+  <updated>2022-07-20T12:48:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Faces Difficulties Getting Western Weapons to Front Lines</title>
-    <updated>2022-07-19T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-19:/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001</id>
-    <content type="html">Modern and effective Western weapons are now being used in the country’s war with Russia and are already making a difference. But absorbing this new equipment into the Ukrainian army is proving a serious challenge.</content>
-    <link href="https://www.wsj.com/articles/ukraine-faces-difficulties-getting-western-weapons-to-front-lines-11658223001" rel="alternate"></link>
+    <title>Ukraine Targets Key Bridge, Prepares Counteroffensive in South</title>
+    <updated>2022-07-20T12:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-20:/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958</id>
+    <content type="html">Ukraine struck for the second day in a row the strategic bridge linking Russian-occupied Kherson with the rest of the Russian-held areas in southern Ukraine, part of preparations for a counteroffensive.</content>
+    <link href="https://www.wsj.com/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Sri Lanka&#39;s Parliament Elects New President</title>
+    <updated>2022-07-20T10:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-20:/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553</id>
+    <content type="html">Ranil Wickremesinghe is widely unpopular among Sri Lanka’s protest movement for his ties to previous leadership.</content>
+    <link href="https://www.wsj.com/articles/sri-lankas-parliament-prepares-to-choose-new-president-11658294553" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
