@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-21T06:31:20Z</updated>
+  <updated>2022-07-21T08:28:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Targets Key Bridge, Prepares Counteroffensive in South</title>
-    <updated>2022-07-20T23:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-20:/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958</id>
-    <content type="html">Ukraine struck for the second day in a row the strategic bridge linking Russian-occupied Kherson with the rest of the Russian-held areas in southern Ukraine, part of preparations for a counteroffensive.</content>
-    <link href="https://www.wsj.com/articles/ukraine-targets-key-bridge-as-it-prepares-counteroffensive-in-south-11658313958" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Putin&#39;s Gas Game: Toy With Europe&#39;s Supply and Make Its Leaders Squirm</title>
-    <updated>2022-07-20T15:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-20:/articles/putins-natural-gas-game-toy-with-europes-supply-and-make-its-leaders-squirm-russia-ukraine-nord-stream-11658328109</id>
+    <updated>2022-07-21T08:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-21:/articles/putins-natural-gas-game-toy-with-europes-supply-and-make-its-leaders-squirm-russia-ukraine-nord-stream-11658328109</id>
     <content type="html">The Kremlin is weaponizing energy over Ukraine sanctions, a gambit that carries huge risks for both sides as customers race to lock in alternative sources.</content>
     <link href="https://www.wsj.com/articles/putins-natural-gas-game-toy-with-europes-supply-and-make-its-leaders-squirm-russia-ukraine-nord-stream-11658328109" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Record-Breaking Heat Scorches Europe</title>
-    <updated>2022-07-20T10:23:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-20:/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621</id>
-    <content type="html">Extreme heat has swept through Europe over the past week, with thousands of people evacuated from their homes as wildfires broke out in swaths of the region’s south.</content>
-    <link href="https://www.wsj.com/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
