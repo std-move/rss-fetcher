@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-22T14:23:33Z</updated>
+  <updated>2022-07-22T16:37:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia&#39;s Donbas Offensive Slows as Ukraine Takes Advantage of Western Arms</title>
-    <updated>2022-07-21T20:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-21:/articles/russias-donbas-offensive-slows-as-ukraine-takes-advantage-of-western-arms-11658401361</id>
-    <content type="html">Western weapons deliveries and Ukrainian strikes on Russian arms depots are forcing Russia to largely halt its advance in eastern parts of Ukraine where Moscow seized swaths of territory but is now facing logistical and resupply issues.</content>
-    <link href="https://www.wsj.com/articles/russias-donbas-offensive-slows-as-ukraine-takes-advantage-of-western-arms-11658401361" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
