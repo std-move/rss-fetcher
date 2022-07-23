@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-22T22:23:02Z</updated>
+  <updated>2022-07-23T02:19:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky Says a Cease-Fire Without Reclaiming Lost Lands Will Only Prolong War</title>
+    <title>Zelensky Says No Cease-Fire Until Russia Returns Land</title>
     <updated>2022-07-22T17:13:00Z</updated>
     <id>tag:www.wsj.com,2022-07-22:/articles/ukraines-zelensky-says-a-cease-fire-with-russia-without-reclaiming-lost-lands-will-only-prolong-war-11658510019</id>
     <content type="html">Ukrainian President Volodymyr Zelensky in an interview acknowledged the cost exacted by Russia’s invasion on Western businesses and consumers, and he praised the country’s allies for continuing to enable Ukrainian resistance against a much more powerful foe.</content>
@@ -16,7 +16,7 @@
     <title>Europe Is Tested Anew, This Time by Energy, Inflation and Putin</title>
     <updated>2022-07-22T16:19:00Z</updated>
     <id>tag:www.wsj.com,2022-07-22:/articles/europe-is-tested-anew-this-time-by-energy-inflation-and-putin-11658506756</id>
-    <content type="html">Russian threat to gas supply combines with rising interest rates to endanger the EU’s economies, with German industry especially in the cross hairs. Political turmoil in Italy adds to risks.</content>
+    <content type="html">Russia’s threat to the gas supply combines with rising interest rates to endanger the EU’s economies, with German industry especially in the cross hairs. Political turmoil in Italy adds to risks.</content>
     <link href="https://www.wsj.com/articles/europe-is-tested-anew-this-time-by-energy-inflation-and-putin-11658506756" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
