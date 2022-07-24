@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-24T10:24:48Z</updated>
+  <updated>2022-07-24T12:40:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Strikes Odessa Port After Deal to Unblock Ukrainian Grain Exports</title>
-    <updated>2022-07-23T15:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-23:/articles/russian-hits-military-airport-and-railway-station-in-fresh-ukraine-attack-11658571374</id>
-    <content type="html">The strike appeared to violate the terms of the agreement signed by Russia and Ukraine in Istanbul on Friday, which stipulated that both countries would refrain from attacking port facilities or civilian ships used for grain transport.</content>
-    <link href="https://www.wsj.com/articles/russian-hits-military-airport-and-railway-station-in-fresh-ukraine-attack-11658571374" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Inside Saudi Arabia&#39;s Plan to Build a Skyscraper That Stretches for 75 Miles</title>
-    <updated>2022-07-23T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-23:/articles/inside-saudi-arabias-plan-to-build-a-skyscraper-that-stretches-for-75-miles-11658581201</id>
-    <content type="html">Saudi Crown Prince Mohammed bin Salman demanded something as ambitious as Egypt’s pyramids. What urban planners came up with in response are plans for the world’s largest structure.</content>
-    <link href="https://www.wsj.com/articles/inside-saudi-arabias-plan-to-build-a-skyscraper-that-stretches-for-75-miles-11658581201" rel="alternate"></link>
+    <title>Ukraine Struggles to Identify Russians Suspected of War Crimes</title>
+    <updated>2022-07-24T10:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-24:/articles/ukraine-struggles-to-identify-russians-suspected-of-war-crimes-11658656800</id>
+    <content type="html">Ukraine has opened investigations into more than 16,000 suspected war crimes, but despite evidence has indicted only a small number of Russians.</content>
+    <link href="https://www.wsj.com/articles/ukraine-struggles-to-identify-russians-suspected-of-war-crimes-11658656800" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
