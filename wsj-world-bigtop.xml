@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-24T16:32:02Z</updated>
+  <updated>2022-07-24T18:27:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin&#39;s Unexpected Challenge: Snubs From His Central Asian Allies</title>
+    <updated>2022-07-24T15:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-24:/articles/russia-ukraine-kazakhstan-central-asia-11658439761</id>
+    <content type="html">Russia’s invasion of Ukraine has Kazakhstan and its neighbors rethinking their alliances. That’s given the U.S. a window to try to regain influence in a region it had stepped back from in recent years.</content>
+    <link href="https://www.wsj.com/articles/russia-ukraine-kazakhstan-central-asia-11658439761" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Strikes Take Toll on Civilians as Ukraine Gears Up for Counteroffensive</title>
     <updated>2022-07-24T15:27:00Z</updated>
