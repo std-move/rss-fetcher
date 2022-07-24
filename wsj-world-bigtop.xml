@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-24T14:20:11Z</updated>
+  <updated>2022-07-24T16:32:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Strikes Take Toll on Civilians as Ukraine Gears Up for Counteroffensive</title>
+    <updated>2022-07-24T15:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-24:/articles/russian-strikes-take-toll-on-civilians-as-ukraine-gears-up-for-counteroffensive-11658660986</id>
+    <content type="html">Exactly five months into the war, artillery and missile attacks have become a daily part of life in much of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russian-strikes-take-toll-on-civilians-as-ukraine-gears-up-for-counteroffensive-11658660986" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Struggles to Identify Russians Suspected of War Crimes</title>
     <updated>2022-07-24T10:00:00Z</updated>
