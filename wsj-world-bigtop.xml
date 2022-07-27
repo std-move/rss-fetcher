@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-27T08:29:53Z</updated>
+  <updated>2022-07-27T10:28:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-07-26:/articles/ukraine-calls-for-more-sanctions-in-response-to-russias-gas-war-11658826455</id>
     <content type="html">President Volodymyr Zelensky said Europe should avoid concessions to Moscow and focus on cutting its trade and energy dependence on Russia.</content>
     <link href="https://www.wsj.com/articles/ukraine-calls-for-more-sanctions-in-response-to-russias-gas-war-11658826455" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>With No Work or Money, Ukrainians Return Home to Russian-Controlled Territory</title>
+    <updated>2022-07-26T15:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-26:/articles/with-no-work-or-money-ukrainians-are-forced-to-return-home-to-russian-controlled-territory-11658850184</id>
+    <content type="html">Thousands of Ukrainians who fled the Russian invasion and occupation can’t find steady employment or places to live and are heading back home—even if that means trekking across the front lines.</content>
+    <link href="https://www.wsj.com/articles/with-no-work-or-money-ukrainians-are-forced-to-return-home-to-russian-controlled-territory-11658850184" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
