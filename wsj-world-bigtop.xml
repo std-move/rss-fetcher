@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-28T18:30:29Z</updated>
+  <updated>2022-07-28T20:25:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Shut Down by the Kremlin, Independent Russian Media Regroup Abroad</title>
-    <updated>2022-07-28T12:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-28:/articles/shut-down-by-the-kremlin-independent-russian-media-regroup-abroad-11659010603</id>
-    <content type="html">Russian newsrooms have regrouped in capitals across Europe and are trying to reach audiences in Russia swamped by the state’s messaging about its Ukraine invasion.</content>
-    <link href="https://www.wsj.com/articles/shut-down-by-the-kremlin-independent-russian-media-regroup-abroad-11659010603" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Bracing for Long Conflict, Kyiv Returns to Near Normality, With Theaters and Dance Parties</title>
-    <updated>2022-07-28T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-28:/articles/bracing-for-long-conflict-kyiv-returns-to-near-normality-with-theaters-and-dance-parties-11659000601</id>
-    <content type="html">Residents of Ukraine’s capital strive to resume lives put on hold by the Russian invasion, despite curfews and missile strikes.</content>
-    <link href="https://www.wsj.com/articles/bracing-for-long-conflict-kyiv-returns-to-near-normality-with-theaters-and-dance-parties-11659000601" rel="alternate"></link>
+    <title>How the German Economic Machine Broke Down</title>
+    <updated>2022-07-28T14:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-28:/articles/how-the-german-economy-broke-down-exports-11659019301</id>
+    <content type="html">An energy crisis caused by Russia, slowing Chinese growth, supply-chain blockages and an aging workforce are ending the decadeslong reign of Germany’s export-focused manufacturing.</content>
+    <link href="https://www.wsj.com/articles/how-the-german-economy-broke-down-exports-11659019301" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
