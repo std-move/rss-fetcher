@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-29T18:29:50Z</updated>
+  <updated>2022-07-29T20:25:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Explosion Kills Ukrainian POWs Held by Russian-Backed Forces</title>
-    <updated>2022-07-29T16:30:00Z</updated>
+    <updated>2022-07-29T19:21:00Z</updated>
     <id>tag:www.wsj.com,2022-07-29:/articles/explosion-kills-ukrainian-pows-held-by-russian-backed-forces-11659097747</id>
     <content type="html">An explosion at a detention camp in Russian-held territory in eastern Ukraine killed numerous Ukrainian prisoners of war, according to Ukrainian and Russian authorities, who blamed each other for the attack.</content>
     <link href="https://www.wsj.com/articles/explosion-kills-ukrainian-pows-held-by-russian-backed-forces-11659097747" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Pope Francis, in Canada, Tries to Distinguish Evangelization From Colonialism</title>
-    <updated>2022-07-29T11:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-29:/articles/pope-francis-in-canada-tries-to-distinguish-evangelization-from-the-pain-caused-by-colonialism-11659094115</id>
-    <content type="html">The pontiff, who apologized for Catholics’ role in forced assimilation of indigenous children in Canada, also praised early missionaries to the country for their appreciation of indigenous cultures.</content>
-    <link href="https://www.wsj.com/articles/pope-francis-in-canada-tries-to-distinguish-evangelization-from-the-pain-caused-by-colonialism-11659094115" rel="alternate"></link>
+    <title>Israel Is Investing in East Jerusalem, Generating Opportunity---and Anger</title>
+    <updated>2022-07-29T17:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-29:/articles/israel-invests-in-east-jerusalem-11659042922</id>
+    <content type="html">The nation is seeking to cement control over majority-Arab area after years of neglect, adding new schools, roads, garbage trucks and jobs programs. Many Palestinian residents say the campaign is physically and culturally forcing them out.</content>
+    <link href="https://www.wsj.com/articles/israel-invests-in-east-jerusalem-11659042922" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-07-29:/articles/ukrainian-forces-hamstrung-by-pledge-not-to-fire-into-russia-11659092400</id>
     <content type="html">As Russia hammers Kharkiv from across the border, Ukrainian forces say restrictions on the use of Western weapons are limiting their ability to respond. ‘Our hands are tied,’ said one soldier.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-hamstrung-by-pledge-not-to-fire-into-russia-11659092400" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How the German Economic Machine Broke Down</title>
-    <updated>2022-07-28T14:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-28:/articles/how-the-german-economy-broke-down-exports-11659019301</id>
-    <content type="html">An energy crisis caused by Russia, slowing Chinese growth, supply-chain blockages and an aging workforce are ending the decadeslong reign of Germany’s export-focused manufacturing.</content>
-    <link href="https://www.wsj.com/articles/how-the-german-economy-broke-down-exports-11659019301" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
