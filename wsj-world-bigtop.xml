@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-29T08:28:20Z</updated>
+  <updated>2022-07-29T10:27:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Northern Ukraine Comes Under Burst of Russian Attacks</title>
-    <updated>2022-07-28T20:04:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-28:/articles/northern-ukraine-comes-under-burst-of-russian-attacks-far-from-front-lines-11659002872</id>
-    <content type="html">Missiles and rockets rained down on northern Ukraine, marking the first time in weeks that the Kyiv region, far from the fighting in the country’s east and south, has been hit.</content>
-    <link href="https://www.wsj.com/articles/northern-ukraine-comes-under-burst-of-russian-attacks-far-from-front-lines-11659002872" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>How the German Economic Machine Broke Down</title>
     <updated>2022-07-28T14:47:00Z</updated>
