@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-29T14:20:06Z</updated>
+  <updated>2022-07-29T16:34:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Explosion Kills Ukrainian POWs Held by Russian-Backed Forces</title>
-    <updated>2022-07-29T13:41:00Z</updated>
+    <updated>2022-07-29T14:37:00Z</updated>
     <id>tag:www.wsj.com,2022-07-29:/articles/explosion-kills-ukrainian-pows-held-by-russian-backed-forces-11659097747</id>
     <content type="html">An explosion at a detention camp in Russian-held territory in eastern Ukraine killed numerous Ukrainian prisoners of war, according to Ukrainian and Russian authorities, who blamed each other for the attack.</content>
     <link href="https://www.wsj.com/articles/explosion-kills-ukrainian-pows-held-by-russian-backed-forces-11659097747" rel="alternate"></link>
