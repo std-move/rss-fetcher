@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-30T20:22:20Z</updated>
+  <updated>2022-07-30T22:20:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Explosion Kills Ukrainian POWs Held by Russian-Backed Forces</title>
-    <updated>2022-07-29T23:23:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-29:/articles/explosion-kills-ukrainian-pows-held-by-russian-backed-forces-11659097747</id>
-    <content type="html">An explosion at a detention camp in Russian-held territory in eastern Ukraine killed numerous Ukrainian prisoners of war, according to Ukrainian and Russian authorities, who blamed each other for the attack.</content>
-    <link href="https://www.wsj.com/articles/explosion-kills-ukrainian-pows-held-by-russian-backed-forces-11659097747" rel="alternate"></link>
+    <title>Ukraine Presses for Russia to Be Designated a Terrorist Sponsor After Attack on Prisoners</title>
+    <updated>2022-07-30T20:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-30:/articles/ukraine-presses-for-russia-to-be-designated-a-terrorist-sponsor-after-attack-on-prisoners-11659178402</id>
+    <content type="html">The demand came as Ukraine continued to push for an investigation into the killing of scores of Ukrainian prisoners of war in a strike on Russian-held territory, while Moscow accused Ukraine of targeting the facility with Western-made weapons.</content>
+    <link href="https://www.wsj.com/articles/ukraine-presses-for-russia-to-be-designated-a-terrorist-sponsor-after-attack-on-prisoners-11659178402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israel Is Investing in East Jerusalem, Generating Opportunity---and Anger</title>
-    <updated>2022-07-29T17:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-29:/articles/israel-invests-in-east-jerusalem-11659042922</id>
-    <content type="html">The nation is seeking to cement control over majority-Arab area after years of neglect, adding new schools, roads, garbage trucks and jobs programs. Many Palestinian residents say the campaign is physically and culturally forcing them out.</content>
-    <link href="https://www.wsj.com/articles/israel-invests-in-east-jerusalem-11659042922" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Xi Promotes Team of Allies to Influential Posts, Fortifying His Power</title>
-    <updated>2022-07-29T13:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-29:/articles/chinas-xi-promotes-team-of-allies-to-influential-posts-fortifying-his-power-11659100754</id>
-    <content type="html">President Xi Jinping has put people in position to run law enforcement and propaganda as he gets ready to claim a third term.</content>
-    <link href="https://www.wsj.com/articles/chinas-xi-promotes-team-of-allies-to-influential-posts-fortifying-his-power-11659100754" rel="alternate"></link>
+    <title>Zambia Talks Offer Clues on China&#39;s Willingness to Ease Debts of Poor Countries</title>
+    <updated>2022-07-30T16:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-30:/articles/zambia-restructuring-offers-clues-on-chinas-willingness-to-ease-debts-of-poor-countries-11659198874</id>
+    <content type="html">China and other government creditors to Zambia said they would negotiate debt relief for the African copper producer, marking a milestone in an international effort to avoid a wave of defaults among developing countries.</content>
+    <link href="https://www.wsj.com/articles/zambia-restructuring-offers-clues-on-chinas-willingness-to-ease-debts-of-poor-countries-11659198874" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
