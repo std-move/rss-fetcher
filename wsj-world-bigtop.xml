@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-31T08:26:06Z</updated>
+  <updated>2022-07-31T10:24:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Presses for Russia to Be Designated a Terrorist Sponsor After Attack on Prisoners</title>
-    <updated>2022-07-30T20:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-07-30:/articles/ukraine-presses-for-russia-to-be-designated-a-terrorist-sponsor-after-attack-on-prisoners-11659178402</id>
-    <content type="html">The demand came as Ukraine continued to push for an investigation into the killing of scores of Ukrainian prisoners of war in a strike on Russian-held territory, while Moscow accused Ukraine of targeting the facility with Western-made weapons.</content>
-    <link href="https://www.wsj.com/articles/ukraine-presses-for-russia-to-be-designated-a-terrorist-sponsor-after-attack-on-prisoners-11659178402" rel="alternate"></link>
+    <title>Russia Pummels Ukraine&#39;s Mykolaiv, Killing Top Businessman</title>
+    <updated>2022-07-31T09:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-31:/articles/russia-pummels-ukraines-mykolaiv-as-drone-hits-russian-black-sea-fleet-hq-11659257935</id>
+    <content type="html">The southern port city suffered some of the worst barrages of the war, while Moscow reported a drone attack on the headquarters of its Black Sea Fleet.</content>
+    <link href="https://www.wsj.com/articles/russia-pummels-ukraines-mykolaiv-as-drone-hits-russian-black-sea-fleet-hq-11659257935" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
