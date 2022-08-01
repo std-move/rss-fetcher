@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-07-31T22:21:04Z</updated>
+  <updated>2022-08-01T02:30:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Pummels Ukraine&#39;s Mykolaiv, Killing Top Businessman</title>
-    <updated>2022-07-31T15:03:00Z</updated>
+    <updated>2022-07-31T23:53:00Z</updated>
     <id>tag:www.wsj.com,2022-07-31:/articles/russia-pummels-ukraines-mykolaiv-as-drone-hits-russian-black-sea-fleet-hq-11659257935</id>
     <content type="html">The southern port city suffered some of the worst barrages of the war, while Moscow reported a drone attack on the headquarters of its Black Sea Fleet.</content>
     <link href="https://www.wsj.com/articles/russia-pummels-ukraines-mykolaiv-as-drone-hits-russian-black-sea-fleet-hq-11659257935" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>War With Russia Enters New Phase as Ukraine Readies Southern Counterblow</title>
+    <updated>2022-07-31T15:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-07-31:/articles/war-ukraine-russia-kherson-11659281575</id>
+    <content type="html">A Ukrainian offensive to reclaim a key port city could be a turning point in the conflict, with success reinforcing support for Kyiv’s fight in parts of the West.</content>
+    <link href="https://www.wsj.com/articles/war-ukraine-russia-kherson-11659281575" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
