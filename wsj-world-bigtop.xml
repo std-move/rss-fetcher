@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-02T14:22:43Z</updated>
+  <updated>2022-08-02T16:34:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Europe&#39;s Coal-Buying Frenzy Means Windfall for Producers</title>
+    <updated>2022-08-02T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-02:/articles/europes-coal-buying-frenzy-means-windfall-for-producers-11659445201</id>
+    <content type="html">Miners from Colombia to Australia see a resurgence; “There’s a lot of business going around for everyone.”</content>
+    <link href="https://www.wsj.com/articles/europes-coal-buying-frenzy-means-windfall-for-producers-11659445201" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Shells Apartment Buildings in Southern Ukraine</title>
     <updated>2022-08-02T10:43:00Z</updated>
