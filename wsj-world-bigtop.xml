@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-02T10:29:10Z</updated>
+  <updated>2022-08-02T12:50:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Redeploys Troops as Focus of Conflict Turns South</title>
-    <updated>2022-08-01T19:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-01:/articles/russia-redeploys-troops-in-ukraine-as-focus-of-conflict-turns-south-11659352602</id>
-    <content type="html">Russia is shifting forces from the front line in northern Donbas, according to the Ukrainian and British militaries, ahead of a planned Ukrainian offensive in the south.</content>
-    <link href="https://www.wsj.com/articles/russia-redeploys-troops-in-ukraine-as-focus-of-conflict-turns-south-11659352602" rel="alternate"></link>
+    <title>Russia Shells Apartment Buildings in Southern Ukraine</title>
+    <updated>2022-08-02T10:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-02:/articles/russia-shells-apartment-buildings-in-southern-ukraine-11659437030</id>
+    <content type="html">Russian forces struck Ukrainian-held territory in the country’s south, according to local officials, as both sides shift their attention toward a looming fight for the area.</content>
+    <link href="https://www.wsj.com/articles/russia-shells-apartment-buildings-in-southern-ukraine-11659437030" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
