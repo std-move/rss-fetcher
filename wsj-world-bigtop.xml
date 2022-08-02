@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-01T22:24:38Z</updated>
+  <updated>2022-08-02T02:32:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-08-01:/articles/russia-redeploys-troops-in-ukraine-as-focus-of-conflict-turns-south-11659352602</id>
     <content type="html">Russia is shifting forces from the front line in northern Donbas, according to the Ukrainian and British militaries, ahead of a planned Ukrainian offensive in the south.</content>
     <link href="https://www.wsj.com/articles/russia-redeploys-troops-in-ukraine-as-focus-of-conflict-turns-south-11659352602" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Sri Lanka&#39;s Economic Chaos Reverses Steady Rise of Middle Class</title>
-    <updated>2022-08-01T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-01:/articles/sri-lankas-economic-chaos-reverses-steady-rise-of-middle-class-11659346200</id>
-    <content type="html">Anger over the crumbling economy spurred many in the middle class to join mass demonstrations, which political analysts say was a tipping point in the protests that ultimately toppled the previous president, Gotabaya Rajapaksa.</content>
-    <link href="https://www.wsj.com/articles/sri-lankas-economic-chaos-reverses-steady-rise-of-middle-class-11659346200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
