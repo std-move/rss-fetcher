@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-03T12:49:22Z</updated>
+  <updated>2022-08-03T14:20:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Braces for Brutal Fight for Occupied Southern Regions as Referendum Looms</title>
+    <updated>2022-08-03T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-03:/articles/ukraine-braces-for-brutal-fight-for-occupied-southern-regions-as-referendum-looms-11659519001</id>
+    <content type="html">Retaking Kherson has become Ukraine’s critical priority in the next phase of its war with Russia. Time is a factor as Moscow-appointed authorities are planning a mid-September referendum on annexing Kherson and other parts of occupied southern Ukraine.</content>
+    <link href="https://www.wsj.com/articles/ukraine-braces-for-brutal-fight-for-occupied-southern-regions-as-referendum-looms-11659519001" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
