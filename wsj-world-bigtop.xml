@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-03T08:32:08Z</updated>
+  <updated>2022-08-03T10:26:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Shells Apartment Buildings in Southern Ukraine</title>
-    <updated>2022-08-02T22:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-02:/articles/russia-shells-apartment-buildings-in-southern-ukraine-11659437030</id>
-    <content type="html">Russian forces struck Ukrainian-held territory in the country’s south, according to local officials, as both sides shift their attention toward a looming fight for the area.</content>
-    <link href="https://www.wsj.com/articles/russia-shells-apartment-buildings-in-southern-ukraine-11659437030" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
