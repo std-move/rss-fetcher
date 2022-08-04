@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-04T12:46:29Z</updated>
+  <updated>2022-08-04T14:20:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Fires on Bridges, Rail Lines, to Disrupt Russian Defense of Kherson</title>
-    <updated>2022-08-04T12:29:00Z</updated>
+    <updated>2022-08-04T13:40:00Z</updated>
     <id>tag:www.wsj.com,2022-08-04:/articles/ukraine-fires-on-bridges-rail-lines-to-disrupt-russian-defense-of-kherson-11659616141</id>
     <content type="html">Ukrainian forces struck a railway bridge in the southern Kherson region, the Ukrainian military said, as it seeks to cut Moscow’s supply lines in preparation for a looming counter-offensive.</content>
     <link href="https://www.wsj.com/articles/ukraine-fires-on-bridges-rail-lines-to-disrupt-russian-defense-of-kherson-11659616141" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>For Stricken Lebanon, Shipments of Ukrainian Grain Might Not Be Enough</title>
+    <updated>2022-08-04T13:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-04:/articles/for-stricken-lebanon-shipments-of-ukrainian-grain-might-not-be-enough-11659618145</id>
+    <content type="html">The first cargo of grain to leave Ukraine’s key Black Sea ports since the Russian invasion is expected to dock this week in Lebanon, the country where food inflation is the highest in the world.</content>
+    <link href="https://www.wsj.com/articles/for-stricken-lebanon-shipments-of-ukrainian-grain-might-not-be-enough-11659618145" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
