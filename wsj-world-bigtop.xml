@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-05T12:49:00Z</updated>
+  <updated>2022-08-05T14:22:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>First Convoy of Ships Carrying Ukrainian Grain Leaves Odessa Under New Deal</title>
-    <updated>2022-08-05T10:59:00Z</updated>
+    <updated>2022-08-05T14:12:00Z</updated>
     <id>tag:www.wsj.com,2022-08-05:/articles/first-convoy-of-ships-carrying-ukrainian-grain-leave-odessa-under-new-deal-11659697193</id>
     <content type="html">The convoy is carrying nearly 60,000 tons of corn and is a sign that last month’s agreement with Russia on facilitating Ukrainian food exports is holding even as fighting rages across the country.</content>
     <link href="https://www.wsj.com/articles/first-convoy-of-ships-carrying-ukrainian-grain-leave-odessa-under-new-deal-11659697193" rel="alternate"></link>
