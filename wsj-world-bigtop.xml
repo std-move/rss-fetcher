@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-06T18:26:58Z</updated>
+  <updated>2022-08-06T20:22:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Pursues Gains in Ukraine&#39;s East as Kyiv Eyes Southern Counterblow</title>
-    <updated>2022-08-06T16:10:00Z</updated>
+    <title>U.N. Nuclear Watchdog Alarmed by Shelling Near Ukraine&#39;s Zaporizhzhia Plant</title>
+    <updated>2022-08-06T19:31:00Z</updated>
     <id>tag:www.wsj.com,2022-08-06:/articles/russia-pursues-gains-in-ukraines-east-as-kyiv-eyes-southern-counterblow-11659793998</id>
-    <content type="html">Ukraine said Russia was deploying tanks, artillery and jet fighters to support an advance on the cities of Bakhmut and Avdiivka, setting its sights on territory still under Ukrainian control in the Donetsk region.</content>
+    <content type="html">The head of the United Nations atomic agency said shelling near Europe’s largest nuclear power station underlined the risk of a disaster that would threaten public health far beyond the battlefield.</content>
     <link href="https://www.wsj.com/articles/russia-pursues-gains-in-ukraines-east-as-kyiv-eyes-southern-counterblow-11659793998" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-08-06:/articles/beijing-simulates-attack-on-taiwan-as-chinese-exercises-extend-into-third-day-11659784913</id>
     <content type="html">Chinese military aircraft and ships crossed the halfway mark of the Taiwan Strait, in a simulated land strike on the self-governing island that Beijing claims as its own.</content>
     <link href="https://www.wsj.com/articles/beijing-simulates-attack-on-taiwan-as-chinese-exercises-extend-into-third-day-11659784913" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Moscow&#39;s Invasion Pushes Ukrainians to Ditch Russian, Learn Ukrainian</title>
-    <updated>2022-08-06T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-06:/articles/moscows-invasion-pushes-ukrainians-to-ditch-russian-learn-ukrainian-11659778201</id>
-    <content type="html">Ukraine’s official tongue, once derided as the language of uneducated villagers, is gaining popularity in Kyiv and other cities where residents who grew up speaking Russian now want to sever linguistic ties.</content>
-    <link href="https://www.wsj.com/articles/moscows-invasion-pushes-ukrainians-to-ditch-russian-learn-ukrainian-11659778201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
