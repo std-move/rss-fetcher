@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-06T12:38:13Z</updated>
+  <updated>2022-08-06T14:20:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Beijing Simulates Attack on Taiwan as Chinese Exercises Extend Into Third Day</title>
+    <updated>2022-08-06T11:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-06:/articles/beijing-simulates-attack-on-taiwan-as-chinese-exercises-extend-into-third-day-11659784913</id>
+    <content type="html">Chinese military aircraft and ships crossed the halfway mark of the Taiwan Strait, in a simulated land strike on the self-governing island that Beijing claims as its own.</content>
+    <link href="https://www.wsj.com/articles/beijing-simulates-attack-on-taiwan-as-chinese-exercises-extend-into-third-day-11659784913" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Moscow&#39;s Invasion Pushes Ukrainians to Ditch Russian, Learn Ukrainian</title>
+    <updated>2022-08-06T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-06:/articles/moscows-invasion-pushes-ukrainians-to-ditch-russian-learn-ukrainian-11659778201</id>
+    <content type="html">Ukraine’s official tongue, once derided as the language of uneducated villagers, is gaining popularity in Kyiv and other cities where residents who grew up speaking Russian now want to sever linguistic ties.</content>
+    <link href="https://www.wsj.com/articles/moscows-invasion-pushes-ukrainians-to-ditch-russian-learn-ukrainian-11659778201" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>First Convoy of Ships Carrying Ukrainian Grain Leaves Odessa Under New Deal</title>
     <updated>2022-08-06T00:06:00Z</updated>
