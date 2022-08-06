@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-06T16:30:14Z</updated>
+  <updated>2022-08-06T18:26:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Pursues Gains in Ukraine&#39;s East as Kyiv Eyes Southern Counterblow</title>
+    <updated>2022-08-06T16:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-06:/articles/russia-pursues-gains-in-ukraines-east-as-kyiv-eyes-southern-counterblow-11659793998</id>
+    <content type="html">Ukraine said Russia was deploying tanks, artillery and jet fighters to support an advance on the cities of Bakhmut and Avdiivka, setting its sights on territory still under Ukrainian control in the Donetsk region.</content>
+    <link href="https://www.wsj.com/articles/russia-pursues-gains-in-ukraines-east-as-kyiv-eyes-southern-counterblow-11659793998" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Beijing Simulates Attack on Taiwan as Chinese Exercises Extend Into Third Day</title>
     <updated>2022-08-06T11:56:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-08-06:/articles/moscows-invasion-pushes-ukrainians-to-ditch-russian-learn-ukrainian-11659778201</id>
     <content type="html">Ukraine’s official tongue, once derided as the language of uneducated villagers, is gaining popularity in Kyiv and other cities where residents who grew up speaking Russian now want to sever linguistic ties.</content>
     <link href="https://www.wsj.com/articles/moscows-invasion-pushes-ukrainians-to-ditch-russian-learn-ukrainian-11659778201" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>First Convoy of Ships Carrying Ukrainian Grain Leaves Odessa Under New Deal</title>
-    <updated>2022-08-06T00:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-06:/articles/first-convoy-of-ships-carrying-ukrainian-grain-leave-odessa-under-new-deal-11659697193</id>
-    <content type="html">The convoy is carrying nearly 60,000 tons of corn and is a sign that last month’s agreement with Russia on facilitating Ukrainian food exports is holding.</content>
-    <link href="https://www.wsj.com/articles/first-convoy-of-ships-carrying-ukrainian-grain-leave-odessa-under-new-deal-11659697193" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
