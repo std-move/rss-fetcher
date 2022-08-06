@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-06T20:22:50Z</updated>
+  <updated>2022-08-06T22:21:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.N. Nuclear Watchdog Alarmed by Shelling Near Ukraine&#39;s Zaporizhzhia Plant</title>
-    <updated>2022-08-06T19:31:00Z</updated>
+    <updated>2022-08-06T22:13:00Z</updated>
     <id>tag:www.wsj.com,2022-08-06:/articles/russia-pursues-gains-in-ukraines-east-as-kyiv-eyes-southern-counterblow-11659793998</id>
     <content type="html">The head of the United Nations atomic agency said shelling near Europe’s largest nuclear power station underlined the risk of a disaster that would threaten public health far beyond the battlefield.</content>
     <link href="https://www.wsj.com/articles/russia-pursues-gains-in-ukraines-east-as-kyiv-eyes-southern-counterblow-11659793998" rel="alternate"></link>
@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title>Beijing Simulates Attack on Taiwan as Chinese Exercises Extend Into Third Day</title>
-    <updated>2022-08-06T11:56:00Z</updated>
+    <updated>2022-08-06T21:02:00Z</updated>
     <id>tag:www.wsj.com,2022-08-06:/articles/beijing-simulates-attack-on-taiwan-as-chinese-exercises-extend-into-third-day-11659784913</id>
     <content type="html">Chinese military aircraft and ships crossed the halfway mark of the Taiwan Strait, in a simulated land strike on the self-governing island that Beijing claims as its own.</content>
     <link href="https://www.wsj.com/articles/beijing-simulates-attack-on-taiwan-as-chinese-exercises-extend-into-third-day-11659784913" rel="alternate"></link>
