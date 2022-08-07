@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-07T18:27:15Z</updated>
+  <updated>2022-08-07T20:23:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Explosions Rock Ukraine&#39;s Zaporizhzhia Nuclear Power Plant</title>
+    <updated>2022-08-07T19:31:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-07:/articles/ukraine-ships-more-food-as-worry-about-giant-nuclear-plant-grows-11659871170</id>
+    <content type="html">Shelling around the facility intensified over the weekend amid radiation fears.</content>
+    <link href="https://www.wsj.com/articles/ukraine-ships-more-food-as-worry-about-giant-nuclear-plant-grows-11659871170" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Aggression Brings High Anxiety to Strategic Sliver of Europe</title>
     <updated>2022-08-07T14:13:00Z</updated>
