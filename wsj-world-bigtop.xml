@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-07T14:19:31Z</updated>
+  <updated>2022-08-07T16:29:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Aggression Brings High Anxiety to Strategic Sliver of Europe</title>
+    <updated>2022-08-07T14:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-07:/articles/russia-poland-lithuania-kaliningrad-nato-suwalki-gap-11659719169</id>
+    <content type="html">NATO is concerned about the Suwalki Gap, a Poland-Lithuania border region between Kaliningrad and Belarus. “What comes in the near future, who can say?”</content>
+    <link href="https://www.wsj.com/articles/russia-poland-lithuania-kaliningrad-nato-suwalki-gap-11659719169" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Drone Spotters Wage New Kind of War</title>
     <updated>2022-08-07T11:13:00Z</updated>
