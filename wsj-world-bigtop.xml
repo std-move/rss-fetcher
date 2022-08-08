@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-08T06:31:39Z</updated>
+  <updated>2022-08-08T08:31:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Explosions Rock Ukraine&#39;s Zaporizhzhia Nuclear Power Plant</title>
-    <updated>2022-08-08T00:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-08:/articles/ukraine-ships-more-food-as-worry-about-giant-nuclear-plant-grows-11659871170</id>
-    <content type="html">Shelling around the facility intensified over the weekend amid radiation fears.</content>
-    <link href="https://www.wsj.com/articles/ukraine-ships-more-food-as-worry-about-giant-nuclear-plant-grows-11659871170" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Aggression Brings High Anxiety to Strategic Sliver of Europe</title>
-    <updated>2022-08-07T14:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-07:/articles/russia-poland-lithuania-kaliningrad-nato-suwalki-gap-11659719169</id>
-    <content type="html">NATO is concerned about the Suwalki Gap, a Poland-Lithuania border region between Kaliningrad and Belarus. “What comes in the near future, who can say?”</content>
-    <link href="https://www.wsj.com/articles/russia-poland-lithuania-kaliningrad-nato-suwalki-gap-11659719169" rel="alternate"></link>
+    <title>Former Colombia Rebel Gustavo Petro Inaugurated as President</title>
+    <updated>2022-08-08T00:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-08:/articles/former-colombia-rebel-gustavo-petro-inaugurated-as-president-11659917654</id>
+    <content type="html">The new government aims to end the war on drugs, develop the countryside and transition from oil and coal to fight climate change.</content>
+    <link href="https://www.wsj.com/articles/former-colombia-rebel-gustavo-petro-inaugurated-as-president-11659917654" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
