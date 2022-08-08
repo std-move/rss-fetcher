@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-07T22:21:54Z</updated>
+  <updated>2022-08-08T02:08:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Explosions Rock Ukraine&#39;s Zaporizhzhia Nuclear Power Plant</title>
-    <updated>2022-08-07T19:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-07:/articles/ukraine-ships-more-food-as-worry-about-giant-nuclear-plant-grows-11659871170</id>
+    <updated>2022-08-08T00:54:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-08:/articles/ukraine-ships-more-food-as-worry-about-giant-nuclear-plant-grows-11659871170</id>
     <content type="html">Shelling around the facility intensified over the weekend amid radiation fears.</content>
     <link href="https://www.wsj.com/articles/ukraine-ships-more-food-as-worry-about-giant-nuclear-plant-grows-11659871170" rel="alternate"></link>
     <summary type="html"></summary>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-08-07:/articles/russia-poland-lithuania-kaliningrad-nato-suwalki-gap-11659719169</id>
     <content type="html">NATO is concerned about the Suwalki Gap, a Poland-Lithuania border region between Kaliningrad and Belarus. “What comes in the near future, who can say?”</content>
     <link href="https://www.wsj.com/articles/russia-poland-lithuania-kaliningrad-nato-suwalki-gap-11659719169" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Drone Spotters Wage New Kind of War</title>
-    <updated>2022-08-07T11:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-07:/articles/ukraines-drone-spotters-on-front-lines-wage-new-kind-of-war-11659870805</id>
-    <content type="html">A reconnaissance unit using drones to direct artillery strikes is frequently a target itself. Commercially available drones selling for as little as $3,000 are revolutionizing combat.</content>
-    <link href="https://www.wsj.com/articles/ukraines-drone-spotters-on-front-lines-wage-new-kind-of-war-11659870805" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
