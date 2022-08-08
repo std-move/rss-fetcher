@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-08T18:29:16Z</updated>
+  <updated>2022-08-08T20:24:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Attacks at Ukraine Nuclear Plant Are &#39;Suicidal,&#39; U.N. Chief Warns</title>
-    <updated>2022-08-08T11:51:00Z</updated>
+    <title>Attacks at Ukraine Nuclear Plant Are Suicidal, U.N. Chief Warns</title>
+    <updated>2022-08-08T19:06:00Z</updated>
     <id>tag:www.wsj.com,2022-08-08:/articles/attacks-at-ukraine-nuclear-plant-are-suicidal-u-n-chief-warns-11659959499</id>
     <content type="html">United Nations Secretary-General António Guterres condemned the attacks as Russia prepares to stage referendums in occupied territories in a possible prelude to their annexation.</content>
     <link href="https://www.wsj.com/articles/attacks-at-ukraine-nuclear-plant-are-suicidal-u-n-chief-warns-11659959499" rel="alternate"></link>
