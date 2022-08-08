@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-08T10:26:26Z</updated>
+  <updated>2022-08-08T12:47:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How YouTube Keeps Broadcasting Inside Russia&#39;s Digital Iron Curtain</title>
+    <updated>2022-08-08T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-08:/articles/how-youtube-keeps-broadcasting-inside-russias-digital-iron-curtain-11659951003</id>
+    <content type="html">Russia has fined Google’s video site hundreds of millions of dollars but hasn’t blocked its access, allowing the country’s citizens to view one of the few sources of independent information about the war in Ukraine.</content>
+    <link href="https://www.wsj.com/articles/how-youtube-keeps-broadcasting-inside-russias-digital-iron-curtain-11659951003" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Former Colombia Rebel Gustavo Petro Inaugurated as President</title>
     <updated>2022-08-08T00:14:00Z</updated>
