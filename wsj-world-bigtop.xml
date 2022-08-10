@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-10T14:21:03Z</updated>
+  <updated>2022-08-10T16:36:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Facing Gas Cuts, Europe Dims Lights, Cools Pools and Shortens Showers</title>
+    <updated>2022-08-10T13:24:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-10:/articles/facing-russian-gas-cuts-europe-dims-lights-cools-pools-and-shortens-showers-11660132190</id>
+    <content type="html">Across Europe, national and local governments are pushing to reduce energy usage as Russia cuts its gas shipments in response to Western sanctions during the war in Ukraine.</content>
+    <link href="https://www.wsj.com/articles/facing-russian-gas-cuts-europe-dims-lights-cools-pools-and-shortens-showers-11660132190" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Holds the Line in Donbas as Russian Fire Shatters Cities</title>
+    <updated>2022-08-10T12:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-10:/articles/as-ukraine-holds-the-line-in-donbas-russian-fire-shatters-cities-in-moscows-path-11660134297</id>
+    <content type="html">Bakhmut, a once elegant Ukrainian town famous for its sparkling wines, is now the focus of fighting in Donbas as cluster munitions maim civilians and the infrastructure gets slowly destroyed.</content>
+    <link href="https://www.wsj.com/articles/as-ukraine-holds-the-line-in-donbas-russian-fire-shatters-cities-in-moscows-path-11660134297" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
