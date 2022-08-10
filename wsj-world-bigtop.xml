@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-10T16:36:01Z</updated>
+  <updated>2022-08-10T18:28:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Place With the Most Lithium Is Blowing the Electric-Car Revolution</title>
+    <updated>2022-08-10T14:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-10:/articles/electric-cars-batteries-lithium-triangle-latin-america-11660141017</id>
+    <content type="html">A California-sized piece of South America is stifling production of lithium at a time when battery-makers desperately need it.</content>
+    <link href="https://www.wsj.com/articles/electric-cars-batteries-lithium-triangle-latin-america-11660141017" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Facing Gas Cuts, Europe Dims Lights, Cools Pools and Shortens Showers</title>
     <updated>2022-08-10T13:24:00Z</updated>
