@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-11T12:49:15Z</updated>
+  <updated>2022-08-11T14:20:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Covid-19 Variants Keep Getting More Contagious. Here&#39;s Why.</title>
-    <updated>2022-08-11T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-11:/articles/covid-19-variants-keep-getting-more-contagious-heres-why-11660210202</id>
-    <content type="html">Scientists say new virus variants are evolving to be better at evading our immune systems’ existing defenses.</content>
-    <link href="https://www.wsj.com/articles/covid-19-variants-keep-getting-more-contagious-heres-why-11660210202" rel="alternate"></link>
+    <title>Satellite Images of Crimea Air Base Indicate Explosions Destroyed Russian Jets</title>
+    <updated>2022-08-11T11:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-11:/articles/satellite-images-of-crimean-air-base-indicate-explosions-destroyed-jets-11660216115</id>
+    <content type="html">Before-and-after photographs of the facility contradict Russia’s official account that no planes were lost in the blasts. Ukraine said nine combat aircraft were destroyed.</content>
+    <link href="https://www.wsj.com/articles/satellite-images-of-crimean-air-base-indicate-explosions-destroyed-jets-11660216115" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
