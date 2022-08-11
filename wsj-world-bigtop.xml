@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-11T10:26:16Z</updated>
+  <updated>2022-08-11T12:49:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Place With the Most Lithium Is Blowing the Electric-Car Revolution</title>
-    <updated>2022-08-10T14:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-10:/articles/electric-cars-batteries-lithium-triangle-latin-america-11660141017</id>
-    <content type="html">A California-sized piece of South America is stifling production of lithium at a time when battery makers desperately need it.</content>
-    <link href="https://www.wsj.com/articles/electric-cars-batteries-lithium-triangle-latin-america-11660141017" rel="alternate"></link>
+    <title>Ukraine Seeks to Squeeze Russian Troops as It Girds for Battle for Kherson</title>
+    <updated>2022-08-11T12:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-11:/articles/ukraine-seeks-to-squeeze-russian-troops-as-it-girds-for-battle-for-kherson-11660210201</id>
+    <content type="html">Kyiv is building forces outside Kherson, even as larger battles continue in the eastern region of Donbas, under a strategy that suggests growing confidence.</content>
+    <link href="https://www.wsj.com/articles/ukraine-seeks-to-squeeze-russian-troops-as-it-girds-for-battle-for-kherson-11660210201" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Facing Gas Cuts, Europe Dims Lights, Cools Pools and Shortens Showers</title>
-    <updated>2022-08-10T13:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-10:/articles/facing-russian-gas-cuts-europe-dims-lights-cools-pools-and-shortens-showers-11660132190</id>
-    <content type="html">Across Europe, national and local governments are pushing to reduce energy usage as Russia cuts its gas shipments in response to Western sanctions during the war in Ukraine.</content>
-    <link href="https://www.wsj.com/articles/facing-russian-gas-cuts-europe-dims-lights-cools-pools-and-shortens-showers-11660132190" rel="alternate"></link>
+    <title>Europe&#39;s Key Rivers Fall to Critical Levels, Aggravating Energy Crunch</title>
+    <updated>2022-08-11T11:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-11:/articles/europes-key-rivers-fall-to-critical-levels-aggravating-energy-crunch-11660216554</id>
+    <content type="html">Scorching temperatures have drained some of Europe’s main rivers, threatening to disrupt vital economic thoroughfares and exacerbate the continent’s energy shortage.</content>
+    <link href="https://www.wsj.com/articles/europes-key-rivers-fall-to-critical-levels-aggravating-energy-crunch-11660216554" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Holds the Line in Donbas as Russian Fire Shatters Cities</title>
-    <updated>2022-08-10T12:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-10:/articles/as-ukraine-holds-the-line-in-donbas-russian-fire-shatters-cities-in-moscows-path-11660134297</id>
-    <content type="html">Bakhmut, a once elegant Ukrainian town famous for its sparkling wines, is now the focus of fighting in Donbas as cluster munitions maim civilians and the infrastructure gets slowly destroyed.</content>
-    <link href="https://www.wsj.com/articles/as-ukraine-holds-the-line-in-donbas-russian-fire-shatters-cities-in-moscows-path-11660134297" rel="alternate"></link>
+    <title>Covid-19 Variants Keep Getting More Contagious. Here&#39;s Why.</title>
+    <updated>2022-08-11T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-11:/articles/covid-19-variants-keep-getting-more-contagious-heres-why-11660210202</id>
+    <content type="html">Scientists say new virus variants are evolving to be better at evading our immune systems’ existing defenses.</content>
+    <link href="https://www.wsj.com/articles/covid-19-variants-keep-getting-more-contagious-heres-why-11660210202" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
