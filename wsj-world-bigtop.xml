@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-13T12:38:31Z</updated>
+  <updated>2022-08-13T14:20:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Readies Plans to Evacuate Civilians Amid Fighting Near Nuclear Plant</title>
-    <updated>2022-08-12T19:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-12:/articles/ukraine-readies-plans-to-evacuate-civilians-amid-fighting-near-nuclear-plant-11660308140</id>
-    <content type="html">Russia has rejected demands to withdraw troops from the Zaporizhzhia facility, where Ukraine says Moscow risks causing a global tragedy.</content>
-    <link href="https://www.wsj.com/articles/ukraine-readies-plans-to-evacuate-civilians-amid-fighting-near-nuclear-plant-11660308140" rel="alternate"></link>
+    <title>Ukraine Strikes Key Bridge in Russian-Held Territory</title>
+    <updated>2022-08-13T12:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-13:/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199</id>
+    <content type="html">Ukrainian President Volodymyr Zelensky urged Western governments to restrict the issuance of visas to Russian nationals, arguing that Russians angry over travel curbs would be more likely to pressure the Kremlin to change course.</content>
+    <link href="https://www.wsj.com/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2022-08-12:/articles/why-the-u-s-never-caught-mullah-omar-11660316472</id>
     <content type="html">The Taliban’s late founder hid out for years in Afghan homes while the U.S. hunted for him in Pakistan. The new Kabul regime is eager to celebrate his mystique and legacy,</content>
     <link href="https://www.wsj.com/articles/why-the-u-s-never-caught-mullah-omar-11660316472" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The New Neighbor Is Causing a Commotion. Oh, and He&#39;s the President of South Korea.</title>
-    <updated>2022-08-12T14:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-12:/articles/south-korea-president-office-move-blue-house-11659551596</id>
-    <content type="html">The country’s new leader is moving the official office from the secluded ‘Blue House’ into central Seoul to be less remote. Now he’s too close for some citizens’ comfort.</content>
-    <link href="https://www.wsj.com/articles/south-korea-president-office-move-blue-house-11659551596" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>With Western Funds Slow to Arrive, Ukraine Scrapes to Pay Its Soldiers</title>
-    <updated>2022-08-12T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-12:/articles/with-western-funds-slow-to-arrive-ukraine-scrapes-to-pay-its-soldiers-11660296604</id>
-    <content type="html">Kyiv is struggling with a yawning gap between the cost of the war and depressed tax revenues in an economy battered by Russia’s invasion.</content>
-    <link href="https://www.wsj.com/articles/with-western-funds-slow-to-arrive-ukraine-scrapes-to-pay-its-soldiers-11660296604" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
