@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-13T20:23:15Z</updated>
+  <updated>2022-08-13T22:21:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Strikes Key Bridge in Russian-Held Territory</title>
+    <updated>2022-08-13T21:54:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-13:/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199</id>
+    <content type="html">Ukrainian President Volodymyr Zelensky urged Western governments to restrict the issuance of visas to Russian nationals, arguing that Russians angry over travel curbs would be more likely to pressure the Kremlin to change course.</content>
+    <link href="https://www.wsj.com/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Food Exports Slowly Pick Up Under Grain-Corridor Agreement</title>
     <updated>2022-08-13T15:01:00Z</updated>
     <id>tag:www.wsj.com,2022-08-13:/articles/ukraines-food-exports-slowly-pick-up-under-grain-corridor-agreement-11660402869</id>
     <content type="html">A deal to restore Ukraine’s Black Sea grain exports is showing early progress, with 18 ships moving to and from ports in Odessa nearly six months after Russia’s invasion bottled up a chunk of the world’s agricultural products.</content>
     <link href="https://www.wsj.com/articles/ukraines-food-exports-slowly-pick-up-under-grain-corridor-agreement-11660402869" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Strikes Key Bridge in Russian-Held Territory</title>
-    <updated>2022-08-13T12:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-13:/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky urged Western governments to restrict the issuance of visas to Russian nationals, arguing that Russians angry over travel curbs would be more likely to pressure the Kremlin to change course.</content>
-    <link href="https://www.wsj.com/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
