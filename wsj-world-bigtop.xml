@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-14T12:39:39Z</updated>
+  <updated>2022-08-14T14:20:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Accuses Russia of Using Nuclear Plant to Blackmail West</title>
+    <updated>2022-08-14T12:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-14:/articles/ukraine-accuses-russia-of-using-nuclear-plant-to-blackmail-west-11660478537</id>
+    <content type="html">President Volodymyr Zelensky urged tougher sanctions against Moscow after recent shelling in the vicinity of the Russian-occupied Zaporizhzhia facility prompted warnings of a nuclear accident.</content>
+    <link href="https://www.wsj.com/articles/ukraine-accuses-russia-of-using-nuclear-plant-to-blackmail-west-11660478537" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>War Thrust This Ukrainian Psychiatric Hospital Onto the Front Lines</title>
     <updated>2022-08-14T09:30:00Z</updated>
@@ -13,35 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Strikes Key Bridge in Russian-Held Territory</title>
-    <updated>2022-08-13T21:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-13:/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky urged Western governments to restrict the issuance of visas to Russian nationals, arguing that Russians angry over travel curbs would be more likely to pressure the Kremlin to change course.</content>
-    <link href="https://www.wsj.com/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Anshu Jain, Who Helped Make Deutsche Bank a Trading Powerhouse, Dies</title>
-    <updated>2022-08-13T15:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-13:/articles/anshu-jain-who-helped-make-deutsche-bank-a-trading-powerhouse-dies-11660400725</id>
-    <content type="html">Anshu Jain has been credited with helping build Deutsche Bank’s investment-banking business, making the once sleepy German bank into a global trading powerhouse.</content>
-    <link href="https://www.wsj.com/articles/anshu-jain-who-helped-make-deutsche-bank-a-trading-powerhouse-dies-11660400725" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Ukraine&#39;s Food Exports Slowly Pick Up Under Grain-Corridor Agreement</title>
     <updated>2022-08-13T15:01:00Z</updated>
     <id>tag:www.wsj.com,2022-08-13:/articles/ukraines-food-exports-slowly-pick-up-under-grain-corridor-agreement-11660402869</id>
     <content type="html">A deal to restore Ukraine’s Black Sea grain exports is showing early progress, with 18 ships moving to and from ports in Odessa nearly six months after Russia’s invasion bottled up a chunk of the world’s agricultural products.</content>
     <link href="https://www.wsj.com/articles/ukraines-food-exports-slowly-pick-up-under-grain-corridor-agreement-11660402869" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why the U.S. Never Caught Mullah Omar</title>
-    <updated>2022-08-12T15:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-12:/articles/why-the-u-s-never-caught-mullah-omar-11660316472</id>
-    <content type="html">The Taliban’s late founder hid out for years in Afghan homes while the U.S. hunted for him in Pakistan. The new Kabul regime is eager to celebrate his mystique and legacy,</content>
-    <link href="https://www.wsj.com/articles/why-the-u-s-never-caught-mullah-omar-11660316472" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
