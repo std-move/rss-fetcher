@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-14T10:24:14Z</updated>
+  <updated>2022-08-14T12:39:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>War Thrust This Ukrainian Psychiatric Hospital Onto the Front Lines</title>
+    <updated>2022-08-14T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-14:/articles/war-thrust-this-ukrainian-psychiatric-hospital-onto-the-front-lines-11660469401</id>
+    <content type="html">Russia’s advances left the staff of an institution in northern Ukraine with anxieties, but gave patients who had been abandoned by their families a sense of purpose.</content>
+    <link href="https://www.wsj.com/articles/war-thrust-this-ukrainian-psychiatric-hospital-onto-the-front-lines-11660469401" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Strikes Key Bridge in Russian-Held Territory</title>
     <updated>2022-08-13T21:54:00Z</updated>
     <id>tag:www.wsj.com,2022-08-13:/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199</id>
     <content type="html">Ukrainian President Volodymyr Zelensky urged Western governments to restrict the issuance of visas to Russian nationals, arguing that Russians angry over travel curbs would be more likely to pressure the Kremlin to change course.</content>
     <link href="https://www.wsj.com/articles/ukraine-strikes-key-bridge-in-russian-held-territory-11660392199" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Anshu Jain, Who Helped Make Deutsche Bank a Trading Powerhouse, Dies</title>
+    <updated>2022-08-13T15:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-13:/articles/anshu-jain-who-helped-make-deutsche-bank-a-trading-powerhouse-dies-11660400725</id>
+    <content type="html">Anshu Jain has been credited with helping build Deutsche Bank’s investment-banking business, making the once sleepy German bank into a global trading powerhouse.</content>
+    <link href="https://www.wsj.com/articles/anshu-jain-who-helped-make-deutsche-bank-a-trading-powerhouse-dies-11660400725" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
