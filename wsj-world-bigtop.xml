@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-15T06:31:16Z</updated>
+  <updated>2022-08-15T08:31:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2022-08-14:/articles/ukraine-accuses-russia-of-using-nuclear-plant-to-blackmail-west-11660478537</id>
     <content type="html">President Volodymyr Zelensky urged tougher sanctions against Moscow after recent shelling in the vicinity of the Russian-occupied Zaporizhzhia facility prompted warnings of a nuclear accident.</content>
     <link href="https://www.wsj.com/articles/ukraine-accuses-russia-of-using-nuclear-plant-to-blackmail-west-11660478537" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Nation Asks: Are We Ferocious Lions or Peaceful Cats?</title>
-    <updated>2022-08-14T15:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-14:/articles/india-lions-parliament-modi-11659479191</id>
-    <content type="html">A 21-foot-tall bronze version of India’s national emblem divides citizens over the message it sends; ‘It looks like a steroid-fed version of a lion.’</content>
-    <link href="https://www.wsj.com/articles/india-lions-parliament-modi-11659479191" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>War Thrust This Ukrainian Psychiatric Hospital Onto the Front Lines</title>
-    <updated>2022-08-14T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-14:/articles/war-thrust-this-ukrainian-psychiatric-hospital-onto-the-front-lines-11660469401</id>
-    <content type="html">Russia’s advances left the staff of an institution in northern Ukraine with anxieties, but gave patients who had been abandoned by their families a sense of purpose.</content>
-    <link href="https://www.wsj.com/articles/war-thrust-this-ukrainian-psychiatric-hospital-onto-the-front-lines-11660469401" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
