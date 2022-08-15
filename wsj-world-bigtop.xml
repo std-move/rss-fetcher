@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-15T14:24:27Z</updated>
+  <updated>2022-08-15T16:34:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Urges Civilians to Leave Kherson Ahead of Counteroffensive</title>
+    <updated>2022-08-15T15:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-15:/articles/ukraine-urges-civilians-to-leave-kherson-as-it-prepares-bid-to-retake-russian-held-territory-11660565675</id>
+    <content type="html">Kyiv is calling on residents of the Russian-occupied Kherson region to leave before a winter exacerbated by shortages sets in and ahead of a promised Ukrainian counteroffensive to retake the strategic area.</content>
+    <link href="https://www.wsj.com/articles/ukraine-urges-civilians-to-leave-kherson-as-it-prepares-bid-to-retake-russian-held-territory-11660565675" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
