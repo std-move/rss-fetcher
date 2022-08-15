@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-15T12:49:53Z</updated>
+  <updated>2022-08-15T14:24:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia&#39;s Goal in Attack on Nuclear Plant: Take the Electricity, Ukraine Says</title>
-    <updated>2022-08-14T21:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-14:/articles/russia-goal-ukraine-nuclear-plant-take-electricity-11660505601</id>
-    <content type="html">The shelling is a deliberate step in Russia’s aim to steal Zaporizhzhia’s power by severing its connection to Ukraine’s remaining territory, according to Ukrainian leaders, international nuclear-power experts and the plant’s staff. Days of attacks have triggered Ukraine’s most perilous nuclear safety crisis since Chernobyl.</content>
-    <link href="https://www.wsj.com/articles/russia-goal-ukraine-nuclear-plant-take-electricity-11660505601" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Accuses Russia of Using Nuclear Plant to Blackmail West</title>
-    <updated>2022-08-14T19:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-14:/articles/ukraine-accuses-russia-of-using-nuclear-plant-to-blackmail-west-11660478537</id>
-    <content type="html">President Volodymyr Zelensky urged tougher sanctions against Moscow after recent shelling in the vicinity of the Russian-occupied Zaporizhzhia facility prompted warnings of a nuclear accident.</content>
-    <link href="https://www.wsj.com/articles/ukraine-accuses-russia-of-using-nuclear-plant-to-blackmail-west-11660478537" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
