@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-16T18:31:34Z</updated>
+  <updated>2022-08-16T20:23:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russian Withdrawal Brings More Shelling in Southern Ukrainian Town</title>
-    <updated>2022-08-16T16:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-16:/articles/russian-withdrawal-brings-more-shelling-in-southern-ukrainian-town-11660642201</id>
-    <content type="html">Ukrainian troops repelled the Russians from the edge of Orikhiv after long-range weapon systems arrived on Ukraine’s southern front two months ago. But for the city’s residents, life has got harder.</content>
-    <link href="https://www.wsj.com/articles/russian-withdrawal-brings-more-shelling-in-southern-ukrainian-town-11660642201" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Explosions Hit Russian Ammunition Depot in Crimea</title>
-    <updated>2022-08-16T14:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-16:/articles/explosions-hit-russian-ammunition-depot-in-crimea-11660635257</id>
-    <content type="html">Russian officials reported explosions at an ammunition depot in Crimea, prompting the suspension of trains and marking a fresh blow to Moscow’s war effort.</content>
-    <link href="https://www.wsj.com/articles/explosions-hit-russian-ammunition-depot-in-crimea-11660635257" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Hundreds of Somali-American Youths Held Captive in Rehab Centers; &#39;They Were Torturing Me&#39;</title>
     <updated>2022-08-16T14:25:00Z</updated>
