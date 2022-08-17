@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-17T14:26:45Z</updated>
+  <updated>2022-08-17T16:37:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Hundreds of Somali-American Youths Held Captive in Rehab Centers; &#39;They Were Torturing Me&#39;</title>
-    <updated>2022-08-16T14:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-16:/articles/rehab-centers-somali-american-immigrant-youths-captive-torturing-me-11660657481</id>
-    <content type="html">Immigrant parents send children back to East Africa to receive “treatment” for addiction, being gay or just acting too Westernized.</content>
-    <link href="https://www.wsj.com/articles/rehab-centers-somali-american-immigrant-youths-captive-torturing-me-11660657481" rel="alternate"></link>
+    <title>Mexican Gangs Go on Rampage, Challenging President&#39;s Security Strategy</title>
+    <updated>2022-08-17T15:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-17:/articles/mexican-gangs-go-on-rampage-challenging-presidents-security-strategy-11660749477</id>
+    <content type="html">Cartel members burned vehicles and businesses, blocked roads and fought security forces in different cities.</content>
+    <link href="https://www.wsj.com/articles/mexican-gangs-go-on-rampage-challenging-presidents-security-strategy-11660749477" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>U.S. Veterans Race to Train Ukrainians as Marines; &#39;Time Is Not on Their Side&#39;</title>
+    <updated>2022-08-17T14:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-17:/articles/russia-ukraine-war-american-veterans-volunteers-training-11660743714</id>
+    <content type="html">Foreign volunteers pay their own way to help prepare civilians for next phase of battle with Russia; “many have never held a weapon.”</content>
+    <link href="https://www.wsj.com/articles/russia-ukraine-war-american-veterans-volunteers-training-11660743714" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
