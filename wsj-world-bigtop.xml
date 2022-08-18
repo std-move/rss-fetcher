@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-18T12:51:54Z</updated>
+  <updated>2022-08-18T16:42:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-08-18:/articles/china-u-s-trade-climate-barbs-as-ties-fray-11660821597</id>
     <content type="html">Once a rare bright spot, the fight against global warming is the latest source of tension between the world’s top greenhouse-gas emitters.</content>
     <link href="https://www.wsj.com/articles/china-u-s-trade-climate-barbs-as-ties-fray-11660821597" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Strikes Russian Base Ahead of Talks With Turkey, U.N.</title>
-    <updated>2022-08-18T10:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-18:/articles/ukraine-strikes-russian-base-ahead-of-talks-with-turkey-u-n-11660816524</id>
-    <content type="html">Ukraine’s latest attack in Russian-occupied Kherson came as President Volodymyr Zelensky prepared to meet with foreign leaders and discuss food shipments and the increasingly tense situation at the Zaporizhzhia nuclear plant.</content>
-    <link href="https://www.wsj.com/articles/ukraine-strikes-russian-base-ahead-of-talks-with-turkey-u-n-11660816524" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
