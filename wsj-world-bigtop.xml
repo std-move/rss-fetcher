@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-19T10:28:19Z</updated>
+  <updated>2022-08-19T12:45:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China, U.S. Trade Climate Barbs as Ties Fray</title>
-    <updated>2022-08-18T11:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-18:/articles/china-u-s-trade-climate-barbs-as-ties-fray-11660821597</id>
-    <content type="html">Once a rare bright spot, the fight against global warming is the latest source of tension between the world’s top greenhouse-gas emitters.</content>
-    <link href="https://www.wsj.com/articles/china-u-s-trade-climate-barbs-as-ties-fray-11660821597" rel="alternate"></link>
+    <title>Ukraine&#39;s Southern Forces Wage a Slow Campaign to Wear Russian Troops Down</title>
+    <updated>2022-08-19T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-19:/articles/ukraines-southern-forces-wage-a-slow-campaign-to-wear-the-russians-down-11660906801</id>
+    <content type="html">Rather than a dramatic ground assault, Ukraine’s push to retake occupied southern territory has become a series of artillery strikes designed to cut Russian supply lines and isolate occupying troops in the region.</content>
+    <link href="https://www.wsj.com/articles/ukraines-southern-forces-wage-a-slow-campaign-to-wear-the-russians-down-11660906801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
