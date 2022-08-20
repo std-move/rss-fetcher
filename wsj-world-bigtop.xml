@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-20T14:20:06Z</updated>
+  <updated>2022-08-20T16:30:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Drone Hits Headquarters of Russia&#39;s Black Sea Fleet in Crimea</title>
-    <updated>2022-08-20T10:27:00Z</updated>
+    <updated>2022-08-20T14:46:00Z</updated>
     <id>tag:www.wsj.com,2022-08-20:/articles/drone-hits-headquarters-of-russias-black-sea-fleet-in-crimea-11660991264</id>
     <content type="html">The incident highlights Russia’s vulnerability in an area that has served as a stronghold for its occupation of Ukraine’s south coast.</content>
     <link href="https://www.wsj.com/articles/drone-hits-headquarters-of-russias-black-sea-fleet-in-crimea-11660991264" rel="alternate"></link>
