@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-21T08:27:23Z</updated>
+  <updated>2022-08-21T10:24:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Drone Hits Headquarters of Russia&#39;s Black Sea Fleet in Crimea</title>
-    <updated>2022-08-20T17:23:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-20:/articles/drone-hits-headquarters-of-russias-black-sea-fleet-in-crimea-11660991264</id>
-    <content type="html">The incident highlights Russia’s vulnerability in an area that has served as a stronghold for its occupation of Ukraine’s south coast.</content>
-    <link href="https://www.wsj.com/articles/drone-hits-headquarters-of-russias-black-sea-fleet-in-crimea-11660991264" rel="alternate"></link>
+    <title>Zelensky Warns of Russian Escalation After Putin Ally&#39;s Daughter Is Killed</title>
+    <updated>2022-08-21T09:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-21:/articles/ukraines-zelensky-warns-of-russian-escalation-after-putin-allys-daughter-is-killed-11661075038</id>
+    <content type="html">Ukraine is on alert for renewed attacks in the run-up to its Independence Day after the daughter of Russian far-right ideologue Aleksandr Dugin died in an apparent assassination near Moscow.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-warns-of-russian-escalation-after-putin-allys-daughter-is-killed-11661075038" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
