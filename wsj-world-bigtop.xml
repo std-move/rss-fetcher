@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-21T02:21:35Z</updated>
+  <updated>2022-08-21T04:37:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-08-20:/articles/drone-hits-headquarters-of-russias-black-sea-fleet-in-crimea-11660991264</id>
     <content type="html">The incident highlights Russia’s vulnerability in an area that has served as a stronghold for its occupation of Ukraine’s south coast.</content>
     <link href="https://www.wsj.com/articles/drone-hits-headquarters-of-russias-black-sea-fleet-in-crimea-11660991264" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel&#39;s Gaza Strategy Forces Hamas to Weigh the Economic Cost of Lashing Out</title>
-    <updated>2022-08-20T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-20:/articles/israels-gaza-strategy-forces-hamas-to-weigh-the-economic-cost-of-lashing-out-11661007602</id>
-    <content type="html">The policy bypasses the militants to provide economic benefits to Gazans, which analysts say helped keep Hamas on the sidelines during recent clashes with Islamic Jihad.</content>
-    <link href="https://www.wsj.com/articles/israels-gaza-strategy-forces-hamas-to-weigh-the-economic-cost-of-lashing-out-11661007602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
