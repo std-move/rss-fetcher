@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-21T22:22:21Z</updated>
+  <updated>2022-08-22T02:21:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Droughts Hurt World&#39;s Largest Economies</title>
+    <updated>2022-08-21T22:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-21:/articles/droughts-hurt-worlds-largest-economies-11661087554</id>
+    <content type="html">Unusually dry weather across the Northern Hemisphere is further snarling supply chains and driving up the prices of food and energy, adding pressure to a global trade system already under stress.</content>
+    <link href="https://www.wsj.com/articles/droughts-hurt-worlds-largest-economies-11661087554" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Zelensky Warns of Russian Escalation as Putin Ally&#39;s Daughter Is Killed</title>
     <updated>2022-08-21T21:09:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-08-21:/articles/russia-wagner-group-mercenaries-mali-west-africa-11661099199</id>
     <content type="html">Wagner Group, a private army formed by “Putin’s Chef,” is taking aim at Mali’s mineral riches in a strategic part of Africa. Its mercenaries are accused of massacring civilians.</content>
     <link href="https://www.wsj.com/articles/russia-wagner-group-mercenaries-mali-west-africa-11661099199" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S., South Korea Revive Live Military Drills</title>
-    <updated>2022-08-21T17:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-21:/articles/u-s-south-korea-revive-live-military-drills-after-four-year-hiatus-11661074202</id>
-    <content type="html">The 11-day show of military strength after a four-year hiatus is likely to irritate neighboring North Korea and China, security experts said.</content>
-    <link href="https://www.wsj.com/articles/u-s-south-korea-revive-live-military-drills-after-four-year-hiatus-11661074202" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
