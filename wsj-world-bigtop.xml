@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-22T18:28:25Z</updated>
+  <updated>2022-08-22T20:23:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,19 +13,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Crimea, Once a Bastion of Russian Power, Now Reveals Its Weakness</title>
-    <updated>2022-08-22T12:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-22:/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262</id>
-    <content type="html">The strikes deep inside the Russian-occupied territory have disrupted Moscow’s plans to drive further into southern Ukraine and potentially forcing a rethink of its broader strategy, military analysts and officials said.</content>
-    <link href="https://www.wsj.com/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262" rel="alternate"></link>
+    <title>Ousted Pakistan Prime Minister Imran Khan Faces Arrest on Terror Charge</title>
+    <updated>2022-08-22T17:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-22:/articles/ousted-pakistan-prime-minister-imran-khan-faces-arrest-on-terror-charge-11661190203</id>
+    <content type="html">The arrest threat intensifies the showdown between the former leader and the country’s current government and powerful military.</content>
+    <link href="https://www.wsj.com/articles/ousted-pakistan-prime-minister-imran-khan-faces-arrest-on-terror-charge-11661190203" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China Extends Power Curbs Amid Heat Wave, Drought</title>
-    <updated>2022-08-22T12:32:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-22:/articles/china-extends-power-curbs-amid-heat-wave-drought-11661171568</id>
-    <content type="html">Authorities in central China limited factory production and opening hours for shopping malls, as the region grapples with its worst heat wave in six decades.</content>
-    <link href="https://www.wsj.com/articles/china-extends-power-curbs-amid-heat-wave-drought-11661171568" rel="alternate"></link>
+    <title>Crimea, Once a Bastion of Russian Power, Now Reveals Its Weakness</title>
+    <updated>2022-08-22T12:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-22:/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262</id>
+    <content type="html">The strikes deep inside the Russian-occupied territory have disrupted Moscow’s plans to drive further into southern Ukraine and potentially forced a rethink of its broader strategy, military analysts and officials said.</content>
+    <link href="https://www.wsj.com/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
