@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-22T10:26:38Z</updated>
+  <updated>2022-08-22T12:48:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Droughts Hurt World&#39;s Largest Economies</title>
-    <updated>2022-08-21T22:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-21:/articles/droughts-hurt-worlds-largest-economies-11661087554</id>
-    <content type="html">Unusually dry weather across the Northern Hemisphere is further snarling supply chains and driving up the prices of food and energy, adding pressure to a global trade system already under stress.</content>
-    <link href="https://www.wsj.com/articles/droughts-hurt-worlds-largest-economies-11661087554" rel="alternate"></link>
+    <title>China Extends Power Curbs Amid Heat Wave, Drought</title>
+    <updated>2022-08-22T12:32:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-22:/articles/china-extends-power-curbs-amid-heat-wave-drought-11661171568</id>
+    <content type="html">Authorities in central China extended power curbs limiting factory production and opening hours for malls, as the region grapples with its worst heat wave in six decades and a hydropower-depleting drought.</content>
+    <link href="https://www.wsj.com/articles/china-extends-power-curbs-amid-heat-wave-drought-11661171568" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia Probes Killing of Putin Ally&#39;s Daughter</title>
-    <updated>2022-08-21T21:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-21:/articles/ukraines-zelensky-warns-of-russian-escalation-after-putin-allys-daughter-is-killed-11661075038</id>
-    <content type="html">Ukraine is on alert for renewed attacks in the run-up to its Independence Day, while Moscow launched an investigation after the daughter of Russian far-right ideologue Aleksandr Dugin died in a suspected car bombing.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-warns-of-russian-escalation-after-putin-allys-daughter-is-killed-11661075038" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Mercenaries Project the Kremlin&#39;s Power Far From Its Troubles in Ukraine</title>
-    <updated>2022-08-21T17:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-21:/articles/russia-wagner-group-mercenaries-mali-west-africa-11661099199</id>
-    <content type="html">Wagner Group, a private army formed by “Putin’s Chef,” is taking aim at Mali’s mineral riches in a strategic part of Africa. Its mercenaries are accused of massacring civilians.</content>
-    <link href="https://www.wsj.com/articles/russia-wagner-group-mercenaries-mali-west-africa-11661099199" rel="alternate"></link>
+    <title>Ukraine&#39;s Zelensky Warns Against Trial of Azovstal Prisoners</title>
+    <updated>2022-08-22T11:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-22:/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705</id>
+    <content type="html">The leader of a Russian-backed breakaway statelet announced details of plans to put Ukrainian soldiers on trial, a move that President Zelensky warned would mean an end to negotiations between Kyiv and Moscow.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
