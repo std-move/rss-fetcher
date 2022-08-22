@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-22T16:30:57Z</updated>
+  <updated>2022-08-22T18:28:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Zelensky Warns Against Trial of Azovstal Prisoners</title>
-    <updated>2022-08-22T15:46:00Z</updated>
+    <updated>2022-08-22T17:54:00Z</updated>
     <id>tag:www.wsj.com,2022-08-22:/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705</id>
     <content type="html">The leader of a Russian-backed breakaway region announced details of plans to put Ukrainian soldiers on trial, a move that President Zelensky warned would mean an end to negotiations between Kyiv and Moscow.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705" rel="alternate"></link>
