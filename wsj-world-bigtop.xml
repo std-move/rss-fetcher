@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-22T05:12:41Z</updated>
+  <updated>2022-08-22T06:33:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Zelensky Warns of Russian Escalation as Putin Ally&#39;s Daughter Is Killed</title>
+    <title>Russia Probes Killing of Putin Ally&#39;s Daughter</title>
     <updated>2022-08-21T21:09:00Z</updated>
     <id>tag:www.wsj.com,2022-08-21:/articles/ukraines-zelensky-warns-of-russian-escalation-after-putin-allys-daughter-is-killed-11661075038</id>
     <content type="html">Ukraine is on alert for renewed attacks in the run-up to its Independence Day, while Moscow launched an investigation after the daughter of Russian far-right ideologue Aleksandr Dugin died in a suspected car bombing.</content>
