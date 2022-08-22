@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-22T12:48:00Z</updated>
+  <updated>2022-08-22T14:20:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Zelensky Warns Against Trial of Azovstal Prisoners</title>
+    <updated>2022-08-22T14:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-22:/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705</id>
+    <content type="html">The leader of a Russian-backed breakaway statelet announced details of plans to put Ukrainian soldiers on trial, a move that President Zelensky warned would mean an end to negotiations between Kyiv and Moscow.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Crimea, Once a Bastion of Russian Power, Now Reveals Its Weakness</title>
+    <updated>2022-08-22T12:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-22:/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262</id>
+    <content type="html">The strikes deep inside the Russian-occupied territory have disrupted Moscow’s plans to drive further into southern Ukraine and potentially forcing a rethink of its broader strategy, military analysts and officials said.</content>
+    <link href="https://www.wsj.com/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China Extends Power Curbs Amid Heat Wave, Drought</title>
     <updated>2022-08-22T12:32:00Z</updated>
     <id>tag:www.wsj.com,2022-08-22:/articles/china-extends-power-curbs-amid-heat-wave-drought-11661171568</id>
-    <content type="html">Authorities in central China extended power curbs limiting factory production and opening hours for malls, as the region grapples with its worst heat wave in six decades and a hydropower-depleting drought.</content>
+    <content type="html">Authorities in central China limited factory production and opening hours for shopping malls, as the region grapples with its worst heat wave in six decades.</content>
     <link href="https://www.wsj.com/articles/china-extends-power-curbs-amid-heat-wave-drought-11661171568" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Zelensky Warns Against Trial of Azovstal Prisoners</title>
-    <updated>2022-08-22T11:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-22:/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705</id>
-    <content type="html">The leader of a Russian-backed breakaway statelet announced details of plans to put Ukrainian soldiers on trial, a move that President Zelensky warned would mean an end to negotiations between Kyiv and Moscow.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
