@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-23T12:46:28Z</updated>
+  <updated>2022-08-23T14:21:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-08-23:/articles/after-six-months-of-war-in-ukraine-momentum-tilts-against-russia-11661247003</id>
     <content type="html">Moscow retains a firepower advantage, but Kyiv is starting to take the initiative, while Western support for Ukraine is holding firm despite economic pain.</content>
     <link href="https://www.wsj.com/articles/after-six-months-of-war-in-ukraine-momentum-tilts-against-russia-11661247003" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ousted Pakistan Prime Minister Imran Khan Faces Arrest on Terror Charge</title>
-    <updated>2022-08-22T17:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-22:/articles/ousted-pakistan-prime-minister-imran-khan-faces-arrest-on-terror-charge-11661190203</id>
-    <content type="html">The arrest threat intensifies the showdown between the former leader and the country’s current government and powerful military.</content>
-    <link href="https://www.wsj.com/articles/ousted-pakistan-prime-minister-imran-khan-faces-arrest-on-terror-charge-11661190203" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
