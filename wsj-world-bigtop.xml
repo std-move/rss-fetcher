@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-23T08:29:15Z</updated>
+  <updated>2022-08-23T10:26:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Zelensky Warns Against Trial of Azovstal Prisoners</title>
-    <updated>2022-08-22T17:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-22:/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705</id>
-    <content type="html">The leader of a Russian-backed breakaway region announced details of plans to put Ukrainian soldiers on trial, a move that President Zelensky warned would mean an end to negotiations between Kyiv and Moscow.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-warns-against-trial-of-prisoners-captured-at-azovstal-steel-plant-11661166705" rel="alternate"></link>
+    <title>After Six Months of War in Ukraine, Momentum Tilts Against Russia</title>
+    <updated>2022-08-23T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-23:/articles/after-six-months-of-war-in-ukraine-momentum-tilts-against-russia-11661247003</id>
+    <content type="html">Moscow retains a firepower advantage, but Kyiv is starting to take the initiative, while Western support for Ukraine is holding firm despite economic pain.</content>
+    <link href="https://www.wsj.com/articles/after-six-months-of-war-in-ukraine-momentum-tilts-against-russia-11661247003" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-08-22:/articles/ousted-pakistan-prime-minister-imran-khan-faces-arrest-on-terror-charge-11661190203</id>
     <content type="html">The arrest threat intensifies the showdown between the former leader and the country’s current government and powerful military.</content>
     <link href="https://www.wsj.com/articles/ousted-pakistan-prime-minister-imran-khan-faces-arrest-on-terror-charge-11661190203" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Crimea, Once a Bastion of Russian Power, Now Reveals Its Weakness</title>
-    <updated>2022-08-22T12:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-22:/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262</id>
-    <content type="html">The strikes deep inside the Russian-occupied territory have disrupted Moscow’s plans to drive further into southern Ukraine and potentially forced a rethink of its broader strategy, military analysts and officials said.</content>
-    <link href="https://www.wsj.com/articles/crimea-once-a-bastion-of-russian-power-now-reveals-its-weakness-11661172262" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
