@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-25T16:32:17Z</updated>
+  <updated>2022-08-25T18:28:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Death Toll Climbs in Russian Strikes on Ukraine as Moscow Says It Foiled Terror Plot at Home</title>
-    <updated>2022-08-25T13:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-25:/articles/death-toll-climbs-in-russian-strikes-on-ukraine-as-moscow-says-it-foiled-terror-plot-at-home-11661424085</id>
-    <content type="html">The number of people killed Wednesday’s strikes in eastern Ukraine rose to 25. Russian authorities, meanwhile, said they had detained a Russian citizen on suspicion of planning attacks on naval installations and an airport in the exclave of Kaliningrad.</content>
-    <link href="https://www.wsj.com/articles/death-toll-climbs-in-russian-strikes-on-ukraine-as-moscow-says-it-foiled-terror-plot-at-home-11661424085" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Taiwan&#39;s Defenses Against Information Warfare Gain Attention</title>
-    <updated>2022-08-25T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-25:/articles/taiwans-defenses-against-information-warfare-gain-attention-11661419802</id>
-    <content type="html">Chinese disinformation campaigns against Taiwan are being countered by the island’s nimble fact-checking groups, which find and debunk what they identify as disinformation before it spreads too widely.</content>
-    <link href="https://www.wsj.com/articles/taiwans-defenses-against-information-warfare-gain-attention-11661419802" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
