@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-24T22:23:35Z</updated>
+  <updated>2022-08-25T02:31:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Says Missile Strike Kills 22 as Country Marked Subdued Independence Day</title>
-    <updated>2022-08-24T21:32:00Z</updated>
+    <title>Ukraine Says Missile Strike Kills 22 as Country Marks Subdued Independence Day</title>
+    <updated>2022-08-24T22:23:00Z</updated>
     <id>tag:www.wsj.com,2022-08-24:/articles/ukraine-marks-subdued-independence-day-with-charred-russian-vehicles-11661339352</id>
-    <content type="html">President Volodymyr Zelensky said a Russian missile hit a passenger train in eastern Ukraine and killed at least 22 people, as the U.S. pledged a further $3 billion to support the Ukrainian military in the months ahead.</content>
+    <content type="html">President Volodymyr Zelensky said Russian missiles struck a train station and house in eastern Ukraine and killed at least 22 people, as the U.S. pledged another $3 billion to support the Ukrainian military.</content>
     <link href="https://www.wsj.com/articles/ukraine-marks-subdued-independence-day-with-charred-russian-vehicles-11661339352" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
