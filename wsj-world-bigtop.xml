@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-26T14:21:52Z</updated>
+  <updated>2022-08-26T16:33:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China&#39;s Scorching Heat and Hydropower Missteps Test Nation&#39;s Power Grid</title>
+    <updated>2022-08-26T11:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-26:/articles/chinas-scorching-heat-and-hydropower-missteps-test-nations-power-grid-11661514473</id>
+    <content type="html">Documents reveal how officials’ underestimating a heat wave led to “lights out” on Shanghai’s Bund.</content>
+    <link href="https://www.wsj.com/articles/chinas-scorching-heat-and-hydropower-missteps-test-nations-power-grid-11661514473" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
