@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-27T10:24:36Z</updated>
+  <updated>2022-08-27T12:44:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Violent Stalemate Sets In as Battle Lines Harden in Ukraine&#39;s East</title>
+    <updated>2022-08-27T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-27:/articles/a-violent-stalemate-sets-in-as-battle-lines-harden-in-ukraines-east-11661598000</id>
+    <content type="html">Russia’s troops have been exhausted by grinding offensives and Ukrainian resistance, but despite a promised counterblow in the south, neither side is able to advance.</content>
+    <link href="https://www.wsj.com/articles/a-violent-stalemate-sets-in-as-battle-lines-harden-in-ukraines-east-11661598000" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Arrests and Killings Drive Afghan Troops Once Allied With U.S. Into Hiding</title>
     <updated>2022-08-26T15:47:00Z</updated>
