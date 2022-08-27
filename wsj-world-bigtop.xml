@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-27T12:44:08Z</updated>
+  <updated>2022-08-27T14:20:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Grain Exports Surpass One Million Tons Under U.N. Deal</title>
+    <updated>2022-08-27T12:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-27:/articles/ukraine-grain-exports-surpass-one-million-tons-under-u-n-deal-11661604013</id>
+    <content type="html">The agreement to ease Russia’s Black Sea blockade of Ukraine has held up for nearly a month even as hostilities rage elsewhere in the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-grain-exports-surpass-one-million-tons-under-u-n-deal-11661604013" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>A Violent Stalemate Sets In as Battle Lines Harden in Ukraine&#39;s East</title>
     <updated>2022-08-27T11:00:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-08-26:/articles/afghanistan-taliban-national-resistance-front-11661523527</id>
     <content type="html">The Taliban appear to have launched a campaign to track down former Afghan forces to prevent them from joining an opposition group, the troops and American veterans trying to help them say.</content>
     <link href="https://www.wsj.com/articles/afghanistan-taliban-national-resistance-front-11661523527" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Scorching Heat and Hydropower Missteps Test Nation&#39;s Power Grid</title>
-    <updated>2022-08-26T11:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-26:/articles/chinas-scorching-heat-and-hydropower-missteps-test-nations-power-grid-11661514473</id>
-    <content type="html">Documents reveal how officials’ underestimating a heat wave led to “lights out” on Shanghai’s Bund.</content>
-    <link href="https://www.wsj.com/articles/chinas-scorching-heat-and-hydropower-missteps-test-nations-power-grid-11661514473" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
