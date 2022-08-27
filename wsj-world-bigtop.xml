@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-26T22:23:07Z</updated>
+  <updated>2022-08-27T02:30:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Arrests and Killings Drive Afghan Troops Once Allied With U.S. Into Hiding</title>
+    <updated>2022-08-26T15:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-26:/articles/afghanistan-taliban-national-resistance-front-11661523527</id>
+    <content type="html">The Taliban appear to have launched a campaign to track down former Afghan forces to prevent them from joining an opposition group, the troops and American veterans trying to help them say.</content>
+    <link href="https://www.wsj.com/articles/afghanistan-taliban-national-resistance-front-11661523527" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Scorching Heat and Hydropower Missteps Test Nation&#39;s Power Grid</title>
     <updated>2022-08-26T11:47:00Z</updated>
