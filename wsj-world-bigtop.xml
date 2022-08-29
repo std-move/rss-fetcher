@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-28T22:22:08Z</updated>
+  <updated>2022-08-29T02:36:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Western Countries Breathe New Life Into Old Nuclear Plants</title>
+    <updated>2022-08-28T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-28:/articles/western-countries-breathe-new-life-into-old-nuclear-plants-11661684401</id>
+    <content type="html">Governments have begun to muster the money and political support to keep decades-old reactors from shutting down, aiming to maintain a crucial source of low-carbon electricity as many economies face an energy crunch.</content>
+    <link href="https://www.wsj.com/articles/western-countries-breathe-new-life-into-old-nuclear-plants-11661684401" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
