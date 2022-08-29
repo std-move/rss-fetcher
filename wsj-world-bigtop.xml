@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-29T08:29:59Z</updated>
+  <updated>2022-08-29T10:27:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.N. Inspectors Head to Ukraine Nuclear Plant as Safety Fears Grow</title>
+    <updated>2022-08-29T09:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-29:/articles/u-n-inspectors-head-to-ukraine-nuclear-plant-as-safety-fears-grow-11661764952</id>
+    <content type="html">The International Atomic Energy Agency said a team was heading to the facility to assess damage, check safety and security systems and evaluate staff conditions. The inspection will begin on Wednesday and last until Saturday.</content>
+    <link href="https://www.wsj.com/articles/u-n-inspectors-head-to-ukraine-nuclear-plant-as-safety-fears-grow-11661764952" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Western Countries Breathe New Life Into Old Nuclear Plants</title>
     <updated>2022-08-28T11:00:00Z</updated>
