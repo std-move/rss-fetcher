@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-30T20:25:45Z</updated>
+  <updated>2022-08-30T22:23:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Aims to Build on Initial Gains in Southern Offensive</title>
-    <updated>2022-08-30T17:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-30:/articles/ukraine-aims-to-build-on-initial-gains-in-southern-offensive-11661857435</id>
-    <content type="html">Ukrainian forces pressed forward with an offensive in the country’s south, seeking to build on gains after launching the assault to retake the Kherson region a day earlier.</content>
-    <link href="https://www.wsj.com/articles/ukraine-aims-to-build-on-initial-gains-in-southern-offensive-11661857435" rel="alternate"></link>
+    <title>Mikhail Gorbachev, Reformer of Soviet Union, Dies at 91</title>
+    <updated>2022-08-30T21:28:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-30:/articles/mikhail-gorbachev-dead-soviet-union-leader-reformer-11656704339</id>
+    <content type="html">The architect of “perestroika” and “glasnost”—restructuring and openness—unleashed a wave of unstoppable forces that led to the bloc’s demise in 1991.</content>
+    <link href="https://www.wsj.com/articles/mikhail-gorbachev-dead-soviet-union-leader-reformer-11656704339" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
