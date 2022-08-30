@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-30T12:52:40Z</updated>
+  <updated>2022-08-30T14:23:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China Sets October Date for Party Congress Where Xi Can Extend Power</title>
+    <updated>2022-08-30T12:37:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-30:/articles/china-sets-october-date-for-party-congress-where-xi-jinping-can-extend-power-11661863040</id>
+    <content type="html">The announcement by China’s Communist Party kicks off final preparations for the twice-in-a-decade party conclave where Xi Jinping is expected to extend his stint as paramount leader and maneuver allies into key positions.</content>
+    <link href="https://www.wsj.com/articles/china-sets-october-date-for-party-congress-where-xi-jinping-can-extend-power-11661863040" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Aims to Build on Initial Gains in Southern Offensive</title>
     <updated>2022-08-30T11:03:00Z</updated>
