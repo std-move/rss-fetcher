@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-30T10:25:35Z</updated>
+  <updated>2022-08-30T12:52:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Pakistan Floods Affect Millions, Leave Over 1,000 Dead</title>
-    <updated>2022-08-29T20:37:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-29:/articles/pakistan-floods-affect-millions-leave-over-1-000-dead-11661788267</id>
-    <content type="html">The heaviest monsoon rains in three decades have flooded districts home to 33 million people, hurting the country’s fragile economy just as the IMF approves a bailout program.</content>
-    <link href="https://www.wsj.com/articles/pakistan-floods-affect-millions-leave-over-1-000-dead-11661788267" rel="alternate"></link>
+    <title>Ukraine Aims to Build on Initial Gains in Southern Offensive</title>
+    <updated>2022-08-30T11:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-30:/articles/ukraine-aims-to-build-on-initial-gains-in-southern-offensive-11661857435</id>
+    <content type="html">Ukrainian forces pressed forward with an offensive in the country’s south, seeking to build on gains after launching the assault to retake the Kherson region a day earlier.</content>
+    <link href="https://www.wsj.com/articles/ukraine-aims-to-build-on-initial-gains-in-southern-offensive-11661857435" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
