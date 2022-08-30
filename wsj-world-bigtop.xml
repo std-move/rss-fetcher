@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-30T06:55:00Z</updated>
+  <updated>2022-08-30T08:30:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-08-29:/articles/pakistan-floods-affect-millions-leave-over-1-000-dead-11661788267</id>
     <content type="html">The heaviest monsoon rains in three decades have flooded districts home to 33 million people, hurting the country’s fragile economy just as the IMF approves a bailout program.</content>
     <link href="https://www.wsj.com/articles/pakistan-floods-affect-millions-leave-over-1-000-dead-11661788267" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.N. Inspectors Head to Ukraine Nuclear Plant as Safety Fears Grow</title>
-    <updated>2022-08-29T20:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-29:/articles/u-n-inspectors-head-to-ukraine-nuclear-plant-as-safety-fears-grow-11661764952</id>
-    <content type="html">The International Atomic Energy Agency said a team was heading to the facility to assess damage, check safety and security systems and evaluate staff conditions. The inspection will begin on Wednesday and last until Saturday.</content>
-    <link href="https://www.wsj.com/articles/u-n-inspectors-head-to-ukraine-nuclear-plant-as-safety-fears-grow-11661764952" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
