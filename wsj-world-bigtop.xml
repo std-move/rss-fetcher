@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-31T16:33:36Z</updated>
+  <updated>2022-08-31T18:32:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.N. Team Arrives in Zaporizhzhia Ahead of Nuclear-Plant Inspection</title>
+    <updated>2022-08-31T17:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-31:/articles/iaea-team-leaves-kyiv-for-zaporizhzhia-nuclear-power-plant-11661925378</id>
+    <content type="html">An International Atomic Energy Agency team arrived in the Ukrainian city of Zaporizhzhia ahead of an inspection of the nearby Russian-occupied nuclear-power plant.</content>
+    <link href="https://www.wsj.com/articles/iaea-team-leaves-kyiv-for-zaporizhzhia-nuclear-power-plant-11661925378" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Economic Woes Drag On With Factory Disruptions, Property Slump</title>
     <updated>2022-08-31T15:37:00Z</updated>
     <id>tag:www.wsj.com,2022-08-31:/articles/chinas-factories-hurt-amid-covid-disruptions-heat-waves-property-slump-11661944730</id>
     <content type="html">Extreme weather and power shortages depressed manufacturing, while home sales fell for the 14th consecutive month.</content>
     <link href="https://www.wsj.com/articles/chinas-factories-hurt-amid-covid-disruptions-heat-waves-property-slump-11661944730" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Overstretched Psychiatric Hospitals Face Wave of Traumatized Soldiers</title>
-    <updated>2022-08-31T09:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-31:/articles/ukraines-overstretched-psychiatric-hospitals-face-wave-of-traumatized-soldiers-11661938275</id>
-    <content type="html">Doctors and Western experts say the war in Ukraine is creating additional mental-health scars that threaten to push the country’s fragile care system into a lasting crisis.</content>
-    <link href="https://www.wsj.com/articles/ukraines-overstretched-psychiatric-hospitals-face-wave-of-traumatized-soldiers-11661938275" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
