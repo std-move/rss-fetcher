@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-30T22:23:59Z</updated>
+  <updated>2022-08-31T02:48:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Mikhail Gorbachev, Reformer of Soviet Union, Dies at 91</title>
-    <updated>2022-08-30T21:28:00Z</updated>
+    <updated>2022-08-30T23:36:00Z</updated>
     <id>tag:www.wsj.com,2022-08-30:/articles/mikhail-gorbachev-dead-soviet-union-leader-reformer-11656704339</id>
     <content type="html">The architect of “perestroika” and “glasnost”—restructuring and openness—unleashed a wave of unstoppable forces that led to the bloc’s demise in 1991.</content>
     <link href="https://www.wsj.com/articles/mikhail-gorbachev-dead-soviet-union-leader-reformer-11656704339" rel="alternate"></link>
