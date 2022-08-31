@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-31T14:22:55Z</updated>
+  <updated>2022-08-31T16:33:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China Factories Hurt Amid Covid Disruptions, Heat Wave, Property Slump</title>
-    <updated>2022-08-31T12:54:00Z</updated>
+    <title>China&#39;s Economic Woes Drag On With Factory Disruptions, Property Slump</title>
+    <updated>2022-08-31T15:37:00Z</updated>
     <id>tag:www.wsj.com,2022-08-31:/articles/chinas-factories-hurt-amid-covid-disruptions-heat-waves-property-slump-11661944730</id>
-    <content type="html">Economic indicators show extreme weather and coronavirus-related lockdowns stifled Chinese manufacturing in August.</content>
+    <content type="html">Extreme weather and power shortages depressed manufacturing, while home sales fell for the 14th consecutive month.</content>
     <link href="https://www.wsj.com/articles/chinas-factories-hurt-amid-covid-disruptions-heat-waves-property-slump-11661944730" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-08-31:/articles/ukraines-overstretched-psychiatric-hospitals-face-wave-of-traumatized-soldiers-11661938275</id>
     <content type="html">Doctors and Western experts say the war in Ukraine is creating additional mental-health scars that threaten to push the country’s fragile care system into a lasting crisis.</content>
     <link href="https://www.wsj.com/articles/ukraines-overstretched-psychiatric-hospitals-face-wave-of-traumatized-soldiers-11661938275" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mikhail Gorbachev, Reformer of Soviet Union, Dies at 91</title>
+    <updated>2022-08-30T23:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-08-30:/articles/mikhail-gorbachev-dead-soviet-union-leader-reformer-11656704339</id>
+    <content type="html">The architect of “perestroika” and “glasnost”—restructuring and openness—unleashed a wave of unstoppable forces that led to the bloc’s demise in 1991.</content>
+    <link href="https://www.wsj.com/articles/mikhail-gorbachev-dead-soviet-union-leader-reformer-11656704339" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
