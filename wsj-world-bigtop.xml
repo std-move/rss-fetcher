@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-08-31T10:26:47Z</updated>
+  <updated>2022-08-31T12:51:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.N. Inspectors Leave Kyiv for Zaporizhzhia Nuclear Plant</title>
     <updated>2022-08-31T10:17:00Z</updated>
     <id>tag:www.wsj.com,2022-08-31:/articles/iaea-team-leaves-kyiv-for-zaporizhzhia-nuclear-power-plant-11661925378</id>
-    <content type="html">An International Atomic Energy Agency team headed to the Russian-occupied nuclear-power plant early Wednesday, pledging to establish a permanent mission there amid fears that fighting in the area could lead to a nuclear disaster.</content>
+    <content type="html">An International Atomic Energy Agency team headed to the Russian-occupied nuclear-power plant, pledging to establish a permanent mission there amid fears that fighting in the area could lead to a nuclear disaster.</content>
     <link href="https://www.wsj.com/articles/iaea-team-leaves-kyiv-for-zaporizhzhia-nuclear-power-plant-11661925378" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
