@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-01T16:33:44Z</updated>
+  <updated>2022-09-01T18:30:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.N. Inspectors Reach Russian-Held  Nuclear Plant in Ukraine</title>
-    <updated>2022-09-01T16:15:00Z</updated>
+    <updated>2022-09-01T17:12:00Z</updated>
     <id>tag:www.wsj.com,2022-09-01:/articles/u-n-inspectors-set-to-cross-front-line-to-reach-russian-held-nuclear-plant-11662022518</id>
-    <content type="html">A team from the International Atomic Energy Agency arrived at the Zaporizhzhia plant despite intense shelling in the area, which Ukraine and Russia blamed on each other.</content>
+    <content type="html">A team from the International Atomic Energy Agency visited the Zaporizhzhia plant despite intense shelling in the area, which Ukraine and Russia blamed on each other.</content>
     <link href="https://www.wsj.com/articles/u-n-inspectors-set-to-cross-front-line-to-reach-russian-held-nuclear-plant-11662022518" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
