@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-01T14:22:06Z</updated>
+  <updated>2022-09-01T16:33:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.N. Inspectors Reach Russian-Held Nuclear Plant in Ukraine</title>
-    <updated>2022-09-01T11:54:00Z</updated>
+    <title>U.N. Inspectors Reach Russian-Held  Nuclear Plant in Ukraine</title>
+    <updated>2022-09-01T16:15:00Z</updated>
     <id>tag:www.wsj.com,2022-09-01:/articles/u-n-inspectors-set-to-cross-front-line-to-reach-russian-held-nuclear-plant-11662022518</id>
-    <content type="html">A team from the International Atomic Energy Agency arrived at the Zaporizhzhia plant despite intensifying fighting along their route, for which Ukraine and Russia blamed each other.</content>
+    <content type="html">A team from the International Atomic Energy Agency arrived at the Zaporizhzhia plant despite intense shelling in the area, which Ukraine and Russia blamed on each other.</content>
     <link href="https://www.wsj.com/articles/u-n-inspectors-set-to-cross-front-line-to-reach-russian-held-nuclear-plant-11662022518" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainian Soldiers Say They Are Advancing in the South, but at a Cost</title>
-    <updated>2022-08-31T22:02:00Z</updated>
-    <id>tag:www.wsj.com,2022-08-31:/articles/ukrainian-soldiers-say-they-are-advancing-in-the-south-but-at-a-cost-11661983338</id>
-    <content type="html">Ukrainian army units are pushing toward the city of Kherson, but Ukrainian officials and military analysts have said losses could be high, even if the offensive is successful.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-soldiers-say-they-are-advancing-in-the-south-but-at-a-cost-11661983338" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
