@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-02T06:45:03Z</updated>
+  <updated>2022-09-02T08:29:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Says Russia Uses Cargo Ships to Ferry Weapons to Black Sea</title>
-    <updated>2022-09-02T04:01:00Z</updated>
+    <updated>2022-09-02T08:13:00Z</updated>
     <id>tag:www.wsj.com,2022-09-02:/articles/ukraine-says-russia-is-using-cargo-ships-to-ferry-weapons-to-the-black-sea-11662065663</id>
     <content type="html">A shipping line with ties to the Russian Defense Ministry has been carrying arms through the Bosporus to aid Moscow’s war effort, according to Ukrainian officials who have asked Turkey to block the vessels.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-russia-is-using-cargo-ships-to-ferry-weapons-to-the-black-sea-11662065663" rel="alternate"></link>
