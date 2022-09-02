@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-02T14:21:19Z</updated>
+  <updated>2022-09-02T16:34:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Accuses Russia of Hindering Access to Zaporizhzhia Nuclear Plant</title>
-    <updated>2022-09-02T11:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-02:/articles/ukraine-accuses-russia-of-hindering-access-to-zaporizhzhia-nuclear-plant-11662116143</id>
-    <content type="html">Ukraine’s state nuclear-energy company said Russian forces blocked foreign journalists from observing the visit by United Nations inspectors and limited the workers at the plant who could speak to investigators. Russia denied any obstruction.</content>
-    <link href="https://www.wsj.com/articles/ukraine-accuses-russia-of-hindering-access-to-zaporizhzhia-nuclear-plant-11662116143" rel="alternate"></link>
+    <title>China&#39;s Economy Won&#39;t Overtake the U.S., Some Now Predict</title>
+    <updated>2022-09-02T14:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-02:/articles/will-chinas-economy-surpass-the-u-s-s-some-now-doubt-it-11662123945</id>
+    <content type="html">Slowing growth has dampened expectations that the Chinese economy will become the world’s largest by the end of the decade.</content>
+    <link href="https://www.wsj.com/articles/will-chinas-economy-surpass-the-u-s-s-some-now-doubt-it-11662123945" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>For Some Ukrainians, Fear of Homelessness Outweighs Fear of Death</title>
+    <updated>2022-09-02T14:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-02:/articles/for-some-ukrainians-fear-of-homelessness-outweighs-fear-of-death-11662128190</id>
+    <content type="html">Across war-torn eastern Ukraine, many residents are choosing to stay despite government calls to evacuate, hoping the fighting stops and often scoffing at a promised payout of about $50.</content>
+    <link href="https://www.wsj.com/articles/for-some-ukrainians-fear-of-homelessness-outweighs-fear-of-death-11662128190" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
