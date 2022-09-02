@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-02T10:26:25Z</updated>
+  <updated>2022-09-02T12:47:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Says Russia Uses Cargo Ships to Ferry Weapons to Black Sea</title>
-    <updated>2022-09-02T08:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-02:/articles/ukraine-says-russia-is-using-cargo-ships-to-ferry-weapons-to-the-black-sea-11662065663</id>
-    <content type="html">A shipping line with ties to the Russian Defense Ministry has been carrying arms through the Bosporus to aid Moscow’s war effort, according to Ukrainian officials who have asked Turkey to block the vessels.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-russia-is-using-cargo-ships-to-ferry-weapons-to-the-black-sea-11662065663" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.N. Inspectors Reach Russian-Held Nuclear Plant in Ukraine</title>
-    <updated>2022-09-01T20:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-01:/articles/u-n-inspectors-set-to-cross-front-line-to-reach-russian-held-nuclear-plant-11662022518</id>
-    <content type="html">A team from the International Atomic Energy Agency visited the Zaporizhzhia plant despite intense shelling in the area, which Ukraine and Russia blamed on each other.</content>
-    <link href="https://www.wsj.com/articles/u-n-inspectors-set-to-cross-front-line-to-reach-russian-held-nuclear-plant-11662022518" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xinjiang Rights Report Ratchets Up Standoff Between the U.S., China</title>
-    <updated>2022-09-01T19:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-01:/articles/xinjiang-rights-report-ratchets-up-standoff-between-the-u-s-and-china-11662038048</id>
-    <content type="html">China called the U.N. assessment of possible crimes against humanity in Xinjiang an illegitimate report in a fiery response that underscores Beijing’s deepening geopolitical fissures with Western powers.</content>
-    <link href="https://www.wsj.com/articles/xinjiang-rights-report-ratchets-up-standoff-between-the-u-s-and-china-11662038048" rel="alternate"></link>
+    <title>Ukraine Accuses Russia of Hindering Access to Zaporizhzhia Nuclear Plant</title>
+    <updated>2022-09-02T11:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-02:/articles/ukraine-accuses-russia-of-hindering-access-to-zaporizhzhia-nuclear-plant-11662116143</id>
+    <content type="html">Ukraine’s state nuclear-energy company said Russian forces blocked foreign journalists from observing the visit by United Nations inspectors and limited the workers at the plant who could speak to investigators. Russia denied any obstruction.</content>
+    <link href="https://www.wsj.com/articles/ukraine-accuses-russia-of-hindering-access-to-zaporizhzhia-nuclear-plant-11662116143" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
