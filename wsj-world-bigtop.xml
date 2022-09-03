@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-03T16:31:22Z</updated>
+  <updated>2022-09-03T18:28:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Mikhail Gorbachev, the First and Last President of the U.S.S.R., Laid to Rest</title>
-    <updated>2022-09-03T16:15:00Z</updated>
+    <updated>2022-09-03T17:04:00Z</updated>
     <id>tag:www.wsj.com,2022-09-03:/articles/mikhail-gorbachev-the-first-and-last-president-of-the-u-s-s-r-laid-to-rest-11662210058</id>
     <content type="html">Former Soviet President Mikhail Gorbachev was laid to rest Saturday in a subdued farewell, with hundreds of mourners from former Soviet republics travelling to pay their respects.</content>
     <link href="https://www.wsj.com/articles/mikhail-gorbachev-the-first-and-last-president-of-the-u-s-s-r-laid-to-rest-11662210058" rel="alternate"></link>
