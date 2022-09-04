@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-04T14:20:40Z</updated>
+  <updated>2022-09-04T16:31:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-09-04:/articles/india-takes-cautious-steps-toward-ties-with-taliban-11662296400</id>
     <content type="html">While New Delhi remains wary of security threats from Afghanistan, Indian officials are bolstering their presence in the country amid concerns about the influence of China and Pakistan in the region.</content>
     <link href="https://www.wsj.com/articles/india-takes-cautious-steps-toward-ties-with-taliban-11662296400" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Economic Slump Bodes Ill for Birth Numbers</title>
-    <updated>2022-09-04T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-04:/articles/chinas-economic-slump-bodes-ill-for-birth-numbers-11662289200</id>
-    <content type="html">China aims to lift births, but some demographers expect its population to shrink as soon as this year as job uncertainties push young people to delay having children.</content>
-    <link href="https://www.wsj.com/articles/chinas-economic-slump-bodes-ill-for-birth-numbers-11662289200" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
