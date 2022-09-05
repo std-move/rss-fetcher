@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-05T20:25:16Z</updated>
+  <updated>2022-09-05T22:24:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Liz Truss&#39;s Inheritance: A U.K. Economy on Its Knees</title>
     <updated>2022-09-05T14:49:00Z</updated>
     <id>tag:www.wsj.com,2022-09-05:/articles/liz-truss-uk-economy-recession-inflation-energy-crisis-11662388777</id>
-    <content type="html">The new prime minister faces record inflation, a faltering pound, spiraling energy costs and an ill-timed labor shortage</content>
+    <content type="html">The new prime minister faces record inflation, a faltering pound, spiraling energy costs and an ill-timed labor shortage.</content>
     <link href="https://www.wsj.com/articles/liz-truss-uk-economy-recession-inflation-energy-crisis-11662388777" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
