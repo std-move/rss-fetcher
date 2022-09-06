@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-06T10:27:41Z</updated>
+  <updated>2022-09-06T12:51:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Boris Johnson Bows Out as U.K. Prime Minister, Ending a Tumultuous Three Years in Office</title>
+    <updated>2022-09-06T11:38:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-06:/articles/boris-johnson-bows-out-as-u-k-prime-minister-ending-a-tumultuous-three-years-in-office-11662458331</id>
+    <content type="html">The bombastic British leader was replaced by the former foreign secretary Liz Truss after she won a two-month battle to take over at the top of the ruling Conservative Party.</content>
+    <link href="https://www.wsj.com/articles/boris-johnson-bows-out-as-u-k-prime-minister-ending-a-tumultuous-three-years-in-office-11662458331" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Liz Truss&#39;s Inheritance: A U.K. Economy on Its Knees</title>
     <updated>2022-09-05T14:49:00Z</updated>
     <id>tag:www.wsj.com,2022-09-05:/articles/liz-truss-uk-economy-recession-inflation-energy-crisis-11662388777</id>
     <content type="html">The new prime minister faces record inflation, a faltering pound, spiraling energy costs and an ill-timed labor shortage.</content>
     <link href="https://www.wsj.com/articles/liz-truss-uk-economy-recession-inflation-energy-crisis-11662388777" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A RussianSoldier&#39;s Inside View of Moscow&#39;s War in Ukraine</title>
-    <updated>2022-09-05T14:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-05:/articles/a-russiansoldiers-inside-view-of-moscows-war-in-ukraine-11662388999</id>
-    <content type="html">Pavel Filatyev, who left the army, is one of the most outspoken veterans of the conflict, detailing what he calls the Russian military’s failings in Ukraine in interviews and a 141-page written account published online.</content>
-    <link href="https://www.wsj.com/articles/a-russiansoldiers-inside-view-of-moscows-war-in-ukraine-11662388999" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
