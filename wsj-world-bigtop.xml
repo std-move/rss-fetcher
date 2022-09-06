@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-06T14:25:07Z</updated>
+  <updated>2022-09-06T16:36:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In Southern Pakistan, a Sea Made of Monsoon Waters Swallows Villages</title>
+    <updated>2022-09-06T14:35:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-06:/articles/in-southern-pakistan-a-sea-made-of-monsoon-waters-swallows-villages-11662456600</id>
+    <content type="html">Millions have been affected by a catastrophe that the South Asian country’s officials have blamed on climate change.</content>
+    <link href="https://www.wsj.com/articles/in-southern-pakistan-a-sea-made-of-monsoon-waters-swallows-villages-11662456600" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Boris Johnson Bows Out as U.K. Prime Minister, Ending a Tumultuous Three Years in Office</title>
     <updated>2022-09-06T11:38:00Z</updated>
     <id>tag:www.wsj.com,2022-09-06:/articles/boris-johnson-bows-out-as-u-k-prime-minister-ending-a-tumultuous-three-years-in-office-11662458331</id>
     <content type="html">The bombastic British leader was replaced by the former foreign secretary Liz Truss after she won a two-month battle to take over at the top of the ruling Conservative Party.</content>
     <link href="https://www.wsj.com/articles/boris-johnson-bows-out-as-u-k-prime-minister-ending-a-tumultuous-three-years-in-office-11662458331" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Southern Pakistan, a Sea Made of Monsoon Waters Swallows Villages</title>
-    <updated>2022-09-06T10:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-06:/articles/in-southern-pakistan-a-sea-made-of-monsoon-waters-swallows-villages-11662456600</id>
-    <content type="html">Millions have been affected by a catastrophe that the South Asian country’s officials have blamed on climate change.</content>
-    <link href="https://www.wsj.com/articles/in-southern-pakistan-a-sea-made-of-monsoon-waters-swallows-villages-11662456600" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
