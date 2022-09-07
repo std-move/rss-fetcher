@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-07T14:30:16Z</updated>
+  <updated>2022-09-07T16:35:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Putin Threatens to Abandon Grain Deal, Further Squeeze Energy Supplies</title>
-    <updated>2022-09-07T13:59:00Z</updated>
+    <updated>2022-09-07T14:57:00Z</updated>
     <id>tag:www.wsj.com,2022-09-07:/articles/putin-threatens-to-limit-ukraines-grain-exports-accuses-west-of-deception-11662550822</id>
     <content type="html">The Russian president said food exported from Ukraine wasn’t being sent to the poor countries that needed it and accused European nations of acting as colonizers.</content>
     <link href="https://www.wsj.com/articles/putin-threatens-to-limit-ukraines-grain-exports-accuses-west-of-deception-11662550822" rel="alternate"></link>
