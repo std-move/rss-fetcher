@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-07T08:32:14Z</updated>
+  <updated>2022-09-07T10:28:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukrainian Troops Advance in East, Threatening Russian Supply Route</title>
+    <updated>2022-09-07T09:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-07:/articles/ukrainian-troops-advance-in-east-threatening-russian-supply-route-11662544101</id>
+    <content type="html">An unexpected Ukrainian military offensive in the east near the country’s second-largest city of Kharkiv is gaining ground, testing Russian occupation forces that are also under pressure in southern Ukraine.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-troops-advance-in-east-threatening-russian-supply-route-11662544101" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In Southern Pakistan, a Sea Made of Monsoon Waters Swallows Villages</title>
     <updated>2022-09-06T14:35:00Z</updated>
