@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-09T14:28:13Z</updated>
+  <updated>2022-09-09T16:35:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Eastern Advance Puts Forces Close to Key Town</title>
-    <updated>2022-09-09T13:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-09:/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470</id>
-    <content type="html">Images of the Ukrainian flag being raised over local government buildings and residents greeting soldiers with tears of joy have boosted morale across the country after months on the defensive.</content>
-    <link href="https://www.wsj.com/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>King Charles&#39;s Reign Dawns as Britain Mourns Its Queen</title>
-    <updated>2022-09-09T11:52:00Z</updated>
+    <updated>2022-09-09T16:26:00Z</updated>
     <id>tag:www.wsj.com,2022-09-09:/articles/king-charles-iiis-reign-dawns-as-britain-mourns-loss-of-queen-elizabeth-ii-11662717437</id>
     <content type="html">King Charles III will address the British people for the first time as their new monarch, as the nation begins to observe a period of national mourning following the death of Queen Elizabeth II.</content>
     <link href="https://www.wsj.com/articles/king-charles-iiis-reign-dawns-as-britain-mourns-loss-of-queen-elizabeth-ii-11662717437" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s Eastern Advance Puts Forces Close to Key Town</title>
+    <updated>2022-09-09T15:20:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-09:/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470</id>
+    <content type="html">Images of the Ukrainian flag being raised over local government buildings and residents greeting soldiers with tears of joy have boosted morale across the country after months on the defensive.</content>
+    <link href="https://www.wsj.com/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
