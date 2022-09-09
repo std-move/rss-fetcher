@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-09T18:31:40Z</updated>
+  <updated>2022-09-09T20:27:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Eastern Advance Puts Forces Close to Key Town</title>
-    <updated>2022-09-09T15:20:00Z</updated>
+    <updated>2022-09-09T19:17:00Z</updated>
     <id>tag:www.wsj.com,2022-09-09:/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470</id>
     <content type="html">Images of the Ukrainian flag being raised over local government buildings and residents greeting soldiers with tears of joy have boosted morale across the country after months on the defensive.</content>
     <link href="https://www.wsj.com/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>In Russia&#39;s Poorest Regions, War in Ukraine Exacts Heavy Toll</title>
+    <updated>2022-09-09T11:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-09:/articles/in-russias-poorest-regions-war-in-ukraine-exacts-heavy-toll-11662722109</id>
+    <content type="html">Many of Russia’s war dead are from places like Tuva and other less-developed communities where jobs are often few and the military offers security and a chance at a better life.</content>
+    <link href="https://www.wsj.com/articles/in-russias-poorest-regions-war-in-ukraine-exacts-heavy-toll-11662722109" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
