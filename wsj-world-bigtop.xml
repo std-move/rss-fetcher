@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-10T10:26:39Z</updated>
+  <updated>2022-09-10T12:44:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine&#39;s Rapid Advance in East Puts Russian Forces on Defensive</title>
-    <updated>2022-09-09T22:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-09:/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470</id>
-    <content type="html">Ukrainian gains have shifted the momentum of the war, catching Moscow off guard and threatening to isolate thousands of Russian troops.</content>
-    <link href="https://www.wsj.com/articles/ukraines-eastern-advance-puts-forces-close-to-key-town-11662718470" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>King&#39;s Challenge Is to Strengthen the Monarchy While Changing It</title>
-    <updated>2022-09-09T18:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-09:/articles/king-charless-challenge-is-to-strengthen-the-monarchy-as-he-changes-it-11662749721</id>
-    <content type="html">As King Charles III takes over from his long-reigning mother, he will be challenged to keep the monarchy at the center of a Britain that’s far more diverse and less deferential than when his mother ascended to the throne.</content>
-    <link href="https://www.wsj.com/articles/king-charless-challenge-is-to-strengthen-the-monarchy-as-he-changes-it-11662749721" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
