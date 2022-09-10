@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-10T20:25:30Z</updated>
+  <updated>2022-09-10T22:23:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>King Charles III Formally Proclaimed U.K. Monarch in Pomp and Ceremony</title>
+    <title>In Major Advance, Ukraine Drives Russians Out of Key Front-Line Cities</title>
+    <updated>2022-09-10T20:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-10:/articles/in-major-advance-ukraine-drives-russians-out-of-key-eastern-city-11662807160</id>
+    <content type="html">Ukrainian troops pushed deep into Russian-held territory, handing Kyiv strategically important towns and cities in the northeast of the country and delivering Russian forces one of their biggest setbacks since the start of the war.</content>
+    <link href="https://www.wsj.com/articles/in-major-advance-ukraine-drives-russians-out-of-key-eastern-city-11662807160" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>King Charles III Formally Proclaimed U.K. Monarch With Pomp and Ceremony</title>
     <updated>2022-09-10T17:54:00Z</updated>
     <id>tag:www.wsj.com,2022-09-10:/articles/king-charles-iii-formally-proclaimed-u-k-monarch-in-pomp-and-ceremony-11662807779</id>
     <content type="html">He was officially proclaimed monarch during a historic televised Accession Council ceremony, as Britain’s new king undertook the first formalities of his reign while still grieving for his late mother.</content>
     <link href="https://www.wsj.com/articles/king-charles-iii-formally-proclaimed-u-k-monarch-in-pomp-and-ceremony-11662807779" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Major Advance, Ukraine Drives Russians Out of Key Front-Line Cities</title>
-    <updated>2022-09-10T16:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-10:/articles/in-major-advance-ukraine-drives-russians-out-of-key-eastern-city-11662807160</id>
-    <content type="html">Ukrainian troops pushed deep into Russian-held territory, handing Kyiv strategically important towns and cities in the northeast of the country and delivering Russian forces one of their biggest setbacks since the start of the war.</content>
-    <link href="https://www.wsj.com/articles/in-major-advance-ukraine-drives-russians-out-of-key-eastern-city-11662807160" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
