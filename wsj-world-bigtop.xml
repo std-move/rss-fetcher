@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-12T10:28:54Z</updated>
+  <updated>2022-09-12T12:54:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>King Charles to Lead Royal Procession After Addressing British Lawmakers</title>
+    <updated>2022-09-12T12:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-12:/articles/king-charles-to-lead-royal-procession-after-addressing-british-lawmakers-11662982161</id>
+    <content type="html">The king received the condolences of Britain’s parliament before traveling to Scotland, where Queen Elizabeth II’s coffin will for the first time publicly lie in rest.</content>
+    <link href="https://www.wsj.com/articles/king-charles-to-lead-royal-procession-after-addressing-british-lawmakers-11662982161" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia Withdraws More Forces From Northeast Ukraine</title>
+    <updated>2022-09-12T10:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-12:/articles/russia-withdraws-more-forces-from-northeast-ukraine-as-kyiv-presses-advance-11662980194</id>
+    <content type="html">Russia retreated from a vast swath of northeastern Ukraine as Kyiv’s forces continued their push into Russian-occupied territory and the government pledged that all areas seized by Moscow would be retaken.</content>
+    <link href="https://www.wsj.com/articles/russia-withdraws-more-forces-from-northeast-ukraine-as-kyiv-presses-advance-11662980194" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Famine Threatens East Africa as Drought Persists</title>
+    <updated>2022-09-12T10:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-12:/articles/famine-threatens-east-africa-as-drought-persists-11662977441</id>
+    <content type="html">East Africans grappling with the devastating effects of four straight failed rainy seasons are confronting the likelihood that the next rains will also come up short, deepening a hunger emergency that could tip into famine in some areas within weeks.</content>
+    <link href="https://www.wsj.com/articles/famine-threatens-east-africa-as-drought-persists-11662977441" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
