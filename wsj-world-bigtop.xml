@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-12T05:41:19Z</updated>
+  <updated>2022-09-12T06:58:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>In Ukraine&#39;s South, Residents Resist Russian Occupiers</title>
-    <updated>2022-09-11T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-11:/articles/ukrainians-in-kherson-resist-russian-occupiers-and-hope-for-their-armys-arrival-11662888601</id>
-    <content type="html">As Ukraine presses its offensive in the south, Kherson residents are trying to hang on, waiting for their army to arrive and doing what they can to resist Russification.</content>
-    <link href="https://www.wsj.com/articles/ukrainians-in-kherson-resist-russian-occupiers-and-hope-for-their-armys-arrival-11662888601" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
