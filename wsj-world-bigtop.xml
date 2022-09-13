@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-13T10:28:55Z</updated>
+  <updated>2022-09-13T12:53:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-09-13:/articles/king-charles-iii-on-a-budget-will-need-to-keep-costs-down-11663063428</id>
     <content type="html">The monarchy and British government face a balancing act in maintaining a high-profile royal family.</content>
     <link href="https://www.wsj.com/articles/king-charles-iii-on-a-budget-will-need-to-keep-costs-down-11663063428" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Withdraws More Forces From Northeast Ukraine</title>
-    <updated>2022-09-13T00:12:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-13:/articles/russia-withdraws-more-forces-from-northeast-ukraine-as-kyiv-presses-advance-11662980194</id>
-    <content type="html">Russia retreated from a vast swath of northeastern Ukraine as Kyiv’s forces continued their push into Russian-occupied territory and the government pledged that all areas seized by Moscow would be retaken.</content>
-    <link href="https://www.wsj.com/articles/russia-withdraws-more-forces-from-northeast-ukraine-as-kyiv-presses-advance-11662980194" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
