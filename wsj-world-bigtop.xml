@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-13T16:35:32Z</updated>
+  <updated>2022-09-13T18:31:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Consolidates Gains in Northeast</title>
-    <updated>2022-09-13T15:51:00Z</updated>
+    <updated>2022-09-13T18:08:00Z</updated>
     <id>tag:www.wsj.com,2022-09-13:/articles/ukraine-consolidates-gains-in-northeast-amid-push-for-more-military-aid-11663069652</id>
     <content type="html">Ukrainian forces looked to maximize gains from a lightning-quick offensive in the country’s northeastern Kharkiv region, making a diplomatic push for more weapons and deeper security ties with Western allies.</content>
     <link href="https://www.wsj.com/articles/ukraine-consolidates-gains-in-northeast-amid-push-for-more-military-aid-11663069652" rel="alternate"></link>
@@ -14,10 +14,18 @@
   </entry>
   <entry>
     <title>Mourners Jam Scottish Capital to Bid Farewell to Queen Elizabeth</title>
-    <updated>2022-09-13T13:07:00Z</updated>
+    <updated>2022-09-13T17:17:00Z</updated>
     <id>tag:www.wsj.com,2022-09-13:/articles/mourners-jam-scottish-capital-to-bid-farewell-to-queen-elizabeth-ii-11663074434</id>
     <content type="html">Tens of thousands of people lined up to pay their respects in Edinburgh before the queen’s coffin is flown to London ahead of lying in state for four days.</content>
     <link href="https://www.wsj.com/articles/mourners-jam-scottish-capital-to-bid-farewell-to-queen-elizabeth-ii-11663074434" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s Economy Stabilizes, a Boost Alongside Rapid Military Gains</title>
+    <updated>2022-09-13T14:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-13:/articles/ukraine-economy-stabilizes-military-gains-11663078436</id>
+    <content type="html">Businesses have picked up from the depths early in Russia’s invasion, with some companies in areas away from the front lines adding jobs and becoming military suppliers. “We are well trained in recovering from all types of crises.”</content>
+    <link href="https://www.wsj.com/articles/ukraine-economy-stabilizes-military-gains-11663078436" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
