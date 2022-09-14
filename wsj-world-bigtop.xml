@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-14T16:39:13Z</updated>
+  <updated>2022-09-14T18:31:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Royal Family Unites to Accompany Queen Elizabeth II&#39;s Coffin Through London</title>
+    <updated>2022-09-14T18:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-14:/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747</id>
+    <content type="html">The royal family united in procession to move Queen Elizabeth II’s coffin from Buckingham Palace to Westminster Hall in London, where it will lie in state for four days before her official funeral.</content>
+    <link href="https://www.wsj.com/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Zelensky Visits Recaptured City, Calls for More Help From Allies</title>
-    <updated>2022-09-14T16:23:00Z</updated>
+    <updated>2022-09-14T17:27:00Z</updated>
     <id>tag:www.wsj.com,2022-09-14:/articles/ukraines-zelensky-visits-recaptured-city-calls-for-more-help-from-western-allies-11663157995</id>
     <content type="html">The Ukrainian president made his first trip to the Kharkiv region since Ukrainian forces recaptured thousands of square miles of territory there over the weekend, as he sought to capitalize on his country’s battlefield gains in a bid for further aid from the West.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-recaptured-city-calls-for-more-help-from-western-allies-11663157995" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Royal Family Unites to Accompany Queen Elizabeth II&#39;s Coffin Through London</title>
-    <updated>2022-09-14T14:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-14:/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747</id>
-    <content type="html">The royal family united in procession to move Queen Elizabeth II’s coffin from Buckingham Palace to Westminster Hall in London, where it will lie in state for four days before her official funeral.</content>
-    <link href="https://www.wsj.com/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747" rel="alternate"></link>
+    <title>Amazonian Destruction Soars&#xA;&#x9;&#x9;&#xA;&#x9;&#x9;&#x9; &#xA;&#x9;&#x9;&#xA;&#x9;Before Brazil Election</title>
+    <updated>2022-09-14T14:35:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-14:/articles/amazonian-destruction-risesbefore-brazil-presidential-election-11663166106</id>
+    <content type="html">Criminal groups race to raze the forest, environmentalists say, fearing tougher protections against deforestation if President Jair Bolsonaro loses the October vote to Luiz Inácio Lula da Silva.</content>
+    <link href="https://www.wsj.com/articles/amazonian-destruction-risesbefore-brazil-presidential-election-11663166106" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
