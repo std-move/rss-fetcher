@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-14T12:53:11Z</updated>
+  <updated>2022-09-14T14:30:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Zelensky Visits Recaptured City, Calls for More Help From Allies</title>
+    <updated>2022-09-14T13:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-14:/articles/ukraines-zelensky-visits-recaptured-city-calls-for-more-help-from-western-allies-11663157995</id>
+    <content type="html">In visiting the retaken areas, the president is seeking to capitalize on the country’s battlefield gains, which Ukrainian officials hope will help encourage its Western backers to send more military and financial aid.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-recaptured-city-calls-for-more-help-from-western-allies-11663157995" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Royal Family Will Unite to Accompany Queen&#39;s Coffin Through London</title>
     <updated>2022-09-14T11:42:00Z</updated>
     <id>tag:www.wsj.com,2022-09-14:/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747</id>
     <content type="html">The royal family will unite in procession to move Queen Elizabeth II’s coffin from Buckingham Palace to Westminster Hall in London, where it will lie in state for four days before her official funeral.</content>
     <link href="https://www.wsj.com/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Evergrande&#39;s Soccer Empire Runs Into Trouble</title>
-    <updated>2022-09-14T09:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-14:/articles/china-evergrandes-other-spending-spreeon-socceris-also-running-into-trouble-11663148826</id>
-    <content type="html">China Evergrande’s property business, built with billions of dollars in borrowed money, has had a humiliating comedown. Its formerly brand-burnishing soccer empire is going through one, too.</content>
-    <link href="https://www.wsj.com/articles/china-evergrandes-other-spending-spreeon-socceris-also-running-into-trouble-11663148826" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
