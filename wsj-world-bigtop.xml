@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-13T22:26:52Z</updated>
+  <updated>2022-09-14T02:38:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Consolidates Gains in Northeast</title>
+    <updated>2022-09-14T00:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-14:/articles/ukraine-consolidates-gains-in-northeast-amid-push-for-more-military-aid-11663069652</id>
+    <content type="html">Ukrainian forces looked to maximize gains from a lightning-quick offensive in the country’s northeastern Kharkiv region, making a diplomatic push for more weapons and deeper security ties with Western allies.</content>
+    <link href="https://www.wsj.com/articles/ukraine-consolidates-gains-in-northeast-amid-push-for-more-military-aid-11663069652" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Queen Elizabeth II&#39;s Coffin Arrives in London After Farewell in Scotland</title>
     <updated>2022-09-13T20:31:00Z</updated>
     <id>tag:www.wsj.com,2022-09-13:/articles/mourners-jam-scottish-capital-to-bid-farewell-to-queen-elizabeth-ii-11663074434</id>
     <content type="html">Tens of thousands of people lined up to pay their respects in Edinburgh before the queen’s coffin was flown to London ahead of lying in state for four days.</content>
     <link href="https://www.wsj.com/articles/mourners-jam-scottish-capital-to-bid-farewell-to-queen-elizabeth-ii-11663074434" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Consolidates Gains in Northeast</title>
-    <updated>2022-09-13T18:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-13:/articles/ukraine-consolidates-gains-in-northeast-amid-push-for-more-military-aid-11663069652</id>
-    <content type="html">Ukrainian forces looked to maximize gains from a lightning-quick offensive in the country’s northeastern Kharkiv region, making a diplomatic push for more weapons and deeper security ties with Western allies.</content>
-    <link href="https://www.wsj.com/articles/ukraine-consolidates-gains-in-northeast-amid-push-for-more-military-aid-11663069652" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
