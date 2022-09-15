@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-15T12:56:17Z</updated>
+  <updated>2022-09-15T14:34:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Strikes Zelensky&#39;s Hometown as President Visits Recaptured City</title>
-    <updated>2022-09-15T02:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-15:/articles/ukraines-zelensky-visits-recaptured-city-calls-for-more-help-from-western-allies-11663157995</id>
-    <content type="html">Russia struck water infrastructure in Ukrainian President Volodymyr Zelensky’s hometown with cruise missiles, after Mr. Zelensky made his first trip to the Kharkiv region since Ukrainian forces recaptured thousands of square miles of territory there over the weekend.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-recaptured-city-calls-for-more-help-from-western-allies-11663157995" rel="alternate"></link>
+    <title>Ukraine Battles Flooding After Russian Strike on Dam</title>
+    <updated>2022-09-15T11:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-15:/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695</id>
+    <content type="html">Ukrainian authorities said they had managed to stave off flooding caused by a Russian missile strike on the southern city of Kryviy Rih, as their forces consolidated their positions in recently retaken areas.</content>
+    <link href="https://www.wsj.com/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Royal Family Unites to Accompany Queen Elizabeth II&#39;s Coffin Through London</title>
-    <updated>2022-09-14T20:49:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-14:/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747</id>
-    <content type="html">The royal family united in procession to move Queen Elizabeth II’s coffin from Buckingham Palace to Westminster Hall in London, where it will lie in state for four days before her official funeral.</content>
-    <link href="https://www.wsj.com/articles/royal-family-will-unite-to-accompany-queens-coffin-through-london-11663155747" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Russian Border City, Pro-Kremlin Ukrainians, Soldiers Regroup After Retreat From Ukraine</title>
-    <updated>2022-09-14T20:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-14:/articles/in-russian-border-city-pro-kremlin-ukrainians-soldiers-regroup-after-retreat-from-ukraine-11663187679</id>
-    <content type="html">Belgorod is on edge after Moscow’s forces vacate northeastern Ukraine. “We ourselves don’t understand what happened,” said one pro-Russian Ukrainian who fled to Russia.</content>
-    <link href="https://www.wsj.com/articles/in-russian-border-city-pro-kremlin-ukrainians-soldiers-regroup-after-retreat-from-ukraine-11663187679" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Amazonian Destruction Soars Before Brazil Election</title>
-    <updated>2022-09-14T14:35:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-14:/articles/amazonian-destruction-risesbefore-brazil-presidential-election-11663166106</id>
-    <content type="html">Criminal groups race to raze the forest, environmentalists say, fearing tougher protections against deforestation if President Jair Bolsonaro loses the October vote to Luiz Inácio Lula da Silva.</content>
-    <link href="https://www.wsj.com/articles/amazonian-destruction-risesbefore-brazil-presidential-election-11663166106" rel="alternate"></link>
+    <title>Mourners Line Up for Miles to Say Goodbye to the Queen</title>
+    <updated>2022-09-15T10:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-15:/articles/want-to-say-goodbye-to-the-queen-get-in-line-11663236299</id>
+    <content type="html">As the coffin of Queen Elizabeth II lay in state at Westminster Hall, a line of people stretched along the River Thames waiting to see it. In a nation that has perfected the art of waiting in line, it was a queue fit for a queen.</content>
+    <link href="https://www.wsj.com/articles/want-to-say-goodbye-to-the-queen-get-in-line-11663236299" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
