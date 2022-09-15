@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-15T18:31:46Z</updated>
+  <updated>2022-09-15T20:28:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Battles Flooding After Russian Strike on Dam</title>
+    <updated>2022-09-15T18:32:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-15:/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695</id>
+    <content type="html">Ukrainian authorities said they had managed to stave off flooding caused by a Russian missile strike on the southern city of Kryviy Rih, as Moscow targeted the dam with new salvos.</content>
+    <link href="https://www.wsj.com/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pakistan&#39;s Flood Losses Deal Crushing Blow to Ailing Economy</title>
     <updated>2022-09-15T14:00:00Z</updated>
     <id>tag:www.wsj.com,2022-09-15:/articles/pakistans-flood-losses-deal-crushing-blow-to-ailing-economy-11663250402</id>
     <content type="html">The disaster is expected to cost Pakistan at least $30 billion, wipe out growth and cause acute food shortages, threatening to push the country into default.</content>
     <link href="https://www.wsj.com/articles/pakistans-flood-losses-deal-crushing-blow-to-ailing-economy-11663250402" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Battles Flooding After Russian Strike on Dam</title>
-    <updated>2022-09-15T11:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-15:/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695</id>
-    <content type="html">Ukrainian authorities said they had managed to stave off flooding caused by a Russian missile strike on the southern city of Kryviy Rih, as their forces consolidated their positions in recently retaken areas.</content>
-    <link href="https://www.wsj.com/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
