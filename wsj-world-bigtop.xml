@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-16T16:36:48Z</updated>
+  <updated>2022-09-16T18:31:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Exhumes Mass Grave Site in Northeastern City Retaken From Russians</title>
-    <updated>2022-09-16T14:42:00Z</updated>
+    <title>Ukraine Exhumes Mass Grave Site in City Retaken From Russians</title>
+    <updated>2022-09-16T18:09:00Z</updated>
     <id>tag:www.wsj.com,2022-09-16:/articles/ukraine-exhumes-mass-grave-site-in-northeastern-city-retaken-from-russians-11663339330</id>
     <content type="html">Investigators say they found signs of torture on some of the hundreds of bodies buried in a forest at the edge of Izyum, which was recaptured this month.</content>
     <link href="https://www.wsj.com/articles/ukraine-exhumes-mass-grave-site-in-northeastern-city-retaken-from-russians-11663339330" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>India&#39;s Modi Voices Concern Over Ukraine War at Meeting With Russia&#39;s Putin</title>
+    <updated>2022-09-16T16:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-16:/articles/indias-narendra-modi-voices-concern-over-ukraine-war-to-russias-vladimir-putin-11663347008</id>
+    <content type="html">The Indian leader’s comments at a meeting in Uzbekistan came a day after Putin said China’s Xi Jinping had raised concerns about the conflict.</content>
+    <link href="https://www.wsj.com/articles/indias-narendra-modi-voices-concern-over-ukraine-war-to-russias-vladimir-putin-11663347008" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
