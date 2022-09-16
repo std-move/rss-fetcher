@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-16T02:47:29Z</updated>
+  <updated>2022-09-16T05:34:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Battles Flooding After Russian Strike on Dam</title>
-    <updated>2022-09-15T22:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-15:/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695</id>
+    <updated>2022-09-16T02:53:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-16:/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695</id>
     <content type="html">Ukrainian authorities said they had managed to stave off flooding caused by a Russian missile strike on the southern city of Kryviy Rih, as Moscow targeted the dam with new salvos.</content>
     <link href="https://www.wsj.com/articles/ukraine-battles-flooding-after-russian-strike-on-dam-11663241695" rel="alternate"></link>
     <summary type="html"></summary>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-09-15:/articles/pakistans-flood-losses-deal-crushing-blow-to-ailing-economy-11663250402</id>
     <content type="html">The disaster is expected to cost Pakistan at least $30 billion, wipe out growth and cause acute food shortages, threatening to push the country into default.</content>
     <link href="https://www.wsj.com/articles/pakistans-flood-losses-deal-crushing-blow-to-ailing-economy-11663250402" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mourners Line Up for Miles to Say Goodbye to the Queen</title>
+    <updated>2022-09-15T10:05:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-15:/articles/want-to-say-goodbye-to-the-queen-get-in-line-11663236299</id>
+    <content type="html">As the coffin of Queen Elizabeth II lay in state at Westminster Hall, a line of people stretched for more than four miles along the River Thames waiting to view it. In a nation that has perfected the art of waiting in line, it was a queue fit for a queen.</content>
+    <link href="https://www.wsj.com/articles/want-to-say-goodbye-to-the-queen-get-in-line-11663236299" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
