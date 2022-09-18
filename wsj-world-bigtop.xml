@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-18T14:22:13Z</updated>
+  <updated>2022-09-18T16:34:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Expands Attacks on Civilian Targets in Ukraine After Battlefield Losses</title>
-    <updated>2022-09-18T11:36:00Z</updated>
+    <updated>2022-09-18T15:52:00Z</updated>
     <id>tag:www.wsj.com,2022-09-18:/articles/russia-expands-attacks-on-civilian-targets-in-ukraine-after-battlefield-losses-11663500963</id>
     <content type="html">Moscow is intensifying a campaign of long-range missile strikes targeting Ukraine’s key infrastructure after suffering major setbacks in its invasion that have raised concerns about escalation from Russia.</content>
     <link href="https://www.wsj.com/articles/russia-expands-attacks-on-civilian-targets-in-ukraine-after-battlefield-losses-11663500963" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Steps Up Robotics Push as Workforce Shrinks</title>
+    <updated>2022-09-18T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-18:/articles/chinas-factories-accelerate-robotics-push-as-workforce-shrinks-11663493405</id>
+    <content type="html">China installed almost as many robots in its factories last year as the rest of the world, accelerating a rush to automate and consolidate its manufacturing dominance.</content>
+    <link href="https://www.wsj.com/articles/chinas-factories-accelerate-robotics-push-as-workforce-shrinks-11663493405" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
