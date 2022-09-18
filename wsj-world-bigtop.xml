@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-18T12:46:31Z</updated>
+  <updated>2022-09-18T14:22:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>For Prince Harry and Meghan, Tensions Linger in Royal Family After Queen&#39;s Death</title>
-    <updated>2022-09-17T16:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-17:/articles/for-prince-harry-and-meghan-tensions-linger-in-royal-family-after-queens-death-11663430470</id>
-    <content type="html">Confusion over whether the Duke and Duchess of Sussex were invited to a Buckingham Palace dinner on the eve of Queen Elizabeth’s funeral highlights lingering tensions.</content>
-    <link href="https://www.wsj.com/articles/for-prince-harry-and-meghan-tensions-linger-in-royal-family-after-queens-death-11663430470" rel="alternate"></link>
+    <title>Russia Expands Attacks on Civilian Targets in Ukraine After Battlefield Losses</title>
+    <updated>2022-09-18T11:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-18:/articles/russia-expands-attacks-on-civilian-targets-in-ukraine-after-battlefield-losses-11663500963</id>
+    <content type="html">Moscow is intensifying a campaign of long-range missile strikes targeting Ukraine’s key infrastructure after suffering major setbacks in its invasion that have raised concerns about escalation from Russia.</content>
+    <link href="https://www.wsj.com/articles/russia-expands-attacks-on-civilian-targets-in-ukraine-after-battlefield-losses-11663500963" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>The Queen&#39;s Journey to Her Final Resting Place</title>
-    <updated>2022-09-17T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-17:/articles/the-queens-journey-to-her-final-resting-place-11663416003</id>
-    <content type="html">Queen Elizabeth’s funeral, set for Monday, will offer pageantry and one last opportunity for well-wishers to bid farewell to the long-lived monarch.</content>
-    <link href="https://www.wsj.com/articles/the-queens-journey-to-her-final-resting-place-11663416003" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Oktoberfest Restarts in Munich After Two Years but Beermakers Face Inflation Headache</title>
-    <updated>2022-09-17T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-17:/articles/oktoberfest-restarts-in-munich-after-two-years-but-beermakers-face-inflation-headache-11663416001</id>
-    <content type="html">Oktoberfest is kicking off after a Covid-induced two-year lull, but German brewers are feeling the fallout from Russia’s invasion of Ukraine, its energy war on Europe and the lingering effects of the pandemic.</content>
-    <link href="https://www.wsj.com/articles/oktoberfest-restarts-in-munich-after-two-years-but-beermakers-face-inflation-headache-11663416001" rel="alternate"></link>
+    <title>Indigenous Community Reels After Stabbing Attacks in Canada</title>
+    <updated>2022-09-18T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-18:/articles/indigenous-community-reels-after-stabbing-attacks-in-canada-11663493404</id>
+    <content type="html">Residents of the James Smith Cree Nation try to come together in the wake of a bloody rampage that killed 10 and injured 18.</content>
+    <link href="https://www.wsj.com/articles/indigenous-community-reels-after-stabbing-attacks-in-canada-11663493404" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
