@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-19T16:38:09Z</updated>
+  <updated>2022-09-19T18:34:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Vladimir Putin&#39;s Energy War With Europe Seems to Falter</title>
-    <updated>2022-09-18T18:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-18:/articles/vladimir-putins-energy-war-with-europe-seems-to-falter-11663523925</id>
-    <content type="html">Russia cut natural-gas supplies to undermine European support for Ukraine, but the economic strategy is struggling.</content>
-    <link href="https://www.wsj.com/articles/vladimir-putins-energy-war-with-europe-seems-to-falter-11663523925" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Expands Attacks on Civilian Targets in Ukraine After Battlefield Losses</title>
-    <updated>2022-09-18T15:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-18:/articles/russia-expands-attacks-on-civilian-targets-in-ukraine-after-battlefield-losses-11663500963</id>
-    <content type="html">Moscow is intensifying a campaign of long-range missile strikes targeting Ukraine’s key infrastructure after suffering major setbacks in its invasion that have raised concerns about escalation from Russia.</content>
-    <link href="https://www.wsj.com/articles/russia-expands-attacks-on-civilian-targets-in-ukraine-after-battlefield-losses-11663500963" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Indigenous Community Reels After Stabbing Attacks in Canada</title>
-    <updated>2022-09-18T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-18:/articles/indigenous-community-reels-after-stabbing-attacks-in-canada-11663493404</id>
-    <content type="html">Residents of the James Smith Cree Nation try to come together in the wake of a bloody rampage that killed 10 and injured 18.</content>
-    <link href="https://www.wsj.com/articles/indigenous-community-reels-after-stabbing-attacks-in-canada-11663493404" rel="alternate"></link>
+    <title>Ukraine Forces Take Control of Key River Bank, Extending Advance in East</title>
+    <updated>2022-09-19T15:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-19:/articles/ukraine-forces-take-control-of-key-river-bank-extending-advance-in-east-11663585755</id>
+    <content type="html">Ukrainian forces said they now control the eastern bank of the Oskil River in the Kharkiv region, while Russia continues to launch attacks against civilian infrastructure in Ukraine following its military setbacks in the country’s east.</content>
+    <link href="https://www.wsj.com/articles/ukraine-forces-take-control-of-key-river-bank-extending-advance-in-east-11663585755" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
