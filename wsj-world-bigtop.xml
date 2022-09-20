@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-20T16:36:32Z</updated>
+  <updated>2022-09-20T18:32:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Moves to Annex Occupied Lands as Ukraine Presses Offensive</title>
-    <updated>2022-09-20T14:45:00Z</updated>
+    <title>Russia Moves to Annex Occupied Lands in Bid to Halt Ukrainian Advance</title>
+    <updated>2022-09-20T16:56:00Z</updated>
     <id>tag:www.wsj.com,2022-09-20:/articles/russia-moves-to-tighten-grip-on-occupied-lands-as-ukraine-presses-offensive-11663675647</id>
     <content type="html">Moscow plans to stage votes in four occupied regions to annex them as Russian territory, as the Kremlin threatens a wider war and grapples with Ukraine’s swift advance.</content>
     <link href="https://www.wsj.com/articles/russia-moves-to-tighten-grip-on-occupied-lands-as-ukraine-presses-offensive-11663675647" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Ragtag Army That Won the Battle of Kyiv and Saved Ukraine</title>
+    <updated>2022-09-20T14:49:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-20:/articles/russian-invasion-ukraine-battle-of-kyiv-ragtag-army-11663683336</id>
+    <content type="html">Citizen volunteers teamed up with soldiers to turn the tide in the most consequential European battle since World War II.</content>
+    <link href="https://www.wsj.com/articles/russian-invasion-ukraine-battle-of-kyiv-ragtag-army-11663683336" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
