@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-20T10:29:13Z</updated>
+  <updated>2022-09-20T12:52:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Protests Spread Across Iran Over Woman&#39;s Death in Police Detention</title>
-    <updated>2022-09-20T00:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-20:/articles/protests-spread-across-iran-over-womans-death-in-police-detention-11663621645</id>
-    <content type="html">Women removed their state-mandated headscarves in the streets to protest the death of a woman who was accused of violating the country’s Islamic dress code.</content>
-    <link href="https://www.wsj.com/articles/protests-spread-across-iran-over-womans-death-in-police-detention-11663621645" rel="alternate"></link>
+    <title>Britain Says Goodbye to Queen Elizabeth II in Historic Funeral</title>
+    <updated>2022-09-19T20:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-19:/articles/queen-elizabeth-iis-state-funeral-draws-tens-of-thousands-of-spectators-11663570691</id>
+    <content type="html">The state funeral closed the chapter on the second Elizabethan age, a reign that lasted 70 years and saw an era of radical change for Britain as its empire was dismantled and its global standing shrunk.</content>
+    <link href="https://www.wsj.com/articles/queen-elizabeth-iis-state-funeral-draws-tens-of-thousands-of-spectators-11663570691" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
