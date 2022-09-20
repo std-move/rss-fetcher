@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-20T12:52:10Z</updated>
+  <updated>2022-09-20T14:32:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Britain Says Goodbye to Queen Elizabeth II in Historic Funeral</title>
-    <updated>2022-09-19T20:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-19:/articles/queen-elizabeth-iis-state-funeral-draws-tens-of-thousands-of-spectators-11663570691</id>
-    <content type="html">The state funeral closed the chapter on the second Elizabethan age, a reign that lasted 70 years and saw an era of radical change for Britain as its empire was dismantled and its global standing shrunk.</content>
-    <link href="https://www.wsj.com/articles/queen-elizabeth-iis-state-funeral-draws-tens-of-thousands-of-spectators-11663570691" rel="alternate"></link>
+    <title>Russia Moves to Annex Occupied Lands as Ukraine Presses Offensive</title>
+    <updated>2022-09-20T13:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-20:/articles/russia-moves-to-tighten-grip-on-occupied-lands-as-ukraine-presses-offensive-11663675647</id>
+    <content type="html">Moscow plans to stage votes in four occupied regions to annex them as Russian territory, as the Kremlin threatens a wider war and grapples with Ukraine’s swift advance.</content>
+    <link href="https://www.wsj.com/articles/russia-moves-to-tighten-grip-on-occupied-lands-as-ukraine-presses-offensive-11663675647" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
