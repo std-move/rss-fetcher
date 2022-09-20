@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-19T22:25:10Z</updated>
+  <updated>2022-09-20T02:35:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Protests Spread Across Iran Over Woman&#39;s Death in Police Detention</title>
-    <updated>2022-09-19T21:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-19:/articles/protests-spread-across-iran-over-womans-death-in-police-detention-11663621645</id>
+    <updated>2022-09-20T00:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-20:/articles/protests-spread-across-iran-over-womans-death-in-police-detention-11663621645</id>
     <content type="html">Women removed their state-mandated headscarves in the streets to protest the death of a woman who was accused of violating the country’s Islamic dress code.</content>
     <link href="https://www.wsj.com/articles/protests-spread-across-iran-over-womans-death-in-police-detention-11663621645" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Forces Take Control of Key River Bank, Extending Advance in East</title>
-    <updated>2022-09-19T21:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-19:/articles/ukraine-forces-take-control-of-key-river-bank-extending-advance-in-east-11663585755</id>
-    <content type="html">Ukrainian forces said they now control the eastern bank of the Oskil River in the Kharkiv region, while Russia continues to launch attacks against civilian infrastructure in Ukraine following its military setbacks in the country’s east.</content>
-    <link href="https://www.wsj.com/articles/ukraine-forces-take-control-of-key-river-bank-extending-advance-in-east-11663585755" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
