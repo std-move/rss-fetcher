@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-21T08:36:15Z</updated>
+  <updated>2022-09-21T10:29:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Moves to Annex Occupied Lands in Bid to Halt Ukrainian Advance</title>
-    <updated>2022-09-20T22:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-20:/articles/russia-moves-to-tighten-grip-on-occupied-lands-as-ukraine-presses-offensive-11663675647</id>
-    <content type="html">Moscow plans to stage votes in four occupied regions to annex them as Russian territory, as the Kremlin threatens a wider war and grapples with Ukraine’s swift advance.</content>
-    <link href="https://www.wsj.com/articles/russia-moves-to-tighten-grip-on-occupied-lands-as-ukraine-presses-offensive-11663675647" rel="alternate"></link>
+    <title>Putin Orders Draft of Reservists for War in Ukraine</title>
+    <updated>2022-09-21T10:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-21:/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871</id>
+    <content type="html">The Russian president raised the threat of a nuclear response in the Ukraine conflict and ordered reservists to mobilize, as Moscow seeks to buttress his army’s flagging manpower and regain the offensive.</content>
+    <link href="https://www.wsj.com/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
