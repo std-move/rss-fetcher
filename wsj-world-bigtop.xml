@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-21T14:30:50Z</updated>
+  <updated>2022-09-21T16:40:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin Orders Draft of Reservists for War in Ukraine</title>
+    <updated>2022-09-21T16:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-21:/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871</id>
+    <content type="html">The Russian president raised the threat of a nuclear response in the Ukraine conflict and ordered reservists to mobilize, as Moscow seeks to buttress its army’s flagging manpower and regain the offensive.</content>
+    <link href="https://www.wsj.com/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Putin&#39;s Risky Escalation Might Not Reverse Russia&#39;s Battlefield Setbacks in Ukraine</title>
+    <updated>2022-09-21T15:21:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-21:/articles/putins-risky-escalation-might-not-reverse-russias-battlefield-setbacks-in-ukraine-11663773683</id>
+    <content type="html">Putin’s decision to draft reservists for his invasion show how badly the war has gone for Russia so far, military and political analysts say.</content>
+    <link href="https://www.wsj.com/articles/putins-risky-escalation-might-not-reverse-russias-battlefield-setbacks-in-ukraine-11663773683" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Young Palestinians Battle Israeli Troops and the Palestinian Authority, Deepening Unrest</title>
     <updated>2022-09-21T12:39:00Z</updated>
@@ -18,22 +34,6 @@
     <id>tag:www.wsj.com,2022-09-21:/articles/chinese-port-lease-near-u-s-troops-australian-training-ground-draws-fresh-scrutiny-11663761602</id>
     <content type="html">With U.S.-China competition intensifying in the Indo-Pacific, a Chinese company’s lease on an Australian port—which some former defense officials call a foothold in a strategically important area—is under renewed scrutiny.</content>
     <link href="https://www.wsj.com/articles/chinese-port-lease-near-u-s-troops-australian-training-ground-draws-fresh-scrutiny-11663761602" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Putin Orders Draft of Reservists for War in Ukraine</title>
-    <updated>2022-09-21T11:21:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-21:/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871</id>
-    <content type="html">The Russian president raised the threat of a nuclear response in the Ukraine conflict and ordered reservists to mobilize, as Moscow seeks to buttress its army’s flagging manpower and regain the offensive.</content>
-    <link href="https://www.wsj.com/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Ragtag Army That Won the Battle of Kyiv and Saved Ukraine</title>
-    <updated>2022-09-20T14:49:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-20:/articles/russian-invasion-ukraine-battle-of-kyiv-ragtag-army-11663683336</id>
-    <content type="html">Citizen volunteers teamed up with soldiers to turn the tide in the most consequential European battle since World War II.</content>
-    <link href="https://www.wsj.com/articles/russian-invasion-ukraine-battle-of-kyiv-ragtag-army-11663683336" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
