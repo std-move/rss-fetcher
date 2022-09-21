@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-21T20:27:49Z</updated>
+  <updated>2022-09-21T22:27:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-09-21:/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871</id>
     <content type="html">The Russian president raised the threat of a nuclear response in the Ukraine conflict and ordered reservists to mobilize, as Moscow seeks to buttress its army’s flagging manpower and regain the offensive.</content>
     <link href="https://www.wsj.com/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Putin&#39;s Escalation Faces Risks in Russia-Ukraine War</title>
-    <updated>2022-09-21T17:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-21:/articles/putins-risky-escalation-might-not-reverse-russias-battlefield-setbacks-in-ukraine-11663773683</id>
-    <content type="html">Calling up 300,000 recruits and issuing fresh nuclear threats after the Kremlin’s battlefield setbacks isn’t likely to stop Ukrainian offensives in the near term, analysts say.</content>
-    <link href="https://www.wsj.com/articles/putins-risky-escalation-might-not-reverse-russias-battlefield-setbacks-in-ukraine-11663773683" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
