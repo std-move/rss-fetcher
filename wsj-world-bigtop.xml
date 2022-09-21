@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-21T12:56:17Z</updated>
+  <updated>2022-09-21T14:30:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Young Palestinians Battle Israeli Troops and the Palestinian Authority, Deepening Unrest</title>
+    <updated>2022-09-21T12:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-21:/articles/young-palestinians-battle-israeli-troops-and-the-palestinian-authority-deepening-unrest-11663761718</id>
+    <content type="html">The Palestinian Authority is losing its grip over the northern West Bank, opening up a potential leadership vacuum.</content>
+    <link href="https://www.wsj.com/articles/young-palestinians-battle-israeli-troops-and-the-palestinian-authority-deepening-unrest-11663761718" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Chinese Port Lease Near U.S. Troops&#39; Australian Training Ground Draws Fresh Scrutiny</title>
+    <updated>2022-09-21T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-21:/articles/chinese-port-lease-near-u-s-troops-australian-training-ground-draws-fresh-scrutiny-11663761602</id>
+    <content type="html">With U.S.-China competition intensifying in the Indo-Pacific, a Chinese company’s lease on an Australian port—which some former defense officials call a foothold in a strategically important area—is under renewed scrutiny.</content>
+    <link href="https://www.wsj.com/articles/chinese-port-lease-near-u-s-troops-australian-training-ground-draws-fresh-scrutiny-11663761602" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Putin Orders Draft of Reservists for War in Ukraine</title>
     <updated>2022-09-21T11:21:00Z</updated>
