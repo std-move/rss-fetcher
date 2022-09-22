@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-22T20:27:49Z</updated>
+  <updated>2022-09-22T22:27:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Prisoner Exchange Sparks Backlash in Russia</title>
-    <updated>2022-09-22T16:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-22:/articles/ukraine-prisoner-exchange-sparks-backlash-in-russia-11663851060</id>
-    <content type="html">A prisoner swap between Russia and Ukraine that included senior Ukrainian commanders was hailed as a victory by Kyiv but provoked criticism among nationalists in Russia.</content>
-    <link href="https://www.wsj.com/articles/ukraine-prisoner-exchange-sparks-backlash-in-russia-11663851060" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
