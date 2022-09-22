@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-22T12:53:13Z</updated>
+  <updated>2022-09-22T14:31:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin Orders Draft of Reservists for War in Ukraine</title>
-    <updated>2022-09-21T22:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-21:/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871</id>
-    <content type="html">The Russian president raised the threat of a nuclear response in the Ukraine conflict and ordered reservists to mobilize, as Moscow seeks to buttress its army’s flagging manpower and regain the offensive.</content>
-    <link href="https://www.wsj.com/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871" rel="alternate"></link>
+    <title>Ukraine Prisoner Exchange Sparks Backlash in Russia</title>
+    <updated>2022-09-22T12:51:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-22:/articles/ukraine-prisoner-exchange-sparks-backlash-in-russia-11663851060</id>
+    <content type="html">A prisoner swap between Russia and Ukraine that included senior Ukrainian commanders was hailed as a victory by Kyiv but provoked criticism among nationalists in Russia.</content>
+    <link href="https://www.wsj.com/articles/ukraine-prisoner-exchange-sparks-backlash-in-russia-11663851060" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
