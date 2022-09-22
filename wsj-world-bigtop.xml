@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-22T06:56:43Z</updated>
+  <updated>2022-09-22T08:33:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-09-21:/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871</id>
     <content type="html">The Russian president raised the threat of a nuclear response in the Ukraine conflict and ordered reservists to mobilize, as Moscow seeks to buttress its army’s flagging manpower and regain the offensive.</content>
     <link href="https://www.wsj.com/articles/putin-orders-draft-of-reservists-for-war-in-ukraine-threatens-nuclear-response-11663742871" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Young Palestinians Battle Israeli Troops and the Palestinian Authority, Deepening Unrest</title>
-    <updated>2022-09-21T12:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-21:/articles/young-palestinians-battle-israeli-troops-and-the-palestinian-authority-deepening-unrest-11663761718</id>
-    <content type="html">The Palestinian Authority is losing its grip over the northern West Bank, opening up a potential leadership vacuum.</content>
-    <link href="https://www.wsj.com/articles/young-palestinians-battle-israeli-troops-and-the-palestinian-authority-deepening-unrest-11663761718" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
