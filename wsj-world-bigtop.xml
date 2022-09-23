@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-23T18:34:15Z</updated>
+  <updated>2022-09-23T20:27:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Pakistan Leads Push for Funds to Counter Climate-Change Damage</title>
-    <updated>2022-09-23T12:34:00Z</updated>
+    <updated>2022-09-23T18:33:00Z</updated>
     <id>tag:www.wsj.com,2022-09-23:/articles/pakistan-leads-push-for-funding-to-counter-damage-from-climate-change-11663936447</id>
     <content type="html">Pakistan and other developing nations want to establish international funding for natural disasters that they say are caused by climate change.</content>
     <link href="https://www.wsj.com/articles/pakistan-leads-push-for-funding-to-counter-damage-from-climate-change-11663936447" rel="alternate"></link>
