@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-24T18:31:44Z</updated>
+  <updated>2022-09-24T20:26:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-09-24:/articles/brazils-right-wing-leader-spends-on-poor-before-elections-11664025028</id>
     <content type="html">Trailing in polls ahead of October’s vote, President Jair Bolsonaro is giving out cash and land titles as he campaigns against his leftist rival.</content>
     <link href="https://www.wsj.com/articles/brazils-right-wing-leader-spends-on-poor-before-elections-11664025028" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Expands Use of Iranian Combat Drones in Ukraine</title>
-    <updated>2022-09-24T11:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-24:/articles/russia-expands-use-of-iranian-combat-drones-in-ukraine-11664009458</id>
-    <content type="html">Ukraine shot down more than a dozen of the unmanned aircraft across the front lines this week. At least one got past its defenses.</content>
-    <link href="https://www.wsj.com/articles/russia-expands-use-of-iranian-combat-drones-in-ukraine-11664009458" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
