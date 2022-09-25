@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-25T16:34:16Z</updated>
+  <updated>2022-09-25T18:31:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>Pushing East of Kupyansk, Ukrainian Forces Expand Offensive</title>
     <updated>2022-09-25T13:03:00Z</updated>
     <id>tag:www.wsj.com,2022-09-25:/articles/pushing-east-of-kupyansk-ukrainian-forces-expand-offensive-11664111037</id>
-    <content type="html">Russian shelling is turning neighborhoods into rubble as Ukrainians advance in urban combat.</content>
+    <content type="html">Securing the remaining Russian-held urban areas on the town’s eastern side would clear the way for Ukrainian forces to push into Luhansk, one of the regions that Moscow seeks to annex through snap referendums under way.</content>
     <link href="https://www.wsj.com/articles/pushing-east-of-kupyansk-ukrainian-forces-expand-offensive-11664111037" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
