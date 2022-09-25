@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-25T20:26:37Z</updated>
+  <updated>2022-09-25T22:25:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Climate Change Forces the French to Alter the Way They Make Wine</title>
-    <updated>2022-09-25T14:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-25:/articles/climate-change-forces-french-vineyards-to-alter-the-way-they-make-wine-11664116266</id>
-    <content type="html">Growers are changing grape varieties and reshaping the landscape to protect some of the world’s most valuable vineyards from warmer temperatures.</content>
-    <link href="https://www.wsj.com/articles/climate-change-forces-french-vineyards-to-alter-the-way-they-make-wine-11664116266" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Pushing East of Kupyansk, Ukrainian Forces Expand Offensive</title>
     <updated>2022-09-25T13:03:00Z</updated>
