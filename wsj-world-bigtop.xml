@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-26T14:35:02Z</updated>
+  <updated>2022-09-26T16:38:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Military-Recruitment Centers Attacked Amid Mobilization Pushback</title>
+    <title>Zelensky Urges Russians to Keep Protesting Mobilization Orders</title>
+    <updated>2022-09-26T15:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-26:/articles/ukraines-zelensky-urges-russians-to-keep-protesting-mobilization-orders-11664197706</id>
+    <content type="html">Kyiv reiterated calls for Russian men summoned to fight in Ukraine to lay down their arms as soon as they arrive in the country, as protests against mobilization continued in Russia.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-urges-russians-to-keep-protesting-mobilization-orders-11664197706" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Reins In Its Belt and Road Program, $1 Trillion Later</title>
+    <updated>2022-09-26T14:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-26:/articles/china-belt-road-debt-11663961638</id>
+    <content type="html">After tens of billions of dollars in loans have gone sour and many infrastructure development projects have stalled, Beijing is revamping its troubled initiative.</content>
+    <link href="https://www.wsj.com/articles/china-belt-road-debt-11663961638" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russian Recruitment Centers Attacked Amid Mobilization Pushback</title>
     <updated>2022-09-26T13:23:00Z</updated>
     <id>tag:www.wsj.com,2022-09-26:/articles/russian-military-recruitment-centers-attacked-amid-mobilization-pushback-11664190066</id>
-    <content type="html">Tensions grew in Russia over mobilization for the war in Ukraine as two military-recruitment centers came under attack and lines grew at the border with draft-age men seeking to leave the country.</content>
+    <content type="html">Tensions grew in Russia over mobilization for the war in Ukraine as two military-recruitment centers came under attack and lines developed at the border with draft-age men seeking to leave the country.</content>
     <link href="https://www.wsj.com/articles/russian-military-recruitment-centers-attacked-amid-mobilization-pushback-11664190066" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
