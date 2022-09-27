@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-27T18:37:45Z</updated>
+  <updated>2022-09-27T20:29:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Recruitment Centers Attacked Amid Mobilization Pushback</title>
-    <updated>2022-09-26T20:37:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-26:/articles/russian-military-recruitment-centers-attacked-amid-mobilization-pushback-11664190066</id>
-    <content type="html">Tensions grew in Russia over mobilization for the war in Ukraine as two military-recruitment centers came under attack and lines developed at the border with draft-age men seeking to leave the country.</content>
-    <link href="https://www.wsj.com/articles/russian-military-recruitment-centers-attacked-amid-mobilization-pushback-11664190066" rel="alternate"></link>
+    <title>Russia Prepares to Annex Parts of Ukraine as Staged Votes End</title>
+    <updated>2022-09-27T20:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-27:/articles/russia-prepares-to-annex-ukrainian-regions-as-staged-votes-draw-to-an-end-11664281068</id>
+    <content type="html">Derided as a sham by Ukrainian and Western officials, the votes on whether to join Russia are designed to confer a veneer of legitimacy on Moscow’s land grab, despite reports of coercion in the process.</content>
+    <link href="https://www.wsj.com/articles/russia-prepares-to-annex-ukrainian-regions-as-staged-votes-draw-to-an-end-11664281068" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China Reins In Its Belt and Road Program, $1 Trillion Later</title>
-    <updated>2022-09-26T14:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-26:/articles/china-belt-road-debt-11663961638</id>
-    <content type="html">After tens of billions of dollars in loans have gone sour and many infrastructure development projects have stalled, Beijing is revamping its troubled initiative.</content>
-    <link href="https://www.wsj.com/articles/china-belt-road-debt-11663961638" rel="alternate"></link>
+    <title>Almost 100,000 Russians Have Crossed Into Kazakhstan Since Putin&#39;s Mobilization Order</title>
+    <updated>2022-09-27T15:20:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-27:/articles/almost-100-000-russians-have-crossed-into-kazakhstan-since-putins-mobilization-order-11664292051</id>
+    <content type="html">The exodus adds to the thousands heading to countries including Armenia, Georgia, Mongolia and Nordic nations in recent days in an effort to escape being drafted.</content>
+    <link href="https://www.wsj.com/articles/almost-100-000-russians-have-crossed-into-kazakhstan-since-putins-mobilization-order-11664292051" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s New Offensive Threatens Moscow&#39;s Control of Lands It Seeks to Annex</title>
+    <updated>2022-09-27T13:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-27:/articles/ukraines-new-offensive-threatens-moscows-control-of-lands-it-seeks-to-annex-11664285782</id>
+    <content type="html">Wrecked Russian armor and corpses of Russian troops line the roads in northern Donetsk as Ukraine pushes deeper into Donbas.</content>
+    <link href="https://www.wsj.com/articles/ukraines-new-offensive-threatens-moscows-control-of-lands-it-seeks-to-annex-11664285782" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
