@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-28T20:29:05Z</updated>
+  <updated>2022-09-28T22:28:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Protesters Seek End of Iranian Pillar---the Morality Police</title>
+    <updated>2022-09-28T18:21:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-28:/articles/iran-protesters-seek-end-of-an-islamic-republic-pillarthe-morality-police-11664383353</id>
+    <content type="html">The country’s morality police are an unpopular vestige of the 1979 revolution and represent a weak point for the government.</content>
+    <link href="https://www.wsj.com/articles/iran-protesters-seek-end-of-an-islamic-republic-pillarthe-morality-police-11664383353" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fresh Evidence Emerges of Alleged Russian Atrocities in Once-Occupied Ukraine</title>
+    <updated>2022-09-28T14:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-28:/articles/ukraine-russia-graves-war-11664375474</id>
+    <content type="html">More than 400 bodies were found in a mass burial site when Ukrainians took back a town that Russians occupied.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-graves-war-11664375474" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
