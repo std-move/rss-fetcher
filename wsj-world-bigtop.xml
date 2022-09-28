@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-27T22:28:51Z</updated>
+  <updated>2022-09-28T02:38:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-09-27:/articles/russia-prepares-to-annex-ukrainian-regions-as-staged-votes-draw-to-an-end-11664281068</id>
     <content type="html">Derided as a sham by Ukrainian and Western officials, the votes on whether to join Russia are designed to confer a veneer of legitimacy on Moscow’s land grab, despite reports of coercion in the process.</content>
     <link href="https://www.wsj.com/articles/russia-prepares-to-annex-ukrainian-regions-as-staged-votes-draw-to-an-end-11664281068" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Almost 100,000 Russians Have Crossed Into Kazakhstan Since Putin&#39;s Mobilization Order</title>
-    <updated>2022-09-27T15:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-27:/articles/almost-100-000-russians-have-crossed-into-kazakhstan-since-putins-mobilization-order-11664292051</id>
-    <content type="html">The exodus adds to the thousands heading to countries including Armenia, Georgia, Mongolia and Nordic nations in recent days in an effort to escape being drafted.</content>
-    <link href="https://www.wsj.com/articles/almost-100-000-russians-have-crossed-into-kazakhstan-since-putins-mobilization-order-11664292051" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
