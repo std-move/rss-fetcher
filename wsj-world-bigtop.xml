@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-29T18:35:30Z</updated>
+  <updated>2022-09-29T20:30:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russian Borders Swamped as Putin&#39;s Draft Order Sparks Exodus</title>
-    <updated>2022-09-29T11:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-29:/articles/russian-borders-swamped-as-putins-draft-order-sparks-exodus-11664452064</id>
-    <content type="html">An exodus of Russian draft-age men has accelerated toward the country’s dwindling number of open land borders, as tens of thousands of potential conscripts for the war in Ukraine seek to flee.</content>
-    <link href="https://www.wsj.com/articles/russian-borders-swamped-as-putins-draft-order-sparks-exodus-11664452064" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Russia Ran a Detention Camp in Occupied Ukraine</title>
-    <updated>2022-09-29T09:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-29:/articles/electric-shock-extortion-and-slave-labor-how-russia-ran-a-detention-camp-in-occupied-ukraine-11664444466</id>
-    <content type="html">The facility in Vovchansk is one of at least 18 such torture chambers that Ukrainian officials say they discovered after ousting Russian forces from the one-third of the Kharkiv region that Moscow occupied for nearly seven months.</content>
-    <link href="https://www.wsj.com/articles/electric-shock-extortion-and-slave-labor-how-russia-ran-a-detention-camp-in-occupied-ukraine-11664444466" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
