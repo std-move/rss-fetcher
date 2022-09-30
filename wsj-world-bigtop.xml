@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-09-30T12:58:58Z</updated>
+  <updated>2022-09-30T14:37:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How Russia Ran a Detention Camp in Occupied Ukraine</title>
-    <updated>2022-09-29T09:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-09-29:/articles/electric-shock-extortion-and-slave-labor-how-russia-ran-a-detention-camp-in-occupied-ukraine-11664444466</id>
-    <content type="html">The facility in Vovchansk is one of at least 18 such torture chambers that Ukrainian officials say they discovered after ousting Russian forces from the one-third of the Kharkiv region that Moscow occupied for nearly seven months.</content>
-    <link href="https://www.wsj.com/articles/electric-shock-extortion-and-slave-labor-how-russia-ran-a-detention-camp-in-occupied-ukraine-11664444466" rel="alternate"></link>
+    <title>Russian Attack Kills Dozens of Civilians in Ukraine Hours Before Annexations</title>
+    <updated>2022-09-30T13:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-09-30:/articles/russian-attack-kills-dozens-of-civilians-in-ukraine-hours-before-planned-annexations-11664531345</id>
+    <content type="html">At least 25 civilians died in a strike in the Zaporizhzhia region, Ukrainian officials said, as Kyiv’s forces made military gains in the east hours before Russia declared its absorption of four regions of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russian-attack-kills-dozens-of-civilians-in-ukraine-hours-before-planned-annexations-11664531345" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
