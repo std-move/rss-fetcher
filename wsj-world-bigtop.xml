@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-02T12:49:45Z</updated>
+  <updated>2022-10-02T14:25:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Troops Fight to Take Full Control of Lyman, as Russians Attempt to Withdraw</title>
-    <updated>2022-10-01T22:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-01:/articles/ukraine-says-russia-kidnapped-head-of-nuclear-plant-11664632063</id>
-    <content type="html">The loss of Lyman would mark another blow to Moscow’s war effort following a month in which its forces lost thousands of square miles of territory.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-russia-kidnapped-head-of-nuclear-plant-11664632063" rel="alternate"></link>
+    <title>Ukraine Gains Full Control of Lyman, Days After Putin Claimed Russia Rules There</title>
+    <updated>2022-10-02T13:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-02:/articles/ukraine-gains-full-control-of-lyman-days-after-putin-claimed-russia-rules-there-11664707959</id>
+    <content type="html">President Volodymyr Zelensky said the eastern city had been cleared of Russian forces, scoring a victory against Moscow on the very territory President Vladimir Putin said last week Russia would annex.</content>
+    <link href="https://www.wsj.com/articles/ukraine-gains-full-control-of-lyman-days-after-putin-claimed-russia-rules-there-11664707959" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
