@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-03T06:43:49Z</updated>
+  <updated>2022-10-03T08:36:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In Brazilian Presidential Election, Leftist Former President Lula da Silva Wins First Round</title>
+    <title>Brazil&#39;s Leftist Former President Wins First Round of Election</title>
     <updated>2022-10-03T03:58:00Z</updated>
     <id>tag:www.wsj.com,2022-10-03:/articles/brazilian-election-to-choose-between-president-bolsonaro-leftist-rival-11664727728</id>
-    <content type="html">The result means current President Jair Bolsonaro and Mr. da Silva, who served two terms but was jailed on a corruption charge, will face each other in an Oct. 30 runoff.</content>
+    <content type="html">The result means current President Jair Bolsonaro and Luiz Inácio Lula da Silva, who served two terms but was jailed on a corruption charge, will face each other in an Oct. 30 runoff.</content>
     <link href="https://www.wsj.com/articles/brazilian-election-to-choose-between-president-bolsonaro-leftist-rival-11664727728" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
