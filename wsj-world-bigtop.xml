@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-03T12:56:23Z</updated>
+  <updated>2022-10-03T14:38:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Brazil&#39;s Leftist Former President Wins First Round of Election</title>
-    <updated>2022-10-03T03:58:00Z</updated>
+    <updated>2022-10-03T13:58:00Z</updated>
     <id>tag:www.wsj.com,2022-10-03:/articles/brazilian-election-to-choose-between-president-bolsonaro-leftist-rival-11664727728</id>
     <content type="html">The result means current President Jair Bolsonaro and Luiz Inácio Lula da Silva, who served two terms but was jailed on a corruption charge, will face each other in an Oct. 30 runoff.</content>
     <link href="https://www.wsj.com/articles/brazilian-election-to-choose-between-president-bolsonaro-leftist-rival-11664727728" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukrainians Rejoice as Russian Troops Flee Lyman</title>
-    <updated>2022-10-02T15:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-02:/articles/as-russian-troops-flee-lyman-ukrainians-rejoiceand-help-themselves-to-russian-supplies-11664719877</id>
-    <content type="html">Ambushed during their hasty retreat from the recaptured city, Moscow’s forces left behind burning vehicles and bodies of soldiers along the roadsides.</content>
-    <link href="https://www.wsj.com/articles/as-russian-troops-flee-lyman-ukrainians-rejoiceand-help-themselves-to-russian-supplies-11664719877" rel="alternate"></link>
+    <title>Ukraine Pushes South Into Strategic Kherson Region</title>
+    <updated>2022-10-03T11:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-03:/articles/ukraine-pushes-south-into-strategic-kherson-region-11664795231</id>
+    <content type="html">Ukrainian forces broke through Russian lines and made new advances in the southern region, even as they continued developing their rapid offensive in the eastern part of the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-pushes-south-into-strategic-kherson-region-11664795231" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
