@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-03T10:30:36Z</updated>
+  <updated>2022-10-03T12:56:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-10-03:/articles/brazilian-election-to-choose-between-president-bolsonaro-leftist-rival-11664727728</id>
     <content type="html">The result means current President Jair Bolsonaro and Luiz Inácio Lula da Silva, who served two terms but was jailed on a corruption charge, will face each other in an Oct. 30 runoff.</content>
     <link href="https://www.wsj.com/articles/brazilian-election-to-choose-between-president-bolsonaro-leftist-rival-11664727728" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.K.&#39;s Central Banker Faces Inflation, a Financial Crisis and His Own Government</title>
-    <updated>2022-10-02T22:35:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-02:/articles/u-k-central-banker-andrew-bailey-inflation-financial-crisis-11664749977</id>
-    <content type="html">Bank of England Gov. Andrew Bailey intervened in bond markets to avert market turmoil while also trying to reassure investors that he still plans aggressive rate rises to tamp down U.K. inflation that could reach 11% this year.</content>
-    <link href="https://www.wsj.com/articles/u-k-central-banker-andrew-bailey-inflation-financial-crisis-11664749977" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
