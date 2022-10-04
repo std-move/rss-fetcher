@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-04T12:59:35Z</updated>
+  <updated>2022-10-04T14:39:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2022-10-04:/articles/ukrainian-villagers-forcibly-taken-to-russia-still-havent-made-it-home-11664882149</id>
     <content type="html">Millions of people have been uprooted by the war, including hundreds of thousands who Ukrainian officials say have been coerced into going to Russia, echoing Soviet practices.</content>
     <link href="https://www.wsj.com/articles/ukrainian-villagers-forcibly-taken-to-russia-still-havent-made-it-home-11664882149" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainian Advance Outstrips Russian Efforts to Mobilize Reinforcements</title>
-    <updated>2022-10-04T11:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-04:/articles/ukrainian-advance-outstrips-russian-efforts-to-mobilize-reinforcements-11664881851</id>
-    <content type="html">Western officials say Russia is struggling to deal with the logistics and sheer scale of a recruitment drive that Moscow says should bring 300,000 new soldiers into its army.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-advance-outstrips-russian-efforts-to-mobilize-reinforcements-11664881851" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>H&amp;M, Zara&#39;s Owner Stick With &#39;Made In Myanmar&#39; After Coup, but Some Brands Exit</title>
-    <updated>2022-10-04T09:20:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-04:/articles/h-m-zaras-owner-stick-with-made-in-myanmar-after-coup-but-some-brands-exit-11664875211</id>
-    <content type="html">Western retailers are increasingly divided over whether to buy clothes made in Myanmar, where some say labor abuses have worsened under military rule.</content>
-    <link href="https://www.wsj.com/articles/h-m-zaras-owner-stick-with-made-in-myanmar-after-coup-but-some-brands-exit-11664875211" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
