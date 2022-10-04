@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-04T18:39:51Z</updated>
+  <updated>2022-10-04T20:32:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Villagers Forcibly Taken to Russia Still Haven&#39;t Made It Home</title>
-    <updated>2022-10-04T11:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-04:/articles/ukrainian-villagers-forcibly-taken-to-russia-still-havent-made-it-home-11664882149</id>
-    <content type="html">Millions of people have been uprooted by the war, including hundreds of thousands who Ukrainian officials say have been coerced into going to Russia, echoing Soviet practices.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-villagers-forcibly-taken-to-russia-still-havent-made-it-home-11664882149" rel="alternate"></link>
+    <title>As Ukrainian Forces Advance, West Plays Down Threat From Russian Nuclear Weapons</title>
+    <updated>2022-10-04T18:21:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-04:/articles/ukrainian-advance-outstrips-russian-efforts-to-mobilize-reinforcements-11664881851</id>
+    <content type="html">Ukraine accelerated its advance into Russian-held areas of the southern Kherson region, as Western officials said they hadn’t seen any activities out of the norm or causing concern from Russia’s nuclear forces.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-advance-outstrips-russian-efforts-to-mobilize-reinforcements-11664881851" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Iran&#39;s Crippled Economy Sustains Protests After Religious Police Lit Flame</title>
+    <updated>2022-10-04T14:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-04:/articles/iran-protests-economy-sanctions-religious-police-11664891763</id>
+    <content type="html">The country’s middle class is shrinking for the first time in decades amid U.S. sanctions, corruption and economic mismanagement.</content>
+    <link href="https://www.wsj.com/articles/iran-protests-economy-sanctions-religious-police-11664891763" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
