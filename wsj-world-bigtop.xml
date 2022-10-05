@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-05T13:00:13Z</updated>
+  <updated>2022-10-05T14:45:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Markets Break When Interest Rates Rise Fast: Here Are the Cracks</title>
+    <updated>2022-10-05T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-05:/articles/when-interest-rates-rise-fast-markets-tend-to-break-how-to-spot-the-cracks-11664974804</id>
+    <content type="html">Turmoil in Britain exposes potential risks facing pensions and government bond markets, longtime havens in periods of financial upheaval. “There are no immaculate tightening cycles. Stuff breaks.”</content>
+    <link href="https://www.wsj.com/articles/when-interest-rates-rise-fast-markets-tend-to-break-how-to-spot-the-cracks-11664974804" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s New Offensive Is Fueled by Captured Russian Weapons</title>
     <updated>2022-10-05T10:21:00Z</updated>
     <id>tag:www.wsj.com,2022-10-05:/articles/ukraines-new-offensive-is-fueled-by-captured-russian-weapons-11664965264</id>
     <content type="html">Ukraine’s rapid breakthrough in the Kharkiv region a month ago ended up putting hundreds of pieces of Russian armor into Kyiv’s hands, military officials say.</content>
     <link href="https://www.wsj.com/articles/ukraines-new-offensive-is-fueled-by-captured-russian-weapons-11664965264" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Iran&#39;s Crippled Economy Sustains Protests After Religious Police Lit Flame</title>
-    <updated>2022-10-04T14:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-04:/articles/iran-protests-economy-sanctions-religious-police-11664891763</id>
-    <content type="html">The country’s middle class is shrinking for the first time in decades amid U.S. sanctions, corruption and economic mismanagement.</content>
-    <link href="https://www.wsj.com/articles/iran-protests-economy-sanctions-religious-police-11664891763" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
