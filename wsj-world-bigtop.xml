@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-06T16:41:58Z</updated>
+  <updated>2022-10-06T18:36:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.N. Nuclear Agency Pushes for Safety Zone Around Ukraine&#39;s Largest Nuclear Plant</title>
-    <updated>2022-10-06T15:19:00Z</updated>
+    <updated>2022-10-06T17:33:00Z</updated>
     <id>tag:www.wsj.com,2022-10-06:/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368</id>
-    <content type="html">IAEA head Rafael Grossi is heading to Kyiv, and Russian missiles struck the city of Zaporizhzhia, killing one.</content>
+    <content type="html">IAEA head Rafael Grossi visited Kyiv as a part of his efforts to establish a safety zone around the Zaporizhzhia plant, and Russian missiles struck the nearby city of Zaporizhzhia, killing one.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
