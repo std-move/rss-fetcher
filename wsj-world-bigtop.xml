@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-05T22:29:52Z</updated>
+  <updated>2022-10-06T02:19:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-10-05:/articles/entrenched-positions-on-ukraine-dim-hopes-of-a-resolution-11664984285</id>
     <content type="html">As Russian President Vladimir Putin amps up nationalist rhetoric at home and Western leaders deepen their support for Ukraine, the possibility of negotiations to end the conflict appear dim.</content>
     <link href="https://www.wsj.com/articles/entrenched-positions-on-ukraine-dim-hopes-of-a-resolution-11664984285" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Markets Break When Interest Rates Rise Fast: Here Are the Cracks</title>
-    <updated>2022-10-05T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-05:/articles/when-interest-rates-rise-fast-markets-tend-to-break-how-to-spot-the-cracks-11664974804</id>
-    <content type="html">Turmoil in Britain exposes potential risks facing pensions and government bond markets, longtime havens in periods of financial upheaval. “There are no immaculate tightening cycles. Stuff breaks.”</content>
-    <link href="https://www.wsj.com/articles/when-interest-rates-rise-fast-markets-tend-to-break-how-to-spot-the-cracks-11664974804" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
