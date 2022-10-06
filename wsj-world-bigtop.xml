@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-06T10:31:14Z</updated>
+  <updated>2022-10-06T12:57:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s New Offensive Is Fueled by Captured Russian Weapons</title>
-    <updated>2022-10-05T15:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-05:/articles/ukraines-new-offensive-is-fueled-by-captured-russian-weapons-11664965264</id>
-    <content type="html">Ukraine’s rapid breakthrough in the Kharkiv region a month ago ended up putting hundreds of pieces of Russian armor into Kyiv’s hands, military officials say.</content>
-    <link href="https://www.wsj.com/articles/ukraines-new-offensive-is-fueled-by-captured-russian-weapons-11664965264" rel="alternate"></link>
+    <title>Russian Missiles Hit Civilian Targets in Southeastern Ukraine</title>
+    <updated>2022-10-06T10:29:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-06:/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368</id>
+    <content type="html">The attack on the city of Zaporizhzhia killed at least one person as Kyiv’s forces reclaimed more territory in the south.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Entrenched Positions on Ukraine Dim Hopes of a Resolution</title>
-    <updated>2022-10-05T15:38:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-05:/articles/entrenched-positions-on-ukraine-dim-hopes-of-a-resolution-11664984285</id>
-    <content type="html">As Russian President Vladimir Putin amps up nationalist rhetoric at home and Western leaders deepen their support for Ukraine, the possibility of negotiations to end the conflict appear dim.</content>
-    <link href="https://www.wsj.com/articles/entrenched-positions-on-ukraine-dim-hopes-of-a-resolution-11664984285" rel="alternate"></link>
+    <title>Egypt Released Hundreds of Political Prisoners This Year; Some Say They Were Tortured</title>
+    <updated>2022-10-06T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-06:/articles/egypt-released-hundreds-of-political-prisoners-this-year-some-say-they-were-tortured-11665048602</id>
+    <content type="html">President Abdel Fattah Al Sisi released the political prisoners ahead of the COP27 climate conference of world leaders in Sharm El Sheikh next month.</content>
+    <link href="https://www.wsj.com/articles/egypt-released-hundreds-of-political-prisoners-this-year-some-say-they-were-tortured-11665048602" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
