@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-06T14:37:09Z</updated>
+  <updated>2022-10-06T16:41:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Missiles Hit Civilian Targets in Southeastern Ukraine</title>
-    <updated>2022-10-06T10:29:00Z</updated>
+    <title>U.N. Nuclear Agency Pushes for Safety Zone Around Ukraine&#39;s Largest Nuclear Plant</title>
+    <updated>2022-10-06T15:19:00Z</updated>
     <id>tag:www.wsj.com,2022-10-06:/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368</id>
-    <content type="html">The attack on the city of Zaporizhzhia killed at least one person as Kyiv’s forces reclaimed more territory in the south.</content>
+    <content type="html">IAEA head Rafael Grossi is heading to Kyiv, and Russian missiles struck the city of Zaporizhzhia, killing one.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
