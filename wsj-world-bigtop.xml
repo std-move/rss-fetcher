@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-07T18:36:49Z</updated>
+  <updated>2022-10-07T20:29:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Biden Warns of Growing Nuclear Risk as Ukraine Slams Russia for Drone Use</title>
+    <updated>2022-10-07T20:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-07:/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096</id>
+    <content type="html">President Biden warned that the risk of a nuclear conflict was at its highest since the 1962 Cuban missile crisis as Russia continued to face setbacks on the battlefields of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>After Thailand Mass Shooting, Families Grieve Loss of Children</title>
     <updated>2022-10-07T17:16:00Z</updated>
     <id>tag:www.wsj.com,2022-10-07:/articles/after-thailand-mass-shooting-families-grieve-loss-of-children-11665161186</id>
     <content type="html">The rampage that left 36 people dead at a child-care center in the country’s northeast has shattered a rural community.</content>
     <link href="https://www.wsj.com/articles/after-thailand-mass-shooting-families-grieve-loss-of-children-11665161186" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Biden Warns of Growing Nuclear Risk as Ukraine Slams Russia for Drone Use</title>
-    <updated>2022-10-07T16:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-07:/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096</id>
-    <content type="html">President Biden warned that the risk of a nuclear conflict was at its highest since the 1962 Cuban missile crisis as Russia faced continuing setbacks on the battlefields of Ukraine.</content>
-    <link href="https://www.wsj.com/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
