@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-07T14:37:31Z</updated>
+  <updated>2022-10-07T16:42:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.N. Nuclear Agency Warns of Increased Risk at Ukraine&#39;s Largest Nuclear Plant</title>
-    <updated>2022-10-07T02:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-07:/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368</id>
-    <content type="html">IAEA head Rafael Grossi met with Ukrainian President Volodymyr Zelensky as a part of his efforts to establish a safety zone around the plant, and Russian missiles struck the nearby city of Zaporizhzhia, killing one.</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why Women Are Chopping Their Hair for Iran&#39;s Mahsa Amini</title>
-    <updated>2022-10-06T19:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-06:/articles/mahsa-amini-iran-hair-cut-protests-11665085770</id>
-    <content type="html">The protest move, adopted by stars including French actresses Juliette Binoche and Marion Cotillard, as well as Iranian women in cities around the world, is gaining momentum across video platforms.</content>
-    <link href="https://www.wsj.com/articles/mahsa-amini-iran-hair-cut-protests-11665085770" rel="alternate"></link>
+    <title>Biden Warns of Growing Nuclear Risk as Ukraine Slams Russia for Drone Use</title>
+    <updated>2022-10-07T16:28:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-07:/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096</id>
+    <content type="html">President Biden warned that the risk of a nuclear conflict was at its highest since the 1962 Cuban missile crisis as Russia faced continuing setbacks on the battlefields of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
