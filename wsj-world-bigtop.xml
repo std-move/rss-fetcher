@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-06T22:28:03Z</updated>
+  <updated>2022-10-07T02:32:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.N. Nuclear Agency Warns of Increased Risk at Ukraine&#39;s Largest Nuclear Plant</title>
-    <updated>2022-10-06T19:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-06:/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368</id>
+    <updated>2022-10-07T02:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-07:/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368</id>
     <content type="html">IAEA head Rafael Grossi met with Ukrainian President Volodymyr Zelensky as a part of his efforts to establish a safety zone around the plant, and Russian missiles struck the nearby city of Zaporizhzhia, killing one.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Egypt Released Hundreds of Political Prisoners This Year; Some Say They Were Tortured</title>
-    <updated>2022-10-06T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-06:/articles/egypt-released-hundreds-of-political-prisoners-this-year-some-say-they-were-tortured-11665048602</id>
-    <content type="html">President Abdel Fattah Al Sisi released the political prisoners ahead of the COP27 climate conference of world leaders in Sharm El Sheikh next month.</content>
-    <link href="https://www.wsj.com/articles/egypt-released-hundreds-of-political-prisoners-this-year-some-say-they-were-tortured-11665048602" rel="alternate"></link>
+    <title>Why Women Are Chopping Their Hair for Iran&#39;s Mahsa Amini</title>
+    <updated>2022-10-06T19:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-06:/articles/mahsa-amini-iran-hair-cut-protests-11665085770</id>
+    <content type="html">The protest move, adopted by stars including French actresses Juliette Binoche and Marion Cotillard, as well as Iranian women in cities around the world, is gaining momentum across video platforms.</content>
+    <link href="https://www.wsj.com/articles/mahsa-amini-iran-hair-cut-protests-11665085770" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
