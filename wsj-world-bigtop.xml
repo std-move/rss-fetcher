@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-08T10:28:58Z</updated>
+  <updated>2022-10-08T12:49:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Explosion Shuts Crucial Bridge Between Crimea and Russia</title>
+    <updated>2022-10-08T12:10:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-08:/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052</id>
+    <content type="html">The blast disrupted a key artery for the supply of fuel, military equipment and food to Russian troops fighting to hold ground in southern Ukraine. Russian officials were quick to blame Kyiv.</content>
+    <link href="https://www.wsj.com/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia&#39;s Attacks on Ukrainian Dam, Power Stations Signal a Tactical Shift</title>
+    <updated>2022-10-08T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-08:/articles/russias-attacks-on-ukrainian-dam-power-stations-signal-a-tactical-shift-after-losses-11665175580</id>
+    <content type="html">The strikes on civilian infrastructure mark a new phase in the war, with flooding and freezing winter temperatures turned into weapons.</content>
+    <link href="https://www.wsj.com/articles/russias-attacks-on-ukrainian-dam-power-stations-signal-a-tactical-shift-after-losses-11665175580" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Himars Transform the Battle for Ukraine---and Modern Warfare</title>
     <updated>2022-10-08T04:00:00Z</updated>
     <id>tag:www.wsj.com,2022-10-08:/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716</id>
     <content type="html">The mobile, high-precision U.S. rocket system is thwarting Russia’s invasion as it revolutionizes military strategy.</content>
     <link href="https://www.wsj.com/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Biden Warns of Growing Nuclear Risk as Ukraine Slams Russia for Drone Use</title>
-    <updated>2022-10-07T20:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-07:/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096</id>
-    <content type="html">President Biden warned that the risk of a nuclear conflict was at its highest since the 1962 Cuban missile crisis as Russia continued to face setbacks on the battlefields of Ukraine.</content>
-    <link href="https://www.wsj.com/articles/zelensky-slams-russias-use-of-drones-to-target-civilian-infrastructure-11665139096" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
