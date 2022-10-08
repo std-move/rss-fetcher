@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-08T14:28:56Z</updated>
+  <updated>2022-10-08T16:36:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Explosion Shuts Crucial Bridge Between Crimea and Russia</title>
-    <updated>2022-10-08T14:09:00Z</updated>
+    <title>Thailand Mass Shooting Victims Included Children as Young as 2</title>
+    <updated>2022-10-08T14:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-08:/articles/thailand-mass-shooting-victims-included-children-as-young-as-2-11665240774</id>
+    <content type="html">One 4-year-old loved jokes and classical Thai dancing. A 2-year-old, nicknamed the “Captain” loved pizza. At the base of one casket, lay a toy dinosaur and plastic trucks.</content>
+    <link href="https://www.wsj.com/articles/thailand-mass-shooting-victims-included-children-as-young-as-2-11665240774" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Crimea Bridge Explosion Disrupts Supply Route for Russian Forces</title>
+    <updated>2022-10-08T14:42:00Z</updated>
     <id>tag:www.wsj.com,2022-10-08:/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052</id>
-    <content type="html">The blast disrupted a key artery for the supply of fuel, military equipment and food to Russian troops fighting to hold ground in southern Ukraine. Russian officials were quick to blame Kyiv.</content>
+    <content type="html">The blast partially destroyed a key artery for the movement of fuel, military equipment and food to Russian troops fighting to hold ground in southern Ukraine. Russian officials were quick to blame Kyiv.</content>
     <link href="https://www.wsj.com/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia&#39;s Attacks on Ukrainian Dam, Power Stations Signal a Tactical Shift</title>
-    <updated>2022-10-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-08:/articles/russias-attacks-on-ukrainian-dam-power-stations-signal-a-tactical-shift-after-losses-11665175580</id>
-    <content type="html">The strikes on civilian infrastructure mark a new phase in the war, with flooding and freezing winter temperatures turned into weapons.</content>
-    <link href="https://www.wsj.com/articles/russias-attacks-on-ukrainian-dam-power-stations-signal-a-tactical-shift-after-losses-11665175580" rel="alternate"></link>
+    <title>Solar Rollout Rouses Resistance in Europe&#39;s Countryside</title>
+    <updated>2022-10-08T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-08:/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001</id>
+    <content type="html">Europe’s plans to expand solar power in response to soaring energy prices are running into thick rulebooks in France, local opposition in Spain and layers of bureaucracy in Italy.</content>
+    <link href="https://www.wsj.com/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2022-10-08:/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716</id>
     <content type="html">The mobile, high-precision U.S. rocket system is thwarting Russia’s invasion as it revolutionizes military strategy.</content>
     <link href="https://www.wsj.com/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>After Thailand Mass Shooting, Families Grieve Loss of Children</title>
-    <updated>2022-10-07T17:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-07:/articles/after-thailand-mass-shooting-families-grieve-loss-of-children-11665161186</id>
-    <content type="html">The rampage that left 36 people dead at a child-care center in the country’s northeast has shattered a rural community.</content>
-    <link href="https://www.wsj.com/articles/after-thailand-mass-shooting-families-grieve-loss-of-children-11665161186" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
