@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-08T12:49:26Z</updated>
+  <updated>2022-10-08T14:28:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Explosion Shuts Crucial Bridge Between Crimea and Russia</title>
-    <updated>2022-10-08T12:10:00Z</updated>
+    <updated>2022-10-08T14:09:00Z</updated>
     <id>tag:www.wsj.com,2022-10-08:/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052</id>
     <content type="html">The blast disrupted a key artery for the supply of fuel, military equipment and food to Russian troops fighting to hold ground in southern Ukraine. Russian officials were quick to blame Kyiv.</content>
     <link href="https://www.wsj.com/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052" rel="alternate"></link>
