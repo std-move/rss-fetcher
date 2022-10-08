@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-08T16:36:25Z</updated>
+  <updated>2022-10-08T18:31:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Crimea Bridge Explosion Disrupts Crucial Supply Route for Russian Forces</title>
+    <updated>2022-10-08T18:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-08:/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052</id>
+    <content type="html">The blast partially destroyed a key artery for the movement of fuel, military equipment and food to Russian troops fighting to hold ground in southern Ukraine. Russian officials were quick to blame Kyiv.</content>
+    <link href="https://www.wsj.com/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Thailand Mass Shooting Victims Included Children as Young as 2</title>
     <updated>2022-10-08T14:52:00Z</updated>
@@ -13,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Crimea Bridge Explosion Disrupts Supply Route for Russian Forces</title>
-    <updated>2022-10-08T14:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-08:/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052</id>
-    <content type="html">The blast partially destroyed a key artery for the movement of fuel, military equipment and food to Russian troops fighting to hold ground in southern Ukraine. Russian officials were quick to blame Kyiv.</content>
-    <link href="https://www.wsj.com/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052" rel="alternate"></link>
+    <title>Himars Transform the Battle for Ukraine---and Modern Warfare</title>
+    <updated>2022-10-08T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-08:/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716</id>
+    <content type="html">The mobile, high-precision U.S. rocket system is thwarting Russia’s invasion as it revolutionizes military strategy.</content>
+    <link href="https://www.wsj.com/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2022-10-08:/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001</id>
     <content type="html">Europe’s plans to expand solar power in response to soaring energy prices are running into thick rulebooks in France, local opposition in Spain and layers of bureaucracy in Italy.</content>
     <link href="https://www.wsj.com/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Himars Transform the Battle for Ukraine---and Modern Warfare</title>
-    <updated>2022-10-08T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-08:/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716</id>
-    <content type="html">The mobile, high-precision U.S. rocket system is thwarting Russia’s invasion as it revolutionizes military strategy.</content>
-    <link href="https://www.wsj.com/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
