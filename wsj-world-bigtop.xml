@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-09T20:28:35Z</updated>
+  <updated>2022-10-09T22:26:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Scrambles to Reconnect Supply Lines to Crimea After Bridge Explosion</title>
-    <updated>2022-10-09T18:59:00Z</updated>
+    <updated>2022-10-09T20:27:00Z</updated>
     <id>tag:www.wsj.com,2022-10-09:/articles/russia-scrambles-to-reconnect-supply-lines-to-crimea-after-bridge-explosion-11665309769</id>
     <content type="html">Moscow raced to restore transportation links to the annexed peninsula, while Russian rockets slammed into the southeastern Ukrainian city of Zaporizhzhia overnight, killing at least 17 people.</content>
     <link href="https://www.wsj.com/articles/russia-scrambles-to-reconnect-supply-lines-to-crimea-after-bridge-explosion-11665309769" rel="alternate"></link>
