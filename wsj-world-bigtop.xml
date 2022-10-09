@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-08T22:26:28Z</updated>
+  <updated>2022-10-09T02:36:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,19 +21,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Himars Transform the Battle for Ukraine---and Modern Warfare</title>
-    <updated>2022-10-08T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-08:/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716</id>
-    <content type="html">The mobile, high-precision U.S. rocket system is thwarting Russia’s invasion as it revolutionizes military strategy.</content>
-    <link href="https://www.wsj.com/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Solar Rollout Rouses Resistance in Europe&#39;s Countryside</title>
     <updated>2022-10-08T13:00:00Z</updated>
     <id>tag:www.wsj.com,2022-10-08:/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001</id>
     <content type="html">Europe’s plans to expand solar power in response to soaring energy prices are running into thick rulebooks in France, local opposition in Spain and layers of bureaucracy in Italy.</content>
     <link href="https://www.wsj.com/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Himars Transform the Battle for Ukraine---and Modern Warfare</title>
+    <updated>2022-10-08T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-08:/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716</id>
+    <content type="html">The mobile, high-precision U.S. rocket system is thwarting Russia’s invasion as it revolutionizes military strategy.</content>
+    <link href="https://www.wsj.com/articles/himars-transform-battle-for-ukraine-modern-warfare-11665169716" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
