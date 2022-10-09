@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-09T10:29:32Z</updated>
+  <updated>2022-10-09T12:49:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Crimea Bridge Explosion Disrupts Crucial Supply Route for Russian Forces</title>
-    <updated>2022-10-08T22:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-08:/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052</id>
-    <content type="html">The blast partially destroyed a key artery for the movement of fuel, military equipment and food to Russian troops fighting to hold ground in southern Ukraine. Russian officials were quick to blame Kyiv.</content>
-    <link href="https://www.wsj.com/articles/major-explosion-hits-the-bridge-between-crimea-and-russia-halting-traffic-11665215052" rel="alternate"></link>
+    <title>Russia Scrambles to Reconnect Supply Lines to Crimea After Bridge Explosion</title>
+    <updated>2022-10-09T10:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-09:/articles/russia-scrambles-to-reconnect-supply-lines-to-crimea-after-bridge-explosion-11665309769</id>
+    <content type="html">Moscow raced to restore transportation links to the annexed peninsula, while Russian rockets slammed into the southeastern Ukrainian city of Zaporizhzhia overnight, killing at least 17 people.</content>
+    <link href="https://www.wsj.com/articles/russia-scrambles-to-reconnect-supply-lines-to-crimea-after-bridge-explosion-11665309769" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-10-08:/articles/thailand-mass-shooting-victims-included-children-as-young-as-2-11665240774</id>
     <content type="html">One 4-year-old loved jokes and classical Thai dancing. A 2-year-old, nicknamed the “Captain” loved pizza. At the base of one casket, lay a toy dinosaur and plastic trucks.</content>
     <link href="https://www.wsj.com/articles/thailand-mass-shooting-victims-included-children-as-young-as-2-11665240774" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Solar Rollout Rouses Resistance in Europe&#39;s Countryside</title>
-    <updated>2022-10-08T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-08:/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001</id>
-    <content type="html">Europe’s plans to expand solar power in response to soaring energy prices are running into thick rulebooks in France, local opposition in Spain and layers of bureaucracy in Italy.</content>
-    <link href="https://www.wsj.com/articles/solar-rollout-rouses-resistance-in-europes-countryside-11665234001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
