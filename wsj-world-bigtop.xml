@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-10T16:41:13Z</updated>
+  <updated>2022-10-10T18:38:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Kyiv Residents Vow to Carry On After Missile Strikes</title>
+    <updated>2022-10-10T17:42:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-10:/articles/russian-missile-strikes-rattle-ukraines-kyiv-but-residents-vow-to-carry-on-11665423759</id>
+    <content type="html">The attacks cracked the sense of security in the city, where many had grown used to living with infrequent reminders of the war, but few were readying to flee.</content>
+    <link href="https://www.wsj.com/articles/russian-missile-strikes-rattle-ukraines-kyiv-but-residents-vow-to-carry-on-11665423759" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Russia Unleashes Biggest Barrage of Strikes on Ukraine Since Invasion</title>
-    <updated>2022-10-10T16:06:00Z</updated>
+    <updated>2022-10-10T17:25:00Z</updated>
     <id>tag:www.wsj.com,2022-10-10:/articles/explosions-rock-kyiv-in-first-attack-on-ukraines-capital-in-months-11665384662</id>
-    <content type="html">Waves of Russian missiles slammed into Kyiv and other Ukrainian cities on Monday in one of the broadest and most intense bombardments of the war, in response to a weekend attack Moscow blamed on Ukraine that seriously damaged a bridge connecting Russia to occupied Crimea.</content>
+    <content type="html">Waves of Russian missiles slammed into Kyiv and other Ukrainian cities in one of the broadest and most intense bombardments of the war, in response to a weekend attack Moscow blamed on Ukraine that seriously damaged a bridge connecting Russia to occupied Crimea.</content>
     <link href="https://www.wsj.com/articles/explosions-rock-kyiv-in-first-attack-on-ukraines-capital-in-months-11665384662" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How Police Tactics at Indonesia Soccer Stadium Led to Disaster That Killed 131</title>
+    <updated>2022-10-10T14:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-10:/articles/how-police-tactics-at-indonesia-soccer-stadium-led-to-disaster-that-killed-131-11665412888</id>
+    <content type="html">Fans say thousands were forced to run to exits because police fired tear gas into the stands after a match.</content>
+    <link href="https://www.wsj.com/articles/how-police-tactics-at-indonesia-soccer-stadium-led-to-disaster-that-killed-131-11665412888" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
