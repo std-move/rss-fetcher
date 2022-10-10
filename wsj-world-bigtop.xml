@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-10T06:54:18Z</updated>
+  <updated>2022-10-10T08:39:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,7 +21,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Iran Protests Are Proving a Durable Challenge to the Islamic Republic</title>
+    <title>Iran Protests Are Proving a Durable Test to the Regime</title>
     <updated>2022-10-09T14:53:00Z</updated>
     <id>tag:www.wsj.com,2022-10-09:/articles/iran-protests-are-proving-a-durable-challenge-to-the-islamic-republic-11665319812</id>
     <content type="html">The deep disaffection the demonstrations represent and the fact that they target a key pillar of the Islamic Republic and its foundational ideology make them a significant test.</content>
