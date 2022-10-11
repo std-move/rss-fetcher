@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-10T22:28:58Z</updated>
+  <updated>2022-10-11T02:32:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-10-10:/articles/explosions-rock-kyiv-in-first-attack-on-ukraines-capital-in-months-11665384662</id>
     <content type="html">Waves of Russian missiles slammed into Kyiv and other Ukrainian cities in one of the broadest and most intense bombardments of the war, in response to a weekend attack Moscow blamed on Ukraine that seriously damaged a bridge connecting Russia to occupied Crimea.</content>
     <link href="https://www.wsj.com/articles/explosions-rock-kyiv-in-first-attack-on-ukraines-capital-in-months-11665384662" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kyiv Residents Vow to Carry On After Missile Strikes</title>
-    <updated>2022-10-10T21:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-10:/articles/russian-missile-strikes-rattle-ukraines-kyiv-but-residents-vow-to-carry-on-11665423759</id>
-    <content type="html">The attacks cracked the sense of security in the city, where many had grown used to living with infrequent reminders of the war, but few were readying to flee.</content>
-    <link href="https://www.wsj.com/articles/russian-missile-strikes-rattle-ukraines-kyiv-but-residents-vow-to-carry-on-11665423759" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
