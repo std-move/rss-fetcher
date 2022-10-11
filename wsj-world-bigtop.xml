@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-11T10:30:59Z</updated>
+  <updated>2022-10-11T12:58:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Resumes Strikes After Mass Bombardment of Ukraine</title>
-    <updated>2022-10-11T08:47:00Z</updated>
+    <updated>2022-10-11T11:01:00Z</updated>
     <id>tag:www.wsj.com,2022-10-11:/articles/russia-resumes-strikes-after-mass-bombardment-of-ukraine-11665478054</id>
-    <content type="html">Russia launched another round of strikes across Ukraine as the death toll rose from the previous day’s barrage, one of Moscow’s broadest assaults in nearly eight months of war.</content>
+    <content type="html">Russia launched another round of strikes across Ukraine, many of which were intercepted, as the death toll rose from the previous day’s barrage, one of Moscow’s broadest assaults in nearly eight months of war.</content>
     <link href="https://www.wsj.com/articles/russia-resumes-strikes-after-mass-bombardment-of-ukraine-11665478054" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How Police Tactics at Indonesia Soccer Stadium Led to Disaster That Killed 131</title>
-    <updated>2022-10-10T14:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-10:/articles/how-police-tactics-at-indonesia-soccer-stadium-led-to-disaster-that-killed-131-11665412888</id>
-    <content type="html">Fans say thousands were forced to run to exits because police fired tear gas into the stands after a match.</content>
-    <link href="https://www.wsj.com/articles/how-police-tactics-at-indonesia-soccer-stadium-led-to-disaster-that-killed-131-11665412888" rel="alternate"></link>
+    <title>Florida Couple Turned Empty Mansions of Venezuela&#39;s Elite Into Personal Piggy Banks</title>
+    <updated>2022-10-11T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-11:/articles/florida-couple-turned-the-empty-miami-mansions-of-venezuelas-elite-into-personal-piggy-banks-11665453134</id>
+    <content type="html">A mortgage-fraud scheme used fake passports to get a Ferrari, luxury watches and millions in cash.</content>
+    <link href="https://www.wsj.com/articles/florida-couple-turned-the-empty-miami-mansions-of-venezuelas-elite-into-personal-piggy-banks-11665453134" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
