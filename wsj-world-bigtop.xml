@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-11T08:37:41Z</updated>
+  <updated>2022-10-11T10:30:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Unleashes Biggest Barrage of Strikes on Ukraine Since Invasion</title>
-    <updated>2022-10-10T22:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-10:/articles/explosions-rock-kyiv-in-first-attack-on-ukraines-capital-in-months-11665384662</id>
-    <content type="html">Waves of Russian missiles slammed into Kyiv and other Ukrainian cities in one of the broadest and most intense bombardments of the war, in response to a weekend attack Moscow blamed on Ukraine that seriously damaged a bridge connecting Russia to occupied Crimea.</content>
-    <link href="https://www.wsj.com/articles/explosions-rock-kyiv-in-first-attack-on-ukraines-capital-in-months-11665384662" rel="alternate"></link>
+    <title>Russia Resumes Strikes After Mass Bombardment of Ukraine</title>
+    <updated>2022-10-11T08:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-11:/articles/russia-resumes-strikes-after-mass-bombardment-of-ukraine-11665478054</id>
+    <content type="html">Russia launched another round of strikes across Ukraine as the death toll rose from the previous day’s barrage, one of Moscow’s broadest assaults in nearly eight months of war.</content>
+    <link href="https://www.wsj.com/articles/russia-resumes-strikes-after-mass-bombardment-of-ukraine-11665478054" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
