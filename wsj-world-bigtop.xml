@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-12T16:51:03Z</updated>
+  <updated>2022-10-12T18:37:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Appeals for More Support From West as Russia Resumes Strikes</title>
+    <updated>2022-10-12T17:58:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-12:/articles/ukraine-appeals-for-more-support-from-west-as-russia-resumes-strikes-11665573469</id>
+    <content type="html">The barrage of missiles that Moscow unleashed on Ukrainian cities earlier this week has highlighted Kyiv’s limited ability to defend population centers against attack.</content>
+    <link href="https://www.wsj.com/articles/ukraine-appeals-for-more-support-from-west-as-russia-resumes-strikes-11665573469" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How Ukrainian Strategy Is Running Circles Around Russia&#39;s Lumbering Military</title>
     <updated>2022-10-12T14:21:00Z</updated>
     <id>tag:www.wsj.com,2022-10-12:/articles/how-ukraines-strategy-is-running-circles-around-russias-lumbering-military-11665584517</id>
     <content type="html">Classic military operations and nimble battlefield decision-making are exploiting the incompetence and top-down command of Russian forces. “Without high mobility, we wouldn’t have been able to outplay Russians.”</content>
     <link href="https://www.wsj.com/articles/how-ukraines-strategy-is-running-circles-around-russias-lumbering-military-11665584517" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Appeals for More Support From West as Russia Resumes Strikes</title>
-    <updated>2022-10-12T14:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-12:/articles/ukraine-appeals-for-more-support-from-west-as-russia-resumes-strikes-11665573469</id>
-    <content type="html">The barrage of missiles that Moscow unleashed on Ukrainian cities earlier this week has highlighted Kyiv’s limited ability to defend population centers against attack.</content>
-    <link href="https://www.wsj.com/articles/ukraine-appeals-for-more-support-from-west-as-russia-resumes-strikes-11665573469" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
