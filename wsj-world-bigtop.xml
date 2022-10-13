@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-13T08:35:47Z</updated>
+  <updated>2022-10-13T10:30:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Appeals for More Support From West as Russia Resumes Strikes</title>
-    <updated>2022-10-12T20:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-12:/articles/ukraine-appeals-for-more-support-from-west-as-russia-resumes-strikes-11665573469</id>
-    <content type="html">The barrage of missiles that Moscow unleashed on Ukrainian cities earlier this week has highlighted Kyiv’s limited ability to defend population centers against attack.</content>
-    <link href="https://www.wsj.com/articles/ukraine-appeals-for-more-support-from-west-as-russia-resumes-strikes-11665573469" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Deadly Ebola Outbreak Spreads to Uganda&#39;s Capital</title>
-    <updated>2022-10-12T18:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-12:/articles/deadly-ebola-outbreak-spreads-to-ugandas-capital-11665598506</id>
-    <content type="html">The outbreak is raising fears of a wider spread of the deadly Sudan strain for which there are no proven vaccines or antiviral treatments.</content>
-    <link href="https://www.wsj.com/articles/deadly-ebola-outbreak-spreads-to-ugandas-capital-11665598506" rel="alternate"></link>
+    <title>Russia Hits Ukraine&#39;s Kyiv Region With Drone Attack</title>
+    <updated>2022-10-13T09:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-13:/articles/russia-launches-drone-strikes-across-ukraine-11665652126</id>
+    <content type="html">Moscow carried out a drone attack in the Kyiv region and Ukraine said it shot down several aerial vehicles in the south, following days of strikes that have galvanized Western support for fortifying Ukraine’s air defenses.</content>
+    <link href="https://www.wsj.com/articles/russia-launches-drone-strikes-across-ukraine-11665652126" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
