@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-12T22:28:07Z</updated>
+  <updated>2022-10-13T02:36:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-10-12:/articles/how-ukraines-strategy-is-running-circles-around-russias-lumbering-military-11665584517</id>
     <content type="html">Classic military operations and nimble battlefield decision-making are exploiting the incompetence and top-down command of Russian forces. “Without high mobility, we wouldn’t have been able to outplay Russians.”</content>
     <link href="https://www.wsj.com/articles/how-ukraines-strategy-is-running-circles-around-russias-lumbering-military-11665584517" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Dissident Escapes Xi&#39;s China and a Life &#39;Made Up of Lies&#39;</title>
-    <updated>2022-10-12T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-12:/articles/a-dissident-escapes-xi-jinpings-china-and-a-life-made-up-of-lies-11665567002</id>
-    <content type="html">Li Tingyu, who spent about 10 months in custody for publishing data on public unrest, says she felt a growing sense of alienation in her native country.</content>
-    <link href="https://www.wsj.com/articles/a-dissident-escapes-xi-jinpings-china-and-a-life-made-up-of-lies-11665567002" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
