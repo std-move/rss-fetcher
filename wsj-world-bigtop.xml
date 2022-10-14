@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-14T14:38:25Z</updated>
+  <updated>2022-10-14T16:40:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Xi Jinping&#39;s Endgame: A China Prepared for Conflict With the U.S.</title>
-    <updated>2022-10-14T13:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-14:/articles/china-congress-xi-jinping-us-11665753002</id>
-    <content type="html">Over the past 10 years, Xi Jinping has unleashed an array of military, economic and political campaigns to brace the country for what he sees as the increasingly likely prospect of confrontation with the West.</content>
-    <link href="https://www.wsj.com/articles/china-congress-xi-jinping-us-11665753002" rel="alternate"></link>
+    <title>Russia Urges Evacuation of Occupied Kherson, Steels for Ukrainian Advance</title>
+    <updated>2022-10-14T14:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-14:/articles/russia-urges-evacuation-of-occupied-kherson-steels-for-ukrainian-advance-11665742934</id>
+    <content type="html">Russian-installed officials in Ukraine’s south amplified calls for residents to leave as Kyiv’s forces step up their campaign to retake the region and Russia builds fortifications.</content>
+    <link href="https://www.wsj.com/articles/russia-urges-evacuation-of-occupied-kherson-steels-for-ukrainian-advance-11665742934" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2022-10-14:/articles/marine-le-pen-wants-france-to-chart-its-own-course-between-u-s-and-russia-11665753470</id>
     <content type="html">Though President Emmanuel Macron remains in control, his hard-right rival’s recent election gains have her rethinking France’s role on the global stage.</content>
     <link href="https://www.wsj.com/articles/marine-le-pen-wants-france-to-chart-its-own-course-between-u-s-and-russia-11665753470" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Urges Evacuation of Occupied Kherson, Steels for Ukrainian Advance</title>
-    <updated>2022-10-14T11:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-14:/articles/russia-urges-evacuation-of-occupied-kherson-steels-for-ukrainian-advance-11665742934</id>
-    <content type="html">Russian-installed officials in Ukraine’s south amplified calls for residents to leave as Kyiv’s forces step up their campaign to retake the region and Russia builds fortifications.</content>
-    <link href="https://www.wsj.com/articles/russia-urges-evacuation-of-occupied-kherson-steels-for-ukrainian-advance-11665742934" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>India&#39;s Congress Party Ruled for Decades---Now It&#39;s on Life Support</title>
-    <updated>2022-10-14T12:42:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-14:/articles/indias-congress-party-ruled-for-decadesnow-its-on-life-support-11665751323</id>
-    <content type="html">After a string of election defeats and defections to the ruling BJP, the party that governed India for nearly 60 years is looking to reinvent itself.</content>
-    <link href="https://www.wsj.com/articles/indias-congress-party-ruled-for-decadesnow-its-on-life-support-11665751323" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
