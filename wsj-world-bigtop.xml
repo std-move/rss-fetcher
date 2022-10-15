@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-15T14:25:27Z</updated>
+  <updated>2022-10-15T16:37:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Some Unaccompanied Afghan Children in U.S. Suffer Panic Attacks, Depression</title>
-    <updated>2022-10-15T12:39:00Z</updated>
+    <updated>2022-10-15T15:14:00Z</updated>
     <id>tag:www.wsj.com,2022-10-15:/articles/some-unaccompanied-afghan-children-in-the-u-s-suffer-panic-attacks-depression-11665836536</id>
     <content type="html">Advocates are pushing the Biden administration to do more to reunite families separated at Kabul airport during the rush to board evacuation flights.</content>
     <link href="https://www.wsj.com/articles/some-unaccompanied-afghan-children-in-the-u-s-suffer-panic-attacks-depression-11665836536" rel="alternate"></link>
@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title>Public Sentiment in Russia Darkens Over Ukraine War</title>
-    <updated>2022-10-15T09:30:00Z</updated>
+    <updated>2022-10-15T15:00:00Z</updated>
     <id>tag:www.wsj.com,2022-10-15:/articles/public-sentiment-in-russia-darkens-over-ukraine-war-11665826202</id>
     <content type="html">President Vladimir Putin’s military mobilization and talk of using nuclear weapons are rattling many Russians, including urban elites who had remained somewhat sheltered from the realities of the war.</content>
     <link href="https://www.wsj.com/articles/public-sentiment-in-russia-darkens-over-ukraine-war-11665826202" rel="alternate"></link>
