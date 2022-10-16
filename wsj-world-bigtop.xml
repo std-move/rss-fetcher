@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-16T18:32:37Z</updated>
+  <updated>2022-10-16T20:29:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Elon Musk Says SpaceX Will Continue to Cover Starlink Costs in Ukraine</title>
+    <updated>2022-10-16T19:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-16:/articles/elon-musk-says-spacex-will-continue-to-cover-starlink-costs-in-ukraine-11665916226</id>
+    <content type="html">The billionaire chief executive of SpaceX and Tesla, backtracking on previous complaints, pledged to keep funding the internet service. Meanwhile on the ground, explosions rocked the Russian-held city of Donetsk.</content>
+    <link href="https://www.wsj.com/articles/elon-musk-says-spacex-will-continue-to-cover-starlink-costs-in-ukraine-11665916226" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Xi Jinping&#39;s Quest for Control Over China Targets Even Old Friends</title>
     <updated>2022-10-16T13:01:00Z</updated>
