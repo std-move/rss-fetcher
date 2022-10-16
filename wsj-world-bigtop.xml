@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-16T10:29:24Z</updated>
+  <updated>2022-10-16T12:51:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Strikes on Ukraine Knock Out Power in Kyiv</title>
-    <updated>2022-10-15T22:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-15:/articles/russian-strikes-on-ukraine-knock-out-power-in-kyiv-11665831565</id>
-    <content type="html">The airstrikes left parts of Kyiv without power, stirring fresh concerns about Ukraine’s electricity supply as winter approaches.</content>
-    <link href="https://www.wsj.com/articles/russian-strikes-on-ukraine-knock-out-power-in-kyiv-11665831565" rel="alternate"></link>
+    <title>Failure to Control Ukraine&#39;s Skies Betrays Flaw in Russia&#39;s War Strategy</title>
+    <updated>2022-10-16T10:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-16:/articles/failure-to-control-ukraines-skies-betrays-key-flaw-in-russias-war-strategy-11665915386</id>
+    <content type="html">Without air supremacy, Moscow can’t stop Kyiv’s offensive or target precisely, relying on drones and missiles.</content>
+    <link href="https://www.wsj.com/articles/failure-to-control-ukraines-skies-betrays-key-flaw-in-russias-war-strategy-11665915386" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
