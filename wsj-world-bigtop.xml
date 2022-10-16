@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-16T20:29:06Z</updated>
+  <updated>2022-10-16T22:27:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Elon Musk Says SpaceX Will Continue to Cover Starlink Costs in Ukraine</title>
-    <updated>2022-10-16T19:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-16:/articles/elon-musk-says-spacex-will-continue-to-cover-starlink-costs-in-ukraine-11665916226</id>
-    <content type="html">The billionaire chief executive of SpaceX and Tesla, backtracking on previous complaints, pledged to keep funding the internet service. Meanwhile on the ground, explosions rocked the Russian-held city of Donetsk.</content>
-    <link href="https://www.wsj.com/articles/elon-musk-says-spacex-will-continue-to-cover-starlink-costs-in-ukraine-11665916226" rel="alternate"></link>
+    <title>A Salt-Loving Nation Tries to Shake the Habit</title>
+    <updated>2022-10-16T15:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-16:/articles/a-salt-loving-nation-tries-to-shake-the-habit-11665933929</id>
+    <content type="html">Researchers in Japan are developing high-tech chopsticks that trick eaters into tasting a lot of salt in bland, low-salt foods. “We want the general population to use this widely before their hypertension gets serious.”</content>
+    <link href="https://www.wsj.com/articles/a-salt-loving-nation-tries-to-shake-the-habit-11665933929" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
