@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-17T08:43:43Z</updated>
+  <updated>2022-10-17T10:34:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>A Salt-Loving Nation Tries to Shake the Habit</title>
-    <updated>2022-10-16T15:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-16:/articles/a-salt-loving-nation-tries-to-shake-the-habit-11665933929</id>
-    <content type="html">Researchers in Japan are developing high-tech chopsticks that trick eaters into tasting a lot of salt in bland, low-salt foods. “We want the general population to use this widely before their hypertension gets serious.”</content>
-    <link href="https://www.wsj.com/articles/a-salt-loving-nation-tries-to-shake-the-habit-11665933929" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xi Jinping&#39;s Quest for Control Over China Targets Even Old Friends</title>
-    <updated>2022-10-16T13:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-16:/articles/xi-jinping-china-anticorruption-11665925166</id>
-    <content type="html">A campaign of anticorruption purges has helped China’s leader tighten his grip on power—and his tactics have grown more sophisticated and pervasive.</content>
-    <link href="https://www.wsj.com/articles/xi-jinping-china-anticorruption-11665925166" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Failure to Control Ukraine&#39;s Skies Betrays Flaw in Russia&#39;s War Strategy</title>
-    <updated>2022-10-16T10:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-16:/articles/failure-to-control-ukraines-skies-betrays-key-flaw-in-russias-war-strategy-11665915386</id>
-    <content type="html">Without air supremacy, Moscow can’t stop Kyiv’s offensive or target precisely, relying on drones and missiles.</content>
-    <link href="https://www.wsj.com/articles/failure-to-control-ukraines-skies-betrays-key-flaw-in-russias-war-strategy-11665915386" rel="alternate"></link>
+    <title>Kyiv Hit by Drone Attacks as Russia Targets Infrastructure</title>
+    <updated>2022-10-17T09:42:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-17:/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746</id>
+    <content type="html">Russia launched a fresh wave of Iranian-made drones to attack central Kyiv, Ukrainian officials said, as Moscow presses a campaign targeting Ukraine’s energy infrastructure before the onset of winter.</content>
+    <link href="https://www.wsj.com/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
