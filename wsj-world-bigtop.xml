@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-17T18:48:02Z</updated>
+  <updated>2022-10-17T20:30:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Kyiv Hit by Drone Attacks as Russia Targets Infrastructure</title>
-    <updated>2022-10-17T18:04:00Z</updated>
+    <updated>2022-10-17T20:27:00Z</updated>
     <id>tag:www.wsj.com,2022-10-17:/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746</id>
     <content type="html">Russia launched a fresh wave of Iranian-made drones to strike central Kyiv, Ukrainian officials said, as Moscow presses a campaign attacking Ukraine’s energy infrastructure before the onset of winter.</content>
     <link href="https://www.wsj.com/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746" rel="alternate"></link>
