@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-18T20:30:44Z</updated>
+  <updated>2022-10-18T22:29:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Destroys Ukraine&#39;s Power Stations as Its Ground War Falters</title>
-    <updated>2022-10-18T19:23:00Z</updated>
+    <title>Russia&#39;s Top Ukraine Commander Sees Invasion Faltering in South</title>
+    <updated>2022-10-18T22:11:00Z</updated>
     <id>tag:www.wsj.com,2022-10-18:/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361</id>
-    <content type="html">Russia launched a fresh volley of missiles at Ukraine’s critical infrastructure, the latest in a number of attacks that Kyiv said has damaged nearly a third of the country’s power plants, while Russia’s top general in Ukraine admitted Moscow’s forces were facing severe challenges across the front line.</content>
+    <content type="html">Gen. Sergei Surovikin, the recently appointed commander of Russian Armed Forces in Ukraine, gave a rare pessimistic take of his invading forces’ position, suggesting their hold on the southern city of Kherson was weakening.</content>
     <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
