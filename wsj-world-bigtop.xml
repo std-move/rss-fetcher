@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-18T08:40:52Z</updated>
+  <updated>2022-10-18T10:32:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>War Drives a Rift Between Two Ukrainian Brothers</title>
+    <updated>2022-10-18T10:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-18:/articles/war-drives-a-rift-between-two-ukrainian-brothers-11666087695</id>
+    <content type="html">Russia and Ukraine have historical and cultural ties stretching back centuries, and some 20 million Ukrainians have relatives in Russia. Clashing experiences of the war have created gulfs between many of them.</content>
+    <link href="https://www.wsj.com/articles/war-drives-a-rift-between-two-ukrainian-brothers-11666087695" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Kyiv Hit by Drone Attacks as Russia Targets Infrastructure</title>
     <updated>2022-10-17T22:18:00Z</updated>
     <id>tag:www.wsj.com,2022-10-17:/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746</id>
     <content type="html">Russia launched a fresh wave of Iranian-made drones to strike central Kyiv, Ukrainian officials said, as Moscow presses a campaign attacking Ukraine’s energy infrastructure before the onset of winter.</content>
     <link href="https://www.wsj.com/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Nuclear Plant Workers Told to Side With Russia or Lose Their Jobs</title>
-    <updated>2022-10-17T19:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-17:/articles/russia-gives-ukraine-nuclear-plant-workers-ultimatum-to-pick-a-side-11666025113</id>
-    <content type="html">Technicians maintaining the Russian-occupied Zaporizhzhia nuclear plant have been given until Thursday to pick sides in the struggle for control of the complex.</content>
-    <link href="https://www.wsj.com/articles/russia-gives-ukraine-nuclear-plant-workers-ultimatum-to-pick-a-side-11666025113" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xi Jinping&#39;s Ideological Ambition Darkens China&#39;s Economic Prospects</title>
-    <updated>2022-10-17T14:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-17:/articles/china-economy-xi-jinping-ideology-11666016306</id>
-    <content type="html">Many economists predict slower growth, in part due to Xi’s focus on Communist Party control. He shows few signs of changing course on his priorities.</content>
-    <link href="https://www.wsj.com/articles/china-economy-xi-jinping-ideology-11666016306" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
