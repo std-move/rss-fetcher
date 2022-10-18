@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-18T18:41:11Z</updated>
+  <updated>2022-10-18T20:30:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Destroys Ukraine&#39;s Power Stations as Its Ground War Falters</title>
+    <updated>2022-10-18T19:23:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-18:/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361</id>
+    <content type="html">Russia launched a fresh volley of missiles at Ukraine’s critical infrastructure, the latest in a number of attacks that Kyiv said has damaged nearly a third of the country’s power plants, while Russia’s top general in Ukraine admitted Moscow’s forces were facing severe challenges across the front line.</content>
+    <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>French Protests Highlight Pressure on European Leaders From Energy Crisis</title>
     <updated>2022-10-18T18:02:00Z</updated>
     <id>tag:www.wsj.com,2022-10-18:/articles/french-protests-highlight-pressure-on-european-leaders-from-energy-crisis-11666089277</id>
     <content type="html">Thousands of people march across France to demand higher wages to cope with rising energy bills and broader inflation, a sign of the political turmoil facing the region’s leaders as the war in Ukraine rages with no end in sight.</content>
     <link href="https://www.wsj.com/articles/french-protests-highlight-pressure-on-european-leaders-from-energy-crisis-11666089277" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Destroyed Nearly a Third of Ukraine&#39;s Power Stations, Zelensky Says</title>
-    <updated>2022-10-18T17:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-18:/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky said Russia has destroyed about 30% of the country’s power stations as Moscow tries to sap Ukraine’s will and ability to fight on the battlefield following a month of gains by Kyiv.</content>
-    <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
