@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-18T14:35:27Z</updated>
+  <updated>2022-10-18T16:44:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Launches Fresh Missile Strikes, Widening Attacks on Ukrainian Power Plants</title>
-    <updated>2022-10-18T11:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-18:/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky said Russia has destroyed about 30% of the country’s power stations as Moscow tries to sap Ukraine’s will and ability to fight on the battlefield following a month of gains by Kyiv.</content>
-    <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361" rel="alternate"></link>
+    <title>French Protests Highlight Pressure on European Leaders From Energy Crisis</title>
+    <updated>2022-10-18T16:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-18:/articles/french-protests-highlight-pressure-on-european-leaders-from-energy-crisis-11666089277</id>
+    <content type="html">Thousands of people march across France to demand higher wages to cope with rising energy bills and broader inflation, a sign of the political turmoil facing the region’s leaders as the war in Ukraine rages with no end in sight.</content>
+    <link href="https://www.wsj.com/articles/french-protests-highlight-pressure-on-european-leaders-from-energy-crisis-11666089277" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fashion Industry Gets Torn by Europe&#39;s Soaring Energy Bills</title>
+    <updated>2022-10-18T14:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-18:/articles/energy-crisis-europe-fashion-industry-11666103793</id>
+    <content type="html">The surge in natural-gas and electricity prices has imperiled thousands of small factories and workshops that supply brands such as Gucci and H&amp;amp;M. The cost of gas, said one Italian fabric dyer, has become ‘a monster that’s devouring us.’</content>
+    <link href="https://www.wsj.com/articles/energy-crisis-europe-fashion-industry-11666103793" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-10-18:/articles/war-drives-a-rift-between-two-ukrainian-brothers-11666087695</id>
     <content type="html">Russia and Ukraine have historical and cultural ties stretching back centuries, and some 20 million Ukrainians have relatives in Russia. Clashing experiences of the war have created gulfs among many of them.</content>
     <link href="https://www.wsj.com/articles/war-drives-a-rift-between-two-ukrainian-brothers-11666087695" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xi Jinping&#39;s Ideological Ambition Challenges China&#39;s Economic Prospects</title>
-    <updated>2022-10-17T14:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-17:/articles/china-economy-xi-jinping-ideology-11666016306</id>
-    <content type="html">Many economists predict slower growth, in part due to Xi’s focus on Communist Party control. He shows few signs of changing course on his priorities.</content>
-    <link href="https://www.wsj.com/articles/china-economy-xi-jinping-ideology-11666016306" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
