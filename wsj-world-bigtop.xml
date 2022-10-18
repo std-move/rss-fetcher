@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-18T10:32:41Z</updated>
+  <updated>2022-10-18T12:59:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Launches Fresh Missile Strikes, Widening Attacks on Ukrainian Power Plants</title>
+    <updated>2022-10-18T11:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-18:/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361</id>
+    <content type="html">Ukrainian President Volodymyr Zelensky said Russia has destroyed about 30% of the country’s power stations as Moscow tries to sap Ukraine’s will and ability to fight on the battlefield following a month of gains by Kyiv.</content>
+    <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>War Drives a Rift Between Two Ukrainian Brothers</title>
     <updated>2022-10-18T10:08:00Z</updated>
     <id>tag:www.wsj.com,2022-10-18:/articles/war-drives-a-rift-between-two-ukrainian-brothers-11666087695</id>
-    <content type="html">Russia and Ukraine have historical and cultural ties stretching back centuries, and some 20 million Ukrainians have relatives in Russia. Clashing experiences of the war have created gulfs between many of them.</content>
+    <content type="html">Russia and Ukraine have historical and cultural ties stretching back centuries, and some 20 million Ukrainians have relatives in Russia. Clashing experiences of the war have created gulfs among many of them.</content>
     <link href="https://www.wsj.com/articles/war-drives-a-rift-between-two-ukrainian-brothers-11666087695" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Kyiv Hit by Drone Attacks as Russia Targets Infrastructure</title>
-    <updated>2022-10-17T22:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-17:/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746</id>
-    <content type="html">Russia launched a fresh wave of Iranian-made drones to strike central Kyiv, Ukrainian officials said, as Moscow presses a campaign attacking Ukraine’s energy infrastructure before the onset of winter.</content>
-    <link href="https://www.wsj.com/articles/kyiv-hit-by-drone-attacks-as-russia-targets-infrastructure-11665999746" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
