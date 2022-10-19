@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-19T18:44:34Z</updated>
+  <updated>2022-10-19T20:30:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Brazil&#39;s Presidential Candidates Court Evangelical Vote</title>
-    <updated>2022-10-19T16:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-19:/articles/brazilian-presidential-candidates-bolsonaro-and-lula-court-the-evangelical-vote-11666181543</id>
-    <content type="html">Incumbent Jair Bolsonaro and his leftist rival Luiz Inácio Lula da Silva are battling to portray themselves as closest to one particularly influential figure: God.</content>
-    <link href="https://www.wsj.com/articles/brazilian-presidential-candidates-bolsonaro-and-lula-court-the-evangelical-vote-11666181543" rel="alternate"></link>
+    <title>Ukrainians Moved From Kherson as Russia Announces Martial Law in Occupied Regions</title>
+    <updated>2022-10-19T18:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-19:/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890</id>
+    <content type="html">Citizens of the only regional capital seized by Moscow since its invasion began were urged to leave as Russia declared martial law in occupied regions of Ukraine, as it tries to strengthen its hold on territories where Kyiv has regained ground.</content>
+    <link href="https://www.wsj.com/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-10-19:/articles/xi-china-surveillance-covid-11666187151</id>
     <content type="html">Xi Jinping has taken government tracking to new levels during the pandemic, testing the faith of Chinese in a government that is no longer delivering supercharged economic growth.</content>
     <link href="https://www.wsj.com/articles/xi-china-surveillance-covid-11666187151" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainians Moved From Kherson as Russia Announces Martial Law in Occupied Regions</title>
-    <updated>2022-10-19T15:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-19:/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890</id>
-    <content type="html">Citizens of the only regional capital seized by Moscow since its invasion began were urged to leave as Russia declared martial law in occupied regions of Ukraine, as it tries to strengthen its hold on territories where Kyiv has regained ground.</content>
-    <link href="https://www.wsj.com/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
