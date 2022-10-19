@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-19T16:48:35Z</updated>
+  <updated>2022-10-19T18:44:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-10-19:/articles/brazilian-presidential-candidates-bolsonaro-and-lula-court-the-evangelical-vote-11666181543</id>
     <content type="html">Incumbent Jair Bolsonaro and his leftist rival Luiz Inácio Lula da Silva are battling to portray themselves as closest to one particularly influential figure: God.</content>
     <link href="https://www.wsj.com/articles/brazilian-presidential-candidates-bolsonaro-and-lula-court-the-evangelical-vote-11666181543" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China&#39;s Surveillance State Pushes Deeper into Citizens&#39; Lives</title>
+    <updated>2022-10-19T15:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-19:/articles/xi-china-surveillance-covid-11666187151</id>
+    <content type="html">Xi Jinping has taken government tracking to new levels during the pandemic, testing the faith of Chinese in a government that is no longer delivering supercharged economic growth.</content>
+    <link href="https://www.wsj.com/articles/xi-china-surveillance-covid-11666187151" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
