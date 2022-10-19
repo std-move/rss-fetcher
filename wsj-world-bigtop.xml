@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-19T20:30:24Z</updated>
+  <updated>2022-10-19T22:31:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainians Moved From Kherson as Russia Announces Martial Law in Occupied Regions</title>
-    <updated>2022-10-19T18:52:00Z</updated>
+    <updated>2022-10-19T22:13:00Z</updated>
     <id>tag:www.wsj.com,2022-10-19:/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890</id>
     <content type="html">Citizens of the only regional capital seized by Moscow since its invasion began were urged to leave as Russia declared martial law in occupied regions of Ukraine, as it tries to strengthen its hold on territories where Kyiv has regained ground.</content>
     <link href="https://www.wsj.com/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890" rel="alternate"></link>
