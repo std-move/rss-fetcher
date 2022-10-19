@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-19T14:36:36Z</updated>
+  <updated>2022-10-19T16:48:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainians Are Moved From Captured Kherson as Kremlin Announces Martial Law</title>
-    <updated>2022-10-19T14:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-19:/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890</id>
-    <content type="html">Citizens of the only regional capital seized by Moscow since its invasion began were urged to leave as Russia declared martial law in occupied regions of Ukraine, as it tries to strengthen its hold on territories where Kyiv has regained ground.</content>
-    <link href="https://www.wsj.com/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890" rel="alternate"></link>
+    <title>Brazil&#39;s Presidential Candidates Court Evangelical Vote</title>
+    <updated>2022-10-19T16:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-19:/articles/brazilian-presidential-candidates-bolsonaro-and-lula-court-the-evangelical-vote-11666181543</id>
+    <content type="html">Incumbent Jair Bolsonaro and his leftist rival Luiz Inácio Lula da Silva are battling to portray themselves as closest to one particularly influential figure: God.</content>
+    <link href="https://www.wsj.com/articles/brazilian-presidential-candidates-bolsonaro-and-lula-court-the-evangelical-vote-11666181543" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Fashion Industry Gets Torn by Europe&#39;s Soaring Energy Bills</title>
-    <updated>2022-10-18T14:41:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-18:/articles/energy-crisis-europe-fashion-industry-11666103793</id>
-    <content type="html">The surge in natural-gas and electricity prices has imperiled thousands of small factories and workshops that supply brands such as Gucci and H&amp;amp;M. The cost of gas, said one Italian fabric dyer, has become ‘a monster that’s devouring us.’</content>
-    <link href="https://www.wsj.com/articles/energy-crisis-europe-fashion-industry-11666103793" rel="alternate"></link>
+    <title>Ukrainians Moved From Kherson as Russia Announces Martial Law in Occupied Regions</title>
+    <updated>2022-10-19T15:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-19:/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890</id>
+    <content type="html">Citizens of the only regional capital seized by Moscow since its invasion began were urged to leave as Russia declared martial law in occupied regions of Ukraine, as it tries to strengthen its hold on territories where Kyiv has regained ground.</content>
+    <link href="https://www.wsj.com/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
