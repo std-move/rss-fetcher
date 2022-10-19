@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-19T10:35:30Z</updated>
+  <updated>2022-10-19T13:00:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia&#39;s Top Ukraine Commander Sees Invasion Faltering in South</title>
-    <updated>2022-10-18T22:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-18:/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361</id>
-    <content type="html">Gen. Sergei Surovikin, the recently appointed commander of Russian Armed Forces in Ukraine, gave a rare pessimistic take of his invading forces’ position, suggesting their hold on the southern city of Kherson was weakening.</content>
-    <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361" rel="alternate"></link>
+    <title>Russia Moves Ukrainians From Captured Kherson</title>
+    <updated>2022-10-19T11:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-19:/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890</id>
+    <content type="html">The occupied region’s leader urged citizens to leave the only regional capital seized by Moscow since its invasion began, fearing Ukrainian attacks.</content>
+    <link href="https://www.wsj.com/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
