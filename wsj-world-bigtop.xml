@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-19T07:05:11Z</updated>
+  <updated>2022-10-19T08:43:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-10-18:/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361</id>
     <content type="html">Gen. Sergei Surovikin, the recently appointed commander of Russian Armed Forces in Ukraine, gave a rare pessimistic take of his invading forces’ position, suggesting their hold on the southern city of Kherson was weakening.</content>
     <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-widening-attacks-on-ukrainian-power-plants-11666091361" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>French Protests Highlight Pressure on European Leaders From Energy Crisis</title>
-    <updated>2022-10-18T18:02:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-18:/articles/french-protests-highlight-pressure-on-european-leaders-from-energy-crisis-11666089277</id>
-    <content type="html">Thousands of people march across France to demand higher wages to cope with rising energy bills and broader inflation, a sign of the political turmoil facing the region’s leaders as the war in Ukraine rages with no end in sight.</content>
-    <link href="https://www.wsj.com/articles/french-protests-highlight-pressure-on-european-leaders-from-energy-crisis-11666089277" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
