@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-20T10:32:24Z</updated>
+  <updated>2022-10-20T12:59:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukrainians Urged to Ration Electricity Use as Russian Missiles Target Energy Infrastructure</title>
-    <updated>2022-10-20T09:43:00Z</updated>
+    <updated>2022-10-20T11:37:00Z</updated>
     <id>tag:www.wsj.com,2022-10-20:/articles/ukrainians-urged-to-limit-electricity-use-as-russian-missiles-target-energy-infrastructure-11666258980</id>
     <content type="html">Moscow’s systematic targeting of the country’s energy infrastructure threatens residents’ ability to survive through the winter.</content>
     <link href="https://www.wsj.com/articles/ukrainians-urged-to-limit-electricity-use-as-russian-missiles-target-energy-infrastructure-11666258980" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Surveillance State Pushes Deeper Into Citizens&#39; Lives</title>
-    <updated>2022-10-19T15:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-19:/articles/xi-china-surveillance-covid-11666187151</id>
-    <content type="html">Xi Jinping has taken government tracking to new levels during the pandemic, testing the faith of Chinese in a government that is no longer delivering supercharged economic growth.</content>
-    <link href="https://www.wsj.com/articles/xi-china-surveillance-covid-11666187151" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
