@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-20T08:36:05Z</updated>
+  <updated>2022-10-20T10:32:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainians Moved From Kherson as Russia Announces Martial Law in Occupied Regions</title>
-    <updated>2022-10-20T00:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-20:/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890</id>
-    <content type="html">Citizens of the only regional capital seized by Moscow since its invasion began were urged to leave as Russia declared martial law in occupied regions of Ukraine, as it tries to strengthen its hold on territories where Kyiv has regained ground.</content>
-    <link href="https://www.wsj.com/articles/russia-moves-ukrainians-from-captured-kherson-as-moscows-grip-weakens-11666177890" rel="alternate"></link>
+    <title>Ukrainians Urged to Ration Electricity Use as Russian Missiles Target Energy Infrastructure</title>
+    <updated>2022-10-20T09:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-20:/articles/ukrainians-urged-to-limit-electricity-use-as-russian-missiles-target-energy-infrastructure-11666258980</id>
+    <content type="html">Moscow’s systematic targeting of the country’s energy infrastructure threatens residents’ ability to survive through the winter.</content>
+    <link href="https://www.wsj.com/articles/ukrainians-urged-to-limit-electricity-use-as-russian-missiles-target-energy-infrastructure-11666258980" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
