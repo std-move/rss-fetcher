@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-20T14:36:51Z</updated>
+  <updated>2022-10-20T16:45:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>India&#39;s Diwali Spending Season Shows a Lingering Pandemic Divide</title>
+    <updated>2022-10-20T16:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-20:/articles/indias-diwali-spending-season-shows-a-lingering-pandemic-divide-11666269521</id>
+    <content type="html">Retail sales in India are expected to rise to around $18 billion this festival season, but discretionary spending among consumers is divided between the rich and poor.</content>
+    <link href="https://www.wsj.com/articles/indias-diwali-spending-season-shows-a-lingering-pandemic-divide-11666269521" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukrainians Urged to Ration Electricity Use as Russian Missiles Target Energy Infrastructure</title>
     <updated>2022-10-20T14:27:00Z</updated>
@@ -13,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>India&#39;s Diwali Spending Season Shows a Lingering Pandemic Divide</title>
-    <updated>2022-10-20T12:38:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-20:/articles/indias-diwali-spending-season-shows-a-lingering-pandemic-divide-11666269521</id>
-    <content type="html">Retail sales in India are expected to rise to around $18 billion this festival season, but discretionary spending among consumers is divided between the rich and poor.</content>
-    <link href="https://www.wsj.com/articles/indias-diwali-spending-season-shows-a-lingering-pandemic-divide-11666269521" rel="alternate"></link>
+    <title>China&#39;s Military Is Catching Up to the U.S. Is It Ready for Battle?</title>
+    <updated>2022-10-20T14:04:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-20:/articles/china-military-us-taiwan-xi-11666268994</id>
+    <content type="html">The People’s Liberation Army is emerging as a true competitor to the U.S. amid heightened tensions with Taiwan. The challenge for Xi Jinping is preparing troops to fight.</content>
+    <link href="https://www.wsj.com/articles/china-military-us-taiwan-xi-11666268994" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
