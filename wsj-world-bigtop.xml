@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-21T14:39:14Z</updated>
+  <updated>2022-10-21T16:42:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Strikes Occupied Kherson as More Russians Flee</title>
-    <updated>2022-10-21T12:37:00Z</updated>
+    <updated>2022-10-21T15:25:00Z</updated>
     <id>tag:www.wsj.com,2022-10-21:/articles/ukraine-strikes-occupied-kherson-as-more-russians-flee-11666351776</id>
     <content type="html">Ukrainian artillery struck the ferry crossing in the southern city of Kherson, the only regional capital captured by Moscow since the February invasion, as Russian forces pounded the cities of Zaporizhzhia and Kharkiv with renewed strikes.</content>
     <link href="https://www.wsj.com/articles/ukraine-strikes-occupied-kherson-as-more-russians-flee-11666351776" rel="alternate"></link>
