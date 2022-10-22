@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-22T14:26:41Z</updated>
+  <updated>2022-10-22T16:38:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Fresh Russian Strikes Leave Parts of Ukraine Without Power</title>
-    <updated>2022-10-22T12:59:00Z</updated>
+    <updated>2022-10-22T16:07:00Z</updated>
     <id>tag:www.wsj.com,2022-10-22:/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537</id>
     <content type="html">Moscow launched one of its most destructive attacks on Ukraine’s critical infrastructure, escalating its campaign to leave the country without power as winter approaches.</content>
     <link href="https://www.wsj.com/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537" rel="alternate"></link>
