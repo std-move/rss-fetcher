@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-22T12:51:22Z</updated>
+  <updated>2022-10-22T14:26:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Strikes Occupied Kherson as More Civilians Flee</title>
-    <updated>2022-10-21T18:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-21:/articles/ukraine-strikes-occupied-kherson-as-more-russians-flee-11666351776</id>
-    <content type="html">Ukrainian artillery struck the ferry crossing in the southern city of Kherson, the only regional capital captured by Moscow since the February invasion, as Russian forces pounded the cities of Zaporizhzhia and Kharkiv.</content>
-    <link href="https://www.wsj.com/articles/ukraine-strikes-occupied-kherson-as-more-russians-flee-11666351776" rel="alternate"></link>
+    <title>Fresh Russian Strikes Leave Parts of Ukraine Without Power</title>
+    <updated>2022-10-22T12:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-22:/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537</id>
+    <content type="html">Moscow launched one of its most destructive attacks on Ukraine’s critical infrastructure, escalating its campaign to leave the country without power as winter approaches.</content>
+    <link href="https://www.wsj.com/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
