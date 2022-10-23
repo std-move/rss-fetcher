@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-23T12:52:28Z</updated>
+  <updated>2022-10-23T14:27:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Fresh Russian Strikes Leave Parts of Ukraine Without Power</title>
-    <updated>2022-10-22T16:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-22:/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537</id>
-    <content type="html">Moscow launched one of its most destructive attacks on Ukraine’s critical infrastructure, escalating its campaign to leave the country without power as winter approaches.</content>
-    <link href="https://www.wsj.com/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Attacks Threaten Ukraine&#39;s Home Heating</title>
-    <updated>2022-10-22T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-22:/articles/ukraines-home-heating-network-threatened-by-russian-attacks-11666399886</id>
-    <content type="html">Damage inflicted by Moscow puts residents of Kyiv and other Ukrainian cities at risk of periods without heat as winter nears.</content>
-    <link href="https://www.wsj.com/articles/ukraines-home-heating-network-threatened-by-russian-attacks-11666399886" rel="alternate"></link>
+    <title>France&#39;s Nuclear Reactors Malfunction as Energy Crisis Bites</title>
+    <updated>2022-10-23T09:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-23:/articles/frances-nuclear-reactors-malfunction-as-energy-crisis-bites-11666517581</id>
+    <content type="html">Plans to return the country’s fleet of nuclear reactors to full power this winter are being delayed after a rash of outages.</content>
+    <link href="https://www.wsj.com/articles/frances-nuclear-reactors-malfunction-as-energy-crisis-bites-11666517581" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
