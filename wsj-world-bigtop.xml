@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-22T22:27:13Z</updated>
+  <updated>2022-10-23T02:39:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-10-22:/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537</id>
     <content type="html">Moscow launched one of its most destructive attacks on Ukraine’s critical infrastructure, escalating its campaign to leave the country without power as winter approaches.</content>
     <link href="https://www.wsj.com/articles/fresh-russian-strikes-leave-parts-of-ukraine-without-power-11666428537" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Is Offering Extra Payments to Mobilized Troops</title>
-    <updated>2022-10-21T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-21:/articles/russia-is-offering-extra-payments-to-mobilized-troops-11666320420</id>
-    <content type="html">Subsidies, intended to bolster families of men called up in the unpopular draft for the war in Ukraine, are rolling out unevenly and sparking criticism.</content>
-    <link href="https://www.wsj.com/articles/russia-is-offering-extra-payments-to-mobilized-troops-11666320420" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
