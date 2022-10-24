@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-24T16:42:35Z</updated>
+  <updated>2022-10-24T18:43:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Moves to Defend Kherson Against Ukraine&#39;s Advance Before Winter</title>
-    <updated>2022-10-24T14:23:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-24:/articles/russia-moves-to-defend-kherson-against-ukraines-advance-before-winter-11666601033</id>
-    <content type="html">Moscow is building territorial defense units in the occupied city, a significant prize from the war’s early days, and accused Kyiv of preparing a dirty bomb without citing proof.</content>
-    <link href="https://www.wsj.com/articles/russia-moves-to-defend-kherson-against-ukraines-advance-before-winter-11666601033" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Winter&#39;s Onset Will Change the War in Ukraine</title>
-    <updated>2022-10-24T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-24:/articles/winters-onset-will-change-russias-war-in-ukraine-11666608971</id>
-    <content type="html">Armies on both sides are girding for cold weather and shorter days, which will deepen logistical difficulties and take a toll on troops’ health and morale and weapons systems.</content>
-    <link href="https://www.wsj.com/articles/winters-onset-will-change-russias-war-in-ukraine-11666608971" rel="alternate"></link>
+    <title>U.S.-Saudi Relations Buckle, Driven by Animosity Between Biden and Mohammed bin Salman</title>
+    <updated>2022-10-24T15:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-24:/articles/u-s-saudi-relations-biden-mbs-animosity-11666623661</id>
+    <content type="html">Lack of personal trust between president and crown prince accelerates a yearslong split driven by geopolitical and economic forces.</content>
+    <link href="https://www.wsj.com/articles/u-s-saudi-relations-biden-mbs-animosity-11666623661" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
