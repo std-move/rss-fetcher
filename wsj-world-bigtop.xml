@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-25T10:33:08Z</updated>
+  <updated>2022-10-25T13:01:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.S.-Saudi Relations Buckle, Driven by Animosity Between Biden and Mohammed bin Salman</title>
-    <updated>2022-10-24T15:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-24:/articles/u-s-saudi-relations-biden-mbs-animosity-11666623661</id>
-    <content type="html">Lack of personal trust between president and crown prince accelerates a yearslong split driven by geopolitical and economic forces.</content>
-    <link href="https://www.wsj.com/articles/u-s-saudi-relations-biden-mbs-animosity-11666623661" rel="alternate"></link>
+    <title>Ukraine Presses West for Billions in Economic, Military Aid</title>
+    <updated>2022-10-25T11:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-25:/articles/ukraine-presses-west-for-billions-in-economic-military-aid-after-russian-attacks-on-infrastructure-11666698245</id>
+    <content type="html">President Volodymyr Zelensky pressed Western political and business leaders, who are meeting in Berlin, for more funding to rebuild his country following weeks of Russian attacks on its infrastructure.</content>
+    <link href="https://www.wsj.com/articles/ukraine-presses-west-for-billions-in-economic-military-aid-after-russian-attacks-on-infrastructure-11666698245" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
