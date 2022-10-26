@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-26T14:28:22Z</updated>
+  <updated>2022-10-26T16:36:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-10-26:/articles/ukraine-calls-for-more-air-defense-help-as-russian-barrages-continue-11666777614</id>
     <content type="html">Air defense is becoming a critical new front in the war after Russia launched a series of aerial attacks that have wreaked havoc on Ukraine’s electrical infrastructure.</content>
     <link href="https://www.wsj.com/articles/ukraine-calls-for-more-air-defense-help-as-russian-barrages-continue-11666777614" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Oligarchs Obscure Their Wealth Through Secretive Isle of Man Network</title>
-    <updated>2022-10-25T14:16:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-25:/articles/russian-oligarch-bridgewaters-sanctions-offshore-network-11665767178</id>
-    <content type="html">The web of shell companies and middlemen managed by services firm Bridgewaters makes it hard for authorities to track assets and enforce sanctions. The company has connections to now-blacklisted oligarchs including Alisher Usmanov, Andrei Skoch and Sergei Chemezov.</content>
-    <link href="https://www.wsj.com/articles/russian-oligarch-bridgewaters-sanctions-offshore-network-11665767178" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
