@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-26T16:36:53Z</updated>
+  <updated>2022-10-26T18:31:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Calls for More Air-Defense Help as Russian Barrages Continue</title>
-    <updated>2022-10-26T13:33:00Z</updated>
+    <updated>2022-10-26T18:03:00Z</updated>
     <id>tag:www.wsj.com,2022-10-26:/articles/ukraine-calls-for-more-air-defense-help-as-russian-barrages-continue-11666777614</id>
     <content type="html">Air defense is becoming a critical new front in the war after Russia launched a series of aerial attacks that have wreaked havoc on Ukraine’s electrical infrastructure.</content>
     <link href="https://www.wsj.com/articles/ukraine-calls-for-more-air-defense-help-as-russian-barrages-continue-11666777614" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Germany, France Divided Over Energy Crisis and China</title>
+    <updated>2022-10-26T17:22:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-26:/articles/germany-france-divided-over-energy-crisis-and-china-11666804953</id>
+    <content type="html">Geopolitical tensions are driving a wedge between the two countries that have anchored the EU’s economy and security for decades.</content>
+    <link href="https://www.wsj.com/articles/germany-france-divided-over-energy-crisis-and-china-11666804953" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
