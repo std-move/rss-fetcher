@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-26T10:27:18Z</updated>
+  <updated>2022-10-26T12:57:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Presses West for Billions in Economic, Military Aid</title>
-    <updated>2022-10-25T22:38:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-25:/articles/ukraine-presses-west-for-billions-in-economic-military-aid-after-russian-attacks-on-infrastructure-11666698245</id>
-    <content type="html">President Volodymyr Zelensky asked Western political and business leaders, who are meeting in Berlin, for more funding to rebuild his country following weeks of Russian attacks on its infrastructure.</content>
-    <link href="https://www.wsj.com/articles/ukraine-presses-west-for-billions-in-economic-military-aid-after-russian-attacks-on-infrastructure-11666698245" rel="alternate"></link>
+    <title>Ukraine Calls for More Air-Defense Help as Russian Barrages Continue</title>
+    <updated>2022-10-26T09:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-26:/articles/ukraine-calls-for-more-air-defense-help-as-russian-barrages-continue-11666777614</id>
+    <content type="html">Air defense is becoming a critical new front in the war after Russia launched a series of aerial attacks that have wreaked havoc on Ukraine’s electrical infrastructure.</content>
+    <link href="https://www.wsj.com/articles/ukraine-calls-for-more-air-defense-help-as-russian-barrages-continue-11666777614" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
