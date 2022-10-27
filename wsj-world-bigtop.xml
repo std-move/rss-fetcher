@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-27T16:36:53Z</updated>
+  <updated>2022-10-27T18:34:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Kyiv Faces Lengthier Blackouts as Russia Keeps Up Assault on Ukraine</title>
-    <updated>2022-10-27T14:38:00Z</updated>
+    <title>Kyiv Faces Lengthier Blackouts as Russia Assaults Ukraine Grid</title>
+    <updated>2022-10-27T17:55:00Z</updated>
     <id>tag:www.wsj.com,2022-10-27:/articles/russia-warns-of-possible-attacks-on-satellites-used-to-help-ukraine-11666871511</id>
     <content type="html">Kyiv residents are facing prolonged blackouts, after Russian airstrikes again hit the Ukrainian electric system overnight, further degrading the country’s ability to keep the lights on.</content>
     <link href="https://www.wsj.com/articles/russia-warns-of-possible-attacks-on-satellites-used-to-help-ukraine-11666871511" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Taiwan Braces for &#39;Grim&#39; Times After China&#39;s Xi Extends Power</title>
-    <updated>2022-10-27T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-27:/articles/taiwan-braces-for-grim-times-after-chinas-xi-extends-power-11666878661</id>
-    <content type="html">As Beijing takes tougher line on self-ruled island, the situation ‘could turn quite serious,’ Taiwan defense chief warns.</content>
-    <link href="https://www.wsj.com/articles/taiwan-braces-for-grim-times-after-chinas-xi-extends-power-11666878661" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Three Arrests, Two Superpowers and a Secret Prisoner Swap</title>
     <updated>2022-10-27T13:45:00Z</updated>
     <id>tag:www.wsj.com,2022-10-27:/articles/huawei-china-meng-kovrig-spavor-prisoner-swap-11666877779</id>
-    <content type="html">Detention of a Chinese executive to stand trial in the U.S. provoked a standoff between global rivals and opened an acrimonious new era. “You are lapdogs of the United States.”</content>
+    <content type="html">The detention of a Chinese executive to stand trial in the U.S. provoked a standoff between global rivals and opened an acrimonious new era. “You are lapdogs of the United States.”</content>
     <link href="https://www.wsj.com/articles/huawei-china-meng-kovrig-spavor-prisoner-swap-11666877779" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
