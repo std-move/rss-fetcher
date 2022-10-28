@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-27T22:24:15Z</updated>
+  <updated>2022-10-28T02:28:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Kyiv Faces Lengthier Blackouts as Russia Assaults Ukraine Grid</title>
-    <updated>2022-10-27T17:55:00Z</updated>
+    <updated>2022-10-27T23:31:00Z</updated>
     <id>tag:www.wsj.com,2022-10-27:/articles/russia-warns-of-possible-attacks-on-satellites-used-to-help-ukraine-11666871511</id>
     <content type="html">Kyiv residents are facing prolonged blackouts, after Russian airstrikes again hit the Ukrainian electric system overnight, further degrading the country’s ability to keep the lights on.</content>
     <link href="https://www.wsj.com/articles/russia-warns-of-possible-attacks-on-satellites-used-to-help-ukraine-11666871511" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Three Arrests, Two Superpowers and a Secret Prisoner Swap</title>
-    <updated>2022-10-27T13:45:00Z</updated>
+    <title>Inside the Secret Prisoner Swap That Splintered the U.S. and China</title>
+    <updated>2022-10-27T22:53:00Z</updated>
     <id>tag:www.wsj.com,2022-10-27:/articles/huawei-china-meng-kovrig-spavor-prisoner-swap-11666877779</id>
     <content type="html">The detention of a Chinese executive to stand trial in the U.S. provoked a standoff between global rivals and opened an acrimonious new era. “You are lapdogs of the United States.”</content>
     <link href="https://www.wsj.com/articles/huawei-china-meng-kovrig-spavor-prisoner-swap-11666877779" rel="alternate"></link>
