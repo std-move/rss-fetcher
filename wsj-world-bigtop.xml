@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-28T20:27:25Z</updated>
+  <updated>2022-10-28T22:24:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Says 82,000 New Draftees Arrive in Ukraine</title>
-    <updated>2022-10-28T17:57:00Z</updated>
+    <updated>2022-10-28T22:03:00Z</updated>
     <id>tag:www.wsj.com,2022-10-28:/articles/ukraine-expects-arrival-of-fresh-russian-troops-within-two-weeks-11666958465</id>
     <content type="html">Half of those sent to Ukraine were already assigned to combat units, said Russia’s defense minister, as both sides gird for battle in Kherson.</content>
     <link href="https://www.wsj.com/articles/ukraine-expects-arrival-of-fresh-russian-troops-within-two-weeks-11666958465" rel="alternate"></link>
