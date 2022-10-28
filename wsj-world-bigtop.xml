@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-28T12:55:47Z</updated>
+  <updated>2022-10-28T14:29:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Expects Arrival of Fresh Russian Troops Within Two Weeks</title>
+    <updated>2022-10-28T12:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-28:/articles/ukraine-expects-arrival-of-fresh-russian-troops-within-two-weeks-11666958465</id>
+    <content type="html">Ukraine is bracing for an influx of recently conscripted Russian troops on the battlefield within the next two weeks, as both sides prepare for a fight for the southern city of Kherson.</content>
+    <link href="https://www.wsj.com/articles/ukraine-expects-arrival-of-fresh-russian-troops-within-two-weeks-11666958465" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>In Iran, the Hijab Is the Red Line for Both Government and Women</title>
+    <updated>2022-10-28T11:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-28:/articles/in-iran-protests-the-hijab-is-the-red-line-for-both-government-and-women-11666956847</id>
+    <content type="html">The protests that followed the death of Mahsa Amini are rooted in 40 years of tension over the mandatory hijab, which is seen by both authorities and citizens as a proxy for authoritarian control.</content>
+    <link href="https://www.wsj.com/articles/in-iran-protests-the-hijab-is-the-red-line-for-both-government-and-women-11666956847" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Inside the Secret Prisoner Swap That Splintered the U.S. and China</title>
     <updated>2022-10-27T22:53:00Z</updated>
