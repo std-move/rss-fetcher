@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-29T14:23:15Z</updated>
+  <updated>2022-10-29T16:32:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Blasts Hit Crimean Port Where Russian Fleet Is Based</title>
-    <updated>2022-10-29T13:08:00Z</updated>
+    <title>Russia Moves to Pull Out of Ukraine Grain Deal After Blasts Hit Crimean Port</title>
+    <updated>2022-10-29T15:29:00Z</updated>
     <id>tag:www.wsj.com,2022-10-29:/articles/blasts-hit-crimean-port-where-russian-fleet-is-based-11667048899</id>
-    <content type="html">Russian-installed officials in the occupied Ukrainian peninsula said air defenses had shot down several drones in the early hours of the morning, including an unmanned surface drone in the waters off Sevastopol.</content>
+    <content type="html">Russia said it would suspend participation in the export of agricultural products from Ukrainian ports, in response to an attack on the occupied Black Sea port of Sevastopol that it blamed on the government of Ukraine.</content>
     <link href="https://www.wsj.com/articles/blasts-hit-crimean-port-where-russian-fleet-is-based-11667048899" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
