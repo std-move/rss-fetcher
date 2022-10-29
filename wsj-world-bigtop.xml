@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-29T12:43:52Z</updated>
+  <updated>2022-10-29T14:23:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Says 82,000 New Draftees Arrive in Ukraine</title>
-    <updated>2022-10-28T22:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-28:/articles/ukraine-expects-arrival-of-fresh-russian-troops-within-two-weeks-11666958465</id>
-    <content type="html">Half of those sent to Ukraine were already assigned to combat units, said Russia’s defense minister, as both sides gird for battle in Kherson.</content>
-    <link href="https://www.wsj.com/articles/ukraine-expects-arrival-of-fresh-russian-troops-within-two-weeks-11666958465" rel="alternate"></link>
+    <title>Blasts Hit Crimean Port Where Russian Fleet Is Based</title>
+    <updated>2022-10-29T13:08:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-29:/articles/blasts-hit-crimean-port-where-russian-fleet-is-based-11667048899</id>
+    <content type="html">Russian-installed officials in the occupied Ukrainian peninsula said air defenses had shot down several drones in the early hours of the morning, including an unmanned surface drone in the waters off Sevastopol.</content>
+    <link href="https://www.wsj.com/articles/blasts-hit-crimean-port-where-russian-fleet-is-based-11667048899" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In Iran, the Hijab Is the Red Line for Both Government and Women</title>
-    <updated>2022-10-28T11:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-28:/articles/in-iran-protests-the-hijab-is-the-red-line-for-both-government-and-women-11666956847</id>
-    <content type="html">The protests that followed the death of Mahsa Amini are rooted in 40 years of tension over the mandatory hijab, which is seen by both authorities and citizens as a proxy for authoritarian control.</content>
-    <link href="https://www.wsj.com/articles/in-iran-protests-the-hijab-is-the-red-line-for-both-government-and-women-11666956847" rel="alternate"></link>
+    <title>Afghan Evacuees in Limbo While Seeking Permanent Legal Status in the U.S.</title>
+    <updated>2022-10-29T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-29:/articles/afghan-evacuees-in-limbo-while-seeking-permanent-legal-status-in-the-u-s-11667044804</id>
+    <content type="html">Bipartisan legislation to grant legal status to people who fled last year’s Taliban takeover is stalled over Republicans’ security concerns.</content>
+    <link href="https://www.wsj.com/articles/afghan-evacuees-in-limbo-while-seeking-permanent-legal-status-in-the-u-s-11667044804" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
