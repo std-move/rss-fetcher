@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-30T18:30:19Z</updated>
+  <updated>2022-10-30T20:25:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-10-30:/articles/russia-auto-cars-lada-reboot-air-bags-11667141126</id>
     <content type="html">The business is shaping up to be an early test case for the Russian economy and sanctions make it more difficult to find parts; ‘a brutal car’</content>
     <link href="https://www.wsj.com/articles/russia-auto-cars-lada-reboot-air-bags-11667141126" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Aung SanSuuKyi&#39;s Life in Myanmar Prison: No Visitors, Calls or News</title>
-    <updated>2022-10-30T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-30:/articles/aung-sansuukyis-life-in-myanmar-prison-no-visitors-calls-or-news-11667080016</id>
-    <content type="html">The Nobel Peace Prize winner has been sentenced to 26 years in a series of cases since the country’s military coup, and more trials are under way.</content>
-    <link href="https://www.wsj.com/articles/aung-sansuukyis-life-in-myanmar-prison-no-visitors-calls-or-news-11667080016" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
