@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-30T14:21:25Z</updated>
+  <updated>2022-10-30T16:33:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Moves to Pull Out of Ukraine Grain Deal After Blasts Hit Crimean Port</title>
-    <updated>2022-10-30T00:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-30:/articles/blasts-hit-crimean-port-where-russian-fleet-is-based-11667048899</id>
-    <content type="html">Russia said it would suspend participation in the export of agricultural products from Ukrainian ports, in response to an attack on the occupied Black Sea port of Sevastopol that it blamed on the government of Ukraine.</content>
-    <link href="https://www.wsj.com/articles/blasts-hit-crimean-port-where-russian-fleet-is-based-11667048899" rel="alternate"></link>
+    <title>Russia Blames Ukraine, U.K. for Collapse of Grain Deal</title>
+    <updated>2022-10-30T15:31:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-30:/articles/russia-blames-ukraine-u-k-for-collapse-of-grain-deal-11667143871</id>
+    <content type="html">Moscow said wreckage it recovered from a drone strike on the occupied Black Sea port of Sevastopol proves the attack was mounted with British assistance, a claim the U.K. denies.</content>
+    <link href="https://www.wsj.com/articles/russia-blames-ukraine-u-k-for-collapse-of-grain-deal-11667143871" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Afghan Evacuees in Limbo While Seeking Permanent Legal Status in the U.S.</title>
-    <updated>2022-10-29T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-29:/articles/afghan-evacuees-in-limbo-while-seeking-permanent-legal-status-in-the-u-s-11667044804</id>
-    <content type="html">Bipartisan legislation to grant legal status to people who fled last year’s Taliban takeover is stalled over Republicans’ security concerns.</content>
-    <link href="https://www.wsj.com/articles/afghan-evacuees-in-limbo-while-seeking-permanent-legal-status-in-the-u-s-11667044804" rel="alternate"></link>
+    <title>Where Are the Air Bags? Russia&#39;s Hobbled Auto Industry Struggles to Reboot</title>
+    <updated>2022-10-30T14:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-30:/articles/russia-auto-cars-lada-reboot-air-bags-11667141126</id>
+    <content type="html">The business is shaping up to be an early test case for the Russian economy and sanctions make it more difficult to find parts; ‘a brutal car’</content>
+    <link href="https://www.wsj.com/articles/russia-auto-cars-lada-reboot-air-bags-11667141126" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Aung SanSuuKyi&#39;s Life in Myanmar Prison: No Visitors, Calls or News</title>
+    <updated>2022-10-30T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-10-30:/articles/aung-sansuukyis-life-in-myanmar-prison-no-visitors-calls-or-news-11667080016</id>
+    <content type="html">The Nobel Peace Prize winner has been sentenced to 26 years in a series of cases since the country’s military coup, and more trials are under way.</content>
+    <link href="https://www.wsj.com/articles/aung-sansuukyis-life-in-myanmar-prison-no-visitors-calls-or-news-11667080016" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
