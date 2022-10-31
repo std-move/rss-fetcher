@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-10-31T06:31:56Z</updated>
+  <updated>2022-10-31T08:36:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Brazil&#39;s Luiz Inácio Lula da Silva Wins Presidential Election</title>
+    <title>Brazil&#39;s Lula da Silva Wins Election, Beating Bolsonaro</title>
     <updated>2022-10-31T01:21:00Z</updated>
     <id>tag:www.wsj.com,2022-10-31:/articles/brazils-jair-bolsonaro-luiz-inacio-lula-da-silva-face-off-in-tense-presidential-runoff-11667065780</id>
-    <content type="html">The leftist former president beat conservative incumbent Jair Bolsonaro in the country’s closest presidential race in history.</content>
+    <content type="html">The leftist former president’s victory cements Latin America’s shift to the left and marks an extraordinary comeback for a man who was in jail for corruption three years ago. </content>
     <link href="https://www.wsj.com/articles/brazils-jair-bolsonaro-luiz-inacio-lula-da-silva-face-off-in-tense-presidential-runoff-11667065780" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Blames Ukraine, U.K. for Collapse of Grain Deal</title>
-    <updated>2022-10-30T15:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-30:/articles/russia-blames-ukraine-u-k-for-collapse-of-grain-deal-11667143871</id>
-    <content type="html">Moscow said wreckage it recovered from a drone strike on the occupied Black Sea port of Sevastopol proves the attack was mounted with British assistance, a claim the U.K. denies.</content>
-    <link href="https://www.wsj.com/articles/russia-blames-ukraine-u-k-for-collapse-of-grain-deal-11667143871" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
