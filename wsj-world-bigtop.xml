@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-01T18:32:54Z</updated>
+  <updated>2022-11-01T20:27:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Races to Restore Electricity, Water Supplies After Russian Strikes</title>
-    <updated>2022-11-01T18:17:00Z</updated>
+    <updated>2022-11-01T18:50:00Z</updated>
     <id>tag:www.wsj.com,2022-11-01:/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040</id>
     <content type="html">Utility crews across Ukraine were working to restore water and electricity supplies after a barrage of Russian missiles a day earlier knocked out service to hundreds of thousands of people.</content>
     <link href="https://www.wsj.com/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040" rel="alternate"></link>
