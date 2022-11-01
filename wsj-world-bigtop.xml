@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-01T12:58:15Z</updated>
+  <updated>2022-11-01T14:31:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Launches Barrage of Strikes Across Ukraine</title>
-    <updated>2022-10-31T19:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-31:/articles/russia-launches-barrage-of-strikes-across-ukraine-targeting-infrastructure-11667202215</id>
-    <content type="html">The attacks in Kyiv and across Ukraine knocked out electricity and water supplies in parts of the country, as the Kremlin intensified its attacks on civilian infrastructure.</content>
-    <link href="https://www.wsj.com/articles/russia-launches-barrage-of-strikes-across-ukraine-targeting-infrastructure-11667202215" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ultra-Orthodox Israeli Unit Faces Calls to Disband After Abuse Allegations</title>
-    <updated>2022-10-31T11:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-10-31:/articles/ultra-orthodox-israeli-military-unit-faces-calls-to-disband-after-abuse-allegations-11667216660</id>
-    <content type="html">The Netzah Yehuda battalion has the highest conviction rate of any unit in the Israeli military for offenses against Palestinians. It is now facing growing calls to be disbanded.</content>
-    <link href="https://www.wsj.com/articles/ultra-orthodox-israeli-military-unit-faces-calls-to-disband-after-abuse-allegations-11667216660" rel="alternate"></link>
+    <title>Ukraine Races to Restore Electricity, Water Supplies After Russian Strikes</title>
+    <updated>2022-11-01T12:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-01:/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040</id>
+    <content type="html">Utility crews across Ukraine were working to restore water and electricity supplies after a barrage of Russian missiles a day earlier knocked out service to hundreds of thousands of people.</content>
+    <link href="https://www.wsj.com/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
