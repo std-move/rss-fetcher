@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-01T22:29:32Z</updated>
+  <updated>2022-11-02T02:28:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Bolsonaro Pledges to Respect Constitution After Election Loss</title>
+    <updated>2022-11-01T23:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-01:/articles/brazilian-president-bolsonaro-will-speak-from-presidential-palace-11667326313</id>
+    <content type="html">The chief of staff to Brazilian President Jair Bolsonaro says he is authorized to begin the transition to Luiz Inácio Lula da Silva’s administration, although the incumbent hasn’t conceded.</content>
+    <link href="https://www.wsj.com/articles/brazilian-president-bolsonaro-will-speak-from-presidential-palace-11667326313" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Ukraine Races to Restore Electricity, Water Supplies After Russian Strikes</title>
-    <updated>2022-11-01T18:50:00Z</updated>
+    <updated>2022-11-01T23:00:00Z</updated>
     <id>tag:www.wsj.com,2022-11-01:/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040</id>
     <content type="html">Utility crews across Ukraine were working to restore water and electricity supplies after a barrage of Russian missiles a day earlier knocked out service to hundreds of thousands of people.</content>
     <link href="https://www.wsj.com/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russian Retreat in Ukraine Exposes Collaborators---and the Finger-Pointing Begins</title>
+    <updated>2022-11-01T15:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-01:/articles/recaptured-ukraine-collaborators-resisters-russian-occupation-11667315408</id>
+    <content type="html">Many citizens thought the occupiers were there to stay. Some fought back, others actively supported them, while the majority just tried to survive.</content>
+    <link href="https://www.wsj.com/articles/recaptured-ukraine-collaborators-resisters-russian-occupation-11667315408" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
