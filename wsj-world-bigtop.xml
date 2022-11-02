@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-02T10:28:07Z</updated>
+  <updated>2022-11-02T12:55:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,27 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Races to Restore Electricity, Water Supplies After Russian Strikes</title>
-    <updated>2022-11-01T23:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-01:/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040</id>
-    <content type="html">Utility crews across Ukraine were working to restore water and electricity supplies after a barrage of Russian missiles a day earlier knocked out service to hundreds of thousands of people.</content>
-    <link href="https://www.wsj.com/articles/ukraine-races-to-restore-electricity-water-supplies-after-russian-strikes-11667305040" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Russian Retreat in Ukraine Exposes Collaborators, and Finger-Pointing Begins</title>
     <updated>2022-11-01T15:52:00Z</updated>
     <id>tag:www.wsj.com,2022-11-01:/articles/recaptured-ukraine-collaborators-resisters-russian-occupation-11667315408</id>
     <content type="html">Many citizens thought the occupiers were there to stay. Some fought back, others actively supported them, while the majority just tried to survive.</content>
     <link href="https://www.wsj.com/articles/recaptured-ukraine-collaborators-resisters-russian-occupation-11667315408" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>South Koreans Rattled by Grisly Footage of Crowd Crush</title>
-    <updated>2022-11-01T14:40:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-01:/articles/south-koreans-rattled-by-grisly-footage-of-halloween-crowd-crush-in-seoul-11667313606</id>
-    <content type="html">The country’s hyperconnectivity led to a fast spread of raw imagery of death and suffering at the Halloween tragedy, creating anxiety among many.</content>
-    <link href="https://www.wsj.com/articles/south-koreans-rattled-by-grisly-footage-of-halloween-crowd-crush-in-seoul-11667313606" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
