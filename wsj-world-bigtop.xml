@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-02T12:55:50Z</updated>
+  <updated>2022-11-02T14:28:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Bolsonaro Pledges to Respect Constitution After Election Loss</title>
-    <updated>2022-11-01T23:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-01:/articles/brazilian-president-bolsonaro-will-speak-from-presidential-palace-11667326313</id>
-    <content type="html">The chief of staff to Brazilian President Jair Bolsonaro says he is authorized to begin the transition to Luiz Inácio Lula da Silva’s administration, although the incumbent hasn’t conceded.</content>
-    <link href="https://www.wsj.com/articles/brazilian-president-bolsonaro-will-speak-from-presidential-palace-11667326313" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Retreat in Ukraine Exposes Collaborators, and Finger-Pointing Begins</title>
-    <updated>2022-11-01T15:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-01:/articles/recaptured-ukraine-collaborators-resisters-russian-occupation-11667315408</id>
-    <content type="html">Many citizens thought the occupiers were there to stay. Some fought back, others actively supported them, while the majority just tried to survive.</content>
-    <link href="https://www.wsj.com/articles/recaptured-ukraine-collaborators-resisters-russian-occupation-11667315408" rel="alternate"></link>
+    <title>Russian Occupiers to Move 70,000 From Kherson Area</title>
+    <updated>2022-11-02T13:57:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-02:/articles/russian-occupation-authorities-plan-to-move-70-000-from-kherson-area-in-ukraine-11667397434</id>
+    <content type="html">Russian officials in occupied Kherson said they would begin forcibly transferring tens of thousands of residents from parts of the region, as Ukraine continues its offensive to recapture the south.</content>
+    <link href="https://www.wsj.com/articles/russian-occupation-authorities-plan-to-move-70-000-from-kherson-area-in-ukraine-11667397434" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
