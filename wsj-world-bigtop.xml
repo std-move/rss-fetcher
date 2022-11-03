@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-03T12:50:38Z</updated>
+  <updated>2022-11-03T14:24:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Shelling Forces Ukraine Nuclear Plant to Run on Backup Generators</title>
-    <updated>2022-11-03T11:27:00Z</updated>
+    <updated>2022-11-03T14:18:00Z</updated>
     <id>tag:www.wsj.com,2022-11-03:/articles/russian-shelling-forces-ukraine-nuclear-plant-to-run-on-backup-generators-11667474849</id>
     <content type="html">Moscow resumed attacks on energy infrastructure overnight and Kyiv said the Zaporizhzhia nuclear-power facility had 15 days’ worth of fuel left to run generators.</content>
     <link href="https://www.wsj.com/articles/russian-shelling-forces-ukraine-nuclear-plant-to-run-on-backup-generators-11667474849" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Who Is China&#39;s New No. 2? A Business Pragmatist or a Party Loyalist?</title>
-    <updated>2022-11-02T14:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-02:/articles/china-li-qiang-xi-jinping-11667399077</id>
-    <content type="html">Li Qiang’s record suggests he could serve as a moderating influence on Xi Jinping, but he has also fallen in line when it mattered.</content>
-    <link href="https://www.wsj.com/articles/china-li-qiang-xi-jinping-11667399077" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
