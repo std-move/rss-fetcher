@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-03T20:20:24Z</updated>
+  <updated>2022-11-03T22:20:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Pakistan Ex-Prime Minister Imran Khan Shot in Leg at Protest Rally</title>
     <updated>2022-11-03T19:46:00Z</updated>
     <id>tag:www.wsj.com,2022-11-03:/articles/shots-fired-at-pakistan-protest-rally-held-by-ex-prime-minister-imran-khan-11667478021</id>
-    <content type="html">Khan, ousted in April, has been waging a campaign against the country’s powerful military and the government that replaced him.</content>
+    <content type="html">Mr. Khan, ousted in April, has been waging a campaign against the country’s powerful military and the government that replaced him.</content>
     <link href="https://www.wsj.com/articles/shots-fired-at-pakistan-protest-rally-held-by-ex-prime-minister-imran-khan-11667478021" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
