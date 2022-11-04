@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-04T16:33:09Z</updated>
+  <updated>2022-11-04T18:29:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Attacks Leave Almost Half a Million Homes Without Power in Kyiv</title>
-    <updated>2022-11-04T14:03:00Z</updated>
+    <updated>2022-11-04T16:53:00Z</updated>
     <id>tag:www.wsj.com,2022-11-04:/articles/russian-attacks-in-ukraine-leave-almost-half-a-million-homes-without-power-in-kyiv-11667553558</id>
     <content type="html">More than a third of Ukraine’s power-generation capacity has been knocked out by drone and missile strikes in the past month.</content>
     <link href="https://www.wsj.com/articles/russian-attacks-in-ukraine-leave-almost-half-a-million-homes-without-power-in-kyiv-11667553558" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Signs of Russian Retreat Don&#39;t Mean Ukraine&#39;s Fight for Kherson Will Be Easy</title>
+    <updated>2022-11-04T16:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-04:/articles/signs-of-russian-retreat-dont-mean-ukraines-fight-for-kherson-will-be-easy-11667578502</id>
+    <content type="html">Russian forces appear to be laying the groundwork for a withdrawal, but Ukrainian officials warn that their enemy could be seeking to suck precious armored units into debilitating urban combat.</content>
+    <link href="https://www.wsj.com/articles/signs-of-russian-retreat-dont-mean-ukraines-fight-for-kherson-will-be-easy-11667578502" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
