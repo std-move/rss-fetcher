@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-05T14:19:37Z</updated>
+  <updated>2022-11-05T16:30:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Signs of Russian Retreat Don&#39;t Mean Ukraine&#39;s Fight for Kherson Will Be Easy</title>
-    <updated>2022-11-04T16:15:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-04:/articles/signs-of-russian-retreat-dont-mean-ukraines-fight-for-kherson-will-be-easy-11667578502</id>
-    <content type="html">Russian forces appear to be laying the groundwork for a withdrawal, but Ukrainian officials warn that their enemy could be seeking to suck precious armored units into debilitating urban combat.</content>
-    <link href="https://www.wsj.com/articles/signs-of-russian-retreat-dont-mean-ukraines-fight-for-kherson-will-be-easy-11667578502" rel="alternate"></link>
+    <title>Ukraine Curbs Power Use as Russian Strikes Strain Electric Grid</title>
+    <updated>2022-11-05T12:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-05:/articles/ukraine-curbs-power-use-as-russian-strikes-take-toll-on-electric-grid-11667652180</id>
+    <content type="html">Ukrenergo, the operator of Ukraine’s electricity-transmission system, said the temporary restrictions on all consumers in seven regions were necessary to reduce pressure on the network.</content>
+    <link href="https://www.wsj.com/articles/ukraine-curbs-power-use-as-russian-strikes-take-toll-on-electric-grid-11667652180" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
