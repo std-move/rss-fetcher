@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-06T18:27:44Z</updated>
+  <updated>2022-11-06T20:24:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Behind Benjamin Netanyahu&#39;s Win in Israel: The Rise of Religious Zionism</title>
-    <updated>2022-11-06T16:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-06:/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595</id>
-    <content type="html">An ultranationalist political outlook forged in Jewish West Bank settlements could play a central role in Israel’s next government.</content>
-    <link href="https://www.wsj.com/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Ukraine Accuses Iran of Training Russian Drone Pilots</title>
-    <updated>2022-11-06T12:06:00Z</updated>
+    <updated>2022-11-06T19:44:00Z</updated>
     <id>tag:www.wsj.com,2022-11-06:/articles/ukraine-accuses-iran-of-training-russian-drone-pilots-11667736371</id>
     <content type="html">Drone strikes on civilian targets across Ukraine have been so damaging that the capital’s mayor urged residents to consider temporarily leaving the city.</content>
     <link href="https://www.wsj.com/articles/ukraine-accuses-iran-of-training-russian-drone-pilots-11667736371" rel="alternate"></link>
@@ -22,10 +14,18 @@
   </entry>
   <entry>
     <title>West Sees Little Choice but to Keep Backing Ukraine</title>
-    <updated>2022-11-06T11:05:00Z</updated>
+    <updated>2022-11-06T18:53:00Z</updated>
     <id>tag:www.wsj.com,2022-11-06:/articles/west-sees-little-choice-but-to-keep-backing-ukraine-11667732754</id>
     <content type="html">Washington and its allies see little prospect of a negotiated end to the war in Ukraine soon given the high stakes for Moscow and Kyiv, and the fact that both sides believe they can win, Western diplomats say.</content>
     <link href="https://www.wsj.com/articles/west-sees-little-choice-but-to-keep-backing-ukraine-11667732754" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Behind Benjamin Netanyahu&#39;s Win in Israel: The Rise of Religious Zionism</title>
+    <updated>2022-11-06T16:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-06:/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595</id>
+    <content type="html">An ultranationalist political outlook forged in Jewish West Bank settlements could play a central role in Israel’s next government.</content>
+    <link href="https://www.wsj.com/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
