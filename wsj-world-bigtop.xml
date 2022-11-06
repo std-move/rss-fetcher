@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-06T20:24:04Z</updated>
+  <updated>2022-11-06T22:23:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Accuses Iran of Training Russian Drone Pilots</title>
-    <updated>2022-11-06T19:44:00Z</updated>
+    <updated>2022-11-06T21:58:00Z</updated>
     <id>tag:www.wsj.com,2022-11-06:/articles/ukraine-accuses-iran-of-training-russian-drone-pilots-11667736371</id>
     <content type="html">Drone strikes on civilian targets across Ukraine have been so damaging that the capital’s mayor urged residents to consider temporarily leaving the city.</content>
     <link href="https://www.wsj.com/articles/ukraine-accuses-iran-of-training-russian-drone-pilots-11667736371" rel="alternate"></link>
