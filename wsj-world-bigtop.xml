@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-07T20:26:33Z</updated>
+  <updated>2022-11-07T22:25:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Presses Evacuation of Kherson as Ukrainian Offensive Looms</title>
-    <updated>2022-11-07T18:46:00Z</updated>
+    <updated>2022-11-07T21:03:00Z</updated>
     <id>tag:www.wsj.com,2022-11-07:/articles/russia-presses-evacuation-of-kherson-as-ukrainian-offensive-looms-11667822784</id>
     <content type="html">Moscow’s attempts at a counteroffensive in Donetsk are leading to large casualties, prompting complaints by Russian marines</content>
     <link href="https://www.wsj.com/articles/russia-presses-evacuation-of-kherson-as-ukrainian-offensive-looms-11667822784" rel="alternate"></link>
