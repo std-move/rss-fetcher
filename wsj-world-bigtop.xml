@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-07T16:33:07Z</updated>
+  <updated>2022-11-07T18:28:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2022-11-07:/articles/russia-presses-evacuation-of-kherson-as-ukrainian-offensive-looms-11667822784</id>
     <content type="html">Moscow’s attempts at a counteroffensive in Donetsk are leading to large casualties, prompting complaints by Russian marines</content>
     <link href="https://www.wsj.com/articles/russia-presses-evacuation-of-kherson-as-ukrainian-offensive-looms-11667822784" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Behind Benjamin Netanyahu&#39;s Win in Israel: The Rise of Religious Zionism</title>
-    <updated>2022-11-06T16:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-06:/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595</id>
-    <content type="html">An ultranationalist political outlook forged in Jewish West Bank settlements could play a central role in Israel’s next government.</content>
-    <link href="https://www.wsj.com/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
