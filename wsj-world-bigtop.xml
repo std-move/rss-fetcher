@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-08T12:53:28Z</updated>
+  <updated>2022-11-08T14:27:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Zelensky Sets Conditions for &#39;Genuine&#39; Peace Talks With Russia</title>
-    <updated>2022-11-08T12:22:00Z</updated>
+    <updated>2022-11-08T13:45:00Z</updated>
     <id>tag:www.wsj.com,2022-11-08:/articles/ukraines-zelensky-sets-conditions-for-genuine-peace-talks-with-russia-11667907501</id>
     <content type="html">Ukrainian President Volodymyr Zelensky said he was open to negotiations with Russia if they are focused on safeguarding Ukraine’s territorial integrity, involve compensation from Moscow to Kyiv and bring to justice perpetrators of war crimes.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-sets-conditions-for-genuine-peace-talks-with-russia-11667907501" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>With Power Secure at Home, China&#39;s Xi Looks to Project Strength Abroad</title>
+    <updated>2022-11-08T12:43:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-08:/articles/with-power-secure-at-home-chinas-xi-jinping-looks-to-project-strength-abroad-11667911410</id>
+    <content type="html">The Chinese president’s renewed foreign diplomacy gives him an opportunity to counter Washington’s efforts to enlist allies to isolate Beijing.</content>
+    <link href="https://www.wsj.com/articles/with-power-secure-at-home-chinas-xi-jinping-looks-to-project-strength-abroad-11667911410" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
