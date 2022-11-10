@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-10T16:33:48Z</updated>
+  <updated>2022-11-10T18:29:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Battlefield Gains Likely to Slow After Swift Victories</title>
-    <updated>2022-11-10T10:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-10:/articles/ukraines-battlefield-gains-likely-to-slow-after-swift-victories-11668077024</id>
-    <content type="html">Kyiv’s forces face mounting obstacles in achieving battlefield gains as they confront Russian troops that are dug in more deeply and the weather slows the tempo of fighting.</content>
-    <link href="https://www.wsj.com/articles/ukraines-battlefield-gains-likely-to-slow-after-swift-victories-11668077024" rel="alternate"></link>
+    <title>Ukraine&#39;s Forces Advance Cautiously on Kherson, Wary of Russia&#39;s Retreat</title>
+    <updated>2022-11-10T16:24:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-10:/articles/ukraine-is-wary-of-russias-kherson-retreat-fearing-a-trap-11668078822</id>
+    <content type="html">Ukraine urged caution about Russia’s announced withdrawal from the southern city, as U.S. officials estimated that 100,000 troops from each side had been killed or wounded since the war began.</content>
+    <link href="https://www.wsj.com/articles/ukraine-is-wary-of-russias-kherson-retreat-fearing-a-trap-11668078822" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
