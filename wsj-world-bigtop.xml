@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-09T22:23:11Z</updated>
+  <updated>2022-11-10T02:09:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Orders Withdrawal From Kherson, Only Regional Ukrainian Capital It Held</title>
-    <updated>2022-11-09T18:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-09:/articles/ukrainian-forces-move-into-key-town-north-of-kherson-11667991035</id>
+    <updated>2022-11-10T01:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-10:/articles/ukrainian-forces-move-into-key-town-north-of-kherson-11667991035</id>
     <content type="html">Ukrainian forces have advanced town by town on the city in recent weeks, using long-range artillery to strike bridges and largely cut off thousands of Russian troops in and around the city.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-move-into-key-town-north-of-kherson-11667991035" rel="alternate"></link>
     <summary type="html"></summary>
