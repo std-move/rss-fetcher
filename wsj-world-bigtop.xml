@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-11T12:52:41Z</updated>
+  <updated>2022-11-11T14:22:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukrainian Forces Gain on Kherson as Russia Says It Has Completed Retreat</title>
-    <updated>2022-11-11T12:01:00Z</updated>
+    <title>Ukrainian Forces Enter Kherson as Russia Completes Retreat</title>
+    <updated>2022-11-11T14:08:00Z</updated>
     <id>tag:www.wsj.com,2022-11-11:/articles/ukrainian-forces-gain-on-kherson-as-russia-retreats-11668158517</id>
-    <content type="html">President Volodymyr Zelensky said his country’s troops have recaptured dozens of settlements in their push toward the only regional capital seized by Russia since February.</content>
+    <content type="html">Cheering Ukrainians welcomed the arriving troops and raised their national flag in a public square in the key southern city, according to videos posted online by Ukrainian officials.</content>
     <link href="https://www.wsj.com/articles/ukrainian-forces-gain-on-kherson-as-russia-retreats-11668158517" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>U.K. Economy Shrank in Third Quarter, Sliding Toward Recession</title>
+    <title>U.K. Economy Shrank in Third Quarter, Slides Toward Recession</title>
     <updated>2022-11-11T11:09:00Z</updated>
     <id>tag:www.wsj.com,2022-11-11:/articles/u-k-economy-shrank-in-third-quarter-sliding-toward-recession-11668150391</id>
     <content type="html">High energy costs, rising interest rates and a labor shortage weighed on British output in the three months through September.</content>
