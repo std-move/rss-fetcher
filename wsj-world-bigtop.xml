@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-13T10:24:40Z</updated>
+  <updated>2022-11-13T12:43:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Looks to Cement Full Control of Kherson After Russian Retreat</title>
-    <updated>2022-11-12T14:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-12:/articles/ukraine-looks-to-cement-full-control-of-kherson-after-russian-retreat-11668255422</id>
-    <content type="html">Power remains out in the strategic southern city as Moscow consolidates positions further south and to the east.</content>
-    <link href="https://www.wsj.com/articles/ukraine-looks-to-cement-full-control-of-kherson-after-russian-retreat-11668255422" rel="alternate"></link>
+    <title>Ukraine Races to Restore Power, Water in Kherson After Russian Withdrawal</title>
+    <updated>2022-11-13T12:09:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-13:/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348</id>
+    <content type="html">Ukrainian forces that swept into the southern city over the weekend were greeted by jubilant crowds, but a municipal official said the humanitarian situation in the city was critical.</content>
+    <link href="https://www.wsj.com/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China&#39;s Global Port Investments Give Rise to Security Worries</title>
+    <updated>2022-11-13T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-13:/articles/chinas-global-port-investments-give-rise-to-security-worries-11668330942</id>
+    <content type="html">The expanding network could make it easier for Beijing to service a Chinese navy that has become one of Washington’s biggest military concerns, analysts say.</content>
+    <link href="https://www.wsj.com/articles/chinas-global-port-investments-give-rise-to-security-worries-11668330942" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Inside the Kyiv Power Cuts: Cold Food, Scheduled Vacuuming, Struggling Businesses</title>
+    <updated>2022-11-13T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-13:/articles/kyiv-power-cuts-bring-cold-food-scheduled-vacuuming-struggling-businesses-11668265926</id>
+    <content type="html">Russia has targeted Ukraine’s electricity grid in an attempt to break civilians’ will, resulting in rolling power cuts in Kyiv. Residents are adapting.</content>
+    <link href="https://www.wsj.com/articles/kyiv-power-cuts-bring-cold-food-scheduled-vacuuming-struggling-businesses-11668265926" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
