@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-12T22:21:48Z</updated>
+  <updated>2022-11-13T02:03:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-11-12:/articles/ukraine-looks-to-cement-full-control-of-kherson-after-russian-retreat-11668255422</id>
     <content type="html">Power remains out in the strategic southern city as Moscow consolidates positions further south and to the east.</content>
     <link href="https://www.wsj.com/articles/ukraine-looks-to-cement-full-control-of-kherson-after-russian-retreat-11668255422" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As Russian Army Falters in Ukraine, Paramilitary Leader Close to Putin Flexes Power</title>
+    <updated>2022-11-12T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-12:/articles/as-russian-army-falters-in-ukraine-paramilitary-leader-close-to-putin-flexes-power-11668258001</id>
+    <content type="html">Yevgeny Prigozhin, founder of the Wagner Group, is using his force’s battlefield presence to gain sway with the Kremlin and shape military decisions.</content>
+    <link href="https://www.wsj.com/articles/as-russian-army-falters-in-ukraine-paramilitary-leader-close-to-putin-flexes-power-11668258001" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
