@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-13T14:20:02Z</updated>
+  <updated>2022-11-13T16:31:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Races to Restore Power, Water in Kherson After Russian Withdrawal</title>
-    <updated>2022-11-13T13:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-13:/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348</id>
-    <content type="html">Ukrainian forces that swept into the southern city over the weekend were greeted by jubilant crowds, but a municipal official said the humanitarian situation in the city was critical.</content>
-    <link href="https://www.wsj.com/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>China&#39;s Global Port Investments Give Rise to Security Worries</title>
     <updated>2022-11-13T11:00:00Z</updated>
@@ -29,19 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>As Russian Army Falters in Ukraine, Paramilitary Leader Close to Putin Flexes Power</title>
-    <updated>2022-11-12T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-12:/articles/as-russian-army-falters-in-ukraine-paramilitary-leader-close-to-putin-flexes-power-11668258001</id>
-    <content type="html">Yevgeny Prigozhin, founder of the Wagner Group, is using his force’s battlefield presence to gain sway with the Kremlin and shape military decisions.</content>
-    <link href="https://www.wsj.com/articles/as-russian-army-falters-in-ukraine-paramilitary-leader-close-to-putin-flexes-power-11668258001" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.K. Economy Slides Toward Recession</title>
-    <updated>2022-11-11T11:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-11:/articles/u-k-economy-shrank-in-third-quarter-sliding-toward-recession-11668150391</id>
-    <content type="html">High energy costs, rising interest rates and a labor shortage weighed on British output in the three months through September.</content>
-    <link href="https://www.wsj.com/articles/u-k-economy-shrank-in-third-quarter-sliding-toward-recession-11668150391" rel="alternate"></link>
+    <title>G-20 Discord Likely to Thwart Efforts to Boost Sagging Global Economy</title>
+    <updated>2022-11-13T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-13:/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402</id>
+    <content type="html">War in Ukraine, inflation and U.S.-China tensions are all dividing major economies and making any coordinated response difficult.</content>
+    <link href="https://www.wsj.com/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
