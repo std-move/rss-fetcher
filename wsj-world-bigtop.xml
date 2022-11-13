@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-13T18:27:55Z</updated>
+  <updated>2022-11-13T20:23:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China&#39;s Global Port Investments Give Rise to Security Worries</title>
-    <updated>2022-11-13T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-13:/articles/chinas-global-port-investments-give-rise-to-security-worries-11668330942</id>
-    <content type="html">The expanding network could make it easier for Beijing to service a Chinese navy that has become one of Washington’s biggest military concerns, analysts say.</content>
-    <link href="https://www.wsj.com/articles/chinas-global-port-investments-give-rise-to-security-worries-11668330942" rel="alternate"></link>
+    <title>As Ukraine Scores Gains, &#xA;U.S. Looks to Peace Talks</title>
+    <updated>2022-11-13T18:31:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-13:/articles/as-ukraine-retakes-kherson-u-s-looks-to-diplomacy-before-winter-slows-momentum-11668345883</id>
+    <content type="html">American arms are flowing, but officials in Washington question how much territory Ukraine or Russia can win with winter approaching.</content>
+    <link href="https://www.wsj.com/articles/as-ukraine-retakes-kherson-u-s-looks-to-diplomacy-before-winter-slows-momentum-11668345883" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dozens of Americans Are Barred From Leaving China, Adding to Tensions</title>
+    <updated>2022-11-13T17:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-13:/articles/china-us-exit-ban-diplomacy-11668357015</id>
+    <content type="html">Californian Henry Cai, who got into a business dispute, has been targeted by exit bans for nearly five years.</content>
+    <link href="https://www.wsj.com/articles/china-us-exit-ban-diplomacy-11668357015" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-11-13:/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402</id>
     <content type="html">War in Ukraine, inflation and U.S.-China tensions are all dividing major economies and making any coordinated response difficult.</content>
     <link href="https://www.wsj.com/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Inside the Kyiv Power Cuts: Cold Food, Scheduled Vacuuming, Struggling Businesses</title>
-    <updated>2022-11-13T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-13:/articles/kyiv-power-cuts-bring-cold-food-scheduled-vacuuming-struggling-businesses-11668265926</id>
-    <content type="html">Russia has targeted Ukraine’s electricity grid in an attempt to break civilians’ will, resulting in rolling power cuts in Kyiv. Residents are adapting.</content>
-    <link href="https://www.wsj.com/articles/kyiv-power-cuts-bring-cold-food-scheduled-vacuuming-struggling-businesses-11668265926" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
