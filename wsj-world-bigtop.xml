@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-13T12:43:16Z</updated>
+  <updated>2022-11-13T14:20:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Races to Restore Power, Water in Kherson After Russian Withdrawal</title>
-    <updated>2022-11-13T12:09:00Z</updated>
+    <updated>2022-11-13T13:54:00Z</updated>
     <id>tag:www.wsj.com,2022-11-13:/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348</id>
     <content type="html">Ukrainian forces that swept into the southern city over the weekend were greeted by jubilant crowds, but a municipal official said the humanitarian situation in the city was critical.</content>
     <link href="https://www.wsj.com/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348" rel="alternate"></link>
