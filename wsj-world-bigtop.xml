@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-14T10:27:21Z</updated>
+  <updated>2022-11-14T12:56:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Eyes Gains in Ukraine&#39;s East After Kherson Withdrawal</title>
+    <updated>2022-11-14T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-14:/articles/russia-eyes-gains-in-ukraines-east-after-kherson-withdrawal-11668421801</id>
+    <content type="html">Moscow’s forces have hit Ukrainian positions in the country’s east while retreating elsewhere, and analysts expect Russia to bolster efforts there with redeployed troops.</content>
+    <link href="https://www.wsj.com/articles/russia-eyes-gains-in-ukraines-east-after-kherson-withdrawal-11668421801" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>As Ukraine Scores Gains, &#xA;U.S. Looks to Peace Talks</title>
     <updated>2022-11-13T18:31:00Z</updated>
