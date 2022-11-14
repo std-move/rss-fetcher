@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-14T02:02:03Z</updated>
+  <updated>2022-11-14T04:42:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-11-13:/articles/china-us-exit-ban-diplomacy-11668357015</id>
     <content type="html">Californian Henry Cai, who got into a business dispute, has been targeted by exit bans for nearly five years.</content>
     <link href="https://www.wsj.com/articles/china-us-exit-ban-diplomacy-11668357015" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>G-20 Discord Likely to Thwart Efforts to Boost Sagging Global Economy</title>
-    <updated>2022-11-13T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-13:/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402</id>
-    <content type="html">War in Ukraine, inflation and U.S.-China tensions are all dividing major economies and making any coordinated response difficult.</content>
-    <link href="https://www.wsj.com/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
