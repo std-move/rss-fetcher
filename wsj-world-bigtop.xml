@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-14T18:29:19Z</updated>
+  <updated>2022-11-14T20:25:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Zelensky Visits Newly Recaptured Kherson</title>
+    <updated>2022-11-14T19:23:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-14:/articles/ukraines-zelensky-visits-newly-recaptured-kherson-11668428367</id>
+    <content type="html">The visit comes after three days of celebration in Kherson following the withdrawal of Russian troops from the only regional capital captured by Moscow during more than eight months of war.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-newly-recaptured-kherson-11668428367" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Eyes Gains in Ukraine&#39;s East After Kherson Withdrawal</title>
     <updated>2022-11-14T10:30:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-11-13:/articles/as-ukraine-retakes-kherson-u-s-looks-to-diplomacy-before-winter-slows-momentum-11668345883</id>
     <content type="html">American arms are flowing, but officials in Washington question how much territory Ukraine or Russia can win with winter approaching.</content>
     <link href="https://www.wsj.com/articles/as-ukraine-retakes-kherson-u-s-looks-to-diplomacy-before-winter-slows-momentum-11668345883" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dozens of Americans Are Barred From Leaving China, Adding to Tensions</title>
-    <updated>2022-11-13T17:07:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-13:/articles/china-us-exit-ban-diplomacy-11668357015</id>
-    <content type="html">Californian Henry Cai, who got into a business dispute, has been targeted by exit bans for nearly five years.</content>
-    <link href="https://www.wsj.com/articles/china-us-exit-ban-diplomacy-11668357015" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
