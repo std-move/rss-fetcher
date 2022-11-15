@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-15T14:20:11Z</updated>
+  <updated>2022-11-15T16:33:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Forces Reposition After Kherson Retreat</title>
-    <updated>2022-11-15T13:33:00Z</updated>
+    <title>Russian Missile Strikes Hit Kyiv, Other Ukrainian Cities</title>
+    <updated>2022-11-15T15:32:00Z</updated>
     <id>tag:www.wsj.com,2022-11-15:/articles/russian-forced-to-reposition-after-kherson-retreat-11668512160</id>
-    <content type="html">Russian forces, increasingly exposed to Ukrainian advances, have taken up new positions on the east bank of the Dnipro River, as Moscow’s troops assess new threats following Kyiv’s gains.</content>
+    <content type="html">Russian forces unleashed a volley of missiles across Ukraine, hitting residential buildings near Kyiv’s government district days after Moscow was dealt a major battlefield setback, government officials said.</content>
     <link href="https://www.wsj.com/articles/russian-forced-to-reposition-after-kherson-retreat-11668512160" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Looting, Sabotage Marked Last Days of Russia&#39;s Occupation of Kherson</title>
+    <updated>2022-11-15T13:20:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-15:/articles/looting-sabotage-marked-last-days-of-russias-occupation-of-kherson-11668518405</id>
+    <content type="html">Even as troops filled trucks with all the looted goods they could find and drove them away, Russian officials told residents they were preparing to fight for the city. Then they knocked out communications and mined the roads.</content>
+    <link href="https://www.wsj.com/articles/looting-sabotage-marked-last-days-of-russias-occupation-of-kherson-11668518405" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
