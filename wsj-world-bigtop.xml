@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-15T20:23:57Z</updated>
+  <updated>2022-11-15T22:21:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missile Strikes Hit Kyiv, Other Ukrainian Cities</title>
-    <updated>2022-11-15T18:39:00Z</updated>
+    <updated>2022-11-15T20:37:00Z</updated>
     <id>tag:www.wsj.com,2022-11-15:/articles/russian-forced-to-reposition-after-kherson-retreat-11668512160</id>
     <content type="html">Russian forces unleashed a volley of missiles across Ukraine, hitting residential buildings near Kyiv’s government district days after Moscow was dealt a major battlefield setback, government officials said.</content>
     <link href="https://www.wsj.com/articles/russian-forced-to-reposition-after-kherson-retreat-11668512160" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>World Cup Brings Two Million Visitors and an Epic Culture Clash to Qatar</title>
-    <updated>2022-11-15T16:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-15:/articles/world-cup-qatar-culture-clash-alcohol-11668527466</id>
-    <content type="html">Unaccustomed to Western tourists, wealthy Muslim monarchy hopes to set aside controversies as rowdy fans flood in; the alcohol question.</content>
-    <link href="https://www.wsj.com/articles/world-cup-qatar-culture-clash-alcohol-11668527466" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
