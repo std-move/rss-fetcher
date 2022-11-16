@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-16T04:30:47Z</updated>
+  <updated>2022-11-16T06:28:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Missile Strikes Hit Kyiv, Other Ukrainian Cities</title>
-    <updated>2022-11-16T04:05:00Z</updated>
+    <updated>2022-11-16T05:11:00Z</updated>
     <id>tag:www.wsj.com,2022-11-16:/articles/russian-forced-to-reposition-after-kherson-retreat-11668512160</id>
     <content type="html">Russian forces unleashed a volley of missiles across Ukraine, hitting residential buildings near Kyiv’s government district days after Moscow was dealt a major battlefield setback, government officials said.</content>
     <link href="https://www.wsj.com/articles/russian-forced-to-reposition-after-kherson-retreat-11668512160" rel="alternate"></link>
