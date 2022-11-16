@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-16T16:31:38Z</updated>
+  <updated>2022-11-16T18:27:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>COP27 Talks Weigh Who Should Pay for Climate Damage to Poor Countries</title>
+    <updated>2022-11-16T18:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-16:/articles/cop27-talks-weigh-who-should-pay-for-climate-damage-to-poor-countries-11668598218</id>
+    <content type="html">Catastrophic floods and record heat waves bring fresh attention to the issue of financing for irreparable harm that scientists link to climate change.</content>
+    <link href="https://www.wsj.com/articles/cop27-talks-weigh-who-should-pay-for-climate-damage-to-poor-countries-11668598218" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Kherson Residents Tell of Torture, Abuse During Russian Occupation</title>
-    <updated>2022-11-16T12:09:00Z</updated>
+    <updated>2022-11-16T17:07:00Z</updated>
     <id>tag:www.wsj.com,2022-11-16:/articles/kherson-residents-tell-of-torture-abuse-during-russian-occupation-11668600584</id>
-    <content type="html">Residents of Kherson told of torture and killing by Russian soldiers during Moscow’s nine-month occupation of the city, while world leaders grappled with the fallout of a missile crash in neighboring Poland.</content>
+    <content type="html">World leaders grappled, meanwhile, with the fallout after a missile landed in a Polish village near the Ukrainian border, killing two farmworkers.</content>
     <link href="https://www.wsj.com/articles/kherson-residents-tell-of-torture-abuse-during-russian-occupation-11668600584" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
