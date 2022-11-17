@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-17T12:48:14Z</updated>
+  <updated>2022-11-17T14:20:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Kherson Residents Tell of Torture, Abuse During Russian Occupation</title>
-    <updated>2022-11-16T21:29:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-16:/articles/kherson-residents-tell-of-torture-abuse-during-russian-occupation-11668600584</id>
-    <content type="html">World leaders grappled, meanwhile, with the fallout after a missile landed in a Polish village near the Ukrainian border, killing two farmworkers.</content>
-    <link href="https://www.wsj.com/articles/kherson-residents-tell-of-torture-abuse-during-russian-occupation-11668600584" rel="alternate"></link>
+    <title>Russia Launches Fresh Missile Strikes on Ukraine</title>
+    <updated>2022-11-17T14:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-17:/articles/russia-launches-fresh-missile-strikes-on-ukraine-11668685300</id>
+    <content type="html">A barrage of missiles targeting the capital Kyiv and other cities killed at least eight people, days after the Kremlin’s military carried out some of the heaviest bombing of the war.</content>
+    <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-on-ukraine-11668685300" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
