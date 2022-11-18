@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-17T22:22:35Z</updated>
+  <updated>2022-11-18T02:04:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Launches Fresh Missile Strikes on Ukraine</title>
-    <updated>2022-11-17T19:20:00Z</updated>
+    <updated>2022-11-17T23:45:00Z</updated>
     <id>tag:www.wsj.com,2022-11-17:/articles/russia-launches-fresh-missile-strikes-on-ukraine-11668685300</id>
     <content type="html">A barrage of missiles targeting the capital Kyiv and other cities killed at least 15 people, days after the Kremlin’s military carried out some of the heaviest bombing of the war.</content>
     <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-strikes-on-ukraine-11668685300" rel="alternate"></link>
