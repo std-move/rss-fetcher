@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-18T18:29:42Z</updated>
+  <updated>2022-11-18T20:23:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In Kherson, Celebration Turns to Apprehension Amid Food, Power Shortages</title>
+    <updated>2022-11-18T19:49:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-18:/articles/in-kherson-celebration-turns-to-apprehension-amid-food-power-shortages-11668773679</id>
+    <content type="html">In the recently retaken southern Ukrainian capital, the celebratory dancing to music on the main square has been replaced by a more humdrum physical activity: jostling for bread and water.</content>
+    <link href="https://www.wsj.com/articles/in-kherson-celebration-turns-to-apprehension-amid-food-power-shortages-11668773679" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>&#39;The Hole&#39;: Gruesome Accounts of Russian Occupation Emerge From Ukrainian Nuclear Plant</title>
     <updated>2022-11-18T15:54:00Z</updated>
     <id>tag:www.wsj.com,2022-11-18:/articles/russian-occupation-of-nuclear-plant-turns-brutal-with-accusations-of-torture-and-beatings-11668786893</id>
     <content type="html">From director general on down, workers say they were kidnapped and held in underground cells, often to be beaten or tortured; ‘some people’s spirits were broken.’</content>
     <link href="https://www.wsj.com/articles/russian-occupation-of-nuclear-plant-turns-brutal-with-accusations-of-torture-and-beatings-11668786893" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Kherson, Celebration Turns to Apprehension Amid Food, Power Shortages</title>
-    <updated>2022-11-18T13:35:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-18:/articles/in-kherson-celebration-turns-to-apprehension-amid-food-power-shortages-11668773679</id>
-    <content type="html">In the recently retaken southern Ukrainian capital, the celebratory dancing to music on the main square has been replaced by a more humdrum physical activity: jostling for bread and water.</content>
-    <link href="https://www.wsj.com/articles/in-kherson-celebration-turns-to-apprehension-amid-food-power-shortages-11668773679" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
