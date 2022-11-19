@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-19T14:18:46Z</updated>
+  <updated>2022-11-19T16:30:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In Kherson, Celebration Turns to Apprehension Amid Food, Power Shortages</title>
-    <updated>2022-11-19T01:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-19:/articles/in-kherson-celebration-turns-to-apprehension-amid-food-power-shortages-11668773679</id>
-    <content type="html">In the recently retaken southern Ukrainian capital, the celebratory dancing to music on the main square has been replaced by a more humdrum physical activity: jostling for bread and water.</content>
-    <link href="https://www.wsj.com/articles/in-kherson-celebration-turns-to-apprehension-amid-food-power-shortages-11668773679" rel="alternate"></link>
+    <title>Russia Redoubles Attacks in Ukraine&#39;s East After Retreat From Kherson</title>
+    <updated>2022-11-19T15:11:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-19:/articles/russia-redoubles-attacks-in-ukraines-east-after-retreat-from-kherson-11668859223</id>
+    <content type="html">The fight for the Donbas region is set to intensify in the coming weeks as Russia shifts its forces</content>
+    <link href="https://www.wsj.com/articles/russia-redoubles-attacks-in-ukraines-east-after-retreat-from-kherson-11668859223" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
