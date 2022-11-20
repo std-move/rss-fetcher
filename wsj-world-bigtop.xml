@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-20T12:39:41Z</updated>
+  <updated>2022-11-20T14:19:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Redoubles Attacks in Ukraine&#39;s East After Retreat From Kherson</title>
-    <updated>2022-11-19T15:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-19:/articles/russia-redoubles-attacks-in-ukraines-east-after-retreat-from-kherson-11668859223</id>
-    <content type="html">The fight for the Donbas region is set to intensify in the coming weeks as Russia shifts its forces</content>
-    <link href="https://www.wsj.com/articles/russia-redoubles-attacks-in-ukraines-east-after-retreat-from-kherson-11668859223" rel="alternate"></link>
+    <title>Ukraine&#39;s Kherson Win Shifts Dynamics Across Whole Front With Russia</title>
+    <updated>2022-11-20T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-20:/articles/ukraines-kherson-win-shifts-dynamics-across-whole-front-with-russia-11668914888</id>
+    <content type="html">Kyiv’s recent recapture of this southern city enables it to target Russian supply lines running to the Crimean Peninsula, while Moscow strives to redeploy withdrawn troops to Donbas.</content>
+    <link href="https://www.wsj.com/articles/ukraines-kherson-win-shifts-dynamics-across-whole-front-with-russia-11668914888" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>&#39;The Hole&#39;: Gruesome Accounts of Russian Occupation Emerge From Ukrainian Nuclear Plant</title>
-    <updated>2022-11-18T15:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-18:/articles/russian-occupation-of-nuclear-plant-turns-brutal-with-accusations-of-torture-and-beatings-11668786893</id>
-    <content type="html">From director general on down, workers say they were kidnapped and held in underground cells, often to be beaten or tortured.</content>
-    <link href="https://www.wsj.com/articles/russian-occupation-of-nuclear-plant-turns-brutal-with-accusations-of-torture-and-beatings-11668786893" rel="alternate"></link>
+    <title>Ukraine Urges Evacuations as Pressure on Electricity Grid Intensifies</title>
+    <updated>2022-11-20T10:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-20:/articles/ukraine-urges-evacuations-as-pressure-on-electricity-grid-intensifies-11668941038</id>
+    <content type="html">Officials encouraged people from recently recaptured territories to evacuate, as the country tries to ease the strain on its damaged electric grid ahead of the winter.</content>
+    <link href="https://www.wsj.com/articles/ukraine-urges-evacuations-as-pressure-on-electricity-grid-intensifies-11668941038" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
