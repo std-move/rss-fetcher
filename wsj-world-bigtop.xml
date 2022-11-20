@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-20T14:19:07Z</updated>
+  <updated>2022-11-20T16:30:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Urges Evacuations as Pressure on Electricity Grid Intensifies</title>
+    <updated>2022-11-20T14:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-20:/articles/ukraine-urges-evacuations-as-pressure-on-electricity-grid-intensifies-11668941038</id>
+    <content type="html">Officials encouraged people from recently recaptured territories to evacuate, as the country tries to ease the strain on its damaged electric grid ahead of the winter.</content>
+    <link href="https://www.wsj.com/articles/ukraine-urges-evacuations-as-pressure-on-electricity-grid-intensifies-11668941038" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Kherson Win Shifts Dynamics Across Whole Front With Russia</title>
     <updated>2022-11-20T11:00:00Z</updated>
     <id>tag:www.wsj.com,2022-11-20:/articles/ukraines-kherson-win-shifts-dynamics-across-whole-front-with-russia-11668914888</id>
     <content type="html">Kyiv’s recent recapture of this southern city enables it to target Russian supply lines running to the Crimean Peninsula, while Moscow strives to redeploy withdrawn troops to Donbas.</content>
     <link href="https://www.wsj.com/articles/ukraines-kherson-win-shifts-dynamics-across-whole-front-with-russia-11668914888" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Urges Evacuations as Pressure on Electricity Grid Intensifies</title>
-    <updated>2022-11-20T10:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-20:/articles/ukraine-urges-evacuations-as-pressure-on-electricity-grid-intensifies-11668941038</id>
-    <content type="html">Officials encouraged people from recently recaptured territories to evacuate, as the country tries to ease the strain on its damaged electric grid ahead of the winter.</content>
-    <link href="https://www.wsj.com/articles/ukraine-urges-evacuations-as-pressure-on-electricity-grid-intensifies-11668941038" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
