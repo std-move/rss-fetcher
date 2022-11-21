@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-21T12:45:16Z</updated>
+  <updated>2022-11-21T14:20:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Kherson Win Shifts Dynamics Across Whole Front With Russia</title>
-    <updated>2022-11-20T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-20:/articles/ukraines-kherson-win-shifts-dynamics-across-whole-front-with-russia-11668914888</id>
-    <content type="html">Kyiv’s recent recapture of this southern city enables it to target Russian supply lines running to the Crimean Peninsula, while Moscow strives to redeploy withdrawn troops to Donbas.</content>
-    <link href="https://www.wsj.com/articles/ukraines-kherson-win-shifts-dynamics-across-whole-front-with-russia-11668914888" rel="alternate"></link>
+    <title>Russia Steps Up Artillery Attacks in Ukraine&#39;s East</title>
+    <updated>2022-11-21T13:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-21:/articles/russia-steps-up-artillery-attacks-in-ukraines-east-11669030459</id>
+    <content type="html">Moscow ramped up its efforts to capture more territory in Ukraine’s east, while Kyiv sought to win international support for its peace terms.</content>
+    <link href="https://www.wsj.com/articles/russia-steps-up-artillery-attacks-in-ukraines-east-11669030459" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Heaviest Fighting in Years Breaks Out in Congo Over Control of Minerals</title>
+    <updated>2022-11-21T12:35:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-21:/articles/heaviest-fighting-in-years-breaks-out-in-congo-as-rivals-seek-control-of-minerals-11669034108</id>
+    <content type="html">Long-simmering ethnic tensions in the eastern Democratic Republic of Congo have erupted into the most intense clashes in a decade as warring militias fight for control of the region and its mineral riches.</content>
+    <link href="https://www.wsj.com/articles/heaviest-fighting-in-years-breaks-out-in-congo-as-rivals-seek-control-of-minerals-11669034108" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
