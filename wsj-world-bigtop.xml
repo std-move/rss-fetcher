@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-23T16:29:56Z</updated>
+  <updated>2022-11-23T18:25:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Launches Missile Volley Across Ukraine</title>
-    <updated>2022-11-23T15:41:00Z</updated>
+    <updated>2022-11-23T17:24:00Z</updated>
     <id>tag:www.wsj.com,2022-11-23:/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039</id>
     <content type="html">Moscow unleashed a fresh barrage of missiles across Ukraine, with strikes on critical infrastructure cutting off water supplies in the capital and causing power outages in the west of the country, authorities said.</content>
     <link href="https://www.wsj.com/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039" rel="alternate"></link>
