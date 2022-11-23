@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-23T08:26:54Z</updated>
+  <updated>2022-11-23T10:23:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Strikes Maternity Ward in Southern Ukraine</title>
+    <updated>2022-11-23T10:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-23:/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039</id>
+    <content type="html">The attacks on a hospital in the Zaporizhzhia region killed at least three, including an infant, with more people likely under the rubble, Ukrainian President Volodymyr Zelensky said.</content>
+    <link href="https://www.wsj.com/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Confronting Iran Protests, Regime Uses Brute Force but Secretly Appeals to Moderates</title>
     <updated>2022-11-22T18:11:00Z</updated>
