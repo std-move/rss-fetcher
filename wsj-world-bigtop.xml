@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-23T20:21:48Z</updated>
+  <updated>2022-11-23T22:20:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Conservatism Grows in Brazil, Despite Leftist President</title>
-    <updated>2022-11-23T15:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-23:/articles/conservatism-grows-in-brazil-despite-leftist-presidents-win-11669217765</id>
-    <content type="html">Conservative politicans backed by a wealthy agricultural sector cement their presence in Congress, churches and commerce despite right-wing President Bolsonaro’s election loss</content>
-    <link href="https://www.wsj.com/articles/conservatism-grows-in-brazil-despite-leftist-presidents-win-11669217765" rel="alternate"></link>
+    <title>Remote Town Is Home to 900 Humans and 850 Polar Bears</title>
+    <updated>2022-11-23T15:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-23:/articles/polar-bears-canada-tiny-town-neighbors-11669216918</id>
+    <content type="html">In autumn, a Canadian town becomes a place where residents ‘check around corners’</content>
+    <link href="https://www.wsj.com/articles/polar-bears-canada-tiny-town-neighbors-11669216918" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
