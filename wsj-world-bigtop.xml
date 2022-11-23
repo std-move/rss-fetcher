@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-23T18:25:31Z</updated>
+  <updated>2022-11-23T20:21:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Launches Missile Volley Across Ukraine</title>
-    <updated>2022-11-23T17:24:00Z</updated>
+    <updated>2022-11-23T19:37:00Z</updated>
     <id>tag:www.wsj.com,2022-11-23:/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039</id>
     <content type="html">Moscow unleashed a fresh barrage of missiles across Ukraine, with strikes on critical infrastructure cutting off water supplies in the capital and causing power outages in the west of the country, authorities said.</content>
     <link href="https://www.wsj.com/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Much of China Locks Down With No End to Zero Covid in Sight</title>
-    <updated>2022-11-23T12:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-23:/articles/much-of-china-locks-down-with-no-end-to-zero-covid-in-sight-11669206633</id>
-    <content type="html">Beijing shopping and office districts were nearly deserted as millions of people across the country remained under lockdown, and the number of cases across the mainland appeared set to surpass the previous peak of almost 29,000.</content>
-    <link href="https://www.wsj.com/articles/much-of-china-locks-down-with-no-end-to-zero-covid-in-sight-11669206633" rel="alternate"></link>
+    <title>China Is Investing Billions in Pakistan. Its Workers There Are Under Attack.</title>
+    <updated>2022-11-23T15:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-23:/articles/china-pakistan-attacks-belt-and-road-11669218179</id>
+    <content type="html">Beijing’s Belt and Road investment strategy meets resistance in the developing world it seeks to influence.</content>
+    <link href="https://www.wsj.com/articles/china-pakistan-attacks-belt-and-road-11669218179" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Airports Confront a Tiny but Serious Safety Threat---Wasps</title>
-    <updated>2022-11-23T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-23:/articles/the-worlds-biggest-airports-confront-a-tiny-but-serious-safety-threatwasps-11669199402</id>
-    <content type="html">Every week, workers at one of Australia’s major airports spend hours searching the tarmac and terminals for a security threat that could bring down an airplane.</content>
-    <link href="https://www.wsj.com/articles/the-worlds-biggest-airports-confront-a-tiny-but-serious-safety-threatwasps-11669199402" rel="alternate"></link>
+    <title>Conservatism Grows in Brazil, Despite Leftist President</title>
+    <updated>2022-11-23T15:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-23:/articles/conservatism-grows-in-brazil-despite-leftist-presidents-win-11669217765</id>
+    <content type="html">Conservative politicans backed by a wealthy agricultural sector cement their presence in Congress, churches and commerce despite right-wing President Bolsonaro’s election loss</content>
+    <link href="https://www.wsj.com/articles/conservatism-grows-in-brazil-despite-leftist-presidents-win-11669217765" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
