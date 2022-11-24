@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-23T22:20:10Z</updated>
+  <updated>2022-11-24T01:53:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Launches Missile Volley Across Ukraine</title>
-    <updated>2022-11-23T19:37:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-23:/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039</id>
+    <updated>2022-11-24T00:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-24:/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039</id>
     <content type="html">Moscow unleashed a fresh barrage of missiles across Ukraine, with strikes on critical infrastructure cutting off water supplies in the capital and causing power outages in the west of the country, authorities said.</content>
     <link href="https://www.wsj.com/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039" rel="alternate"></link>
     <summary type="html"></summary>
@@ -21,10 +21,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Remote Town Is Home to 900 Humans and 850 Polar Bears</title>
+    <title>Welcome to the Tiny Town Where Half Your Neighbors Are Polar Bears</title>
     <updated>2022-11-23T15:25:00Z</updated>
     <id>tag:www.wsj.com,2022-11-23:/articles/polar-bears-canada-tiny-town-neighbors-11669216918</id>
-    <content type="html">In autumn, a Canadian town becomes a place where residents ‘check around corners’</content>
+    <content type="html">In autumn, a Canadian village becomes a place where residents ‘check around corners’</content>
     <link href="https://www.wsj.com/articles/polar-bears-canada-tiny-town-neighbors-11669216918" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
