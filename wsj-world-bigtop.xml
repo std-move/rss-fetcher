@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-24T08:26:49Z</updated>
+  <updated>2022-11-24T10:22:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-11-23:/articles/china-pakistan-attacks-belt-and-road-11669218179</id>
     <content type="html">Beijing’s Belt and Road investment strategy meets resistance in the developing world it seeks to influence.</content>
     <link href="https://www.wsj.com/articles/china-pakistan-attacks-belt-and-road-11669218179" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Welcome to the Tiny Town Where Half Your Neighbors Are Polar Bears</title>
-    <updated>2022-11-23T15:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-23:/articles/polar-bears-canada-tiny-town-neighbors-11669216918</id>
-    <content type="html">In autumn, a Canadian village becomes a place where residents ‘check around corners’</content>
-    <link href="https://www.wsj.com/articles/polar-bears-canada-tiny-town-neighbors-11669216918" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
