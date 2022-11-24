@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-24T18:26:25Z</updated>
+  <updated>2022-11-24T20:21:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Scrambles to Restore Power After Russian Strikes</title>
-    <updated>2022-11-24T16:02:00Z</updated>
+    <updated>2022-11-24T19:28:00Z</updated>
     <id>tag:www.wsj.com,2022-11-24:/articles/ukraine-scrambles-to-restore-power-after-russian-missile-strikes-11669289511</id>
     <content type="html">Authorities worked to bring back electricity supplies in several cities including Kyiv, a day after a Russian missile barrage damaged critical infrastructure across the country.</content>
     <link href="https://www.wsj.com/articles/ukraine-scrambles-to-restore-power-after-russian-missile-strikes-11669289511" rel="alternate"></link>
