@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-24T16:29:27Z</updated>
+  <updated>2022-11-24T18:26:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Launches Missile Volley Across Ukraine</title>
-    <updated>2022-11-24T00:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-24:/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039</id>
-    <content type="html">Moscow unleashed a fresh barrage of missiles across Ukraine, with strikes on critical infrastructure cutting off water supplies in the capital and causing power outages in the west of the country, authorities said.</content>
-    <link href="https://www.wsj.com/articles/russia-strikes-maternity-ward-in-southern-ukraine-11669196039" rel="alternate"></link>
+    <title>Ukraine Scrambles to Restore Power After Russian Strikes</title>
+    <updated>2022-11-24T16:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-24:/articles/ukraine-scrambles-to-restore-power-after-russian-missile-strikes-11669289511</id>
+    <content type="html">Authorities worked to bring back electricity supplies in several cities including Kyiv, a day after a Russian missile barrage damaged critical infrastructure across the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-scrambles-to-restore-power-after-russian-missile-strikes-11669289511" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China Is Investing Billions in Pakistan. Its Workers There Are Under Attack.</title>
-    <updated>2022-11-23T15:47:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-23:/articles/china-pakistan-attacks-belt-and-road-11669218179</id>
-    <content type="html">Beijing’s Belt and Road investment strategy meets resistance in the developing world it seeks to influence.</content>
-    <link href="https://www.wsj.com/articles/china-pakistan-attacks-belt-and-road-11669218179" rel="alternate"></link>
+    <title>As Japan Runs Short of Farmworkers, Bureaucrats Get Sent Into the Fields</title>
+    <updated>2022-11-24T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-24:/articles/as-japan-runs-short-of-farmworkers-bureaucrats-get-sent-into-the-fields-11669285801</id>
+    <content type="html">Across Japan, where the population has been shrinking for over a decade and nearly a third of people are at least 65 years old, the hunt for manual labor has reached city hall.</content>
+    <link href="https://www.wsj.com/articles/as-japan-runs-short-of-farmworkers-bureaucrats-get-sent-into-the-fields-11669285801" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
