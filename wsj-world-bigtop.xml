@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-25T08:26:33Z</updated>
+  <updated>2022-11-25T10:22:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Scrambles to Restore Power After Russian Strikes</title>
-    <updated>2022-11-24T19:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-24:/articles/ukraine-scrambles-to-restore-power-after-russian-missile-strikes-11669289511</id>
-    <content type="html">Authorities worked to bring back electricity supplies in several cities including Kyiv, a day after a Russian missile barrage damaged critical infrastructure across the country.</content>
-    <link href="https://www.wsj.com/articles/ukraine-scrambles-to-restore-power-after-russian-missile-strikes-11669289511" rel="alternate"></link>
+    <title>China&#39;s Xinjiang Region Has Been Locked Down for Months, Casting Shadow Over Zero-Covid Easing</title>
+    <updated>2022-11-25T10:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-25:/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218</id>
+    <content type="html">Local governments in the region have described the lockdowns as temporary and targeted, but accounts from residents and travelers suggest they have been widespread.</content>
+    <link href="https://www.wsj.com/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>As Japan Runs Short of Farmworkers, Bureaucrats Get Sent Into the Fields</title>
-    <updated>2022-11-24T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-24:/articles/as-japan-runs-short-of-farmworkers-bureaucrats-get-sent-into-the-fields-11669285801</id>
-    <content type="html">Across Japan, where the population has been shrinking for over a decade and nearly a third of people are at least 65 years old, the hunt for manual labor has reached city hall.</content>
-    <link href="https://www.wsj.com/articles/as-japan-runs-short-of-farmworkers-bureaucrats-get-sent-into-the-fields-11669285801" rel="alternate"></link>
+    <title>Russia Expands Shelling of Kherson, as Power Shortages Drag On in Kyiv</title>
+    <updated>2022-11-25T10:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-25:/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547</id>
+    <content type="html">Russian forces stepped up their shelling of the southern Ukrainian city of Kherson, killing seven people and injuring at least 21 others, according to local officials.</content>
+    <link href="https://www.wsj.com/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
