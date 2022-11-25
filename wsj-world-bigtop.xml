@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-25T14:18:40Z</updated>
+  <updated>2022-11-25T16:29:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Expands Shelling of Kherson, as Power Shortages Drag On in Kyiv</title>
+    <updated>2022-11-25T15:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-25:/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547</id>
+    <content type="html">Russian forces stepped up their shelling of the southern Ukrainian city of Kherson, killing seven people and injuring at least 21 others, according to local officials.</content>
+    <link href="https://www.wsj.com/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukrainian Hospital Stymied Russians With Defiant Doctors, Fake Covid Outbreak</title>
     <updated>2022-11-25T10:30:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-11-25:/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455</id>
     <content type="html">The Bahamas encouraged crypto companies such as FTX to set up shop. The firm’s collapse has left many islanders feeling frustrated.</content>
     <link href="https://www.wsj.com/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Expands Shelling of Kherson, as Power Shortages Drag On in Kyiv</title>
-    <updated>2022-11-25T10:26:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-25:/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547</id>
-    <content type="html">Russian forces stepped up their shelling of the southern Ukrainian city of Kherson, killing seven people and injuring at least 21 others, according to local officials.</content>
-    <link href="https://www.wsj.com/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
