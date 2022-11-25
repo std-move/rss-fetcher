@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-25T16:29:11Z</updated>
+  <updated>2022-11-25T18:26:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Expands Shelling of Kherson, as Power Shortages Drag On in Kyiv</title>
-    <updated>2022-11-25T15:39:00Z</updated>
+    <updated>2022-11-25T17:52:00Z</updated>
     <id>tag:www.wsj.com,2022-11-25:/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547</id>
-    <content type="html">Russian forces stepped up their shelling of the southern Ukrainian city of Kherson, killing seven people and injuring at least 21 others, according to local officials.</content>
+    <content type="html">Russian forces stepped up their shelling of the southern Ukrainian city of Kherson, killing 10 people and injuring at least 54 others, according to local officials.</content>
     <link href="https://www.wsj.com/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Fearing Sabotage, Europe Patrols Pipelines with Mine Hunters and Unmanned Subs</title>
+    <updated>2022-11-25T15:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-25:/articles/europe-sabotage-gas-pipelines-mine-hunters-subs-11669389505</id>
+    <content type="html">The destruction of Nord Stream pipelines in September alarmed security forces across EU. ‘The Ukraine war, and especially the Nord Stream explosions, were a wake-up call,’ said a commander at the Danish navy.</content>
+    <link href="https://www.wsj.com/articles/europe-sabotage-gas-pipelines-mine-hunters-subs-11669389505" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
