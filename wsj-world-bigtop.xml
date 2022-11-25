@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-25T12:40:22Z</updated>
+  <updated>2022-11-25T14:18:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-11-25:/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547</id>
     <content type="html">Russian forces stepped up their shelling of the southern Ukrainian city of Kherson, killing seven people and injuring at least 21 others, according to local officials.</content>
     <link href="https://www.wsj.com/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xinjiang Lockdown Casts Shadow Over China&#39;s Zero-Covid Easing</title>
-    <updated>2022-11-25T10:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-25:/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218</id>
-    <content type="html">Local governments in the region have described the lockdowns as temporary and targeted, but accounts from residents and travelers suggest they have been widespread.</content>
-    <link href="https://www.wsj.com/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
