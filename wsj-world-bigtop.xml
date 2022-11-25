@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-25T10:22:56Z</updated>
+  <updated>2022-11-25T12:40:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China&#39;s Xinjiang Region Has Been Locked Down for Months, Casting Shadow Over Zero-Covid Easing</title>
-    <updated>2022-11-25T10:13:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-25:/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218</id>
-    <content type="html">Local governments in the region have described the lockdowns as temporary and targeted, but accounts from residents and travelers suggest they have been widespread.</content>
-    <link href="https://www.wsj.com/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218" rel="alternate"></link>
+    <title>Ukrainian Hospital Stymied Russians With Defiant Doctors, Fake Covid Outbreak</title>
+    <updated>2022-11-25T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-25:/articles/ukrainian-hospital-stymied-russians-defiant-doctors-fake-covid-11669243198</id>
+    <content type="html">In a hospital in Russian-occupied Kherson, the staff’s resistance was part of an eight-month, mostly unarmed campaign by residents to keep the city Ukrainian—and out of Moscow’s full control—for as long as possible.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-hospital-stymied-russians-defiant-doctors-fake-covid-11669243198" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>FTX&#39;s Collapse Takes Heavy Toll on an Island Nation</title>
+    <updated>2022-11-25T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-25:/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455</id>
+    <content type="html">The Bahamas encouraged crypto companies such as FTX to set up shop. The firm’s collapse has left many islanders feeling frustrated.</content>
+    <link href="https://www.wsj.com/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Russia Expands Shelling of Kherson, as Power Shortages Drag On in Kyiv</title>
-    <updated>2022-11-25T10:02:00Z</updated>
+    <updated>2022-11-25T10:26:00Z</updated>
     <id>tag:www.wsj.com,2022-11-25:/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547</id>
     <content type="html">Russian forces stepped up their shelling of the southern Ukrainian city of Kherson, killing seven people and injuring at least 21 others, according to local officials.</content>
     <link href="https://www.wsj.com/articles/russia-expands-shelling-on-kherson-as-power-shortages-drag-on-in-kyiv-11669370547" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Xinjiang Lockdown Casts Shadow Over China&#39;s Zero-Covid Easing</title>
+    <updated>2022-11-25T10:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-25:/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218</id>
+    <content type="html">Local governments in the region have described the lockdowns as temporary and targeted, but accounts from residents and travelers suggest they have been widespread.</content>
+    <link href="https://www.wsj.com/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
