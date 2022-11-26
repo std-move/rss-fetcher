@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-25T22:19:46Z</updated>
+  <updated>2022-11-26T01:45:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,10 +13,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Fearing Sabotage, Europe Patrols Pipelines with Mine Hunters and Unmanned Subs</title>
+    <title>Fearing Sabotage, Europe Patrols Pipelines With Mine Hunters and Unmanned Subs</title>
     <updated>2022-11-25T15:25:00Z</updated>
     <id>tag:www.wsj.com,2022-11-25:/articles/europe-sabotage-gas-pipelines-mine-hunters-subs-11669389505</id>
-    <content type="html">The destruction of Nord Stream pipelines in September alarmed security forces across EU. ‘The Ukraine war, and especially the Nord Stream explosions, were a wake-up call,’ said a commander at the Danish navy.</content>
+    <content type="html">The destruction of Nord Stream pipelines in September alarmed security forces across EU. “The Ukraine war, and especially the Nord Stream explosions, were a wake-up call,” said a commander at the Danish navy.</content>
     <link href="https://www.wsj.com/articles/europe-sabotage-gas-pipelines-mine-hunters-subs-11669389505" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2022-11-25:/articles/ukrainian-hospital-stymied-russians-defiant-doctors-fake-covid-11669243198</id>
     <content type="html">In a hospital in Russian-occupied Kherson, the staff’s resistance was part of an eight-month, mostly unarmed campaign by residents to keep the city Ukrainian—and out of Moscow’s full control—for as long as possible.</content>
     <link href="https://www.wsj.com/articles/ukrainian-hospital-stymied-russians-defiant-doctors-fake-covid-11669243198" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FTX&#39;s Collapse Takes Heavy Toll on an Island Nation</title>
-    <updated>2022-11-25T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-25:/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455</id>
-    <content type="html">The Bahamas encouraged crypto companies such as FTX to set up shop. The firm’s collapse has left many islanders feeling frustrated.</content>
-    <link href="https://www.wsj.com/articles/crypto-firm-ftx-landed-in-the-bahamas-with-a-bang-and-now-the-bahamas-is-picking-up-the-pieces-11669326455" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
