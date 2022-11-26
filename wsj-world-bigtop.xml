@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-26T20:20:56Z</updated>
+  <updated>2022-11-26T22:19:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russian Strikes Leave Six Million in Ukraine Without Power</title>
-    <updated>2022-11-26T11:04:00Z</updated>
+    <updated>2022-11-26T21:52:00Z</updated>
     <id>tag:www.wsj.com,2022-11-26:/articles/russian-strikes-leave-six-million-in-ukraine-without-power-11669460694</id>
     <content type="html">Authorities were working to repair critical infrastructure and bolster the spirits of residents who are struggling without water and electricity as temperatures drop.</content>
     <link href="https://www.wsj.com/articles/russian-strikes-leave-six-million-in-ukraine-without-power-11669460694" rel="alternate"></link>
