@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-27T10:21:11Z</updated>
+  <updated>2022-11-27T12:37:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Strikes Leave Six Million in Ukraine Without Power</title>
-    <updated>2022-11-26T21:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-26:/articles/russian-strikes-leave-six-million-in-ukraine-without-power-11669460694</id>
-    <content type="html">Authorities were working to repair critical infrastructure and bolster the spirits of residents who are struggling without water and electricity as temperatures drop.</content>
-    <link href="https://www.wsj.com/articles/russian-strikes-leave-six-million-in-ukraine-without-power-11669460694" rel="alternate"></link>
+    <title>China&#39;s Economy Faces Challenges Despite Moves to Boost Growth</title>
+    <updated>2022-11-27T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-27:/articles/chinas-economy-faces-challenges-despite-latest-moves-to-stimulate-growth-11669523302</id>
+    <content type="html">Most economists doubt China’s economy will return to the heady expansion of prepandemic days soon, if ever.</content>
+    <link href="https://www.wsj.com/articles/chinas-economy-faces-challenges-despite-latest-moves-to-stimulate-growth-11669523302" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Fearing Sabotage, Europe Patrols Pipelines With Mine Hunters and Unmanned Subs</title>
-    <updated>2022-11-25T15:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-25:/articles/europe-sabotage-gas-pipelines-mine-hunters-subs-11669389505</id>
-    <content type="html">The destruction of Nord Stream pipelines in September alarmed security forces across EU. “The Ukraine war, and especially the Nord Stream explosions, were a wake-up call,” said a commander at the Danish navy.</content>
-    <link href="https://www.wsj.com/articles/europe-sabotage-gas-pipelines-mine-hunters-subs-11669389505" rel="alternate"></link>
+    <title>Russian Strikes Hit Southern Ukraine as Country Scrambles to Restore Electricity</title>
+    <updated>2022-11-27T10:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-27:/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170</id>
+    <content type="html">Ukraine’s President Volodymyr Zelensky said that the number of homes without power had fallen by half, but the electricity network was still unstable.</content>
+    <link href="https://www.wsj.com/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
