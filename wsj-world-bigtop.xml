@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-27T16:28:05Z</updated>
+  <updated>2022-11-27T18:24:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Most Power Is Restored in Kyiv as Russian Strikes Hit Southern Ukraine</title>
     <updated>2022-11-27T15:13:00Z</updated>
     <id>tag:www.wsj.com,2022-11-27:/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170</id>
-    <content type="html">Ukraine’s President Volodymyr Zelensky said that power to many homes had been restored, but the electricity network was still unstable.</content>
+    <content type="html">Ukraine’s President Volodymyr Zelensky said that power to many homes had been restored but that the electricity network was still unstable.</content>
     <link href="https://www.wsj.com/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-11-27:/articles/vladimir-putins-red-lines-war-aims-shift-in-ukraine-11669556247</id>
     <content type="html">The Russian leader is seen as improvising after setbacks. ‘A degree of desperation,’ one academic says.</content>
     <link href="https://www.wsj.com/articles/vladimir-putins-red-lines-war-aims-shift-in-ukraine-11669556247" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eurovision Voting Goes Global, Giving U.S. Fans a Say on European Musical Contest</title>
-    <updated>2022-11-27T14:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-27:/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747</id>
-    <content type="html">Americans will soon get a chance to vote in the Eurovision Song Contest, the musical competition that celebrates kitschy pop and helped launch the careers of ABBA and Celine Dion.</content>
-    <link href="https://www.wsj.com/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
