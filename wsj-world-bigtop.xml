@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-28T18:26:47Z</updated>
+  <updated>2022-11-28T20:20:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fighting Rages in Eastern Ukraine as Zelensky Warns of More Russian Missile Attacks</title>
+    <updated>2022-11-28T19:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-28:/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754</id>
+    <content type="html">Russia is pushing to seize the city of Bakhmut and achieve a symbolic victory, and dismissing claims that it will abandon the Zaporizhzhia nuclear-power plant.</content>
+    <link href="https://www.wsj.com/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Chinese Protesters Channel Their Anger Directly at Xi Jinping</title>
+    <updated>2022-11-28T18:32:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-28:/articles/chinese-protesters-channel-their-anger-directly-at-xi-jinping-11669660318</id>
+    <content type="html">Political demonstrations are rare in a country where people have long consented to obey party authorities—as long as they deliver prosperity and allow citizens relative freedom in their personal lives. China’s Covid policies are fraying that social contract.</content>
+    <link href="https://www.wsj.com/articles/chinese-protesters-channel-their-anger-directly-at-xi-jinping-11669660318" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China Covid Protests Lead to Clampdown</title>
     <updated>2022-11-28T15:03:00Z</updated>
     <id>tag:www.wsj.com,2022-11-28:/articles/china-clamps-down-on-protesters-against-zero-covid-policies-11669647813</id>
     <content type="html">Police turn out to discourage gatherings in Beijing, Shanghai and Hong Kong as state-media doubles down on Xi Jinping’s zero-tolerance approach to pandemic</content>
     <link href="https://www.wsj.com/articles/china-clamps-down-on-protesters-against-zero-covid-policies-11669647813" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fighting Rages in Eastern Ukraine as Zelensky Warns of More Russian Missile Attacks</title>
-    <updated>2022-11-28T14:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-28:/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754</id>
-    <content type="html">Russia is pushing to seize the city of Bakhmut and achieve a symbolic victory, and dismissing claims that it will abandon the Zaporizhzhia nuclear-power plant.</content>
-    <link href="https://www.wsj.com/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
