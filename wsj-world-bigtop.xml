@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-28T14:19:23Z</updated>
+  <updated>2022-11-28T16:24:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Most Power Is Restored in Kyiv as Russian Strikes Hit Southern Ukraine</title>
-    <updated>2022-11-27T20:09:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-27:/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170</id>
-    <content type="html">Ukraine’s President Volodymyr Zelensky said that power to many homes had been restored but that the electricity network was still unstable.</content>
-    <link href="https://www.wsj.com/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170" rel="alternate"></link>
+    <title>China Covid Protests Lead to Clampdown</title>
+    <updated>2022-11-28T15:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-28:/articles/china-clamps-down-on-protesters-against-zero-covid-policies-11669647813</id>
+    <content type="html">Police turn out to discourage gatherings in Beijing, Shanghai and Hong Kong as state-media doubles down on Xi Jinping’s zero-tolerance approach to pandemic</content>
+    <link href="https://www.wsj.com/articles/china-clamps-down-on-protesters-against-zero-covid-policies-11669647813" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Vladimir Putin&#39;s Red Lines, War Aims Shift in Ukraine</title>
-    <updated>2022-11-27T15:08:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-27:/articles/vladimir-putins-red-lines-war-aims-shift-in-ukraine-11669556247</id>
-    <content type="html">The Russian leader is seen as improvising after setbacks. ‘A degree of desperation,’ one academic says.</content>
-    <link href="https://www.wsj.com/articles/vladimir-putins-red-lines-war-aims-shift-in-ukraine-11669556247" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Eurovision Voting Goes Global, Giving U.S. Fans a Say on European Musical Contest</title>
-    <updated>2022-11-27T14:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-27:/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747</id>
-    <content type="html">Americans will soon get a chance to vote in the Eurovision Song Contest, the musical competition that celebrates kitschy pop and helped launch the careers of ABBA and Celine Dion.</content>
-    <link href="https://www.wsj.com/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747" rel="alternate"></link>
+    <title>Zelensky Warns of More Russian Missile Attacks as Fighting Rages in Eastern Ukraine</title>
+    <updated>2022-11-28T14:48:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-28:/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754</id>
+    <content type="html">Fierce fighting rumbled on in east Ukraine as Moscow denied Kyiv’s claims that it was preparing to abandon a nuclear-power plant in the country’s south that it has occupied since March.</content>
+    <link href="https://www.wsj.com/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
