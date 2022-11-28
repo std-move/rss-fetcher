@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-27T22:19:48Z</updated>
+  <updated>2022-11-28T01:47:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China&#39;s Economy Faces Challenges Despite Moves to Boost Growth</title>
-    <updated>2022-11-27T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-27:/articles/chinas-economy-faces-challenges-despite-latest-moves-to-stimulate-growth-11669523302</id>
-    <content type="html">Most economists doubt China’s economy will return to the heady expansion of prepandemic days soon, if ever.</content>
-    <link href="https://www.wsj.com/articles/chinas-economy-faces-challenges-despite-latest-moves-to-stimulate-growth-11669523302" rel="alternate"></link>
+    <title>Eurovision Voting Goes Global, Giving U.S. Fans a Say on European Musical Contest</title>
+    <updated>2022-11-27T14:56:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-27:/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747</id>
+    <content type="html">Americans will soon get a chance to vote in the Eurovision Song Contest, the musical competition that celebrates kitschy pop and helped launch the careers of ABBA and Celine Dion.</content>
+    <link href="https://www.wsj.com/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
