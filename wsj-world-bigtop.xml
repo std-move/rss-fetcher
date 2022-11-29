@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-29T16:30:19Z</updated>
+  <updated>2022-11-29T18:24:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>NATO Chief Urges Military Support for Ukraine as Russian Attacks Rage On</title>
-    <updated>2022-11-29T12:27:00Z</updated>
+    <updated>2022-11-29T18:11:00Z</updated>
     <id>tag:www.wsj.com,2022-11-29:/articles/nato-chief-urges-military-support-for-ukraine-as-russian-attacks-rage-on-11669724838</id>
     <content type="html">Jens Stoltenberg said the alliance must deny Moscow a victory that would embolden Russian President Vladimir Putin and other authoritarian leaders.</content>
     <link href="https://www.wsj.com/articles/nato-chief-urges-military-support-for-ukraine-as-russian-attacks-rage-on-11669724838" rel="alternate"></link>
