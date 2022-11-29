@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-29T14:19:19Z</updated>
+  <updated>2022-11-29T16:30:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Fighting Rages in Eastern Ukraine as Zelensky Warns of More Russian Missile Attacks</title>
-    <updated>2022-11-28T23:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-28:/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754</id>
-    <content type="html">Russia is pushing to seize the city of Bakhmut and achieve a symbolic victory, and dismissing claims that it will abandon the Zaporizhzhia nuclear-power plant.</content>
-    <link href="https://www.wsj.com/articles/zelensky-warns-of-more-russian-missile-attacks-as-ukraine-struggles-to-restore-power-11669634754" rel="alternate"></link>
+    <title>NATO Chief Urges Military Support for Ukraine as Russian Attacks Rage On</title>
+    <updated>2022-11-29T12:27:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-29:/articles/nato-chief-urges-military-support-for-ukraine-as-russian-attacks-rage-on-11669724838</id>
+    <content type="html">Jens Stoltenberg said the alliance must deny Moscow a victory that would embolden Russian President Vladimir Putin and other authoritarian leaders.</content>
+    <link href="https://www.wsj.com/articles/nato-chief-urges-military-support-for-ukraine-as-russian-attacks-rage-on-11669724838" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Chinese Protests Put Xi Jinpingin a Bind</title>
-    <updated>2022-11-28T21:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-28:/articles/chinese-protesters-channel-their-anger-directly-at-xi-jinping-11669660318</id>
-    <content type="html">China’s leader faces a difficult choice between loosening his zero-Covid policy or doubling down on restrictions that have stifled the country’s economy.</content>
-    <link href="https://www.wsj.com/articles/chinese-protesters-channel-their-anger-directly-at-xi-jinping-11669660318" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Covid Protests Lead to Clampdown</title>
-    <updated>2022-11-28T15:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-28:/articles/china-clamps-down-on-protesters-against-zero-covid-policies-11669647813</id>
-    <content type="html">Police turn out to discourage gatherings in Beijing, Shanghai and Hong Kong as state-media doubles down on Xi Jinping’s zero-tolerance approach to pandemic</content>
-    <link href="https://www.wsj.com/articles/china-clamps-down-on-protesters-against-zero-covid-policies-11669647813" rel="alternate"></link>
+    <title>Inside Ukraine&#39;s Blackouts: Fraught Operations, Candlelit Concerts, Anger With Russia</title>
+    <updated>2022-11-29T10:59:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-29:/articles/inside-ukraines-blackouts-fraught-operations-candlelit-concerts-anger-with-russia-11669719571</id>
+    <content type="html">Russia has stepped up its missile volleys in a bid to deprive Ukrainians of comfort and weaken support for the defense effort.</content>
+    <link href="https://www.wsj.com/articles/inside-ukraines-blackouts-fraught-operations-candlelit-concerts-anger-with-russia-11669719571" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
