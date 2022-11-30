@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-30T08:27:17Z</updated>
+  <updated>2022-11-30T10:23:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Inside Ukraine&#39;s Blackouts: Fraught Operations, Candlelit Concerts, Anger With Russia</title>
-    <updated>2022-11-29T10:59:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-29:/articles/inside-ukraines-blackouts-fraught-operations-candlelit-concerts-anger-with-russia-11669719571</id>
-    <content type="html">Russia has stepped up its missile volleys in a bid to deprive Ukrainians of comfort and weaken support for the defense effort.</content>
-    <link href="https://www.wsj.com/articles/inside-ukraines-blackouts-fraught-operations-candlelit-concerts-anger-with-russia-11669719571" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>NATO Chief Urges Military Support for Ukraine as Russian Attacks Rage On</title>
-    <updated>2022-11-29T18:11:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-29:/articles/nato-chief-urges-military-support-for-ukraine-as-russian-attacks-rage-on-11669724838</id>
-    <content type="html">Jens Stoltenberg said the alliance must deny Moscow a victory that would embolden Russian President Vladimir Putin and other authoritarian leaders.</content>
-    <link href="https://www.wsj.com/articles/nato-chief-urges-military-support-for-ukraine-as-russian-attacks-rage-on-11669724838" rel="alternate"></link>
+    <title>Ukraine&#39;s Power Shortages Force Millions of Refugees Into Lengthier Exile</title>
+    <updated>2022-11-30T09:36:00Z</updated>
+    <id>tag:www.wsj.com,2022-11-30:/articles/ukraines-power-shortages-force-millions-of-refugees-into-lengthier-exile-11669800976</id>
+    <content type="html">Kyiv’s call to its diaspora to stay abroad is forcing many to upend their lives again and turn their temporary flight into a permanent move.</content>
+    <link href="https://www.wsj.com/articles/ukraines-power-shortages-force-millions-of-refugees-into-lengthier-exile-11669800976" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
