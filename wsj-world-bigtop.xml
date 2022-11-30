@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-11-30T14:19:28Z</updated>
+  <updated>2022-11-30T16:30:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Power Shortages Force Millions of Refugees Into Lengthier Exile</title>
     <updated>2022-11-30T09:36:00Z</updated>
     <id>tag:www.wsj.com,2022-11-30:/articles/ukraines-power-shortages-force-millions-of-refugees-into-lengthier-exile-11669800976</id>
-    <content type="html">Kyiv’s call to its diaspora to stay abroad is forcing many to upend their lives again and turn their temporary flight into a permanent move.</content>
+    <content type="html">Kyiv’s call to its diaspora to stay abroad is making many upend their lives again and turn their temporary flight into a permanent move.</content>
     <link href="https://www.wsj.com/articles/ukraines-power-shortages-force-millions-of-refugees-into-lengthier-exile-11669800976" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
