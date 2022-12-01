@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-01T16:30:58Z</updated>
+  <updated>2022-12-01T18:26:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China&#39;s Covid Protesters Grapple With How---And How Far---to Push</title>
-    <updated>2022-12-01T15:53:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-01:/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039</id>
-    <content type="html">Many young Chinese people have been energized by protests against Covid-19 restrictions, yet wonder how far should they go in pushing back against government controls.</content>
-    <link href="https://www.wsj.com/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Missed a Window to Be Better Prepared for Covid-19 Surge</title>
-    <updated>2022-12-01T14:06:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-01:/articles/china-missed-a-window-to-be-better-prepared-for-covid-19-surge-11669903580</id>
-    <content type="html">China had three years to prepare for a Covid-19 outbreak, but rather than boost capacity and invest in prevention it focused resources on control.</content>
-    <link href="https://www.wsj.com/articles/china-missed-a-window-to-be-better-prepared-for-covid-19-surge-11669903580" rel="alternate"></link>
+    <title>Russia Says Strikes on Ukraine&#39;s Infrastructure Aimed at Slowing Delivery of Foreign Arms</title>
+    <updated>2022-12-01T15:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-01:/articles/ukraine-struggles-to-reconnect-people-to-power-grid-as-russia-escalates-missile-strikes-11669898908</id>
+    <content type="html">Ukrainian residents remain disconnected from the electricity grid in most regions of the country, with the worst outages in Kyiv, Odessa and several regions in western Ukraine.</content>
+    <link href="https://www.wsj.com/articles/ukraine-struggles-to-reconnect-people-to-power-grid-as-russia-escalates-missile-strikes-11669898908" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
