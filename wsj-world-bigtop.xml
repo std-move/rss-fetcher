@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-01T14:19:45Z</updated>
+  <updated>2022-12-01T16:30:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China&#39;s Covid Protesters Grapple With How---And How Far---to Push</title>
+    <updated>2022-12-01T15:53:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-01:/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039</id>
+    <content type="html">Many young Chinese people have been energized by protests against Covid-19 restrictions, yet wonder how far should they go in pushing back against government controls.</content>
+    <link href="https://www.wsj.com/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Missed a Window to Be Better Prepared for Covid-19 Surge</title>
+    <updated>2022-12-01T14:06:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-01:/articles/china-missed-a-window-to-be-better-prepared-for-covid-19-surge-11669903580</id>
+    <content type="html">China had three years to prepare for a Covid-19 outbreak, but rather than boost capacity and invest in prevention it focused resources on control.</content>
+    <link href="https://www.wsj.com/articles/china-missed-a-window-to-be-better-prepared-for-covid-19-surge-11669903580" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ships Linked to Russia&#39;s Biggest Grain Exporter Moved Stolen Ukrainian Cargo</title>
     <updated>2022-12-01T10:30:00Z</updated>
     <id>tag:www.wsj.com,2022-12-01:/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602</id>
     <content type="html">The vessels shipped thousands of tons of stolen Ukrainian grain to global buyers, using a sophisticated system of feeder vessels and floating cranes, according to an investigation by The Wall Street Journal.</content>
     <link href="https://www.wsj.com/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Covid Protests Began With an Apartment Fire in a Remote Region</title>
-    <updated>2022-11-30T18:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-30:/articles/china-protests-covid-lockdown-urumqi-xinjiang-fire-11669833837</id>
-    <content type="html">Firefighting delays in the city of Urumqi, seen by many Chinese as related to strict pandemic controls, set off wide demonstrations against the country’s zero-Covid restrictions.</content>
-    <link href="https://www.wsj.com/articles/china-protests-covid-lockdown-urumqi-xinjiang-fire-11669833837" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
