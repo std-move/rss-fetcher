@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-01T20:19:31Z</updated>
+  <updated>2022-12-01T22:19:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Says Strikes on Ukraine&#39;s Infrastructure Aimed at Slowing Delivery of Foreign Arms</title>
-    <updated>2022-12-01T19:25:00Z</updated>
+    <updated>2022-12-01T20:25:00Z</updated>
     <id>tag:www.wsj.com,2022-12-01:/articles/ukraine-struggles-to-reconnect-people-to-power-grid-as-russia-escalates-missile-strikes-11669898908</id>
     <content type="html">Ukrainian residents remain disconnected from the electricity grid in most regions of the country, with the worst outages in Kyiv, Odessa and several regions in western Ukraine.</content>
     <link href="https://www.wsj.com/articles/ukraine-struggles-to-reconnect-people-to-power-grid-as-russia-escalates-missile-strikes-11669898908" rel="alternate"></link>
