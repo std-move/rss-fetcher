@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-01T10:23:54Z</updated>
+  <updated>2022-12-01T12:44:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ships Linked to Russia&#39;s Biggest Grain Exporter Moved Stolen Ukrainian Cargo</title>
+    <updated>2022-12-01T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-01:/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602</id>
+    <content type="html">The vessels shipped thousands of tons of stolen Ukrainian grain to global buyers, using a sophisticated system of feeder vessels and floating cranes, according to an investigation by The Wall Street Journal.</content>
+    <link href="https://www.wsj.com/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Covid Protests Began With an Apartment Fire in a Remote Region</title>
     <updated>2022-11-30T18:50:00Z</updated>
     <id>tag:www.wsj.com,2022-11-30:/articles/china-protests-covid-lockdown-urumqi-xinjiang-fire-11669833837</id>
     <content type="html">Firefighting delays in the city of Urumqi, seen by many Chinese as related to strict pandemic controls, set off wide demonstrations against the country’s zero-Covid restrictions.</content>
     <link href="https://www.wsj.com/articles/china-protests-covid-lockdown-urumqi-xinjiang-fire-11669833837" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Jiang Zemin, Who Steered China Into New Era, Dies at 96</title>
-    <updated>2022-11-30T16:22:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-30:/articles/jiang-zemin-who-accelerated-communist-partys-embrace-of-market-principles-dies-at-96-11669812646</id>
-    <content type="html">Jiang Zemin, the former Chinese leader who came to power after the quelling of the Tiananmen Square protests and presided over China’s market-oriented changes, has died.</content>
-    <link href="https://www.wsj.com/articles/jiang-zemin-who-accelerated-communist-partys-embrace-of-market-principles-dies-at-96-11669812646" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Power Shortages Force Millions of Refugees Into Lengthier Exile</title>
-    <updated>2022-11-30T09:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-11-30:/articles/ukraines-power-shortages-force-millions-of-refugees-into-lengthier-exile-11669800976</id>
-    <content type="html">Kyiv’s call to its diaspora to stay abroad is making many upend their lives again and turn their temporary flight into a permanent move.</content>
-    <link href="https://www.wsj.com/articles/ukraines-power-shortages-force-millions-of-refugees-into-lengthier-exile-11669800976" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
