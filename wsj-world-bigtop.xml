@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-02T16:27:36Z</updated>
+  <updated>2022-12-02T18:23:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Clamps Down on Orthodox Church Linked to Moscow</title>
-    <updated>2022-12-02T16:16:00Z</updated>
+    <updated>2022-12-02T16:25:00Z</updated>
     <id>tag:www.wsj.com,2022-12-02:/articles/ukraine-clamps-down-on-orthodox-church-linked-to-moscow-11669984943</id>
     <content type="html">Ukraine’s government moved to curb the activities of the Orthodox Christian denomination historically linked to Moscow, aiming to cut off the most important remaining source of Russian cultural and religious influence in the country.</content>
     <link href="https://www.wsj.com/articles/ukraine-clamps-down-on-orthodox-church-linked-to-moscow-11669984943" rel="alternate"></link>
