@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-02T14:17:42Z</updated>
+  <updated>2022-12-02T16:27:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Chinese Solar Manufacturers Dodged U.S. Tariffs</title>
-    <updated>2022-12-02T11:50:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-02:/articles/chinese-solar-manufacturers-dodged-u-s-tariffs-probe-finds-11669952820</id>
-    <content type="html">The preliminary Commerce Department findings, expected on Friday, are likely to accelerate importers’ race to find other sources.</content>
-    <link href="https://www.wsj.com/articles/chinese-solar-manufacturers-dodged-u-s-tariffs-probe-finds-11669952820" rel="alternate"></link>
+    <title>Ukraine Clamps Down on Orthodox Church Linked to Moscow</title>
+    <updated>2022-12-02T16:16:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-02:/articles/ukraine-clamps-down-on-orthodox-church-linked-to-moscow-11669984943</id>
+    <content type="html">Ukraine’s government moved to curb the activities of the Orthodox Christian denomination historically linked to Moscow, aiming to cut off the most important remaining source of Russian cultural and religious influence in the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-clamps-down-on-orthodox-church-linked-to-moscow-11669984943" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China Protesters Wrestle With How Far to Push: &#39;We Don&#39;t Want Covid Tests, We Want Freedom&#39;</title>
-    <updated>2022-12-02T02:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-02:/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039</id>
-    <content type="html">Many young Chinese people have been energized by protests against Covid-19 restrictions, yet wonder how far should they go in pushing back against government controls.</content>
-    <link href="https://www.wsj.com/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039" rel="alternate"></link>
+    <title>China Turns to Well-Worn Playbook to Keep Protesters Off Streets</title>
+    <updated>2022-12-02T12:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-02:/articles/china-turns-to-well-worn-playbook-to-keep-protesters-off-streets-11669984792</id>
+    <content type="html">Authorities move to address the demands of protesters by signaling an easing of strict Covid-19 policies and by deploying police to the sites of protests and hunting down activists.</content>
+    <link href="https://www.wsj.com/articles/china-turns-to-well-worn-playbook-to-keep-protesters-off-streets-11669984792" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
