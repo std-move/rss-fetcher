@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-02T10:22:18Z</updated>
+  <updated>2022-12-02T12:37:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ships Linked to Russia&#39;s Biggest Grain Exporter Moved Stolen Ukrainian Cargo</title>
-    <updated>2022-12-01T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-01:/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602</id>
-    <content type="html">The vessels shipped thousands of tons of stolen Ukrainian grain to global buyers, using a sophisticated system of feeder vessels and floating cranes, according to an investigation by The Wall Street Journal.</content>
-    <link href="https://www.wsj.com/articles/ships-linked-to-russias-biggest-grain-exporter-moved-stolen-ukrainian-cargo-11669890602" rel="alternate"></link>
+    <title>Chinese Solar Manufacturers Dodged U.S. Tariffs</title>
+    <updated>2022-12-02T11:50:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-02:/articles/chinese-solar-manufacturers-dodged-u-s-tariffs-probe-finds-11669952820</id>
+    <content type="html">The preliminary Commerce Department findings, expected on Friday, are likely to accelerate importers’ race to find other sources.</content>
+    <link href="https://www.wsj.com/articles/chinese-solar-manufacturers-dodged-u-s-tariffs-probe-finds-11669952820" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Protesters Wrestle With How Far to Push: &#39;We Don&#39;t Want Covid Tests, We Want Freedom&#39;</title>
+    <updated>2022-12-02T02:28:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-02:/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039</id>
+    <content type="html">Many young Chinese people have been energized by protests against Covid-19 restrictions, yet wonder how far should they go in pushing back against government controls.</content>
+    <link href="https://www.wsj.com/articles/chinas-covid-protesters-grapple-with-howand-how-farto-push-11669906039" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
