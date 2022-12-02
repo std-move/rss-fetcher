@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-02T18:23:02Z</updated>
+  <updated>2022-12-02T20:20:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-12-02:/articles/ukraine-clamps-down-on-orthodox-church-linked-to-moscow-11669984943</id>
     <content type="html">Ukraine’s government moved to curb the activities of the Orthodox Christian denomination historically linked to Moscow, aiming to cut off the most important remaining source of Russian cultural and religious influence in the country.</content>
     <link href="https://www.wsj.com/articles/ukraine-clamps-down-on-orthodox-church-linked-to-moscow-11669984943" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Russian Billionaire Selling Putin&#39;s War to the Public</title>
+    <updated>2022-12-02T16:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-02:/articles/russian-billionaire-selling-putins-war-ukraine-11669994410</id>
+    <content type="html">Yuri Kovalchuk, with vast holdings in banking and media, is helping his longtime friend Vladimir Putin tighten the Kremlin’s grip on the internet.</content>
+    <link href="https://www.wsj.com/articles/russian-billionaire-selling-putins-war-ukraine-11669994410" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
