@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-03T22:18:42Z</updated>
+  <updated>2022-12-04T01:42:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Presses Assault in Eastern Ukraine in a Bid to Encircle Kyiv Forces</title>
+    <updated>2022-12-03T16:21:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-03:/articles/russia-presses-assault-in-eastern-ukraine-in-a-bid-to-encircle-kyiv-forces-11670084489</id>
+    <content type="html">Eastern Ukrainian city of Bakhmut has emerged as a central battleground where Russian forces have worked since August to win, though analysts see limited value in the city’s capture.</content>
+    <link href="https://www.wsj.com/articles/russia-presses-assault-in-eastern-ukraine-in-a-bid-to-encircle-kyiv-forces-11670084489" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia to Rely on &#39;Shadow Fleet&#39; of Oil Tankers</title>
     <updated>2022-12-03T14:10:00Z</updated>
     <id>tag:www.wsj.com,2022-12-03:/articles/russia-will-rely-on-shadow-tanker-fleet-to-keep-oil-flowing-11670036535</id>
     <content type="html">Whether the world’s biggest crude exporter succeeds in skirting new harsh sanctions starting Monday depends on a non-Western aligned fleet.</content>
     <link href="https://www.wsj.com/articles/russia-will-rely-on-shadow-tanker-fleet-to-keep-oil-flowing-11670036535" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Russian Billionaire Selling Putin&#39;s War to the Public</title>
-    <updated>2022-12-02T16:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-02:/articles/russian-billionaire-selling-putins-war-ukraine-11669994410</id>
-    <content type="html">Yuri Kovalchuk, with vast holdings in banking and media, is helping his longtime friend Vladimir Putin tighten the Kremlin’s grip on the internet.</content>
-    <link href="https://www.wsj.com/articles/russian-billionaire-selling-putins-war-ukraine-11669994410" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Turns to Well-Worn Playbook to Keep Protesters Off Streets</title>
-    <updated>2022-12-02T12:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-02:/articles/china-turns-to-well-worn-playbook-to-keep-protesters-off-streets-11669984792</id>
-    <content type="html">Authorities move to address the demands of protesters by signaling an easing of strict Covid-19 policies and by deploying police to the sites of protests and hunting down activists.</content>
-    <link href="https://www.wsj.com/articles/china-turns-to-well-worn-playbook-to-keep-protesters-off-streets-11669984792" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
