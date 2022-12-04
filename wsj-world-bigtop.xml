@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-04T12:36:23Z</updated>
+  <updated>2022-12-04T14:16:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russians Systematically Loot Art, Ancient Relics From Ukraine&#39;s Cultural Sites</title>
+    <updated>2022-12-04T13:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-04:/articles/russians-systematically-loot-art-ancient-relics-from-ukraines-cultural-sites-11670159030</id>
+    <content type="html">Moscow’s attacks on Ukrainian museums and theaters are part of a broader assault on the national identity.</content>
+    <link href="https://www.wsj.com/articles/russians-systematically-loot-art-ancient-relics-from-ukraines-cultural-sites-11670159030" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Says Russia Oil Cap Is Too Weak</title>
     <updated>2022-12-04T11:15:00Z</updated>
     <id>tag:www.wsj.com,2022-12-04:/articles/ukraine-says-oil-price-cap-wont-dent-russias-ability-to-fund-war-11670152525</id>
     <content type="html">Ukraine denounced a price cap on Russian oil and said it would fail to deprive Russia’s military machine of funds, as Moscow said it could stop supplying consumers in response.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-oil-price-cap-wont-dent-russias-ability-to-fund-war-11670152525" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia to Rely on &#39;Shadow Fleet&#39; of Oil Tankers</title>
-    <updated>2022-12-03T14:10:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-03:/articles/russia-will-rely-on-shadow-tanker-fleet-to-keep-oil-flowing-11670036535</id>
-    <content type="html">Whether the world’s biggest crude exporter succeeds in skirting new harsh sanctions starting Monday depends on a non-Western aligned fleet.</content>
-    <link href="https://www.wsj.com/articles/russia-will-rely-on-shadow-tanker-fleet-to-keep-oil-flowing-11670036535" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
