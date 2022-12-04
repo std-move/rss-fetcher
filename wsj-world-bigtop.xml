@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-04T10:20:13Z</updated>
+  <updated>2022-12-04T12:36:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Presses Assault in Eastern Ukraine in a Bid to Encircle Kyiv Forces</title>
-    <updated>2022-12-03T16:21:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-03:/articles/russia-presses-assault-in-eastern-ukraine-in-a-bid-to-encircle-kyiv-forces-11670084489</id>
-    <content type="html">Eastern Ukrainian city of Bakhmut has emerged as a central battleground where Russian forces have worked since August to win, though analysts see limited value in the city’s capture.</content>
-    <link href="https://www.wsj.com/articles/russia-presses-assault-in-eastern-ukraine-in-a-bid-to-encircle-kyiv-forces-11670084489" rel="alternate"></link>
+    <title>Ukraine Says Russia Oil Cap Is Too Weak</title>
+    <updated>2022-12-04T11:15:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-04:/articles/ukraine-says-oil-price-cap-wont-dent-russias-ability-to-fund-war-11670152525</id>
+    <content type="html">Ukraine denounced a price cap on Russian oil and said it would fail to deprive Russia’s military machine of funds, as Moscow said it could stop supplying consumers in response.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-oil-price-cap-wont-dent-russias-ability-to-fund-war-11670152525" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
