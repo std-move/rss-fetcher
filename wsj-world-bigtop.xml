@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-06T16:28:39Z</updated>
+  <updated>2022-12-06T18:24:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>As Israel&#39;s Left Suffers Defeat, So Does Two-State Solution</title>
-    <updated>2022-12-06T15:48:00Z</updated>
+    <updated>2022-12-06T17:54:00Z</updated>
     <id>tag:www.wsj.com,2022-12-06:/articles/as-israels-left-suffers-defeat-so-does-two-state-solution-11670335639</id>
     <content type="html">The ascendancy of ultranationalist and religious parties in Israel reflects a decline in support for a Jewish and Palestinian state side by side.</content>
     <link href="https://www.wsj.com/articles/as-israels-left-suffers-defeat-so-does-two-state-solution-11670335639" rel="alternate"></link>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2022-12-06:/articles/russian-oligarch-seizes-400-000-acres-of-ukrainian-farmland-owners-say-11670338956</id>
     <content type="html">The family company of a Putin ally and former Russian agriculture minister has become one of the biggest farm operators in Ukraine.</content>
     <link href="https://www.wsj.com/articles/russian-oligarch-seizes-400-000-acres-of-ukrainian-farmland-owners-say-11670338956" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Moscow Says Ukrainian Drones Hit Third Russian Airfield in Two Days</title>
+    <updated>2022-12-06T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-06:/articles/moscow-says-ukrainian-drones-hit-third-russian-airfield-in-two-days-11670326132</id>
+    <content type="html">The attack on the Kursk airport, which was closed to civil aviation after Russia invaded Ukraine in February, followed Monday’s strikes on Russian strategic-bomber bases in Engels and Diagilevo.</content>
+    <link href="https://www.wsj.com/articles/moscow-says-ukrainian-drones-hit-third-russian-airfield-in-two-days-11670326132" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
