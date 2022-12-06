@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-06T10:21:16Z</updated>
+  <updated>2022-12-06T12:39:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Moscow Says Ukrainian Drones Hit Third Russian Airfield in Two Days</title>
+    <updated>2022-12-06T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-06:/articles/moscow-says-ukrainian-drones-hit-third-russian-airfield-in-two-days-11670326132</id>
+    <content type="html">The attack on the Kursk airport, which was closed to civil aviation after Russia invaded Ukraine in February, followed Monday’s strikes on Russian strategic-bomber bases in Engels and Diagilevo.</content>
+    <link href="https://www.wsj.com/articles/moscow-says-ukrainian-drones-hit-third-russian-airfield-in-two-days-11670326132" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Putin Grips Economy Tighter to Supply Russian War Machine</title>
+    <updated>2022-12-06T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-06:/articles/putin-grips-economy-tighter-to-supply-russian-war-machine-11670272548</id>
+    <content type="html">Russia has commandeered private enterprise to keep the military armed in fight against Ukraine but faces labor and tech shortages.</content>
+    <link href="https://www.wsj.com/articles/putin-grips-economy-tighter-to-supply-russian-war-machine-11670272548" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Altered Himars Rocket Launchers to Keep Ukraine From Firing Missiles Into Russia</title>
     <updated>2022-12-05T22:47:00Z</updated>
     <id>tag:www.wsj.com,2022-12-05:/articles/u-s-altered-himars-rocket-launchers-to-keep-ukraine-from-firing-missiles-into-russia-11670214338</id>
     <content type="html">The U.S. secretly modified the advanced Himars rocket launchers it gave Ukraine so they can’t be used to fire long-range missiles into Russia, U.S. officials said, a precaution the Biden administration says is necessary to reduce the risk of a wider war with Moscow.</content>
     <link href="https://www.wsj.com/articles/u-s-altered-himars-rocket-launchers-to-keep-ukraine-from-firing-missiles-into-russia-11670214338" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Germany&#39;s New Favorite Sport: Competing to Save Energy</title>
-    <updated>2022-12-05T15:24:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-05:/articles/energy-saving-germany-russia-natural-gas-11670253690</id>
-    <content type="html">After Russia throttled gas to the nation, washcloth wipe-downs and unheated pools; turning down the Christmas lights</content>
-    <link href="https://www.wsj.com/articles/energy-saving-germany-russia-natural-gas-11670253690" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
