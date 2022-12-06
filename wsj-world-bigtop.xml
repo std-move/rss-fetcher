@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-06T08:25:28Z</updated>
+  <updated>2022-12-06T10:21:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Blasts Hit Russian Air Bases, Moscow Launches Missile Barrage on Ukraine</title>
-    <updated>2022-12-05T22:49:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-05:/articles/explosions-hit-russian-air-bases-as-more-missiles-strike-ukrainian-infrastructure-11670237453</id>
-    <content type="html">Ukrainian drones hit two Russian air bases on Monday, Russia’s defense ministry said, and Russian missiles killed two people and injured at least two others in the Zaporizhzhia region. </content>
-    <link href="https://www.wsj.com/articles/explosions-hit-russian-air-bases-as-more-missiles-strike-ukrainian-infrastructure-11670237453" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>U.S. Altered Himars Rocket Launchers to Keep Ukraine From Firing Missiles Into Russia</title>
     <updated>2022-12-05T22:47:00Z</updated>
