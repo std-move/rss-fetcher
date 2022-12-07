@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-07T20:20:55Z</updated>
+  <updated>2022-12-07T22:19:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Peru President Pedro Castillo Ousted After Attempting to Dissolve Congress</title>
+    <updated>2022-12-07T21:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-07:/articles/peru-president-plans-to-dissolve-congress-before-impeachment-vote-11670434030</id>
+    <content type="html">Vice President Dina Boluarte will take over in the mineral-rich South American country</content>
+    <link href="https://www.wsj.com/articles/peru-president-plans-to-dissolve-congress-before-impeachment-vote-11670434030" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Russia Moves to Bolster Defenses After Airfield Strikes</title>
-    <updated>2022-12-07T18:31:00Z</updated>
+    <updated>2022-12-07T20:36:00Z</updated>
     <id>tag:www.wsj.com,2022-12-07:/articles/russia-moves-to-bolster-defenses-after-airfield-strikes-11670415197</id>
     <content type="html">Russia took steps to strengthen its defenses following a string of strikes deep within its border, while Moscow’s forces launched drones and missiles at southern Ukraine.</content>
     <link href="https://www.wsj.com/articles/russia-moves-to-bolster-defenses-after-airfield-strikes-11670415197" rel="alternate"></link>
