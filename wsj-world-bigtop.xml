@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-07T14:17:56Z</updated>
+  <updated>2022-12-07T16:28:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Deadly Russian Shelling of Kherson Mars Ukraine&#39;s Return</title>
-    <updated>2022-12-06T17:28:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-06:/articles/deadly-russian-shelling-of-kherson-neighborhoods-mars-joy-over-ukraines-return-11670347691</id>
-    <content type="html">Residents of the formerly occupied city are coping with the worst damage that the southern city has suffered since the war began.</content>
-    <link href="https://www.wsj.com/articles/deadly-russian-shelling-of-kherson-neighborhoods-mars-joy-over-ukraines-return-11670347691" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Oligarch Seizes 400,000 Acres of Ukrainian Farmland, Owners Say</title>
-    <updated>2022-12-06T15:02:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-06:/articles/russian-oligarch-seizes-400-000-acres-of-ukrainian-farmland-owners-say-11670338956</id>
-    <content type="html">The family company of a Putin ally and former Russian agriculture minister has become one of the biggest farm operators in Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russian-oligarch-seizes-400-000-acres-of-ukrainian-farmland-owners-say-11670338956" rel="alternate"></link>
+    <title>Russia Moves to Bolster Defenses After Airfield Strikes</title>
+    <updated>2022-12-07T12:13:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-07:/articles/russia-moves-to-bolster-defenses-after-airfield-strikes-11670415197</id>
+    <content type="html">Russia took steps to strengthen its defenses following a string of strikes deep within its border, while Moscow’s forces launched drones and missiles at southern Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russia-moves-to-bolster-defenses-after-airfield-strikes-11670415197" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
