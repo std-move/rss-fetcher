@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-08T04:25:20Z</updated>
+  <updated>2022-12-08T06:25:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Peru&#39;s President Ousted After Attempting to Dissolve Congress</title>
-    <updated>2022-12-08T00:54:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-08:/articles/peru-president-plans-to-dissolve-congress-before-impeachment-vote-11670434030</id>
-    <content type="html">The move to unseat Pedro Castillo came shortly after the Peruvian leader plunged the country into turmoil by saying he would dissolve the legislature to avoid impeachment. Vice President Dina Boluarte will take over.</content>
-    <link href="https://www.wsj.com/articles/peru-president-plans-to-dissolve-congress-before-impeachment-vote-11670434030" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Russia Moves to Bolster Defenses After Airfield Strikes</title>
     <updated>2022-12-07T20:36:00Z</updated>
