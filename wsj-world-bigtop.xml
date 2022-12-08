@@ -1,15 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-08T14:17:56Z</updated>
+  <updated>2022-12-08T16:29:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Moves to Bolster Defenses After Airfield Strikes</title>
-    <updated>2022-12-07T20:36:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-07:/articles/russia-moves-to-bolster-defenses-after-airfield-strikes-11670415197</id>
-    <content type="html">Russia took steps to strengthen its defenses following a string of strikes deep within its border, while Moscow’s forces launched drones and missiles at southern Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russia-moves-to-bolster-defenses-after-airfield-strikes-11670415197" rel="alternate"></link>
+    <title>Ukraine Hit by Deadliest Single Russian Attack on Civilians in Weeks</title>
+    <updated>2022-12-08T16:17:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/ukraine-hit-by-deadliest-single-russian-attack-on-civilians-in-weeks-11670500360</id>
+    <content type="html">Russian strikes killed at least 10 people in eastern Ukraine, as President Vladimir Putin said he was preparing for a long, protracted conflict in the country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-hit-by-deadliest-single-russian-attack-on-civilians-in-weeks-11670500360" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Peru&#39;s New President Faces Same Turmoil That Ousted Predecessor</title>
+    <updated>2022-12-08T15:54:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/perus-new-president-faces-same-turmoil-that-ousted-predecessor-11670502561</id>
+    <content type="html">Dina Boluarte, the country’s first female president, began her first full day as president after Pedro Castillo was ousted by Congress.</content>
+    <link href="https://www.wsj.com/articles/perus-new-president-faces-same-turmoil-that-ousted-predecessor-11670502561" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Says Western Allies Shouldn&#39;t Fear Russia Falling Apart</title>
+    <updated>2022-12-08T15:45:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/ukraine-says-western-allies-shouldnt-fear-russia-falling-apart-11670505120</id>
+    <content type="html">Ukraine’s foreign minister defended Kyiv’s right to strike targets on Russian soil and vowed that Ukraine would never accept a peace settlement that leaves occupied lands, including Crimea, under Moscow’s control.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-western-allies-shouldnt-fear-russia-falling-apart-11670505120" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Five-Year Engineering Feat Germany Pulled Off in Months</title>
+    <updated>2022-12-08T15:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/natural-gas-terminal-engineering-feat-germany-11670513353</id>
+    <content type="html">Europe is racing to build natural-gas facilities to keep its economy afloat. If it fails to shore up its energy grid, governments might have to ration fuel this winter. “This project is really a race against time,” said one manager.</content>
+    <link href="https://www.wsj.com/articles/natural-gas-terminal-engineering-feat-germany-11670513353" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Police Seize Weapons in Far-Right German Coup-Plot Investigation</title>
+    <updated>2022-12-08T15:03:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/police-seize-weapons-in-far-right-german-coup-plot-investigation-11670511823</id>
+    <content type="html">The group hoarded weapons, subscribed to esoteric conspiracies and commissioned occultists to help plan a coup, officials say.</content>
+    <link href="https://www.wsj.com/articles/police-seize-weapons-in-far-right-german-coup-plot-investigation-11670511823" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russians March on Foot to Advance in Eastern Ukraine Battle</title>
+    <updated>2022-12-08T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883</id>
+    <content type="html">The battle for Bakhmut has become a bloodbath for both sides as Russia steps up its attempts to take what used to be a quaint, tree-lined city.</content>
+    <link href="https://www.wsj.com/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>South Korea Orders Truckers Back to Work as Labor Tensions Rise Globally</title>
+    <updated>2022-12-08T14:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/south-korea-orders-truckers-back-to-work-as-labor-tensions-rise-globally-11670509840</id>
+    <content type="html">President Yoon widened the scope of a back-to-work order to include the steel and petrochemical industries, after issuing a similar order for the cement sector last week.</content>
+    <link href="https://www.wsj.com/articles/south-korea-orders-truckers-back-to-work-as-labor-tensions-rise-globally-11670509840" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Argentina Binges on the World Cup to Forget Soaring Inflation and Unrest</title>
+    <updated>2022-12-08T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/argentina-binges-on-the-world-cup-to-forget-soaring-inflation-and-unrest-11670510149</id>
+    <content type="html">During the monthlong tournament, protesters stay home during matches, people celebrate in the street and economic woes take a back seat.</content>
+    <link href="https://www.wsj.com/articles/argentina-binges-on-the-world-cup-to-forget-soaring-inflation-and-unrest-11670510149" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
