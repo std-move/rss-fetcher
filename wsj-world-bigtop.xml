@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-08T18:24:26Z</updated>
+  <updated>2022-12-08T20:20:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Hit by Deadliest Single Russian Attack on Civilians in Weeks</title>
-    <updated>2022-12-08T16:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-08:/articles/ukraine-hit-by-deadliest-single-russian-attack-on-civilians-in-weeks-11670500360</id>
-    <content type="html">Russian strikes killed at least 10 people in eastern Ukraine, as President Vladimir Putin said he was preparing for a long, protracted conflict in the country.</content>
-    <link href="https://www.wsj.com/articles/ukraine-hit-by-deadliest-single-russian-attack-on-civilians-in-weeks-11670500360" rel="alternate"></link>
+    <title>Peru&#39;s New President Faces Same Turmoil That Ousted Predecessor</title>
+    <updated>2022-12-08T15:54:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/perus-new-president-faces-same-turmoil-that-ousted-predecessor-11670502561</id>
+    <content type="html">Dina Boluarte, the country’s first female president, began her first full day as president after Pedro Castillo was ousted by Congress.</content>
+    <link href="https://www.wsj.com/articles/perus-new-president-faces-same-turmoil-that-ousted-predecessor-11670502561" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -21,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Police Seize Weapons in Far-Right German Coup-Plot Investigation</title>
-    <updated>2022-12-08T15:03:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-08:/articles/police-seize-weapons-in-far-right-german-coup-plot-investigation-11670511823</id>
-    <content type="html">The group hoarded weapons, subscribed to esoteric conspiracies and commissioned occultists to help plan a coup, officials say.</content>
-    <link href="https://www.wsj.com/articles/police-seize-weapons-in-far-right-german-coup-plot-investigation-11670511823" rel="alternate"></link>
+    <title>Russians March on Foot to Advance in Eastern Ukraine Battle</title>
+    <updated>2022-12-08T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-08:/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883</id>
+    <content type="html">The battle for Bakhmut has become a bloodbath for both sides as Russia steps up its attempts to take what used to be a quaint, tree-lined city.</content>
+    <link href="https://www.wsj.com/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
