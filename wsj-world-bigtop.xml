@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-09T16:28:05Z</updated>
+  <updated>2022-12-09T18:24:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Brittney Griner Deal Is Latest in U.S. Embrace of Prisoner Swaps</title>
+    <updated>2022-12-09T15:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-09:/articles/brittney-griner-prisoner-swap-russia-policy-diplomacy-11670599381</id>
+    <content type="html">Democratic and Republican administrations have become more willing to negotiate exchanges with foreign governments. “I had a broad mandate from the president to bring people home.”</content>
+    <link href="https://www.wsj.com/articles/brittney-griner-prisoner-swap-russia-policy-diplomacy-11670599381" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Gains U.S. Support for Removing Landmines</title>
     <updated>2022-12-09T12:01:00Z</updated>
