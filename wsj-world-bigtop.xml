@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-09T10:21:45Z</updated>
+  <updated>2022-12-09T12:36:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Five-Year Engineering Feat Germany Pulled Off in Months</title>
-    <updated>2022-12-08T15:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-08:/articles/natural-gas-terminal-engineering-feat-germany-11670513353</id>
-    <content type="html">Europe is racing to build natural-gas facilities to keep its economy afloat. If it fails to shore up its energy grid, governments might have to ration fuel this winter. “This project is really a race against time,” said one manager.</content>
-    <link href="https://www.wsj.com/articles/natural-gas-terminal-engineering-feat-germany-11670513353" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russians March on Foot to Advance in Eastern Ukraine Battle</title>
-    <updated>2022-12-08T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-08:/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883</id>
-    <content type="html">The battle for Bakhmut has become a bloodbath for both sides as Russia steps up its attempts to take what used to be a quaint, tree-lined city.</content>
-    <link href="https://www.wsj.com/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883" rel="alternate"></link>
+    <title>Ukraine Gains U.S. Support for Removing Landmines</title>
+    <updated>2022-12-09T12:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-09:/articles/ukraine-gains-u-s-support-tackling-vast-task-of-removing-landmines-11670587286</id>
+    <content type="html">Russian forces have contaminated up to 65,000 square miles of Ukrainian territory with mines, as the U.S. outlined support for tackling a threat it described as the biggest of its kind since World War II.  </content>
+    <link href="https://www.wsj.com/articles/ukraine-gains-u-s-support-tackling-vast-task-of-removing-landmines-11670587286" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
