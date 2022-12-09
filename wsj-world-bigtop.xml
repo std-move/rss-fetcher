@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-09T20:24:08Z</updated>
+  <updated>2022-12-09T22:18:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Gains U.S. Support for Removing Landmines</title>
+    <updated>2022-12-09T20:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-09:/articles/ukraine-gains-u-s-support-tackling-vast-task-of-removing-landmines-11670587286</id>
+    <content type="html">Russian forces have endangered to 65,000 square miles of Ukrainian territory with mines, as the U.S. outlined support for tackling a threat it described as the biggest of its kind since World War II.  </content>
+    <link href="https://www.wsj.com/articles/ukraine-gains-u-s-support-tackling-vast-task-of-removing-landmines-11670587286" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How U.S. Negotiators Secured Brittney Griner&#39;s Release</title>
+    <updated>2022-12-09T19:41:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-09:/articles/how-brittney-griners-release-from-russia-was-secured-by-u-s-negotiators-11670614877</id>
+    <content type="html">Months of dragged-out talks led to a final frenetic few weeks that ended in freeing the two-time Olympic gold medalist.</content>
+    <link href="https://www.wsj.com/articles/how-brittney-griners-release-from-russia-was-secured-by-u-s-negotiators-11670614877" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Reluctantly Embraces New Era of Hostage Diplomacy</title>
     <updated>2022-12-09T15:30:00Z</updated>
     <id>tag:www.wsj.com,2022-12-09:/articles/brittney-griner-prisoner-swap-russia-policy-diplomacy-11670599381</id>
     <content type="html">The Griner swap is the latest example of how Democratic and Republican administrations have become more willing to negotiate exchanges with foreign governments. “I had a broad mandate from the president to bring people home.”</content>
     <link href="https://www.wsj.com/articles/brittney-griner-prisoner-swap-russia-policy-diplomacy-11670599381" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Gains U.S. Support for Removing Landmines</title>
-    <updated>2022-12-09T12:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-09:/articles/ukraine-gains-u-s-support-tackling-vast-task-of-removing-landmines-11670587286</id>
-    <content type="html">Russian forces have endangered to 65,000 square miles of Ukrainian territory with mines, as the U.S. outlined support for tackling a threat it described as the biggest of its kind since World War II.  </content>
-    <link href="https://www.wsj.com/articles/ukraine-gains-u-s-support-tackling-vast-task-of-removing-landmines-11670587286" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
