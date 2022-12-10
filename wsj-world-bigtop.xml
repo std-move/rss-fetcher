@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-10T10:20:03Z</updated>
+  <updated>2022-12-10T12:35:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Launches New Drone Attacks as Partnership With Iran Deepens</title>
+    <updated>2022-12-10T10:07:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-10:/articles/russia-launches-new-drone-attacks-as-partnership-with-iran-deepens-11670666867</id>
+    <content type="html">The fresh attacks are an indication that Moscow has replenished its supply of Iranian-made drones, as the two countries move toward what the U.S. has called a full defense partnership.</content>
+    <link href="https://www.wsj.com/articles/russia-launches-new-drone-attacks-as-partnership-with-iran-deepens-11670666867" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How U.S. Negotiators Secured Brittney Griner&#39;s Release</title>
     <updated>2022-12-09T19:41:00Z</updated>
