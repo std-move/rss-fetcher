@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-10T18:23:23Z</updated>
+  <updated>2022-12-10T20:19:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>Putin&#39;s Propaganda Chief Urges &#39;War Over People&#39;s Minds&#39; on Russia&#39;s Home Front</title>
     <updated>2022-12-10T14:00:00Z</updated>
     <id>tag:www.wsj.com,2022-12-10:/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966</id>
-    <content type="html">In a speech revealing Kremlin efforts to bolster domestic support for its war in Ukraine, Sergei Kiriyenko told state officials they are ‘special forces’ fighting an information war.</content>
+    <content type="html">In a speech revealing Kremlin efforts to bolster domestic support for its war in Ukraine, Sergei Kiriyenko told state officials they are “special forces” fighting an information war.</content>
     <link href="https://www.wsj.com/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
