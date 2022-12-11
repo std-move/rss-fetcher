@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-11T12:35:42Z</updated>
+  <updated>2022-12-11T14:17:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Drone Strikes Leave Most of Odessa Without Power</title>
-    <updated>2022-12-11T10:12:00Z</updated>
+    <title>Ukraine Hits Hotel Hosting Russian Military</title>
+    <updated>2022-12-11T13:19:00Z</updated>
     <id>tag:www.wsj.com,2022-12-11:/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky said 1.5 million people in the region were without power, with only critical infrastructure connected to the power grid.</content>
+    <content type="html">Kyiv’s military demolished a hotel complex hosting dozens of Russian military personnel with U.S.-supplied long-range artillery, while more Russian drone strikes continued to destroy Ukraine’s electricity grid. </content>
     <link href="https://www.wsj.com/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Putin&#39;s Propaganda Chief Urges &#39;War Over People&#39;s Minds&#39; on Russia&#39;s Home Front</title>
-    <updated>2022-12-10T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-10:/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966</id>
-    <content type="html">In a speech revealing Kremlin efforts to bolster domestic support for its war in Ukraine, Sergei Kiriyenko told state officials they are “special forces” fighting an information war.</content>
-    <link href="https://www.wsj.com/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966" rel="alternate"></link>
+    <title>China Props Up Belt-and-Road Borrowers Via Unusual Channel</title>
+    <updated>2022-12-11T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-11:/articles/china-props-up-belt-and-road-borrowers-via-unusual-channel-11670727153</id>
+    <content type="html">The People’s Bank of China has used currency-swap lines to support governments that borrowed heavily from Chinese banks.</content>
+    <link href="https://www.wsj.com/articles/china-props-up-belt-and-road-borrowers-via-unusual-channel-11670727153" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
