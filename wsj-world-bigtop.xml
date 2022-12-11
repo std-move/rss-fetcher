@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-11T20:19:56Z</updated>
+  <updated>2022-12-11T22:18:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Hits Hotel Hosting Russian Military</title>
+    <updated>2022-12-11T20:35:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-11:/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545</id>
+    <content type="html">Kyiv’s military demolished a hotel complex hosting dozens of Russian military personnel with U.S.-supplied long-range artillery, while more Russian drone strikes continued to destroy Ukraine’s electricity grid. </content>
+    <link href="https://www.wsj.com/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Builds New Firewall to Stop Spread of Militant Islamists</title>
     <updated>2022-12-11T15:15:00Z</updated>
     <id>tag:www.wsj.com,2022-12-11:/articles/u-s-builds-new-firewall-to-stop-spread-of-militant-islamists-11670771719</id>
     <content type="html">Hundreds of American troops join Western allies in Niger to block al Qaeda and Islamic State from advancing violence and influence in West Africa. “I don’t know that I’d call them winning. I‘d certainly say they’re holding.”</content>
     <link href="https://www.wsj.com/articles/u-s-builds-new-firewall-to-stop-spread-of-militant-islamists-11670771719" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Hits Hotel Hosting Russian Military</title>
-    <updated>2022-12-11T13:19:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-11:/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545</id>
-    <content type="html">Kyiv’s military demolished a hotel complex hosting dozens of Russian military personnel with U.S.-supplied long-range artillery, while more Russian drone strikes continued to destroy Ukraine’s electricity grid. </content>
-    <link href="https://www.wsj.com/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
