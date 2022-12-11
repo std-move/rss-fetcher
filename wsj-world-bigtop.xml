@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-11T10:20:02Z</updated>
+  <updated>2022-12-11T12:35:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Launches New Drone Attacks as Partnership With Iran Deepens</title>
-    <updated>2022-12-10T15:57:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-10:/articles/russia-launches-new-drone-attacks-as-partnership-with-iran-deepens-11670666867</id>
-    <content type="html">The fresh strikes indicate Moscow has replenished its supply of Iranian-made drones, as the two countries move toward what the U.S. has called a full defense partnership.</content>
-    <link href="https://www.wsj.com/articles/russia-launches-new-drone-attacks-as-partnership-with-iran-deepens-11670666867" rel="alternate"></link>
+    <title>Russian Drone Strikes Leave Most of Odessa Without Power</title>
+    <updated>2022-12-11T10:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-11:/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545</id>
+    <content type="html">Ukrainian President Volodymyr Zelensky said 1.5 million people in the region were without power, with only critical infrastructure connected to the power grid.</content>
+    <link href="https://www.wsj.com/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
