@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-12T12:38:50Z</updated>
+  <updated>2022-12-12T14:18:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Hits Hotel Hosting Russian Military</title>
-    <updated>2022-12-11T20:35:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-11:/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545</id>
-    <content type="html">Kyiv’s military demolished a hotel complex hosting dozens of Russian military personnel with U.S.-supplied long-range artillery, while more Russian drone strikes continued to destroy Ukraine’s electricity grid. </content>
-    <link href="https://www.wsj.com/articles/russian-drone-strikes-leave-most-of-ukraines-odessa-region-without-power-11670753545" rel="alternate"></link>
+    <title>Zelensky and Biden Discuss Ukraine&#39;s Grid as Country Scrambles to Restore Power</title>
+    <updated>2022-12-12T12:37:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-12:/articles/zelensky-and-biden-discuss-ukraines-grid-as-country-scrambles-to-restore-power-11670848620</id>
+    <content type="html">Ukraine rushed to restore power supplies following the latest round of Russian attacks, while President Volodymyr Zelensky spoke with President Biden after a flurry of weekend diplomacy aimed at strengthening sanctions on Russia.  </content>
+    <link href="https://www.wsj.com/articles/zelensky-and-biden-discuss-ukraines-grid-as-country-scrambles-to-restore-power-11670848620" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-12-11:/articles/u-s-builds-new-firewall-to-stop-spread-of-militant-islamists-11670771719</id>
     <content type="html">Hundreds of American troops join Western allies in Niger to block al Qaeda and Islamic State from advancing violence and influence in West Africa. “I don’t know that I’d call them winning. I‘d certainly say they’re holding.”</content>
     <link href="https://www.wsj.com/articles/u-s-builds-new-firewall-to-stop-spread-of-militant-islamists-11670771719" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Props Up Belt-and-Road Borrowers Via Unusual Channel</title>
-    <updated>2022-12-11T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-11:/articles/china-props-up-belt-and-road-borrowers-via-unusual-channel-11670727153</id>
-    <content type="html">The People’s Bank of China has used currency-swap lines to support governments that borrowed heavily from Chinese banks.</content>
-    <link href="https://www.wsj.com/articles/china-props-up-belt-and-road-borrowers-via-unusual-channel-11670727153" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
