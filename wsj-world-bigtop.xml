@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-13T18:24:34Z</updated>
+  <updated>2022-12-13T20:21:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Wins New Aid Pledges as Blasts Strike Russian-Occupied Melitopol</title>
-    <updated>2022-12-13T16:53:00Z</updated>
+    <updated>2022-12-13T18:38:00Z</updated>
     <id>tag:www.wsj.com,2022-12-13:/articles/explosions-strike-key-bridge-in-russian-occupied-melitopol-11670927364</id>
     <content type="html">Explosions damaged a bridge used by Russian forces, and Kyiv received promises of more than €1 billion to help weather winter</content>
     <link href="https://www.wsj.com/articles/explosions-strike-key-bridge-in-russian-occupied-melitopol-11670927364" rel="alternate"></link>
