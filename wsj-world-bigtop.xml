@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-13T12:38:13Z</updated>
+  <updated>2022-12-13T14:18:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky and Biden Discuss Ukraine&#39;s Grid as Country Scrambles to Restore Power</title>
-    <updated>2022-12-12T19:43:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-12:/articles/zelensky-and-biden-discuss-ukraines-grid-as-country-scrambles-to-restore-power-11670848620</id>
-    <content type="html">Ukraine rushed to restore power supplies following the latest round of Russian attacks, while President Volodymyr Zelensky spoke with President Biden after a flurry of weekend diplomacy aimed at strengthening sanctions on Russia.  </content>
-    <link href="https://www.wsj.com/articles/zelensky-and-biden-discuss-ukraines-grid-as-country-scrambles-to-restore-power-11670848620" rel="alternate"></link>
+    <title>Zero-Covid Is Ending in China, but Not Everyone Is Celebrating</title>
+    <updated>2022-12-13T13:34:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-13:/articles/chinas-zero-covid-policy-is-ending-but-not-everyone-is-celebrating-11670937991</id>
+    <content type="html">Swelling Covid cases have prompted citizens to self-isolate, setting up China’s economy for further disruption this winter.</content>
+    <link href="https://www.wsj.com/articles/chinas-zero-covid-policy-is-ending-but-not-everyone-is-celebrating-11670937991" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Explosions Strike Key Bridge in Russian-Occupied Melitopol</title>
+    <updated>2022-12-13T11:47:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-13:/articles/explosions-strike-key-bridge-in-russian-occupied-melitopol-11670927364</id>
+    <content type="html">Blasts damaged a bridge used by Russian forces to transport military hardware to the front lines in eastern Ukraine overnight, as Ukrainian officials hinted at a capability to strike deep in territory occupied by the Kremlin’s forces.</content>
+    <link href="https://www.wsj.com/articles/explosions-strike-key-bridge-in-russian-occupied-melitopol-11670927364" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
