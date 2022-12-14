@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-13T22:19:05Z</updated>
+  <updated>2022-12-14T01:43:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Zero-Covid Is Ending in China, but Not Everyone Is Celebrating</title>
-    <updated>2022-12-13T13:34:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-13:/articles/chinas-zero-covid-policy-is-ending-but-not-everyone-is-celebrating-11670937991</id>
-    <content type="html">Swelling Covid cases have prompted citizens to self-isolate, setting up China’s economy for further disruption this winter.</content>
-    <link href="https://www.wsj.com/articles/chinas-zero-covid-policy-is-ending-but-not-everyone-is-celebrating-11670937991" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
