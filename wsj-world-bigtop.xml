@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-14T10:21:37Z</updated>
+  <updated>2022-12-14T12:38:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Secret Weapon Is Ordinary People Spying on Russian Forces</title>
+    <updated>2022-12-14T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-14:/articles/ukraines-secret-weapon-is-ordinary-people-spying-on-russian-forces-11671012147</id>
+    <content type="html">Locals helped Ukraine target troops occupying Kherson, highlighting one of Kyiv’s advantages in the war.</content>
+    <link href="https://www.wsj.com/articles/ukraines-secret-weapon-is-ordinary-people-spying-on-russian-forces-11671012147" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Fends Off Fresh Wave of Drone Attacks on Kyiv</title>
+    <updated>2022-12-14T09:40:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-14:/articles/ukraine-fends-off-fresh-wave-of-drone-attacks-on-kyiv-11671010851</id>
+    <content type="html">A wave of drones struck Kyiv, with explosions reported in the historical center of the city, and Ukrainian defenses knocking at least 13 unmanned aerial vehicles, or UAVs, out of the sky.</content>
+    <link href="https://www.wsj.com/articles/ukraine-fends-off-fresh-wave-of-drone-attacks-on-kyiv-11671010851" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
