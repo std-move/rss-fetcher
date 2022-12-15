@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-15T18:22:12Z</updated>
+  <updated>2022-12-15T20:19:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Steps Up Attacks on Russian Targets in Occupied Territory</title>
-    <updated>2022-12-15T14:49:00Z</updated>
+    <updated>2022-12-15T19:12:00Z</updated>
     <id>tag:www.wsj.com,2022-12-15:/articles/ukraine-steps-up-attacks-on-russian-targets-in-occupied-territory-11671105323</id>
     <content type="html">Kyiv sought to destabilize occupying Russian forces and put them on the back foot as the Kremlin said the attacks were dragging the West further into the war.</content>
     <link href="https://www.wsj.com/articles/ukraine-steps-up-attacks-on-russian-targets-in-occupied-territory-11671105323" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2022-12-15:/articles/russia-africa-uganda-propaganda-11671114447</id>
     <content type="html">As America’s sway across the resource-rich continent has declined, Moscow has stepped up its efforts to boost support, including in Uganda.</content>
     <link href="https://www.wsj.com/articles/russia-africa-uganda-propaganda-11671114447" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Xi Jinping Doubles Down on His Putin Bet. &#39;I Have a Similar Personality to Yours.&#39;</title>
-    <updated>2022-12-14T15:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-14:/articles/xi-jinping-putin-china-russia-relations-11671030896</id>
-    <content type="html">The Chinese leader has long admired Vladimir Putin. Now, he is strengthening ties between the two nations with increased trade and energy partnerships.</content>
-    <link href="https://www.wsj.com/articles/xi-jinping-putin-china-russia-relations-11671030896" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
