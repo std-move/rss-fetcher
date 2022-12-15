@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-15T14:19:22Z</updated>
+  <updated>2022-12-15T16:29:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Steps Up Attacks on Russian Targets in Occupied Territory</title>
-    <updated>2022-12-15T13:14:00Z</updated>
+    <updated>2022-12-15T14:49:00Z</updated>
     <id>tag:www.wsj.com,2022-12-15:/articles/ukraine-steps-up-attacks-on-russian-targets-in-occupied-territory-11671105323</id>
     <content type="html">Kyiv sought to destabilize occupying Russian forces and put them on the back foot as the Kremlin said the attacks were dragging the West further into the war.</content>
     <link href="https://www.wsj.com/articles/ukraine-steps-up-attacks-on-russian-targets-in-occupied-territory-11671105323" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia&#39;s Influence Campaign in Africa Targets a U.S. Ally</title>
+    <updated>2022-12-15T14:44:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-15:/articles/russia-africa-uganda-propaganda-11671114447</id>
+    <content type="html">As America’s sway across the resource-rich continent has declined, Moscow has stepped up its efforts to boost support, including in Uganda.</content>
+    <link href="https://www.wsj.com/articles/russia-africa-uganda-propaganda-11671114447" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
