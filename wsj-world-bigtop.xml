@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-16T18:23:17Z</updated>
+  <updated>2022-12-16T20:19:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Japan to Build a More Powerful Military, Citing China as Its No. 1 Menace</title>
-    <updated>2022-12-16T16:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-16:/articles/japan-to-build-a-more-powerful-military-citing-china-as-its-no-1-menace-11671177530</id>
-    <content type="html">Japan called China its biggest security challenge and said it would sharply raise military spending including for missiles that can hit other countries.</content>
-    <link href="https://www.wsj.com/articles/japan-to-build-a-more-powerful-military-citing-china-as-its-no-1-menace-11671177530" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>The Chechen Warlord Who Does Putin&#39;s Dirty Work in Ukraine</title>
     <updated>2022-12-16T15:31:00Z</updated>
     <id>tag:www.wsj.com,2022-12-16:/articles/chechen-warlord-kadyrov-putin-dirty-work-ukraine-11671204557</id>
     <content type="html">Ramzan Kadyrov, once an anti-Russian rebel, now gets billions from Moscow and plays a key role in the battle for Ukraine.</content>
     <link href="https://www.wsj.com/articles/chechen-warlord-kadyrov-putin-dirty-work-ukraine-11671204557" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia&#39;s Influence Campaign in Africa Targets a U.S. Ally</title>
-    <updated>2022-12-15T14:44:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-15:/articles/russia-africa-uganda-propaganda-11671114447</id>
-    <content type="html">As America’s sway across the resource-rich continent has declined, Moscow has stepped up its efforts to boost support, including in Uganda.</content>
-    <link href="https://www.wsj.com/articles/russia-africa-uganda-propaganda-11671114447" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
