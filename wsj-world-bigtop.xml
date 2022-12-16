@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-16T20:19:22Z</updated>
+  <updated>2022-12-16T22:17:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Beijing Crematorium&#39;s Death Surge Points to Rising Covid Toll</title>
+    <updated>2022-12-16T19:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-16:/articles/beijing-crematoriums-death-surge-points-to-rising-covid-toll-in-china-11671219181</id>
+    <content type="html">One of the Chinese capital’s designated crematoria for Covid-19 patients has been flooded with dead bodies in the wake of the country’s loosening of pandemic restrictions.</content>
+    <link href="https://www.wsj.com/articles/beijing-crematoriums-death-surge-points-to-rising-covid-toll-in-china-11671219181" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Chechen Warlord Who Does Putin&#39;s Dirty Work in Ukraine</title>
     <updated>2022-12-16T15:31:00Z</updated>
