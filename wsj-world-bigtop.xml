@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-17T04:22:48Z</updated>
+  <updated>2022-12-17T06:21:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin&#39;s New Strategy: Laying Claim to Traditional Values</title>
+    <updated>2022-12-17T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-17:/articles/putins-new-strategy-laying-claim-to-traditional-values-11671253263</id>
+    <content type="html">Searching for allies against Ukraine, Russia now presents itself as the leader of a global culture war against moral depravity. It’s not working.</content>
+    <link href="https://www.wsj.com/articles/putins-new-strategy-laying-claim-to-traditional-values-11671253263" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Beijing Crematorium&#39;s Death Surge Points to Rising Covid Toll</title>
     <updated>2022-12-16T19:33:00Z</updated>
