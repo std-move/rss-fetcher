@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-17T16:24:33Z</updated>
+  <updated>2022-12-17T18:21:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin&#39;s New Strategy: Laying Claim to Traditional Values</title>
-    <updated>2022-12-17T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-17:/articles/putins-new-strategy-laying-claim-to-traditional-values-11671253263</id>
-    <content type="html">Searching for allies against Ukraine, Russia now presents itself as the leader of a global culture war against moral depravity. It’s not working.</content>
-    <link href="https://www.wsj.com/articles/putins-new-strategy-laying-claim-to-traditional-values-11671253263" rel="alternate"></link>
+    <title>Argentina in World Cup Final Gives Tired Nation a Reason to Celebrate</title>
+    <updated>2022-12-17T17:33:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-17:/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980</id>
+    <content type="html">Hit hard by economic stagnation and inflation, Argentines put hardship aside to watch Lionel Messi and their team take on France and celebrate.</content>
+    <link href="https://www.wsj.com/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Races to Restore Power in Cities After Russian Missile Barrage</title>
+    <updated>2022-12-17T15:46:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-17:/articles/ukraine-races-to-restore-power-in-cities-after-russian-missile-barrage-11671286091</id>
+    <content type="html">Russian assaults are eroding Ukrainians’ access to heat, light and water as temperatures drop.</content>
+    <link href="https://www.wsj.com/articles/ukraine-races-to-restore-power-in-cities-after-russian-missile-barrage-11671286091" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
