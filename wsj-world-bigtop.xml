@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-18T14:15:33Z</updated>
+  <updated>2022-12-18T16:25:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Argentina in World Cup Final Gives Tired Nation a Reason to Celebrate</title>
-    <updated>2022-12-17T17:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-17:/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980</id>
-    <content type="html">Hit hard by economic stagnation and inflation, Argentines put hardship aside to watch Lionel Messi and their team take on France and celebrate.</content>
-    <link href="https://www.wsj.com/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Races to Restore Power in Cities After Russian Missile Barrage</title>
-    <updated>2022-12-17T15:46:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-17:/articles/ukraine-races-to-restore-power-in-cities-after-russian-missile-barrage-11671286091</id>
-    <content type="html">Russian assaults are eroding Ukrainians’ access to heat, light and water as temperatures drop.</content>
-    <link href="https://www.wsj.com/articles/ukraine-races-to-restore-power-in-cities-after-russian-missile-barrage-11671286091" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Beijing Crematorium&#39;s Death Surge Points to Rising Covid Toll</title>
-    <updated>2022-12-16T19:33:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-16:/articles/beijing-crematoriums-death-surge-points-to-rising-covid-toll-in-china-11671219181</id>
-    <content type="html">One of the Chinese capital’s designated crematoria for Covid-19 patients has been flooded with dead bodies in the wake of the country’s loosening of pandemic restrictions.</content>
-    <link href="https://www.wsj.com/articles/beijing-crematoriums-death-surge-points-to-rising-covid-toll-in-china-11671219181" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Chechen Warlord Who Does Putin&#39;s Dirty Work in Ukraine</title>
-    <updated>2022-12-16T15:31:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-16:/articles/chechen-warlord-kadyrov-putin-dirty-work-ukraine-11671204557</id>
-    <content type="html">Ramzan Kadyrov, once an anti-Russian rebel, now gets billions from Moscow and plays a key role in the battle for Ukraine.</content>
-    <link href="https://www.wsj.com/articles/chechen-warlord-kadyrov-putin-dirty-work-ukraine-11671204557" rel="alternate"></link>
+    <title>Dogs Pay the Price in Italian Truffle War</title>
+    <updated>2022-12-18T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-18:/articles/dogs-pay-the-price-in-italian-truffle-war-11671367338</id>
+    <content type="html">The delicacy has never been more lucrative for hunters, fueling a rivalry that sometimes turns deadly for their specially trained hounds.</content>
+    <link href="https://www.wsj.com/articles/dogs-pay-the-price-in-italian-truffle-war-11671367338" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
