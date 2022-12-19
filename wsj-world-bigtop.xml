@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-19T14:18:17Z</updated>
+  <updated>2022-12-19T16:29:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Battle for Bakhmut Is Critical Test of Russia&#39;s Prospects in Ukraine</title>
-    <updated>2022-12-18T16:51:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-18:/articles/battle-for-bakhmut-is-critical-test-of-russias-prospects-in-ukraine-11671382297</id>
-    <content type="html">Russia’s new war commander promised advances in exchange for a retreat in the south. This eastern city is where he is trying to show those gains.</content>
-    <link href="https://www.wsj.com/articles/battle-for-bakhmut-is-critical-test-of-russias-prospects-in-ukraine-11671382297" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dogs Pay the Price in Italian Truffle War</title>
-    <updated>2022-12-18T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-18:/articles/dogs-pay-the-price-in-italian-truffle-war-11671367338</id>
-    <content type="html">The delicacy has never been more lucrative for hunters, fueling a rivalry that sometimes turns deadly for their specially trained hounds.</content>
-    <link href="https://www.wsj.com/articles/dogs-pay-the-price-in-italian-truffle-war-11671367338" rel="alternate"></link>
+    <title>Drones Strike Ukraine as Kyiv Scrambles to Restore Power and Heating</title>
+    <updated>2022-12-19T12:02:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-19:/articles/drones-strike-ukraine-as-kyiv-scrambles-to-restore-power-and-heating-11671451370</id>
+    <content type="html">Russia launched a fresh wave of drone attacks as Ukraine struggled to repair energy infrastructure damaged by recent missile attacks that have left millions without power.</content>
+    <link href="https://www.wsj.com/articles/drones-strike-ukraine-as-kyiv-scrambles-to-restore-power-and-heating-11671451370" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
