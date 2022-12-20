@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-20T16:28:05Z</updated>
+  <updated>2022-12-20T18:23:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2022-12-20:/articles/ukraine-needs-greater-military-aid-next-year-says-zelensky-11671533571</id>
     <content type="html">Volodymyr Zelensky made an unannounced visit to the front-line city of Bakhmut on Tuesday, rallying troops on the country’s deadliest battlefield as Russia intensifies efforts to seize it.</content>
     <link href="https://www.wsj.com/articles/ukraine-needs-greater-military-aid-next-year-says-zelensky-11671533571" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Cubans Spend Thousands to Flee to the U.S. Through Nicaragua</title>
+    <updated>2022-12-20T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-20:/articles/cubans-spend-thousands-to-flee-to-the-u-s-through-nicaragua-11671537687</id>
+    <content type="html">Flights bring Cubans to the Central American nation, from where they head for the U.S. border.</content>
+    <link href="https://www.wsj.com/articles/cubans-spend-thousands-to-flee-to-the-u-s-through-nicaragua-11671537687" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
