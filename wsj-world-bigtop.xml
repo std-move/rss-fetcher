@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-21T01:33:49Z</updated>
+  <updated>2022-12-21T02:36:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Zelensky Visits Front-Line City of Bakhmut</title>
     <updated>2022-12-21T00:17:00Z</updated>
     <id>tag:www.wsj.com,2022-12-21:/articles/ukraine-needs-greater-military-aid-next-year-says-zelensky-11671533571</id>
-    <content type="html">Volodymyr Zelensky made an unannounced visit to the front-line city of Bakhmut on Tuesday, rallying troops on the country’s deadliest battlefield as Russia intensifies efforts to seize it.</content>
+    <content type="html">The Ukraine president made an unannounced visit to the front-line city of Bakhmut on Tuesday, rallying troops on the country’s deadliest battlefield as Russia intensifies efforts to seize it.</content>
     <link href="https://www.wsj.com/articles/ukraine-needs-greater-military-aid-next-year-says-zelensky-11671533571" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
