@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-21T12:36:32Z</updated>
+  <updated>2022-12-21T14:17:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ciudad Juárez Becomes Hot Spot in Latest Migration Surge</title>
-    <updated>2022-12-20T19:02:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-20:/articles/mexicos-ciudad-juarez-becomes-hot-spot-in-latest-migration-surge-11671508737</id>
-    <content type="html">Anticipating a change in U.S. immigration policy, migrants have been rushing to cross into Texas.</content>
-    <link href="https://www.wsj.com/articles/mexicos-ciudad-juarez-becomes-hot-spot-in-latest-migration-surge-11671508737" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cubans Spend Thousands to Flee to the U.S. Through Nicaragua</title>
-    <updated>2022-12-20T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-20:/articles/cubans-spend-thousands-to-flee-to-the-u-s-through-nicaragua-11671537687</id>
-    <content type="html">Flights bring Cubans to the Central American nation, from where they head for the U.S. border.</content>
-    <link href="https://www.wsj.com/articles/cubans-spend-thousands-to-flee-to-the-u-s-through-nicaragua-11671537687" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
