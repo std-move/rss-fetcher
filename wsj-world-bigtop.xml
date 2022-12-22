@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-22T14:17:22Z</updated>
+  <updated>2022-12-22T16:26:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fentanyl Crisis Fed by Flow of Chinese Chemicals to Mexican Drug Cartels</title>
+    <updated>2022-12-22T15:14:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-22:/articles/fentanyl-crisis-fed-by-flow-of-chinese-chemicals-to-mexican-cartels-11671722056</id>
+    <content type="html">Strains in U.S.-China relations have ended Beijing’s cooperation in restricting chemicals that are key ingredients for making the deadly drug.</content>
+    <link href="https://www.wsj.com/articles/fentanyl-crisis-fed-by-flow-of-chinese-chemicals-to-mexican-cartels-11671722056" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As India Leaves Covid Behind, Families Say Their Dead Weren&#39;t Counted</title>
+    <updated>2022-12-22T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-22:/articles/as-india-leaves-covid-behind-families-say-their-dead-werent-counted-11671673720</id>
+    <content type="html">Some people say their loved ones died from the disease but they lack the documentation to prove it.</content>
+    <link href="https://www.wsj.com/articles/as-india-leaves-covid-behind-families-say-their-dead-werent-counted-11671673720" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia Blames Ukraine for Attack on Leaders Deep in Occupied Territory</title>
+    <updated>2022-12-22T11:55:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-22:/articles/russia-blames-ukraine-for-attack-on-leaders-deep-in-occupied-territory-11671710139</id>
+    <content type="html">Explosions killed two people in Russian-held areas of eastern Ukraine and injured at least two prominent figures in what appears to show Kyiv’s ability to gather intelligence behind enemy lines.</content>
+    <link href="https://www.wsj.com/articles/russia-blames-ukraine-for-attack-on-leaders-deep-in-occupied-territory-11671710139" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia&#39;s Draft Patched Holes but Also Exposed Flaws in War Machine</title>
+    <updated>2022-12-22T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-22:/articles/russias-draft-patched-holes-but-also-exposed-flaws-in-war-machine-11671700783</id>
+    <content type="html">Soldiers mobilized to fight in Ukraine say inadequate training, alcohol abuse and faulty equipment abound.</content>
+    <link href="https://www.wsj.com/articles/russias-draft-patched-holes-but-also-exposed-flaws-in-war-machine-11671700783" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
