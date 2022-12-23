@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-23T16:25:51Z</updated>
+  <updated>2022-12-23T18:23:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Paris Shooting Kills at Least Three, With Kurdish Center Among Sites Hit</title>
-    <updated>2022-12-23T15:39:00Z</updated>
+    <updated>2022-12-23T17:55:00Z</updated>
     <id>tag:www.wsj.com,2022-12-23:/articles/paris-shooting-leaves-at-least-two-people-dead-11671800024</id>
     <content type="html">The attack in the heart of the French capital left at least three others injured, officials said. Police detained a suspect.</content>
     <link href="https://www.wsj.com/articles/paris-shooting-leaves-at-least-two-people-dead-11671800024" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Claims Heavy Russian Losses in South</title>
+    <updated>2022-12-23T17:12:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-23:/articles/ukraine-claims-heavy-russian-losses-in-south-11671795956</id>
+    <content type="html">Kyiv’s military said it struck near Berdyansk, while the Ukrainian mayor of Russian-occupied Melitopol reported a large, unexplained explosion there.</content>
+    <link href="https://www.wsj.com/articles/ukraine-claims-heavy-russian-losses-in-south-11671795956" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2022-12-23:/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786</id>
     <content type="html">The U.K. and France braced for disruptions to holiday travel, as British border-control personnel went on strike and French rail workers walked off the job.</content>
     <link href="https://www.wsj.com/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Claims Heavy Russian Losses in South</title>
-    <updated>2022-12-23T13:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/ukraine-claims-heavy-russian-losses-in-south-11671795956</id>
-    <content type="html">Kyiv’s military said it struck near Berdyansk, while the Ukrainian mayor of Russian-occupied Melitopol reported a large, unexplained explosion there.</content>
-    <link href="https://www.wsj.com/articles/ukraine-claims-heavy-russian-losses-in-south-11671795956" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
