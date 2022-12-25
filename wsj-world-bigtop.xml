@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-24T22:17:04Z</updated>
+  <updated>2022-12-25T01:40:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Shelling Kills at Least 10 in Christmas Eve Attack on Kherson, Ukraine Says</title>
+    <updated>2022-12-24T18:52:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-24:/articles/ukraine-plays-down-risk-of-attack-from-belarus-in-wake-of-putin-visit-11671878310</id>
+    <content type="html">Scores more are injured in the assault on the southern city’s center, Ukraine’s president says, denouncing the strike as terror.</content>
+    <link href="https://www.wsj.com/articles/ukraine-plays-down-risk-of-attack-from-belarus-in-wake-of-putin-visit-11671878310" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Egypt Is Spending Billions on a New Capital That Egyptians May Not Visit</title>
+    <updated>2022-12-24T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-24:/articles/egypt-is-spending-billions-on-a-new-capital-that-egyptians-may-not-visit-11671838772</id>
+    <content type="html">The new city, estimated to cost tens of billions of U.S. dollars, is a centerpiece of President Abdel Fattah Al Sisi’s plan for modernizing the country.</content>
+    <link href="https://www.wsj.com/articles/egypt-is-spending-billions-on-a-new-capital-that-egyptians-may-not-visit-11671838772" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Claims Heavy Russian Losses in South</title>
     <updated>2022-12-23T20:48:00Z</updated>
@@ -21,11 +37,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Putin, Isolated and Distrustful, Leans on Handful of Hard-Line Advisers</title>
-    <updated>2022-12-23T17:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/putin-russia-ukraine-war-advisers-11671815184</id>
-    <content type="html">Russia’s president built a power structure designed to deliver him the information he wants to hear, feeding into his miscalculations on the Ukraine war.</content>
-    <link href="https://www.wsj.com/articles/putin-russia-ukraine-war-advisers-11671815184" rel="alternate"></link>
+    <title>France and U.K. Face Wave of Strikes During Holiday Season</title>
+    <updated>2022-12-23T13:39:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-23:/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786</id>
+    <content type="html">The U.K. and France braced for disruptions to holiday travel, as British border-control personnel went on strike and French rail workers walked off the job.</content>
+    <link href="https://www.wsj.com/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -37,11 +53,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>France and U.K. Face Wave of Strikes During Holiday Season</title>
-    <updated>2022-12-23T13:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786</id>
-    <content type="html">The U.K. and France braced for disruptions to holiday travel, as British border-control personnel went on strike and French rail workers walked off the job.</content>
-    <link href="https://www.wsj.com/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786" rel="alternate"></link>
+    <title>Putin, Isolated and Distrustful, Leans on Handful of Hard-Line Advisers</title>
+    <updated>2022-12-23T17:18:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-23:/articles/putin-russia-ukraine-war-advisers-11671815184</id>
+    <content type="html">Russia’s president built a power structure designed to deliver him the information he wants to hear, feeding into his miscalculations on the Ukraine war.</content>
+    <link href="https://www.wsj.com/articles/putin-russia-ukraine-war-advisers-11671815184" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
