@@ -1,71 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-25T20:18:31Z</updated>
+  <updated>2022-12-25T22:17:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Zelensky Urges Ukrainians to Persevere as Putin Says Moscow Ready for Long War</title>
+    <updated>2022-12-25T14:26:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-25:/articles/zelensky-urges-ukrainians-to-persevere-as-putin-says-moscow-ready-for-long-war-11671970240</id>
+    <content type="html">Air-raid sirens sounded across Ukraine hours after President Volodymyr Zelensky made a defiant Christmas video address urging Ukrainians to stand firm and keep faith in an eventual victory over Russian forces.</content>
+    <link href="https://www.wsj.com/articles/zelensky-urges-ukrainians-to-persevere-as-putin-says-moscow-ready-for-long-war-11671970240" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>This Christmas, Many Christians in Ukraine Turn Away From Russia</title>
     <updated>2022-12-25T12:00:00Z</updated>
     <id>tag:www.wsj.com,2022-12-25:/articles/this-christmas-many-christians-in-ukraine-turn-away-from-russia-11671933223</id>
     <content type="html">In Ukraine, many Christians are celebrating Christmas on Dec. 25 this year, instead of in January, as they repudiate the Moscow-affiliated Orthodox church.</content>
     <link href="https://www.wsj.com/articles/this-christmas-many-christians-in-ukraine-turn-away-from-russia-11671933223" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Shelling Kills at Least 10 in Christmas Eve Attack on Kherson, Ukraine Says</title>
-    <updated>2022-12-24T18:52:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-24:/articles/ukraine-plays-down-risk-of-attack-from-belarus-in-wake-of-putin-visit-11671878310</id>
-    <content type="html">Scores more are injured in the assault on the southern city’s center, Ukraine’s president says, denouncing the strike as terror.</content>
-    <link href="https://www.wsj.com/articles/ukraine-plays-down-risk-of-attack-from-belarus-in-wake-of-putin-visit-11671878310" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Egypt Is Spending Billions on a New Capital That Egyptians May Not Visit</title>
-    <updated>2022-12-24T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-24:/articles/egypt-is-spending-billions-on-a-new-capital-that-egyptians-may-not-visit-11671838772</id>
-    <content type="html">The new city, estimated to cost tens of billions of U.S. dollars, is a centerpiece of President Abdel Fattah Al Sisi’s plan for modernizing the country.</content>
-    <link href="https://www.wsj.com/articles/egypt-is-spending-billions-on-a-new-capital-that-egyptians-may-not-visit-11671838772" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Paris Shooting Kills at Least Three, With Kurdish Center Among Sites Hit</title>
-    <updated>2022-12-23T17:55:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/paris-shooting-leaves-at-least-two-people-dead-11671800024</id>
-    <content type="html">The attack in the heart of the French capital left at least three others injured, officials said. Police detained a suspect.</content>
-    <link href="https://www.wsj.com/articles/paris-shooting-leaves-at-least-two-people-dead-11671800024" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Claims Heavy Russian Losses in South</title>
-    <updated>2022-12-23T20:48:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/ukraine-claims-heavy-russian-losses-in-south-11671795956</id>
-    <content type="html">Kyiv’s military said it struck near Berdyansk, while the Ukrainian mayor of Russian-occupied Melitopol reported a large, unexplained explosion there.</content>
-    <link href="https://www.wsj.com/articles/ukraine-claims-heavy-russian-losses-in-south-11671795956" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>France and U.K. Face Wave of Strikes During Holiday Season</title>
-    <updated>2022-12-23T13:39:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786</id>
-    <content type="html">The U.K. and France braced for disruptions to holiday travel, as British border-control personnel went on strike and French rail workers walked off the job.</content>
-    <link href="https://www.wsj.com/articles/france-and-u-k-face-wave-of-strikes-during-peak-holiday-travel-season-11671802786" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Threatens to Cut Oil Output By Up to 7%</title>
-    <updated>2022-12-23T17:17:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/russia-threatens-to-cut-oil-output-by-up-to-7-11671813859</id>
-    <content type="html">Moscow comments over reducing production by up to 7%, or 700,000 barrels a day, boosts global crude prices</content>
-    <link href="https://www.wsj.com/articles/russia-threatens-to-cut-oil-output-by-up-to-7-11671813859" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Putin, Isolated and Distrustful, Leans on Handful of Hard-Line Advisers</title>
-    <updated>2022-12-23T17:18:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-23:/articles/putin-russia-ukraine-war-advisers-11671815184</id>
-    <content type="html">Russia’s president built a power structure designed to deliver him the information he wants to hear, feeding into his miscalculations on the Ukraine war.</content>
-    <link href="https://www.wsj.com/articles/putin-russia-ukraine-war-advisers-11671815184" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
