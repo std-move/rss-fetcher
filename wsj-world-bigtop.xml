@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-26T10:20:02Z</updated>
+  <updated>2022-12-26T12:34:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>This Christmas, Many Christians in Ukraine Turn Away From Russia</title>
-    <updated>2022-12-25T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-25:/articles/this-christmas-many-christians-in-ukraine-turn-away-from-russia-11671933223</id>
-    <content type="html">In Ukraine, many Christians are celebrating Christmas on Dec. 25 this year, instead of in January, as they repudiate the Moscow-affiliated Orthodox church.</content>
-    <link href="https://www.wsj.com/articles/this-christmas-many-christians-in-ukraine-turn-away-from-russia-11671933223" rel="alternate"></link>
+    <title>Six Factors That Will Shape Russia&#39;s Winter War in Ukraine</title>
+    <updated>2022-12-26T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-26:/articles/six-factors-that-will-shape-russias-winter-war-in-ukraine-11671992265</id>
+    <content type="html">From cold weather to Western support, here are the issues that will help determine whether Kyiv can sustain battlefield momentum.</content>
+    <link href="https://www.wsj.com/articles/six-factors-that-will-shape-russias-winter-war-in-ukraine-11671992265" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
