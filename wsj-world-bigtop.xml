@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-28T10:20:44Z</updated>
+  <updated>2022-12-28T12:34:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China&#39;s Censors End Crackdown on Covid-Policy Criticism---of a Certain Kind</title>
+    <updated>2022-12-28T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-28:/articles/chinas-censors-end-crackdown-on-covid-policy-criticismof-a-certain-kind-11672221450</id>
+    <content type="html">Protesters and public-health experts have been targeted for blame for the country’s sudden about-face as infections explode, but leader Xi Jinping remains unscathed.</content>
+    <link href="https://www.wsj.com/articles/chinas-censors-end-crackdown-on-covid-policy-criticismof-a-certain-kind-11672221450" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Wealthy Chinese, Fed Up at Home, Find Haven in Japan</title>
+    <updated>2022-12-27T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-27:/articles/wealthy-chinese-fed-up-at-home-find-a-haven-in-japan-11672146029</id>
+    <content type="html">A growing number of affluent Chinese are coming to Japan to live, in an indication of social and political tensions in China.</content>
+    <link href="https://www.wsj.com/articles/wealthy-chinese-fed-up-at-home-find-a-haven-in-japan-11672146029" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
