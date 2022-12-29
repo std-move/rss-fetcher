@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-29T12:34:33Z</updated>
+  <updated>2022-12-29T14:16:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Launches Fresh Missile Barrage at Targets Across Ukraine</title>
-    <updated>2022-12-29T12:23:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-29:/articles/russia-launches-fresh-missile-barrage-at-targets-across-ukraine-11672311694</id>
-    <content type="html">Ukraine’s armed forces said 69 missiles were fired by Russia, and 54 of them were downed by Ukrainian air defenses.</content>
-    <link href="https://www.wsj.com/articles/russia-launches-fresh-missile-barrage-at-targets-across-ukraine-11672311694" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
