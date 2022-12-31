@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2022-12-31T20:18:07Z</updated>
+  <updated>2022-12-31T22:16:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Launches Fresh Barrage on Kyiv After Zelensky Vows to Strengthen Ukraine&#39;s Air Defenses</title>
+    <updated>2022-12-31T20:25:00Z</updated>
+    <id>tag:www.wsj.com,2022-12-31:/articles/volodymyr-zelensky-vows-to-boost-ukraines-air-defenses-as-nato-chief-warns-of-long-war-11672491780</id>
+    <content type="html">NATO chief Jens Stoltenberg says the alliance has to prepare for a long war and new Russian offensives.</content>
+    <link href="https://www.wsj.com/articles/volodymyr-zelensky-vows-to-boost-ukraines-air-defenses-as-nato-chief-warns-of-long-war-11672491780" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pope Benedict XVI Dies at Age 95</title>
     <updated>2022-12-31T19:22:00Z</updated>
     <id>tag:www.wsj.com,2022-12-31:/articles/pope-benedict-xvi-dies-at-age-95-11672480389</id>
     <content type="html">The retired pontiff was an influential figure in the Catholic Church from the early 1960s to his historic 2013 resignation and beyond.</content>
     <link href="https://www.wsj.com/articles/pope-benedict-xvi-dies-at-age-95-11672480389" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Launches Fresh Barrage on Kyiv After Zelensky Vows to Strengthen Ukraine&#39;s Air Defenses</title>
-    <updated>2022-12-31T15:56:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-31:/articles/volodymyr-zelensky-vows-to-boost-ukraines-air-defenses-as-nato-chief-warns-of-long-war-11672491780</id>
-    <content type="html">NATO chief Jens Stoltenberg says the alliance has to prepare for a long war and new Russian offensives.</content>
-    <link href="https://www.wsj.com/articles/volodymyr-zelensky-vows-to-boost-ukraines-air-defenses-as-nato-chief-warns-of-long-war-11672491780" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
