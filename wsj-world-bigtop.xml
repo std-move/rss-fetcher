@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-01T08:23:28Z</updated>
+  <updated>2023-01-01T10:19:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Rings In New Year With Hope of Russia Defeat</title>
-    <updated>2023-01-01T01:23:00Z</updated>
+    <updated>2023-01-01T08:36:00Z</updated>
     <id>tag:www.wsj.com,2023-01-01:/articles/ukrainians-ring-in-new-year-with-hopes-of-russias-defeat-11672527663</id>
     <content type="html">Optimism is tempered by worsening economic pain as President Volodymyr Zelensky pays tribute to the sacrifices made.</content>
     <link href="https://www.wsj.com/articles/ukrainians-ring-in-new-year-with-hopes-of-russias-defeat-11672527663" rel="alternate"></link>
