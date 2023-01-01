@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-01T12:34:29Z</updated>
+  <updated>2023-01-01T14:15:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Begins 2023 Under Attack From Russian Drone Swarm</title>
+    <updated>2023-01-01T12:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-01:/articles/ukraine-begins-2023-under-attack-from-russian-drone-swarm-11672576538</id>
+    <content type="html">Air-raid sirens sounded in Kyiv less than one hour after Ukrainian President Volodymyr Zelensky delivered a New Year address just before midnight.</content>
+    <link href="https://www.wsj.com/articles/ukraine-begins-2023-under-attack-from-russian-drone-swarm-11672576538" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Rings In New Year With Hope of Russia Defeat</title>
     <updated>2023-01-01T08:36:00Z</updated>
     <id>tag:www.wsj.com,2023-01-01:/articles/ukrainians-ring-in-new-year-with-hopes-of-russias-defeat-11672527663</id>
     <content type="html">Optimism is tempered by worsening economic pain as President Volodymyr Zelensky pays tribute to the sacrifices made.</content>
     <link href="https://www.wsj.com/articles/ukrainians-ring-in-new-year-with-hopes-of-russias-defeat-11672527663" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Launches Fresh Barrage on Kyiv After Zelensky Vows to Strengthen Ukraine&#39;s Air Defenses</title>
-    <updated>2022-12-31T20:25:00Z</updated>
-    <id>tag:www.wsj.com,2022-12-31:/articles/volodymyr-zelensky-vows-to-boost-ukraines-air-defenses-as-nato-chief-warns-of-long-war-11672491780</id>
-    <content type="html">NATO chief Jens Stoltenberg says the alliance has to prepare for a long war and new Russian offensives.</content>
-    <link href="https://www.wsj.com/articles/volodymyr-zelensky-vows-to-boost-ukraines-air-defenses-as-nato-chief-warns-of-long-war-11672491780" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
