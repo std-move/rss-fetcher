@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-02T20:19:13Z</updated>
+  <updated>2023-01-02T22:17:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Brazil&#39;s Lula Makes Remarkable Return to Power</title>
-    <updated>2023-01-01T22:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-01:/articles/brazils-lula-makes-remarkable-return-to-power-after-12-years-11672580196</id>
-    <content type="html">The 77-year-old standard-bearer of the Latin American left faces some of his toughest challenges yet, from uniting a divided nation to protecting the Amazon and boosting the incomes of the poor.</content>
-    <link href="https://www.wsj.com/articles/brazils-lula-makes-remarkable-return-to-power-after-12-years-11672580196" rel="alternate"></link>
+    <title>Tourism and Manufacturing Fight for the Future of Power in Europe</title>
+    <updated>2023-01-02T18:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-02:/articles/tourism-manufacturing-fight-wind-power-natural-gas-europe-11672682789</id>
+    <content type="html">The Ukraine war has spurred the EU to accelerate the shift away from natural gas to wind and solar power, but opposition is growing among those dependent on the region’s landscapes, cultural sites and tourism.</content>
+    <link href="https://www.wsj.com/articles/tourism-manufacturing-fight-wind-power-natural-gas-europe-11672682789" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
