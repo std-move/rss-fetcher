@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-02T01:36:42Z</updated>
+  <updated>2023-01-02T02:39:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-01-01:/articles/ukraine-begins-2023-under-attack-from-russian-drone-swarm-11672576538</id>
     <content type="html">Air-raid sirens sounded in Kyiv less than one hour after Ukrainian President Volodymyr Zelensky delivered a New Year address just before midnight.</content>
     <link href="https://www.wsj.com/articles/ukraine-begins-2023-under-attack-from-russian-drone-swarm-11672576538" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Rings In New Year With Hope of Russia Defeat</title>
-    <updated>2023-01-01T08:36:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-01:/articles/ukrainians-ring-in-new-year-with-hopes-of-russias-defeat-11672527663</id>
-    <content type="html">Optimism is tempered by worsening economic pain as President Volodymyr Zelensky pays tribute to the sacrifices made.</content>
-    <link href="https://www.wsj.com/articles/ukrainians-ring-in-new-year-with-hopes-of-russias-defeat-11672527663" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
