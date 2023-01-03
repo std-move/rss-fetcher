@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-03T10:20:38Z</updated>
+  <updated>2023-01-03T12:38:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Has Digitized Its Fighting Forces on a Shoestring</title>
+    <updated>2023-01-03T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-03:/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405</id>
+    <content type="html">Ukraine has achieved a cut-price version of what the Pentagon has spent decades and billions of dollars striving to accomplish: digitally networked fighters, intelligence and weapons.</content>
+    <link href="https://www.wsj.com/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Mourners Bid a Quiet Farewell to Pope Benedict</title>
+    <updated>2023-01-03T10:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-03:/articles/mourners-bid-a-quiet-farewell-to-pope-benedict-11672741624</id>
+    <content type="html">Thousands have filed past Benedict’s body lying in state in St. Peter’s Basilica, though nothing like the enormous lines that formed for St. John Paul II in 2005.</content>
+    <link href="https://www.wsj.com/articles/mourners-bid-a-quiet-farewell-to-pope-benedict-11672741624" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Tourism and Manufacturing Fight for the Future of Power in Europe</title>
     <updated>2023-01-02T18:19:00Z</updated>
