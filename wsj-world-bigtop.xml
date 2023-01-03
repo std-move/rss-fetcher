@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-03T16:27:13Z</updated>
+  <updated>2023-01-03T18:22:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Western-Supplied Air Defense Helps Ukraine Repel Russian Drone Attacks</title>
-    <updated>2023-01-03T13:12:00Z</updated>
+    <title>Ukraine Repels Russian Drone Attacks With Help From Western-Supplied Air Defenses</title>
+    <updated>2023-01-03T16:50:00Z</updated>
     <id>tag:www.wsj.com,2023-01-03:/articles/western-supplied-air-defense-helps-ukraine-repel-russian-drone-attacks-11672750680</id>
-    <content type="html">Ukraine is improving its ability to intercept the Iranian-made Shahed drones that Russia has relied on to damage Ukrainian infrastructure</content>
+    <content type="html">Kyiv is getting better at intercepting Iranian-made Shahed drones that Russia has relied on to damage Ukrainian infrastructure.</content>
     <link href="https://www.wsj.com/articles/western-supplied-air-defense-helps-ukraine-repel-russian-drone-attacks-11672750680" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
