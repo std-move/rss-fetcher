@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-03T14:17:25Z</updated>
+  <updated>2023-01-03T16:27:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Has Digitized Its Fighting Forces on a Shoestring</title>
-    <updated>2023-01-03T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-03:/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405</id>
-    <content type="html">Ukraine has achieved a cut-price version of what the Pentagon has spent decades and billions of dollars striving to accomplish: digitally networked fighters, intelligence and weapons.</content>
-    <link href="https://www.wsj.com/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405" rel="alternate"></link>
+    <title>Western-Supplied Air Defense Helps Ukraine Repel Russian Drone Attacks</title>
+    <updated>2023-01-03T13:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-03:/articles/western-supplied-air-defense-helps-ukraine-repel-russian-drone-attacks-11672750680</id>
+    <content type="html">Ukraine is improving its ability to intercept the Iranian-made Shahed drones that Russia has relied on to damage Ukrainian infrastructure</content>
+    <link href="https://www.wsj.com/articles/western-supplied-air-defense-helps-ukraine-repel-russian-drone-attacks-11672750680" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -21,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Tourism and Manufacturing Fight for the Future of Power in Europe</title>
-    <updated>2023-01-02T18:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-02:/articles/tourism-manufacturing-fight-wind-power-natural-gas-europe-11672682789</id>
-    <content type="html">The Ukraine war has spurred the EU to accelerate the shift away from natural gas to wind and solar power, but opposition is growing among those dependent on the region’s landscapes, cultural sites and tourism.</content>
-    <link href="https://www.wsj.com/articles/tourism-manufacturing-fight-wind-power-natural-gas-europe-11672682789" rel="alternate"></link>
+    <title>Ukraine Has Digitized Its Fighting Forces on a Shoestring</title>
+    <updated>2023-01-03T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-03:/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405</id>
+    <content type="html">Ukraine has achieved a cut-price version of what the Pentagon has spent decades and billions of dollars striving to accomplish: digitally networked fighters, intelligence and weapons.</content>
+    <link href="https://www.wsj.com/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
