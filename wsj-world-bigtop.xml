@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-03T18:22:31Z</updated>
+  <updated>2023-01-03T20:20:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Repels Russian Drone Attacks With Help From Western-Supplied Air Defenses</title>
-    <updated>2023-01-03T16:50:00Z</updated>
+    <updated>2023-01-03T19:26:00Z</updated>
     <id>tag:www.wsj.com,2023-01-03:/articles/western-supplied-air-defense-helps-ukraine-repel-russian-drone-attacks-11672750680</id>
     <content type="html">Kyiv is getting better at intercepting Iranian-made Shahed drones that Russia has relied on to damage Ukrainian infrastructure.</content>
     <link href="https://www.wsj.com/articles/western-supplied-air-defense-helps-ukraine-repel-russian-drone-attacks-11672750680" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Saudi Crown Prince Tangles With Sovereign Wealth Fund Over How to Invest Oil Riches</title>
+    <updated>2023-01-03T18:14:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-03:/articles/saudi-arabia-mbs-mohammed-bin-salman-public-investment-fund-11672766494</id>
+    <content type="html">Prince Mohammed bin Salman has vexed financial officials at times as he pushes pet projects on the Public Investment Fund, including a deal with Jared Kushner.</content>
+    <link href="https://www.wsj.com/articles/saudi-arabia-mbs-mohammed-bin-salman-public-investment-fund-11672766494" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-01-03:/articles/mourners-bid-a-quiet-farewell-to-pope-benedict-11672741624</id>
     <content type="html">Thousands have filed past Benedict’s body lying in state in St. Peter’s Basilica, though nothing like the enormous lines that formed for St. John Paul II in 2005.</content>
     <link href="https://www.wsj.com/articles/mourners-bid-a-quiet-farewell-to-pope-benedict-11672741624" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Has Digitized Its Fighting Forces on a Shoestring</title>
-    <updated>2023-01-03T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-03:/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405</id>
-    <content type="html">Ukraine has achieved a cut-price version of what the Pentagon has spent decades and billions of dollars striving to accomplish: digitally networked fighters, intelligence and weapons.</content>
-    <link href="https://www.wsj.com/articles/ukraine-has-digitized-its-fighting-forces-on-a-shoestring-11672741405" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
