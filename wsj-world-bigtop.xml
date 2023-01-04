@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-04T18:24:36Z</updated>
+  <updated>2023-01-04T20:21:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Blames Troops&#39; Cellphone Use for Deadly Ukrainian Strike</title>
-    <updated>2023-01-04T18:16:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-04:/articles/russia-blames-cellphone-use-for-deadly-ukrainian-strike-11672814476</id>
-    <content type="html">Russia blamed the use of banned mobile phones by its soldiers for the deadliest known assault on Russian forces during its war with Ukraine, as Ukraine’s president warned that the Kremlin was preparing for a new offensive in the war.</content>
-    <link href="https://www.wsj.com/articles/russia-blames-cellphone-use-for-deadly-ukrainian-strike-11672814476" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Winter Heat Wave in Europe Sets Records, Forces Ski Resorts to Close Slopes</title>
+    <title>Europe&#39;s Warm Weather Sets Records; Ski Resorts Close Slopes</title>
     <updated>2023-01-04T18:03:00Z</updated>
     <id>tag:www.wsj.com,2023-01-04:/articles/winter-heat-wave-in-europe-sets-records-forces-ski-resorts-to-close-slopes-11672855143</id>
     <content type="html">An unseasonable warm front opened the year, raising temperatures about 15 degrees higher than normal.</content>
@@ -26,6 +18,14 @@
     <id>tag:www.wsj.com,2023-01-04:/articles/why-xi-jinping-reversed-his-zero-covid-policy-in-china-11672853171</id>
     <content type="html">A wave of protests coupled with urgent pleas from many corners of the government finally prodded the leader to scrap the strict lockdown system he had touted throughout the pandemic. China now faces a flood of infections.</content>
     <link href="https://www.wsj.com/articles/why-xi-jinping-reversed-his-zero-covid-policy-in-china-11672853171" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Sees Signs of Russia Shifting Firepower From Bakhmut</title>
+    <updated>2023-01-04T14:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-04:/articles/ukraine-sees-signs-of-russia-shifting-front-line-firepower-away-from-bakhmut-11672830898</id>
+    <content type="html">Russian troops have tempered their assault on the city, Ukrainian commanders say, as stiff resistance forces Russian units to shift some of their firepower to surrounding areas.</content>
+    <link href="https://www.wsj.com/articles/ukraine-sees-signs-of-russia-shifting-front-line-firepower-away-from-bakhmut-11672830898" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
