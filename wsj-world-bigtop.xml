@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-05T12:37:21Z</updated>
+  <updated>2023-01-05T14:18:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Pope Benedict XVI Funeral: Pope Francis Presides Over Vatican Ceremony</title>
+    <updated>2023-01-05T13:13:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-05:/articles/pope-francis-presides-over-funeral-for-pope-benedict-xvi-11672907210</id>
+    <content type="html">Thousands of mourners gathered in St. Peter’s Square for an event that concludes the unique decadelong cohabitation of two popes in the Vatican.</content>
+    <link href="https://www.wsj.com/articles/pope-francis-presides-over-funeral-for-pope-benedict-xvi-11672907210" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Zelensky Says Ukraine Makes Gains Outside Bakhmut but Fighting Rages Nearby</title>
     <updated>2023-01-05T12:28:00Z</updated>
     <id>tag:www.wsj.com,2023-01-05:/articles/zelensky-says-ukraine-makes-gains-outside-bakhmut-but-fighting-rages-nearby-11672916535</id>
     <content type="html">Russian soldiers and fighters from paramilitary force Wagner have been trying to capture Bakhmut for over six months in a battle that has been costly for all involved.</content>
     <link href="https://www.wsj.com/articles/zelensky-says-ukraine-makes-gains-outside-bakhmut-but-fighting-rages-nearby-11672916535" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pope Francis Presides Over Funeral for Pope Benedict XVI</title>
-    <updated>2023-01-05T11:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-05:/articles/pope-francis-presides-over-funeral-for-pope-benedict-xvi-11672907210</id>
-    <content type="html">Thousands of mourners gathered in St. Peter’s Square for an event that concludes the unique decadelong cohabitation of two popes in the Vatican.</content>
-    <link href="https://www.wsj.com/articles/pope-francis-presides-over-funeral-for-pope-benedict-xvi-11672907210" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
