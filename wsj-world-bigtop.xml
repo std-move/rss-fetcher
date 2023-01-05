@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-05T14:18:37Z</updated>
+  <updated>2023-01-05T16:30:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Pope Benedict XVI Funeral: Pope Francis Presides Over Vatican Ceremony</title>
+    <title>U.S.-Saudi Tensions Ease as Concerns About Iran Grow</title>
+    <updated>2023-01-05T14:07:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-05:/articles/u-s-saudi-tensions-ease-as-concerns-about-iran-grow-11672927633</id>
+    <content type="html">The Biden administration has dropped threats to retaliate against Saudi Arabia for an oil-production cut last year and is moving to step up security coordination to counter Iran, U.S. and Saudi officials said.</content>
+    <link href="https://www.wsj.com/articles/u-s-saudi-tensions-ease-as-concerns-about-iran-grow-11672927633" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Pope Francis Presides Over Funeral for Pope Benedict XVI</title>
     <updated>2023-01-05T13:13:00Z</updated>
     <id>tag:www.wsj.com,2023-01-05:/articles/pope-francis-presides-over-funeral-for-pope-benedict-xvi-11672907210</id>
     <content type="html">Thousands of mourners gathered in St. Peter’s Square for an event that concludes the unique decadelong cohabitation of two popes in the Vatican.</content>
     <link href="https://www.wsj.com/articles/pope-francis-presides-over-funeral-for-pope-benedict-xvi-11672907210" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Zelensky Says Ukraine Makes Gains Outside Bakhmut but Fighting Rages Nearby</title>
-    <updated>2023-01-05T12:28:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-05:/articles/zelensky-says-ukraine-makes-gains-outside-bakhmut-but-fighting-rages-nearby-11672916535</id>
-    <content type="html">Russian soldiers and fighters from paramilitary force Wagner have been trying to capture Bakhmut for over six months in a battle that has been costly for all involved.</content>
-    <link href="https://www.wsj.com/articles/zelensky-says-ukraine-makes-gains-outside-bakhmut-but-fighting-rages-nearby-11672916535" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why Xi Jinping Reversed His Zero-Covid Policy in China</title>
-    <updated>2023-01-04T17:26:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-04:/articles/why-xi-jinping-reversed-his-zero-covid-policy-in-china-11672853171</id>
-    <content type="html">A wave of protests coupled with urgent pleas from many corners of the government finally prodded the leader to scrap the strict lockdown system he had touted throughout the pandemic. China now faces a flood of infections.</content>
-    <link href="https://www.wsj.com/articles/why-xi-jinping-reversed-his-zero-covid-policy-in-china-11672853171" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>New Finance Minister Aims to Entrench Israeli Rule in West Bank</title>
-    <updated>2023-01-04T12:40:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-04:/articles/israels-powerful-new-finance-minister-aims-to-entrench-israeli-rule-in-west-bank-11672836016</id>
-    <content type="html">The leader of the far-right Religious Zionism party said he plans to spend billions of dollars building infrastructure and investing in Jewish settlements in the territory.</content>
-    <link href="https://www.wsj.com/articles/israels-powerful-new-finance-minister-aims-to-entrench-israeli-rule-in-west-bank-11672836016" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
