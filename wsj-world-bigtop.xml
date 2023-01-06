@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-05T22:18:55Z</updated>
+  <updated>2023-01-06T01:41:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin Orders 36-Hour Cease-Fire as Ukraine Pressures Russian Troops</title>
+    <updated>2023-01-05T22:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-05:/articles/zelensky-says-ukraine-makes-gains-outside-bakhmut-but-fighting-rages-nearby-11672916535</id>
+    <content type="html">The Russian president called for a pause to front-line attacks for Russian Orthodox Christmas, as his troops were getting pushed back and hit by Ukrainian forces.</content>
+    <link href="https://www.wsj.com/articles/zelensky-says-ukraine-makes-gains-outside-bakhmut-but-fighting-rages-nearby-11672916535" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S.-Saudi Tensions Ease as Concerns About Iran Grow</title>
     <updated>2023-01-05T14:07:00Z</updated>
