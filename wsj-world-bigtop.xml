@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-06T16:27:53Z</updated>
+  <updated>2023-01-06T18:23:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Clashes Continue Despite Russia&#39;s Cease-Fire Calls</title>
-    <updated>2023-01-06T14:15:00Z</updated>
+    <updated>2023-01-06T18:12:00Z</updated>
     <id>tag:www.wsj.com,2023-01-06:/articles/ukraine-clashes-continue-despite-russias-cease-fire-calls-11673001789</id>
     <content type="html">Russian President Vladimir Putin had proposed a 36-hour truce to mark Russian Orthodox Christmas, but Kyiv dismissed it as a ploy.</content>
     <link href="https://www.wsj.com/articles/ukraine-clashes-continue-despite-russias-cease-fire-calls-11673001789" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Sliding Natural-Gas Prices Deal Surprise Reprieve to Europe</title>
-    <updated>2023-01-06T11:46:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-06:/articles/sliding-natural-gas-prices-deal-surprise-reprieve-to-europe-11673005590</id>
-    <content type="html">Prices have halved over a month, easing worries of an industrial meltdown, but the benefits will take months to fully feed through to most businesses and consumers.</content>
-    <link href="https://www.wsj.com/articles/sliding-natural-gas-prices-deal-surprise-reprieve-to-europe-11673005590" rel="alternate"></link>
+    <title>Mexico Boosts Military Presence After Son of &#39;El Chapo&#39; Is Captured</title>
+    <updated>2023-01-06T16:03:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-06:/articles/mexico-boosts-military-presence-after-son-of-drug-kingpin-el-chapo-is-captured-11673021035</id>
+    <content type="html">At least 29 people died in the military operation to capture Ovidio Guzmán on Thursday, including 10 soldiers, authorities said.</content>
+    <link href="https://www.wsj.com/articles/mexico-boosts-military-presence-after-son-of-drug-kingpin-el-chapo-is-captured-11673021035" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
