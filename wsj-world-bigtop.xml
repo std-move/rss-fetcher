@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-07T14:16:00Z</updated>
+  <updated>2023-01-07T16:25:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fighting Rages in Ukraine on Orthodox Christmas Despite Putin&#39;s Call for Truce</title>
+    <updated>2023-01-07T14:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-07:/articles/fighting-rages-in-ukraine-on-orthodox-christmas-despite-putins-call-for-truce-11673090349</id>
+    <content type="html">Ukrainian President Volodymyr Zelensky welcomed the largest package of military aid from the U.S. and its allies as “timely and strong.”</content>
+    <link href="https://www.wsj.com/articles/fighting-rages-in-ukraine-on-orthodox-christmas-despite-putins-call-for-truce-11673090349" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Mexico Boosts Military Presence After Son of &#39;El Chapo&#39; Is Captured</title>
     <updated>2023-01-06T21:29:00Z</updated>
     <id>tag:www.wsj.com,2023-01-06:/articles/mexico-boosts-military-presence-after-son-of-drug-kingpin-el-chapo-is-captured-11673021035</id>
     <content type="html">At least 29 people died in the military operation to capture Ovidio Guzmán on Thursday, including 10 soldiers, authorities said.</content>
     <link href="https://www.wsj.com/articles/mexico-boosts-military-presence-after-son-of-drug-kingpin-el-chapo-is-captured-11673021035" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Clashes Continue Despite Russia&#39;s Cease-Fire Calls</title>
-    <updated>2023-01-06T18:12:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-06:/articles/ukraine-clashes-continue-despite-russias-cease-fire-calls-11673001789</id>
-    <content type="html">Russian President Vladimir Putin had proposed a 36-hour truce to mark Russian Orthodox Christmas, but Kyiv dismissed it as a ploy.</content>
-    <link href="https://www.wsj.com/articles/ukraine-clashes-continue-despite-russias-cease-fire-calls-11673001789" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
