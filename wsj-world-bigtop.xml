@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-10T18:24:27Z</updated>
+  <updated>2023-01-10T20:20:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Brazilian Investigators Home In on Suspects in Riot Financing</title>
-    <updated>2023-01-10T17:16:00Z</updated>
+    <updated>2023-01-10T19:07:00Z</updated>
     <id>tag:www.wsj.com,2023-01-10:/articles/brazilian-investigators-home-in-on-people-suspected-of-riot-financing-11673370982</id>
     <content type="html">Officials probe the powerful agribusiness sector for links to a mob that ransacked government buildings in Brasília.</content>
     <link href="https://www.wsj.com/articles/brazilian-investigators-home-in-on-people-suspected-of-riot-financing-11673370982" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Gains Ground in East Ukraine as Fight for Bakhmut Intensifies</title>
-    <updated>2023-01-10T17:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-10:/articles/russia-gains-ground-in-east-ukraine-as-fight-for-bakhmut-intensifies-11673348654</id>
-    <content type="html">Russian troops and members of the Wagner Group paramilitary force most likely control the majority of Soledar as they continue efforts to encircle nearby Bakhmut.</content>
-    <link href="https://www.wsj.com/articles/russia-gains-ground-in-east-ukraine-as-fight-for-bakhmut-intensifies-11673348654" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
