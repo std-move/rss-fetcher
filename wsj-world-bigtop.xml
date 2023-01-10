@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-10T14:23:05Z</updated>
+  <updated>2023-01-10T16:31:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Brazil&#39;s Supreme Court Orders Removal of Brasília Governor After Protests</title>
-    <updated>2023-01-10T02:18:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-10:/articles/brazils-supreme-court-orders-removal-of-brasilia-governor-ibaneis-rocha-after-protests-11673270708</id>
-    <content type="html">Hundreds of supporters of former President Jair Bolsonaro were arrested after they charged government buildings in the capital.</content>
-    <link href="https://www.wsj.com/articles/brazils-supreme-court-orders-removal-of-brasilia-governor-ibaneis-rocha-after-protests-11673270708" rel="alternate"></link>
+    <title>Russia Gains Ground in East Ukraine as Fight for Bakhmut Intensifies</title>
+    <updated>2023-01-10T12:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-10:/articles/russia-gains-ground-in-east-ukraine-as-fight-for-bakhmut-intensifies-11673348654</id>
+    <content type="html">Russian troops and members of the Wagner Group paramilitary force most likely control the majority of Soledar as they continue efforts to encircle nearby Bakhmut.</content>
+    <link href="https://www.wsj.com/articles/russia-gains-ground-in-east-ukraine-as-fight-for-bakhmut-intensifies-11673348654" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
