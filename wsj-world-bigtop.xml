@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-09T22:18:57Z</updated>
+  <updated>2023-01-10T01:43:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Brazil&#39;s Supreme Court Orders Removal of Brasília Governor After Protests</title>
-    <updated>2023-01-09T22:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-09:/articles/brazils-supreme-court-orders-removal-of-brasilia-governor-ibaneis-rocha-after-protests-11673270708</id>
+    <updated>2023-01-10T01:15:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-10:/articles/brazils-supreme-court-orders-removal-of-brasilia-governor-ibaneis-rocha-after-protests-11673270708</id>
     <content type="html">Hundreds of supporters of former President Jair Bolsonaro were arrested after they charged government buildings in the capital.</content>
     <link href="https://www.wsj.com/articles/brazils-supreme-court-orders-removal-of-brasilia-governor-ibaneis-rocha-after-protests-11673270708" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Forces Hold Front-Line City of Bakhmut, Zelensky Says</title>
-    <updated>2023-01-09T19:28:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-09:/articles/ukraines-forces-hold-front-line-city-of-bakhmut-zelensky-says-11673262445</id>
-    <content type="html">The brutal six-month battle for Bakhmut cements how the small eastern city has become a key sumbolic prize in the war.</content>
-    <link href="https://www.wsj.com/articles/ukraines-forces-hold-front-line-city-of-bakhmut-zelensky-says-11673262445" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
