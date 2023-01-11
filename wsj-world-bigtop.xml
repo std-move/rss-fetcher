@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-11T14:26:25Z</updated>
+  <updated>2023-01-11T16:36:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Claims Success in Ukraine&#39;s Soledar, Its First Advance in Months</title>
-    <updated>2023-01-11T12:05:00Z</updated>
+    <updated>2023-01-11T15:46:00Z</updated>
     <id>tag:www.wsj.com,2023-01-11:/articles/russia-claims-success-in-ukraines-soledar-its-first-advance-in-months-11673429457</id>
     <content type="html">Ukrainian officials acknowledged advances by the Wagner private military company in Soledar, but denied that it had fallen.</content>
     <link href="https://www.wsj.com/articles/russia-claims-success-in-ukraines-soledar-its-first-advance-in-months-11673429457" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>A Sacred Jerusalem Site Becomes a Flashpoint With Israel&#39;s Rightward Shift</title>
+    <updated>2023-01-11T15:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-11:/articles/a-sacred-jerusalem-site-becomes-a-flashpoint-with-israels-rightward-shift-11673451714</id>
+    <content type="html">Jewish activists have gained more support for praying at the Temple Mount, called the Noble Sanctuary by Muslims, who have controlled the site for centuries. Far-right officials in Prime Minister Netanyahu’s coalition are pushing to change the rules.</content>
+    <link href="https://www.wsj.com/articles/a-sacred-jerusalem-site-becomes-a-flashpoint-with-israels-rightward-shift-11673451714" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s Electric-Repair Crews Become Unlikely Wartime Heroes</title>
+    <updated>2023-01-11T14:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-11:/articles/ukraines-electric-repair-crews-become-unlikely-wartime-heroes-11673447549</id>
+    <content type="html">Emergency teams risk their lives and brave subfreezing temperatures to keep the power on as Russia targets Ukraine’s infrastructure in an attempt to sap morale</content>
+    <link href="https://www.wsj.com/articles/ukraines-electric-repair-crews-become-unlikely-wartime-heroes-11673447549" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
