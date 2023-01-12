@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-12T10:23:57Z</updated>
+  <updated>2023-01-12T12:40:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Claims Success in Ukraine&#39;s Soledar, Its First Advance in Months</title>
-    <updated>2023-01-12T00:09:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-12:/articles/russia-claims-success-in-ukraines-soledar-its-first-advance-in-months-11673429457</id>
-    <content type="html">Ukrainian officials acknowledged advances by the Wagner private military company in Soledar, but denied that it had fallen.</content>
-    <link href="https://www.wsj.com/articles/russia-claims-success-in-ukraines-soledar-its-first-advance-in-months-11673429457" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Peru&#39;s Antigovernment Protests Turn Increasingly Deadly</title>
-    <updated>2023-01-11T22:29:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-11:/articles/perus-antigovernment-protests-turn-increasingly-deadly-11673466030</id>
-    <content type="html">Protesters paralyze the tourism hub of Cusco two days after clashes in another city left 18 dead.</content>
-    <link href="https://www.wsj.com/articles/perus-antigovernment-protests-turn-increasingly-deadly-11673466030" rel="alternate"></link>
+    <title>Ukraine Says Fight for Soledar Isn&#39;t Over Despite Russian Gains</title>
+    <updated>2023-01-12T11:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-12:/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819</id>
+    <content type="html">Russian forces spearheaded by the Wagner paramilitary group have advanced into Soledar in recent days, shifting their firepower there after months of failed attempts to seize the nearby city of Bakhmut.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
