@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-12T12:40:08Z</updated>
+  <updated>2023-01-12T14:25:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Says Fight for Soledar Isn&#39;t Over Despite Russian Gains</title>
-    <updated>2023-01-12T11:27:00Z</updated>
+    <updated>2023-01-12T12:38:00Z</updated>
     <id>tag:www.wsj.com,2023-01-12:/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819</id>
     <content type="html">Russian forces spearheaded by the Wagner paramilitary group have advanced into Soledar in recent days, shifting their firepower there after months of failed attempts to seize the nearby city of Bakhmut.</content>
     <link href="https://www.wsj.com/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819" rel="alternate"></link>
