@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-12T18:25:56Z</updated>
+  <updated>2023-01-12T20:21:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Says Fight for Soledar Isn&#39;t Over Despite Russian Gains</title>
+    <updated>2023-01-12T20:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-12:/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819</id>
+    <content type="html">Russian forces spearheaded by the Wagner paramilitary group have advanced into Soledar in recent days, shifting their firepower there after months of failed attempts to seize the nearby city of Bakhmut.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Precarious Moment: Covid Everywhere and Few Restrictions</title>
     <updated>2023-01-12T15:05:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-01-12:/articles/asia-europe-look-to-collective-action-to-restrain-china-11673526507</id>
     <content type="html">Asian democracies reliant on the backstop of U.S. military power for their prosperity face a new reality now that China rivals the U.S. in areas such as advanced missiles and naval hardware.</content>
     <link href="https://www.wsj.com/articles/asia-europe-look-to-collective-action-to-restrain-china-11673526507" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Says Fight for Soledar Isn&#39;t Over Despite Russian Gains</title>
-    <updated>2023-01-12T12:38:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-12:/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819</id>
-    <content type="html">Russian forces spearheaded by the Wagner paramilitary group have advanced into Soledar in recent days, shifting their firepower there after months of failed attempts to seize the nearby city of Bakhmut.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
