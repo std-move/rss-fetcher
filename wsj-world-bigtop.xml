@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-12T06:24:25Z</updated>
+  <updated>2023-01-12T08:26:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,6 +18,14 @@
     <id>tag:www.wsj.com,2023-01-11:/articles/perus-antigovernment-protests-turn-increasingly-deadly-11673466030</id>
     <content type="html">Protesters paralyze the tourism hub of Cusco two days after clashes in another city left 18 dead.</content>
     <link href="https://www.wsj.com/articles/perus-antigovernment-protests-turn-increasingly-deadly-11673466030" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s Electric-Repair Crews Become Unlikely Wartime Heroes</title>
+    <updated>2023-01-11T17:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-11:/articles/ukraines-electric-repair-crews-become-unlikely-wartime-heroes-11673447549</id>
+    <content type="html">Emergency teams risk their lives and brave subfreezing temperatures to keep the power on as Russia targets Ukraine’s infrastructure in an attempt to sap morale</content>
+    <link href="https://www.wsj.com/articles/ukraines-electric-repair-crews-become-unlikely-wartime-heroes-11673447549" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
