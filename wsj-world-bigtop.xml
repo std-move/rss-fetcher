@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-13T14:19:48Z</updated>
+  <updated>2023-01-13T16:32:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>ConocoPhillips in Talks to Sell Venezuelan Oil in U.S.</title>
-    <updated>2023-01-12T22:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-12:/articles/conocophillips-in-talks-to-sell-venezuelan-oil-in-u-s-to-recover-billions-in-debt-11673561640</id>
-    <content type="html">The Houston-based oil company has had preliminary discussions with Venezuela’s state oil firm, PdVSA</content>
-    <link href="https://www.wsj.com/articles/conocophillips-in-talks-to-sell-venezuelan-oil-in-u-s-to-recover-billions-in-debt-11673561640" rel="alternate"></link>
+    <title>The War in Ukraine Will Be Long. Is the West Ready?</title>
+    <updated>2023-01-13T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-13:/articles/ukraine-war-long-west-ready-11673571215</id>
+    <content type="html">Time could be on Russia’s side if the U.S. and its allies don’t adjust to a prolonged conflict.</content>
+    <link href="https://www.wsj.com/articles/ukraine-war-long-west-ready-11673571215" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China&#39;s Precarious Moment: Covid Everywhere and Few Restrictions</title>
-    <updated>2023-01-12T15:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-12:/articles/china-covid-dropped-restrictions-reopen-xi-11673534796</id>
-    <content type="html">Parts of China’s economy are bouncing back, but Infections have skyrocketed, medical facilities are stretched to their limits and the elderly are dying. Lunar New Year holiday travel risks furthering the spread.</content>
-    <link href="https://www.wsj.com/articles/china-covid-dropped-restrictions-reopen-xi-11673534796" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Asia, Europe Look to Collective Action to Restrain China</title>
-    <updated>2023-01-12T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-12:/articles/asia-europe-look-to-collective-action-to-restrain-china-11673526507</id>
-    <content type="html">Asian democracies reliant on the backstop of U.S. military power for their prosperity face a new reality now that China rivals the U.S. in areas such as advanced missiles and naval hardware.</content>
-    <link href="https://www.wsj.com/articles/asia-europe-look-to-collective-action-to-restrain-china-11673526507" rel="alternate"></link>
+    <title>Moscow Says It Has Seized Ukrainian Town of Soledar</title>
+    <updated>2023-01-13T14:45:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-13:/articles/moscow-says-it-has-seized-ukrainian-town-of-soledar-11673608375</id>
+    <content type="html">Ukrainian officials say battles are continuing for control of the eastern town.</content>
+    <link href="https://www.wsj.com/articles/moscow-says-it-has-seized-ukrainian-town-of-soledar-11673608375" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
