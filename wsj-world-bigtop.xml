@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-12T22:19:43Z</updated>
+  <updated>2023-01-13T01:43:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Says Fight for Soledar Isn&#39;t Over Despite Russian Gains</title>
-    <updated>2023-01-12T20:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-12:/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819</id>
-    <content type="html">Russian forces spearheaded by the Wagner paramilitary group have advanced into Soledar in recent days, shifting their firepower there after months of failed attempts to seize the nearby city of Bakhmut.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-fight-for-soledar-isnt-over-despite-russian-gains-11673522819" rel="alternate"></link>
+    <title>ConocoPhillips in Talks to Sell Venezuelan Oil in U.S.</title>
+    <updated>2023-01-12T22:14:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-12:/articles/conocophillips-in-talks-to-sell-venezuelan-oil-in-u-s-to-recover-billions-in-debt-11673561640</id>
+    <content type="html">The Houston-based oil company has had preliminary discussions with Venezuela’s state oil firm, PdVSA</content>
+    <link href="https://www.wsj.com/articles/conocophillips-in-talks-to-sell-venezuelan-oil-in-u-s-to-recover-billions-in-debt-11673561640" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-01-12:/articles/china-covid-dropped-restrictions-reopen-xi-11673534796</id>
     <content type="html">Parts of China’s economy are bouncing back, but Infections have skyrocketed, medical facilities are stretched to their limits and the elderly are dying. Lunar New Year holiday travel risks furthering the spread.</content>
     <link href="https://www.wsj.com/articles/china-covid-dropped-restrictions-reopen-xi-11673534796" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Biden Administration&#39;s Big Manufacturing Push Could Transform Global Trade</title>
-    <updated>2023-01-12T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-12:/articles/biden-manufacturing-global-trade-11673382060</id>
-    <content type="html">How the U.S. implements its industrial-policy measures will determine whether its allies respond with their own protectionist efforts.</content>
-    <link href="https://www.wsj.com/articles/biden-manufacturing-global-trade-11673382060" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
