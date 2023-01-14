@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-14T14:16:03Z</updated>
+  <updated>2023-01-14T16:24:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The War in Ukraine Will Be Long. Is the West Ready?</title>
-    <updated>2023-01-13T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-13:/articles/ukraine-war-long-west-ready-11673571215</id>
-    <content type="html">Time could be on Russia’s side if the U.S. and its allies don’t adjust to a prolonged conflict.</content>
-    <link href="https://www.wsj.com/articles/ukraine-war-long-west-ready-11673571215" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Moscow Says It Has Seized Ukrainian Town of Soledar</title>
-    <updated>2023-01-13T14:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-13:/articles/moscow-says-it-has-seized-ukrainian-town-of-soledar-11673608375</id>
-    <content type="html">Ukrainian officials say battles are continuing for control of the eastern town.</content>
-    <link href="https://www.wsj.com/articles/moscow-says-it-has-seized-ukrainian-town-of-soledar-11673608375" rel="alternate"></link>
+    <title>Two Waves of Missile Attacks Rock Ukrainian Cities</title>
+    <updated>2023-01-14T14:47:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-14:/articles/blasts-rock-ukraines-cities-in-morning-russian-missile-attacks-11673689664</id>
+    <content type="html">Some Ukrainian officials think Moscow might have used ballistic missiles, which Ukraine’s current air defenses can’t intercept.</content>
+    <link href="https://www.wsj.com/articles/blasts-rock-ukraines-cities-in-morning-russian-missile-attacks-11673689664" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
