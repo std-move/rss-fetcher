@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-14T22:17:14Z</updated>
+  <updated>2023-01-15T01:44:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Two Waves of Missile Attacks Rock Ukrainian Cities</title>
-    <updated>2023-01-14T18:04:00Z</updated>
+    <updated>2023-01-14T23:56:00Z</updated>
     <id>tag:www.wsj.com,2023-01-14:/articles/blasts-rock-ukraines-cities-in-morning-russian-missile-attacks-11673689664</id>
     <content type="html">Some Ukrainian officials think Moscow might have used ballistic missiles, which Ukraine’s current air defenses can’t intercept.</content>
     <link href="https://www.wsj.com/articles/blasts-rock-ukraines-cities-in-morning-russian-missile-attacks-11673689664" rel="alternate"></link>
