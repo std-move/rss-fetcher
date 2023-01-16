@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-16T14:18:19Z</updated>
+  <updated>2023-01-16T16:26:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Searches for Survivors After Apartment-Block Strike</title>
-    <updated>2023-01-15T17:48:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-15:/articles/ukraine-searches-for-survivors-after-deadly-civilian-attack-11673786859</id>
-    <content type="html">At least 29 died after a Russian missile struck an apartment building, one of the worst attacks on civilian areas since the start of Moscow’s full-scale invasion.</content>
-    <link href="https://www.wsj.com/articles/ukraine-searches-for-survivors-after-deadly-civilian-attack-11673786859" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russian Strikes Sap Ukraine Mobile Network of Vital Power</title>
-    <updated>2023-01-15T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-15:/articles/russian-strikes-sap-ukraine-mobile-network-of-vital-power-11673747621</id>
-    <content type="html">Telecom operators and internet providers are scouring suppliers for better batteries and generators.</content>
-    <link href="https://www.wsj.com/articles/russian-strikes-sap-ukraine-mobile-network-of-vital-power-11673747621" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Iraqi Prime Minister Supports Indefinite U.S. Troop Presence</title>
-    <updated>2023-01-15T12:21:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-15:/articles/iraqi-prime-minister-supports-indefinite-u-s-troop-presence-11673785302</id>
-    <content type="html">In an interview, Mohammed al-Sudani signaled a less confrontational posture toward Washington early in his term than his Iran-backed political allies have taken.</content>
-    <link href="https://www.wsj.com/articles/iraqi-prime-minister-supports-indefinite-u-s-troop-presence-11673785302" rel="alternate"></link>
+    <title>Dozens of Russian Draftees Died in a Ukrainian Strike. Putin&#39;s War Machine Rolled On.</title>
+    <updated>2023-01-16T10:14:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-16:/articles/dozens-of-russian-draftees-died-in-a-ukrainian-strike-putins-war-machine-rolled-on-11673864038</id>
+    <content type="html">A New Year’s Day attack on an army barracks has rattled soldiers and families but not dented Russia’s reluctant resolve.</content>
+    <link href="https://www.wsj.com/articles/dozens-of-russian-draftees-died-in-a-ukrainian-strike-putins-war-machine-rolled-on-11673864038" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
