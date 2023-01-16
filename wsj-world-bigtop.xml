@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-16T16:26:33Z</updated>
+  <updated>2023-01-16T18:23:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Turmoil and Protests Shake Latin America</title>
+    <updated>2023-01-16T16:28:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-16:/articles/turmoil-and-protests-shake-latin-america-as-region-sours-on-democracy-11673886497</id>
+    <content type="html">Riots in Brazil and Peru are the latest in a groundswell of discontent that political analysts and citizens say is driven by corruption, inequality and lack of state services.</content>
+    <link href="https://www.wsj.com/articles/turmoil-and-protests-shake-latin-america-as-region-sours-on-democracy-11673886497" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Globalization Isn&#39;t Dead. But a Shake-Up Is Building.</title>
+    <updated>2023-01-16T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-16:/articles/globalization-changing-markets-trade-11673627929</id>
+    <content type="html">Multinational companies still want cheap and efficient markets, but they also want safety. That’s why they’re rerouting the pathways of global trade and finance.</content>
+    <link href="https://www.wsj.com/articles/globalization-changing-markets-trade-11673627929" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Dozens of Russian Draftees Died in a Ukrainian Strike. Putin&#39;s War Machine Rolled On.</title>
     <updated>2023-01-16T10:14:00Z</updated>
