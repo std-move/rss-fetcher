@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-17T12:39:19Z</updated>
+  <updated>2023-01-17T14:17:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China GDP Growth Fell to Near-Historic Lows</title>
-    <updated>2023-01-17T07:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-17:/articles/chinas-economic-growth-fell-to-near-historic-lows-as-covid-took-a-bite-11673921199</id>
-    <content type="html">China’s economy grew at one of its slowest rates in decades last year as repeated Covid-19 lockdowns hammered households and businesses.</content>
-    <link href="https://www.wsj.com/articles/chinas-economic-growth-fell-to-near-historic-lows-as-covid-took-a-bite-11673921199" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dozens of Russian Draftees Died in a Ukrainian Strike. Putin&#39;s War Machine Rolled On.</title>
-    <updated>2023-01-16T10:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-16:/articles/dozens-of-russian-draftees-died-in-a-ukrainian-strike-putins-war-machine-rolled-on-11673864038</id>
-    <content type="html">A New Year’s Day attack on an army barracks has rattled soldiers and families but not dented Russia’s reluctant resolve.</content>
-    <link href="https://www.wsj.com/articles/dozens-of-russian-draftees-died-in-a-ukrainian-strike-putins-war-machine-rolled-on-11673864038" rel="alternate"></link>
+    <title>Moscow Details Plan to Boost Military as Kyiv Warns of Fresh Russian Offensive</title>
+    <updated>2023-01-17T13:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-17:/articles/zelensky-calls-on-allies-to-speed-up-arms-supplies-as-kyiv-warns-of-fresh-russian-offensive-11673952963</id>
+    <content type="html">Russia provided a timetable for the troop increase it outlined in December as Ukraine warned that Moscow may be preparing an offensive.</content>
+    <link href="https://www.wsj.com/articles/zelensky-calls-on-allies-to-speed-up-arms-supplies-as-kyiv-warns-of-fresh-russian-offensive-11673952963" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
