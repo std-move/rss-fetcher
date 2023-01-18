@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-18T18:23:09Z</updated>
+  <updated>2023-01-18T20:20:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Helicopter Crash Kills Interior Minister and at Least 13 Others in Kyiv</title>
-    <updated>2023-01-18T17:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-18:/articles/ukraines-interior-minister-killed-in-kyiv-helicopter-crash-11674033634</id>
-    <content type="html">Denys Monastyrsky and other senior officials were among at least 14 people killed when a helicopter crashed near a kindergarten on the edge of Kyiv, Ukrainian officials said.</content>
-    <link href="https://www.wsj.com/articles/ukraines-interior-minister-killed-in-kyiv-helicopter-crash-11674033634" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Russian Spy or Ukrainian Hero? The Strange Death of Denys Kiryeyev</title>
     <updated>2023-01-18T16:29:00Z</updated>
     <id>tag:www.wsj.com,2023-01-18:/articles/russian-spy-or-ukrainian-hero-the-strange-death-of-denys-kiryeyev-11674059395</id>
-    <content type="html">Hours before Russia sent troops into Ukraine last February, Mr. Kiryeyev warned of Moscow’s plan to capture Kyiv. Days later, he was killed by security agents.”If it were not for Mr. Kiryeyev, most likely Kyiv would have been taken.”</content>
+    <content type="html">Hours before Russia sent troops into Ukraine last February, Mr. Kiryeyev warned of Moscow’s plan to capture Kyiv. Days later, he was killed by security agents. “If it were not for Mr. Kiryeyev, most likely Kyiv would have been taken.”</content>
     <link href="https://www.wsj.com/articles/russian-spy-or-ukrainian-hero-the-strange-death-of-denys-kiryeyev-11674059395" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
