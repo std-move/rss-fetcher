@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-19T14:19:15Z</updated>
+  <updated>2023-01-19T16:28:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Germany&#39;s Standoff Over Tanks for Ukraine Overshadows West&#39;s Arms-Deal Meeting</title>
+    <updated>2023-01-19T15:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-19:/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217</id>
+    <content type="html">Western leaders are set to gather for a meeting that could be marred by an escalating dispute on whether Berlin should allow its allies to give German-built battle tanks to Ukraine.</content>
+    <link href="https://www.wsj.com/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>For Ukraine, Dnipro Apartment Strike Becomes a Symbol of Russian Cruelty</title>
     <updated>2023-01-19T13:03:00Z</updated>
     <id>tag:www.wsj.com,2023-01-19:/articles/for-ukraine-dnipro-apartment-strike-becomes-a-symbol-of-russian-cruelty-11674133398</id>
     <content type="html">The deaths of civilians including children are drawing expressions of anger and resolve in Ukraine and the West as the war approaches the one-year mark.</content>
     <link href="https://www.wsj.com/articles/for-ukraine-dnipro-apartment-strike-becomes-a-symbol-of-russian-cruelty-11674133398" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Poland Suggests Sending German-Made Tanks to Ukraine Without Berlin&#39;s OK</title>
-    <updated>2023-01-19T10:13:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-19:/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217</id>
-    <content type="html">The statement is the latest sign of exasperation shared by the U.S. and its European allies that Germany’s hesitation over sending tanks will deprive Ukraine of critical resources in its war with Russia.</content>
-    <link href="https://www.wsj.com/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
