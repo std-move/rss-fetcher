@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-19T20:20:45Z</updated>
+  <updated>2023-01-19T22:18:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Germany&#39;s Standoff Over Tanks for Ukraine Overshadows West&#39;s Arms-Deal Meeting</title>
-    <updated>2023-01-19T15:05:00Z</updated>
+    <updated>2023-01-19T20:19:00Z</updated>
     <id>tag:www.wsj.com,2023-01-19:/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217</id>
-    <content type="html">Western leaders are set to gather for a meeting that could be marred by an escalating dispute on whether Berlin should allow its allies to give German-built battle tanks to Ukraine.</content>
+    <content type="html">Western defense chiefs are set to gather for a meeting that has been overshadowed by an escalating dispute over whether Berlin should allow its allies to give Ukraine German-built battle tanks.</content>
     <link href="https://www.wsj.com/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
