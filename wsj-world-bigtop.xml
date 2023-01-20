@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-20T18:24:15Z</updated>
+  <updated>2023-01-20T20:20:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,14 +13,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Mexican Officials and Witnesses Recount Gunbattle That Captured Son of Joaquín &#39;El Chapo&#39; Guzmán</title>
-    <updated>2023-01-20T05:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-20:/articles/mexican-officials-and-witnesses-recount-gunbattle-that-captured-son-of-joaquin-el-chapo-guzman-11674163002</id>
-    <content type="html">The arrest of Sinaloa cartel leader Ovidio Guzmán, a pioneer in producing and smuggling fentanyl, deals a blow to the Sinaloa cartel, but labs quickly reopen.</content>
-    <link href="https://www.wsj.com/articles/mexican-officials-and-witnesses-recount-gunbattle-that-captured-son-of-joaquin-el-chapo-guzman-11674163002" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>How New Zealand&#39;s Jacinda Ardern Went From Pandemic Hero to Political Casualty</title>
     <updated>2023-01-20T09:22:00Z</updated>
     <id>tag:www.wsj.com,2023-01-20:/articles/how-new-zealands-jacinda-ardern-went-from-pandemic-hero-to-political-casualty-11674206548</id>
@@ -29,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Peru Protesters March in Capital Against Government</title>
-    <updated>2023-01-20T06:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-20:/articles/peruvian-protesters-march-in-capital-against-government-11674174733</id>
-    <content type="html">Thousands from the Andean highlands urged President Dina Boluarte to resign after weeks of deadly clashes.</content>
-    <link href="https://www.wsj.com/articles/peruvian-protesters-march-in-capital-against-government-11674174733" rel="alternate"></link>
+    <title>Mexican Officials and Witnesses Recount Gunbattle That Captured Son of Joaquín &#39;El Chapo&#39; Guzmán</title>
+    <updated>2023-01-20T05:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-20:/articles/mexican-officials-and-witnesses-recount-gunbattle-that-captured-son-of-joaquin-el-chapo-guzman-11674163002</id>
+    <content type="html">The arrest of Sinaloa cartel leader Ovidio Guzmán, a pioneer in producing and smuggling fentanyl, deals a blow to the Sinaloa cartel, but labs quickly reopen.</content>
+    <link href="https://www.wsj.com/articles/mexican-officials-and-witnesses-recount-gunbattle-that-captured-son-of-joaquin-el-chapo-guzman-11674163002" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
