@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-19T22:18:58Z</updated>
+  <updated>2023-01-20T01:42:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-01-19:/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217</id>
     <content type="html">Western defense chiefs are set to gather for a meeting that has been overshadowed by an escalating dispute over whether Berlin should allow its allies to give Ukraine German-built battle tanks.</content>
     <link href="https://www.wsj.com/articles/poland-suggests-it-would-send-german-made-tanks-to-ukraine-without-berlins-consent-11674123217" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>For Ukraine, Dnipro Apartment Strike Becomes a Symbol of Russian Cruelty</title>
-    <updated>2023-01-19T13:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-19:/articles/for-ukraine-dnipro-apartment-strike-becomes-a-symbol-of-russian-cruelty-11674133398</id>
-    <content type="html">The deaths of civilians including children are drawing expressions of anger and resolve in Ukraine and the West as the war approaches the one-year mark.</content>
-    <link href="https://www.wsj.com/articles/for-ukraine-dnipro-apartment-strike-becomes-a-symbol-of-russian-cruelty-11674133398" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
