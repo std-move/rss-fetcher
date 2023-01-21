@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-21T16:25:10Z</updated>
+  <updated>2023-01-21T18:21:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,10 +13,18 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Eritrean Troops Endanger Ethiopian Peace Deal</title>
+    <updated>2023-01-21T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-21:/articles/eritrean-troops-endanger-ethiopian-peace-deal-11674271835</id>
+    <content type="html">A peace accord meant to end Ethiopia’s civil war is hitting a stumbling block, as troops from neighboring Eritrea who had been fighting on the side of the federal government have failed to withdraw, local and international officials say.</content>
+    <link href="https://www.wsj.com/articles/eritrean-troops-endanger-ethiopian-peace-deal-11674271835" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Ukraine&#39;s Winter Could Turn Against Russian Troops</title>
     <updated>2023-01-21T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-01-21:/articles/ukraines-winter-could-turn-against-russian-troops-11674294354</id>
-    <content type="html">With Western-supplied uniforms and ‘trench candles,’ Ukrainian soldiers are seeking a cold-weather advantage.</content>
+    <content type="html">With Western-supplied uniforms and “trench candles,” Ukrainian soldiers are seeking a cold-weather advantage.</content>
     <link href="https://www.wsj.com/articles/ukraines-winter-could-turn-against-russian-troops-11674294354" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2023-01-20:/articles/china-global-mega-projects-infrastructure-falling-apart-11674166180</id>
     <content type="html">Many of China’s Belt and Road infrastructure projects are plagued with construction flaws, including a giant hydropower plant in Ecuador, adding more costs to a program criticized for leading countries deeper into debt; “They’re falling apart bit by bit.”</content>
     <link href="https://www.wsj.com/articles/china-global-mega-projects-infrastructure-falling-apart-11674166180" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mexican Officials and Witnesses Recount Gunbattle That Captured Son of Joaquín &#39;El Chapo&#39; Guzmán</title>
-    <updated>2023-01-20T05:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-20:/articles/mexican-officials-and-witnesses-recount-gunbattle-that-captured-son-of-joaquin-el-chapo-guzman-11674163002</id>
-    <content type="html">The arrest of Sinaloa cartel leader Ovidio Guzmán, a pioneer in producing and smuggling fentanyl, deals a blow to the Sinaloa cartel, but labs quickly reopen.</content>
-    <link href="https://www.wsj.com/articles/mexican-officials-and-witnesses-recount-gunbattle-that-captured-son-of-joaquin-el-chapo-guzman-11674163002" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
