@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-21T12:33:42Z</updated>
+  <updated>2023-01-21T14:16:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Pressure Builds on Germany to Approve Tanks for Ukraine</title>
+    <updated>2023-01-21T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-21:/articles/pressure-builds-on-germany-to-approve-tanks-for-ukraine-11674297917</id>
+    <content type="html">Pressure mounted on Germany to approve the transfer of its Leopard 2 battle tanks to Ukraine, a day after Western allies at a meeting failed to reach an agreement about sending armored vehicles. </content>
+    <link href="https://www.wsj.com/articles/pressure-builds-on-germany-to-approve-tanks-for-ukraine-11674297917" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine&#39;s Winter Could Turn Against Russian Troops</title>
+    <updated>2023-01-21T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-21:/articles/ukraines-winter-could-turn-against-russian-troops-11674294354</id>
+    <content type="html">With Western-supplied uniforms and ‘trench candles,’ Ukrainian soldiers are seeking a cold-weather advantage.</content>
+    <link href="https://www.wsj.com/articles/ukraines-winter-could-turn-against-russian-troops-11674294354" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Global Mega-Projects Are Falling Apart</title>
     <updated>2023-01-20T14:45:00Z</updated>
