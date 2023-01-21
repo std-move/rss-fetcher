@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-21T14:16:02Z</updated>
+  <updated>2023-01-21T16:25:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Pressure Builds on Germany to Approve Tanks for Ukraine</title>
-    <updated>2023-01-21T13:00:00Z</updated>
+    <updated>2023-01-21T15:49:00Z</updated>
     <id>tag:www.wsj.com,2023-01-21:/articles/pressure-builds-on-germany-to-approve-tanks-for-ukraine-11674297917</id>
     <content type="html">Pressure mounted on Germany to approve the transfer of its Leopard 2 battle tanks to Ukraine, a day after Western allies at a meeting failed to reach an agreement about sending armored vehicles. </content>
     <link href="https://www.wsj.com/articles/pressure-builds-on-germany-to-approve-tanks-for-ukraine-11674297917" rel="alternate"></link>
