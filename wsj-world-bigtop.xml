@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-21T04:23:01Z</updated>
+  <updated>2023-01-21T06:22:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-01-20:/articles/china-global-mega-projects-infrastructure-falling-apart-11674166180</id>
     <content type="html">Many of China’s Belt and Road infrastructure projects are plagued with construction flaws, including a giant hydropower plant in Ecuador, adding more costs to a program criticized for leading countries deeper into debt; “They’re falling apart bit by bit.”</content>
     <link href="https://www.wsj.com/articles/china-global-mega-projects-infrastructure-falling-apart-11674166180" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How New Zealand&#39;s Jacinda Ardern Went From Pandemic Hero to Political Casualty</title>
-    <updated>2023-01-20T09:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-20:/articles/how-new-zealands-jacinda-ardern-went-from-pandemic-hero-to-political-casualty-11674206548</id>
-    <content type="html">The prime minister’s resignation shows how incumbents who were widely praised for their early pandemic response are finding it difficult to pivot to meet the challenges of the post-Covid world.</content>
-    <link href="https://www.wsj.com/articles/how-new-zealands-jacinda-ardern-went-from-pandemic-hero-to-political-casualty-11674206548" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
