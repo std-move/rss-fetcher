@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-22T12:34:03Z</updated>
+  <updated>2023-01-22T14:16:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Pressure Builds on Germany to Approve Tanks for Ukraine</title>
-    <updated>2023-01-21T15:49:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-21:/articles/pressure-builds-on-germany-to-approve-tanks-for-ukraine-11674297917</id>
-    <content type="html">Pressure mounted on Germany to approve the transfer of its Leopard 2 battle tanks to Ukraine, a day after Western allies at a meeting failed to reach an agreement about sending armored vehicles. </content>
-    <link href="https://www.wsj.com/articles/pressure-builds-on-germany-to-approve-tanks-for-ukraine-11674297917" rel="alternate"></link>
+    <title>Russia Claims Advances in Ukraine&#39;s South</title>
+    <updated>2023-01-22T13:06:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-22:/articles/russia-claims-advances-in-ukraines-south-as-allies-stall-on-tank-deliveries-11674392784</id>
+    <content type="html">Moscow said its forces advanced in Ukraine’s southern Zaporizhzhia region as Kyiv’s Western allies continued pressuring Berlin to allow deliveries of German-made tanks to Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russia-claims-advances-in-ukraines-south-as-allies-stall-on-tank-deliveries-11674392784" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2023-01-21:/articles/eritrean-troops-endanger-ethiopian-peace-deal-11674271835</id>
     <content type="html">A peace accord meant to end Ethiopia’s civil war is hitting a stumbling block, as troops from neighboring Eritrea who had been fighting on the side of the federal government have failed to withdraw, local and international officials say.</content>
     <link href="https://www.wsj.com/articles/eritrean-troops-endanger-ethiopian-peace-deal-11674271835" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Winter Could Turn Against Russian Troops</title>
-    <updated>2023-01-21T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-21:/articles/ukraines-winter-could-turn-against-russian-troops-11674294354</id>
-    <content type="html">With Western-supplied uniforms and “trench candles,” Ukrainian soldiers are seeking a cold-weather advantage.</content>
-    <link href="https://www.wsj.com/articles/ukraines-winter-could-turn-against-russian-troops-11674294354" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Global Mega-Projects Are Falling Apart</title>
-    <updated>2023-01-20T14:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-20:/articles/china-global-mega-projects-infrastructure-falling-apart-11674166180</id>
-    <content type="html">Many of China’s Belt and Road infrastructure projects are plagued with construction flaws, including a giant hydropower plant in Ecuador, adding more costs to a program criticized for leading countries deeper into debt; “They’re falling apart bit by bit.”</content>
-    <link href="https://www.wsj.com/articles/china-global-mega-projects-infrastructure-falling-apart-11674166180" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
