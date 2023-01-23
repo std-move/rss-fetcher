@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-23T12:37:54Z</updated>
+  <updated>2023-01-23T14:18:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Presses Attack in Ukraine&#39;s South</title>
+    <updated>2023-01-23T11:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-23:/articles/russia-presses-attack-in-ukraines-south-while-kyiv-waits-for-weapons-11674472333</id>
+    <content type="html">Fighting intensified in Ukraine’s strategically important south, where Moscow claims it is making advances, while Kyiv waits on heavier weapons from its Western allies.</content>
+    <link href="https://www.wsj.com/articles/russia-presses-attack-in-ukraines-south-while-kyiv-waits-for-weapons-11674472333" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Brazil Riot Investigators Probe Possible Crimes</title>
     <updated>2023-01-22T18:20:00Z</updated>
     <id>tag:www.wsj.com,2023-01-22:/articles/brazilian-riot-investigators-probe-possible-crimes-against-democracy-11674411600</id>
     <content type="html">Prosecutors are attempting to determine whether there was a coordinated plan to take power.</content>
     <link href="https://www.wsj.com/articles/brazilian-riot-investigators-probe-possible-crimes-against-democracy-11674411600" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Claims Advances in Ukraine&#39;s South</title>
-    <updated>2023-01-22T16:53:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-22:/articles/russia-claims-advances-in-ukraines-south-as-allies-stall-on-tank-deliveries-11674392784</id>
-    <content type="html">Moscow said its forces advanced in Ukraine’s southern Zaporizhzhia region as Kyiv’s Western allies continued pressuring Berlin to allow deliveries of German-made tanks to Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russia-claims-advances-in-ukraines-south-as-allies-stall-on-tank-deliveries-11674392784" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
