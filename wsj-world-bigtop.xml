@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-23T16:26:56Z</updated>
+  <updated>2023-01-23T18:22:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-01-23:/articles/russia-presses-attack-in-ukraines-south-while-kyiv-waits-for-weapons-11674472333</id>
     <content type="html">Fighting intensified in Ukraine’s strategically important south, where Moscow claims it is making advances, while Kyiv waits on heavier weapons from its Western allies.</content>
     <link href="https://www.wsj.com/articles/russia-presses-attack-in-ukraines-south-while-kyiv-waits-for-weapons-11674472333" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Brazil Riot Investigators Probe Possible Crimes</title>
-    <updated>2023-01-22T18:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-22:/articles/brazilian-riot-investigators-probe-possible-crimes-against-democracy-11674411600</id>
-    <content type="html">Prosecutors are attempting to determine whether there was a coordinated plan to take power.</content>
-    <link href="https://www.wsj.com/articles/brazilian-riot-investigators-probe-possible-crimes-against-democracy-11674411600" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
