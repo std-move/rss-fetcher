@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-24T16:27:04Z</updated>
+  <updated>2023-01-24T18:23:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.S. Leans Toward Providing Abrams Tanks to Ukraine</title>
-    <updated>2023-01-24T15:36:00Z</updated>
+    <updated>2023-01-24T17:48:00Z</updated>
     <id>tag:www.wsj.com,2023-01-24:/articles/poland-formally-requests-german-permission-to-send-tanks-to-ukraine-11674558492</id>
     <content type="html">An announcement of tank deliveries could come this week, U.S. officials said, part of an understanding with Germany in which Berlin would agree to send its own Leopard 2 tanks.</content>
     <link href="https://www.wsj.com/articles/poland-formally-requests-german-permission-to-send-tanks-to-ukraine-11674558492" rel="alternate"></link>
