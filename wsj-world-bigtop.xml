@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-25T18:22:33Z</updated>
+  <updated>2023-01-25T20:19:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Repels Russian Forces in East</title>
+    <updated>2023-01-25T18:51:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-25:/articles/ukraine-pushes-back-russian-forces-in-east-11674641441</id>
+    <content type="html">Ukrainian forces repelled Russian attempts to advance in the country’s east, the country’s military said, while air-raid sirens across the country raised fears of possible Russian missile attacks.</content>
+    <link href="https://www.wsj.com/articles/ukraine-pushes-back-russian-forces-in-east-11674641441" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In China, Young Women Become Accidental Symbols of Defiance</title>
     <updated>2023-01-25T17:33:00Z</updated>
