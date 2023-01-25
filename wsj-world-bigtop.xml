@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-25T16:26:37Z</updated>
+  <updated>2023-01-25T18:22:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In China, Young Women Become Accidental Symbols of Defiance</title>
+    <updated>2023-01-25T17:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-25:/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983</id>
+    <content type="html">A new generation of novice dissidents—many artists and writers—arrested after demonstrations against pandemic lockdowns is fueled by anger over a clampdown on freedoms and attacks on women’s rights.</content>
+    <link href="https://www.wsj.com/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
