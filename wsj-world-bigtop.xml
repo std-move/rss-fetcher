@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-26T10:20:49Z</updated>
+  <updated>2023-01-26T12:39:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Repels Russian Forces in East</title>
-    <updated>2023-01-26T00:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-26:/articles/ukraine-pushes-back-russian-forces-in-east-11674641441</id>
-    <content type="html">Ukrainian forces repelled Russian attempts to advance in the country’s east, the country’s military said, while air-raid sirens across the country raised fears of possible Russian missile attacks.</content>
-    <link href="https://www.wsj.com/articles/ukraine-pushes-back-russian-forces-in-east-11674641441" rel="alternate"></link>
+    <title>Ukraine Under New Missile Barrage as Russia Warns West About Tank Pledges</title>
+    <updated>2023-01-26T09:57:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-26:/articles/ukraine-under-new-missile-barrage-as-russia-warns-west-about-tank-pledges-11674727074</id>
+    <content type="html">Explosions rocked Kyiv, while officials in Moscow said the latest promises of Western military aid would escalate the conflict.</content>
+    <link href="https://www.wsj.com/articles/ukraine-under-new-missile-barrage-as-russia-warns-west-about-tank-pledges-11674727074" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
