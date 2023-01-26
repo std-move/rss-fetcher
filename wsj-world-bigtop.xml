@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-26T16:25:59Z</updated>
+  <updated>2023-01-26T18:23:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Under New Missile Barrage as Russia Warns West About Tank Pledges</title>
-    <updated>2023-01-26T14:36:00Z</updated>
+    <updated>2023-01-26T17:19:00Z</updated>
     <id>tag:www.wsj.com,2023-01-26:/articles/ukraine-under-new-missile-barrage-as-russia-warns-west-about-tank-pledges-11674727074</id>
     <content type="html">Explosions rocked Kyiv, while officials in Moscow said the latest promises of Western military aid would escalate the conflict.</content>
     <link href="https://www.wsj.com/articles/ukraine-under-new-missile-barrage-as-russia-warns-west-about-tank-pledges-11674727074" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>In China, Young Women Become Accidental Symbols of Defiance</title>
-    <updated>2023-01-25T17:33:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-25:/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983</id>
-    <content type="html">A new generation of novice dissidents—many artists and writers—arrested after demonstrations against pandemic lockdowns is fueled by anger over a clampdown on freedoms and attacks on women’s rights.</content>
-    <link href="https://www.wsj.com/articles/in-china-young-women-become-accidental-symbols-of-defiance-11674667983" rel="alternate"></link>
+    <title>Roman Abramovich&#39;s Long-Shot Effort to Save Ukraine, His Reputation and His Fortune</title>
+    <updated>2023-01-26T14:51:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-26:/articles/roman-abramovich-ukraine-russia-peace-sanctions-11674572583</id>
+    <content type="html">The Russian oligarch has thrown himself into a quest to help stop the war and salvage his reputation in the West. Now his chances to be a middleman for peace are falling, while the pressure on his assets is increasing.</content>
+    <link href="https://www.wsj.com/articles/roman-abramovich-ukraine-russia-peace-sanctions-11674572583" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
