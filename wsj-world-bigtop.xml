@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-25T22:18:58Z</updated>
+  <updated>2023-01-26T01:40:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Repels Russian Forces in East</title>
-    <updated>2023-01-25T18:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-25:/articles/ukraine-pushes-back-russian-forces-in-east-11674641441</id>
+    <updated>2023-01-26T00:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-26:/articles/ukraine-pushes-back-russian-forces-in-east-11674641441</id>
     <content type="html">Ukrainian forces repelled Russian attempts to advance in the country’s east, the country’s military said, while air-raid sirens across the country raised fears of possible Russian missile attacks.</content>
     <link href="https://www.wsj.com/articles/ukraine-pushes-back-russian-forces-in-east-11674641441" rel="alternate"></link>
     <summary type="html"></summary>
