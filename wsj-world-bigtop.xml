@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-27T12:35:52Z</updated>
+  <updated>2023-01-27T14:17:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Under New Missile Barrage as Russia Warns West About Tank Pledges</title>
-    <updated>2023-01-26T21:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-26:/articles/ukraine-under-new-missile-barrage-as-russia-warns-west-about-tank-pledges-11674727074</id>
-    <content type="html">Explosions rocked Kyiv, while officials in Moscow said the latest promises of Western military aid would escalate the conflict.</content>
-    <link href="https://www.wsj.com/articles/ukraine-under-new-missile-barrage-as-russia-warns-west-about-tank-pledges-11674727074" rel="alternate"></link>
+    <title>Ukrainians on Front Lines Look to Western Tanks for Breakthrough</title>
+    <updated>2023-01-27T13:45:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-27:/articles/ukrainian-commanders-on-front-lines-look-to-western-tanks-for-breakthrough-11674827148</id>
+    <content type="html">Kyiv’s push to retake Kreminna in northeastern Ukraine has slowed as Russia brings in fresh troops and strengthens defensive lines around the city.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-commanders-on-front-lines-look-to-western-tanks-for-breakthrough-11674827148" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Roman Abramovich&#39;s Long-Shot Effort to Save Ukraine, His Reputation and His Fortune</title>
-    <updated>2023-01-26T14:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-26:/articles/roman-abramovich-ukraine-russia-peace-sanctions-11674572583</id>
-    <content type="html">The Russian oligarch has thrown himself into a quest to help stop the war and salvage his reputation in the West. Now his chances to be a middleman for peace are falling, while the pressure on his assets is increasing.</content>
-    <link href="https://www.wsj.com/articles/roman-abramovich-ukraine-russia-peace-sanctions-11674572583" rel="alternate"></link>
+    <title>Russia Seeks Gains in Ukraine Before Western Tanks Turn Up</title>
+    <updated>2023-01-27T13:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-27:/articles/russia-seeks-gains-in-ukraine-before-western-tanks-turn-up-11674819725</id>
+    <content type="html">Moscow’s forces pressed an eastern offensive, trying to seize an advantage in the months before tanks pledged by Kyiv’s allies begin to arrive on the battlefield.</content>
+    <link href="https://www.wsj.com/articles/russia-seeks-gains-in-ukraine-before-western-tanks-turn-up-11674819725" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
