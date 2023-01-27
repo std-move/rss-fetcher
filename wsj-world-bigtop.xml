@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-27T18:23:11Z</updated>
+  <updated>2023-01-27T20:19:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Seeks Gains in Ukraine Before Western Tanks Turn Up</title>
-    <updated>2023-01-27T17:41:00Z</updated>
+    <updated>2023-01-27T20:07:00Z</updated>
     <id>tag:www.wsj.com,2023-01-27:/articles/russia-seeks-gains-in-ukraine-before-western-tanks-turn-up-11674819725</id>
     <content type="html">Moscow’s forces pressed an eastern offensive, trying to seize an advantage in the months before tanks pledged by Kyiv’s allies begin to arrive on the battlefield.</content>
     <link href="https://www.wsj.com/articles/russia-seeks-gains-in-ukraine-before-western-tanks-turn-up-11674819725" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>The Alps Plan for a Future Without Skiing</title>
+    <title>Alps Ski Resorts Brace for a Future With Less Snow</title>
     <updated>2023-01-27T17:13:00Z</updated>
     <id>tag:www.wsj.com,2023-01-27:/articles/alps-skiing-resorts-no-snow-season-11674836560</id>
     <content type="html">With snow scarce, some resorts promote biking trails and adventure parks, others try to move their ski runs to higher elevations. Many have closed.</content>
