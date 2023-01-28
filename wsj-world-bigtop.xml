@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-28T18:21:50Z</updated>
+  <updated>2023-01-28T20:18:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Escalates Attack on Bakhmut Area of Ukraine</title>
+    <updated>2023-01-28T17:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-28:/articles/russia-escalates-attack-on-bakhmut-area-as-kyiv-warns-new-offensive-is-imminent-11674923837</id>
+    <content type="html">Ukrainian troops say Russians are trying to encircle the contested city after they failed to take it in months of grinding combat.</content>
+    <link href="https://www.wsj.com/articles/russia-escalates-attack-on-bakhmut-area-as-kyiv-warns-new-offensive-is-imminent-11674923837" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Covert Polish Repair Shop Patching Up Ukrainian Arms</title>
+    <updated>2023-01-28T15:45:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-28:/articles/the-covert-polish-repair-shop-patching-up-ukrainian-arms-11674920742</id>
+    <content type="html">Hundreds of technicians at a sprawling factory complex are working around the clock to repair Ukraine’s artillery and armor and return it to the front line.</content>
+    <link href="https://www.wsj.com/articles/the-covert-polish-repair-shop-patching-up-ukrainian-arms-11674920742" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China&#39;s Displeasure With a Bookseller Follows Him to Florida</title>
     <updated>2023-01-28T11:00:00Z</updated>
     <id>tag:www.wsj.com,2023-01-28:/articles/chinas-displeasure-with-a-bookseller-follows-him-to-florida-11674885303</id>
     <content type="html">Even in the U.S., Yu Miao is facing consequences of his gambit to push against the limits of Chinese censorship.</content>
     <link href="https://www.wsj.com/articles/chinas-displeasure-with-a-bookseller-follows-him-to-florida-11674885303" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Seeks Gains in Ukraine Before Western Tanks Turn Up</title>
-    <updated>2023-01-27T23:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-27:/articles/russia-seeks-gains-in-ukraine-before-western-tanks-turn-up-11674819725</id>
-    <content type="html">Moscow’s forces pressed an eastern offensive, trying to seize an advantage in the months before tanks pledged by Kyiv’s allies begin to arrive on the battlefield.</content>
-    <link href="https://www.wsj.com/articles/russia-seeks-gains-in-ukraine-before-western-tanks-turn-up-11674819725" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Alps Ski Resorts Brace for a Future With Less Snow</title>
-    <updated>2023-01-27T17:13:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-27:/articles/alps-skiing-resorts-no-snow-season-11674836560</id>
-    <content type="html">With snow scarce, some resorts promote biking trails and adventure parks, others try to move their ski runs to higher elevations. Many have closed.</content>
-    <link href="https://www.wsj.com/articles/alps-skiing-resorts-no-snow-season-11674836560" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
