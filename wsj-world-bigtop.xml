@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-28T14:16:00Z</updated>
+  <updated>2023-01-28T16:24:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Shooting at Jerusalem Synagogue Kills Seven People</title>
-    <updated>2023-01-28T00:11:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-28:/articles/jerusalem-attack-shooting-at-synagogue-kills-five-people-11674847488</id>
-    <content type="html">Israeli authorities say the assailant was fatally shot after what they called a terrorist attack.</content>
-    <link href="https://www.wsj.com/articles/jerusalem-attack-shooting-at-synagogue-kills-five-people-11674847488" rel="alternate"></link>
+    <title>China&#39;s Displeasure With a Bookseller Follows Him to Florida</title>
+    <updated>2023-01-28T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-28:/articles/chinas-displeasure-with-a-bookseller-follows-him-to-florida-11674885303</id>
+    <content type="html">Even in the U.S., Yu Miao is facing consequences of his gambit to push against the limits of Chinese censorship.</content>
+    <link href="https://www.wsj.com/articles/chinas-displeasure-with-a-bookseller-follows-him-to-florida-11674885303" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
