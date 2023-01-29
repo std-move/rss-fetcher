@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-29T16:24:43Z</updated>
+  <updated>2023-01-29T18:21:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Tightens Grip Around Bakhmut as Ukraine Awaits Western Tanks</title>
+    <updated>2023-01-29T16:15:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-29:/articles/ukraine-asks-for-longer-range-missiles-as-it-awaits-tank-deliveries-11674990772</id>
+    <content type="html">Kyiv urged the West to provide longer-range firepower to counter Russia’s missile barrages as Russia’s invasion forces tightened the noose around the beleaguered eastern city.</content>
+    <link href="https://www.wsj.com/articles/ukraine-asks-for-longer-range-missiles-as-it-awaits-tank-deliveries-11674990772" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Some Western Backers of Ukraine Worry That Time Might Be on Russia&#39;s Side</title>
     <updated>2023-01-29T10:30:00Z</updated>
