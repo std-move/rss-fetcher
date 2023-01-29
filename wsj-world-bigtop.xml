@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-29T12:34:22Z</updated>
+  <updated>2023-01-29T14:16:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-01-29:/articles/some-western-backers-of-ukraine-worry-that-time-might-be-on-russias-side-11674969063</id>
     <content type="html">Officials in some capitals fear the Kremlin, which is willing to keep throwing men and materiel into the war, could gain the upper hand in any lengthy war of attrition.</content>
     <link href="https://www.wsj.com/articles/some-western-backers-of-ukraine-worry-that-time-might-be-on-russias-side-11674969063" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Covert Polish Repair Shop Patching Up Ukrainian Arms</title>
-    <updated>2023-01-28T15:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-28:/articles/the-covert-polish-repair-shop-patching-up-ukrainian-arms-11674920742</id>
-    <content type="html">Hundreds of technicians at a sprawling factory complex are working around the clock to repair Ukraine’s artillery and armor and return it to the front line.</content>
-    <link href="https://www.wsj.com/articles/the-covert-polish-repair-shop-patching-up-ukrainian-arms-11674920742" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
