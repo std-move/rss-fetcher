@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-30T16:27:11Z</updated>
+  <updated>2023-01-30T18:23:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Zelensky Urges Faster Weapons Deliveries Amid Russian Push</title>
-    <updated>2023-01-30T12:26:00Z</updated>
+    <updated>2023-01-30T17:32:00Z</updated>
     <id>tag:www.wsj.com,2023-01-30:/articles/ukraines-zelensky-urges-faster-weapons-deliveries-amid-russian-push-11675081597</id>
     <content type="html">Russian forces have battered Ukrainian positions in recent weeks, pushing for a breakthrough before tanks pledged by Kyiv’s partners begin to arrive on the battlefield.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-urges-faster-weapons-deliveries-amid-russian-push-11675081597" rel="alternate"></link>
