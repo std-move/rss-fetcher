@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-31T14:17:43Z</updated>
+  <updated>2023-01-31T16:27:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Fends Off Russian Assaults in the East</title>
-    <updated>2023-01-31T13:26:00Z</updated>
+    <updated>2023-01-31T15:53:00Z</updated>
     <id>tag:www.wsj.com,2023-01-31:/articles/ukraine-fends-off-russian-assault-in-the-east-11675162740</id>
     <content type="html">Kyiv said its forces had repelled multiple Russian attacks around Bakhmut, as Moscow’s troops pushed to encircle the besieged city.</content>
     <link href="https://www.wsj.com/articles/ukraine-fends-off-russian-assault-in-the-east-11675162740" rel="alternate"></link>
@@ -16,7 +16,7 @@
     <title>In Besieged Bakhmut, Everyday Life Is a Struggle to Survive</title>
     <updated>2023-01-31T11:45:00Z</updated>
     <id>tag:www.wsj.com,2023-01-31:/articles/in-besieged-bakhmut-everyday-life-is-a-struggle-to-survive-11675165522</id>
-    <content type="html">A city of some 80,000 before the war, Bakhmut is now home to barely a few thousand who endure hardship every day, as Russian forces press forward house by house and bombard it with artillery.</content>
+    <content type="html">A city of some 80,000 before the war, the eastern Ukrainian city is now home to barely a few thousand who endure hardship every day, as Russian forces press forward house by house and bombard it with artillery.</content>
     <link href="https://www.wsj.com/articles/in-besieged-bakhmut-everyday-life-is-a-struggle-to-survive-11675165522" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
