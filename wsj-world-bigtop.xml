@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-31T16:27:09Z</updated>
+  <updated>2023-01-31T18:23:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>French Workers Mount New Strike Against Macron&#39;s Pension Overhaul</title>
+    <updated>2023-01-31T17:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-31:/articles/france-workers-strike-macron-retirement-age-11675157389</id>
+    <content type="html">Striking teachers and railway, health and oil workers staged marches in dozens of cities as a part of a nationwide day of action called by unions to force the government to back down.</content>
+    <link href="https://www.wsj.com/articles/france-workers-strike-macron-retirement-age-11675157389" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Fends Off Russian Assaults in the East</title>
     <updated>2023-01-31T15:53:00Z</updated>
     <id>tag:www.wsj.com,2023-01-31:/articles/ukraine-fends-off-russian-assault-in-the-east-11675162740</id>
     <content type="html">Kyiv said its forces had repelled multiple Russian attacks around Bakhmut, as Moscow’s troops pushed to encircle the besieged city.</content>
     <link href="https://www.wsj.com/articles/ukraine-fends-off-russian-assault-in-the-east-11675162740" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Iran&#39;s Deadly Street Protests Are Replaced by Quiet Acts of Rebellion</title>
+    <updated>2023-01-31T15:07:00Z</updated>
+    <id>tag:www.wsj.com,2023-01-31:/articles/iran-protests-hijab-11675177547</id>
+    <content type="html">Arrests and executions have smothered organized demonstrations, yet thousands of women in Tehran have abandoned compulsory headscarves in protest.</content>
+    <link href="https://www.wsj.com/articles/iran-protests-hijab-11675177547" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
