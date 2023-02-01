@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-01T12:38:47Z</updated>
+  <updated>2023-02-01T14:18:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>French Workers Mount New Strike Against Macron&#39;s Pension Overhaul</title>
-    <updated>2023-01-31T19:26:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-31:/articles/france-workers-strike-macron-retirement-age-11675157389</id>
-    <content type="html">Striking teachers and railway, health and oil workers staged marches in dozens of cities as a part of a nationwide day of action called by unions to force the government to back down.</content>
-    <link href="https://www.wsj.com/articles/france-workers-strike-macron-retirement-age-11675157389" rel="alternate"></link>
+    <title>Ukraine Braces for Major Russian Offensive</title>
+    <updated>2023-02-01T09:31:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-01:/articles/ukraine-braces-for-major-russian-offensive-11675243895</id>
+    <content type="html">Russia is preparing to launch a major new offensive against Ukraine in the coming weeks, a top Ukrainian security official said.</content>
+    <link href="https://www.wsj.com/articles/ukraine-braces-for-major-russian-offensive-11675243895" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
