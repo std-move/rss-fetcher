@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-01T16:26:33Z</updated>
+  <updated>2023-02-01T18:24:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Braces for Major Russian Offensive</title>
-    <updated>2023-02-01T09:31:00Z</updated>
+    <updated>2023-02-01T18:10:00Z</updated>
     <id>tag:www.wsj.com,2023-02-01:/articles/ukraine-braces-for-major-russian-offensive-11675243895</id>
-    <content type="html">Russia is preparing to launch a major new offensive against Ukraine in the coming weeks, a top Ukrainian security official said.</content>
+    <content type="html">A top Ukrainian security official said that Russia is preparing for what he called maximum escalation.</content>
     <link href="https://www.wsj.com/articles/ukraine-braces-for-major-russian-offensive-11675243895" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
