@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-01-31T22:18:15Z</updated>
+  <updated>2023-02-01T01:53:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Fends Off Russian Assaults in the East</title>
-    <updated>2023-01-31T19:31:00Z</updated>
-    <id>tag:www.wsj.com,2023-01-31:/articles/ukraine-fends-off-russian-assault-in-the-east-11675162740</id>
-    <content type="html">Kyiv said its forces had repelled multiple Russian attacks around Bakhmut, as Moscow’s troops pushed to encircle the besieged city.</content>
-    <link href="https://www.wsj.com/articles/ukraine-fends-off-russian-assault-in-the-east-11675162740" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>French Workers Mount New Strike Against Macron&#39;s Pension Overhaul</title>
     <updated>2023-01-31T19:26:00Z</updated>
