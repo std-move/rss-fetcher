@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-02T14:17:48Z</updated>
+  <updated>2023-02-02T16:27:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Claims Gains in Battle for Bakhmut</title>
+    <updated>2023-02-02T15:40:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-02:/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393</id>
+    <content type="html">Russian forces said they had made new advances in their effort to encircle the eastern Ukrainian city, while European leaders arrived in Kyiv to discuss further military aid.</content>
+    <link href="https://www.wsj.com/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How a Radioactive Capsule Was Lost and Found in the Australian Outback</title>
+    <updated>2023-02-02T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-02:/articles/how-a-radioactive-capsule-was-lost-and-improbably-found-in-the-australian-outback-11675342218</id>
+    <content type="html">Authorities now want to know how the tiny cylinder shook loose from a truck and whether anyone is to blame.</content>
+    <link href="https://www.wsj.com/articles/how-a-radioactive-capsule-was-lost-and-improbably-found-in-the-australian-outback-11675342218" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Fears of Losing Out to China Put U.S. Under Pressure Over Kenya Base</title>
     <updated>2023-02-02T10:30:00Z</updated>
     <id>tag:www.wsj.com,2023-02-02:/articles/fears-of-losing-out-to-china-put-u-s-under-pressure-over-kenya-base-11675313752</id>
     <content type="html">Kenya is asking the U.S. to pay for the expansion of a joint counterterrorism base, raising concerns in Washington that the East African country could turn to China if the Americans balk. </content>
     <link href="https://www.wsj.com/articles/fears-of-losing-out-to-china-put-u-s-under-pressure-over-kenya-base-11675313752" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Claims Gains in Battle for Bakhmut</title>
-    <updated>2023-02-02T10:12:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-02:/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393</id>
-    <content type="html">Russian forces said they had made new advances in their effort to encircle the eastern Ukrainian city of Bakhmut, while European leaders arrived in Kyiv to discuss further military aid. </content>
-    <link href="https://www.wsj.com/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
