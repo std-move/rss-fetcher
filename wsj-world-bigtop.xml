@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-02T10:21:09Z</updated>
+  <updated>2023-02-02T12:39:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How Gautam Adani Made (and Could Lose) a $147 Billion Fortune</title>
+    <title>Russia Claims Gains in Battle for Bakhmut</title>
+    <updated>2023-02-02T10:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-02:/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393</id>
+    <content type="html">Russian forces said they had made new advances in their effort to encircle the eastern Ukrainian city of Bakhmut, while European leaders arrived in Kyiv to discuss further military aid. </content>
+    <link href="https://www.wsj.com/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gautam Adani&#39;s $147 Billion Fortune Is Eroding Swiftly</title>
     <updated>2023-02-01T18:22:00Z</updated>
     <id>tag:www.wsj.com,2023-02-01:/articles/gautam-adani-fortune-hindenburg-modi-11675269600</id>
     <content type="html">The Indian businessman built an empire, the Adani Group, by working closely with the Modi government. A critical report by a U.S. short seller has put it at risk.</content>
