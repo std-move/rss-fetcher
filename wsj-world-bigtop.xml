@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-03T16:26:51Z</updated>
+  <updated>2023-02-03T18:23:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,19 +13,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>One Father&#39;s Desperate Plan to Rescue His Son From America</title>
+    <updated>2023-02-03T14:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-03:/articles/one-fathers-desperate-plan-to-rescue-his-son-from-america-11675436043</id>
+    <content type="html">The Saleban family left Minnesota for Somaliland, where disobeying parents is illegal and carries a maximum penalty of six months in prison. “I am going to show you that Africa is not like America.”</content>
+    <link href="https://www.wsj.com/articles/one-fathers-desperate-plan-to-rescue-his-son-from-america-11675436043" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Ukraine Hopes New Bombs From U.S. Will Help It Push Back Russia</title>
     <updated>2023-02-03T10:23:00Z</updated>
     <id>tag:www.wsj.com,2023-02-03:/articles/ukraine-hopes-new-bombs-from-u-s-will-help-it-push-back-russia-11675419834</id>
     <content type="html">Ukraine last summer stunned Russian troops with precision strikes from U.S.-supplied Himars mobile rocket launchers. Now an even more potent rocket system holds the potential to re-energize Kyiv’s troops.</content>
     <link href="https://www.wsj.com/articles/ukraine-hopes-new-bombs-from-u-s-will-help-it-push-back-russia-11675419834" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fears of Losing Out to China Put U.S. Under Pressure Over Kenya Base</title>
-    <updated>2023-02-02T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-02:/articles/fears-of-losing-out-to-china-put-u-s-under-pressure-over-kenya-base-11675313752</id>
-    <content type="html">Kenya is asking the U.S. to pay for the expansion of a joint counterterrorism base, raising concerns in Washington that the East African country could turn to China if the Americans balk. </content>
-    <link href="https://www.wsj.com/articles/fears-of-losing-out-to-china-put-u-s-under-pressure-over-kenya-base-11675313752" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
