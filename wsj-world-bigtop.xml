@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-03T20:20:05Z</updated>
+  <updated>2023-02-03T22:18:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russian Forces Strengthen Positions as Ukraine Braces for New Offensive</title>
-    <updated>2023-02-03T18:56:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-03:/articles/russian-forces-strengthen-positions-as-ukraine-braces-for-new-offensive-11675424679</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky warned his country to prepare for a wider onslaught nearly one year since the start of the war.</content>
-    <link href="https://www.wsj.com/articles/russian-forces-strengthen-positions-as-ukraine-braces-for-new-offensive-11675424679" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>One Father&#39;s Desperate Plan to Rescue His Son From America</title>
     <updated>2023-02-03T14:54:00Z</updated>
