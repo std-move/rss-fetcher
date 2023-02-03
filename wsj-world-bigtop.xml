@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-03T14:17:49Z</updated>
+  <updated>2023-02-03T16:26:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Claims Gains in Battle for Bakhmut</title>
-    <updated>2023-02-02T19:21:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-02:/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393</id>
-    <content type="html">Russian forces said they had made new advances in their effort to encircle the eastern Ukrainian city, while European leaders arrived in Kyiv to discuss further military aid.</content>
-    <link href="https://www.wsj.com/articles/russia-claims-gains-in-battle-for-bakhmut-11675331393" rel="alternate"></link>
+    <title>Russian Forces Strengthen Positions as Ukraine Braces for New Offensive</title>
+    <updated>2023-02-03T15:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-03:/articles/russian-forces-strengthen-positions-as-ukraine-braces-for-new-offensive-11675424679</id>
+    <content type="html">Ukrainian President Volodymyr Zelensky warned his country to prepare for a wider onslaught nearly one year since the start of the war.</content>
+    <link href="https://www.wsj.com/articles/russian-forces-strengthen-positions-as-ukraine-braces-for-new-offensive-11675424679" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Hopes New Bombs From U.S. Will Help It Push Back Russia</title>
+    <updated>2023-02-03T10:23:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-03:/articles/ukraine-hopes-new-bombs-from-u-s-will-help-it-push-back-russia-11675419834</id>
+    <content type="html">Ukraine last summer stunned Russian troops with precision strikes from U.S.-supplied Himars mobile rocket launchers. Now an even more potent rocket system holds the potential to re-energize Kyiv’s troops.</content>
+    <link href="https://www.wsj.com/articles/ukraine-hopes-new-bombs-from-u-s-will-help-it-push-back-russia-11675419834" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
