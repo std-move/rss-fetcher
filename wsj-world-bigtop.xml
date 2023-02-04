@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-04T16:25:11Z</updated>
+  <updated>2023-02-04T18:22:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Band of Barbers, Judges and Security Guards Uses Soviet-Era Guns to Repel Russian Drones</title>
+    <updated>2023-02-04T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-04:/articles/band-of-barbers-judges-and-security-guards-uses-soviet-era-guns-to-repel-russian-drones-11675485324</id>
+    <content type="html">Groups of volunteers play a key role in a battle taking place far from the war’s front lines: protecting Ukraine from Russian drones and missiles targeting the civilian infrastructure.</content>
+    <link href="https://www.wsj.com/articles/band-of-barbers-judges-and-security-guards-uses-soviet-era-guns-to-repel-russian-drones-11675485324" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>One Father&#39;s Desperate Plan to Rescue His Son From America</title>
     <updated>2023-02-03T14:54:00Z</updated>
