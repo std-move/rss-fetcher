@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-05T16:24:47Z</updated>
+  <updated>2023-02-05T18:21:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine War Makes Unexpected Winner of Turkey&#39;s Erdogan</title>
+    <updated>2023-02-05T16:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-05:/articles/tukey-erdogan-putin-russia-ukraine-war-11675614201</id>
+    <content type="html">The Turkish president has leveraged his closeness with Putin to expand his international influence and shore up Turkey’s faltering economy.</content>
+    <link href="https://www.wsj.com/articles/tukey-erdogan-putin-russia-ukraine-war-11675614201" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>More Russian Migrants Enter U.S. as Exceptions for Asylum Seekers Expand</title>
+    <updated>2023-02-05T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-05:/articles/more-russian-migrants-enter-u-s-as-exceptions-for-asylum-seekers-expand-11675605442</id>
+    <content type="html">More Russian migrants are traveling through Mexico to seek asylum in the U.S., taking advantage of expanded exemptions to Title 42 border restrictions.</content>
+    <link href="https://www.wsj.com/articles/more-russian-migrants-enter-u-s-as-exceptions-for-asylum-seekers-expand-11675605442" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
