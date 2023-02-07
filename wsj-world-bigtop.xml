@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-07T14:17:42Z</updated>
+  <updated>2023-02-07T16:27:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Turkey Declares State of Emergency in Quake-Hit Regions</title>
-    <updated>2023-02-07T13:09:00Z</updated>
+    <updated>2023-02-07T15:13:00Z</updated>
     <id>tag:www.wsj.com,2023-02-07:/articles/earthquake-rescue-efforts-in-turkey-syria-hampered-by-snowstorm-11675758235</id>
     <content type="html">Snowfall and blocked roads hindered efforts to respond to two powerful earthquakes that killed more than 5,150 people in southern Turkey and northern Syria, leading Turkey’s president to declare a three-month state of emergency in affected areas.</content>
     <link href="https://www.wsj.com/articles/earthquake-rescue-efforts-in-turkey-syria-hampered-by-snowstorm-11675758235" rel="alternate"></link>
@@ -14,26 +14,10 @@
   </entry>
   <entry>
     <title>Russia Pushes on Several Fronts in Ukraine</title>
-    <updated>2023-02-07T11:47:00Z</updated>
+    <updated>2023-02-07T14:34:00Z</updated>
     <id>tag:www.wsj.com,2023-02-07:/articles/russia-pushes-on-several-fronts-in-ukraine-11675770451</id>
     <content type="html">Russian forces launched multiple attacks in eastern Ukraine, pushing for a breakthrough on the battlefield ahead of the delivery of new Western weapons.</content>
     <link href="https://www.wsj.com/articles/russia-pushes-on-several-fronts-in-ukraine-11675770451" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Thailand Pins Hopes on Return of Chinese Tourists</title>
-    <updated>2023-02-07T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-07:/articles/thailand-pins-hopes-on-return-of-long-missed-chinese-tourists-11675708696</id>
-    <content type="html">Vacationers from China, absent for years because of Beijing’s strict zero-Covid policy, are vital to the revival of the country’s travel industry.</content>
-    <link href="https://www.wsj.com/articles/thailand-pins-hopes-on-return-of-long-missed-chinese-tourists-11675708696" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The U.K.&#39;s Government-Run Healthcare Service Is in Crisis</title>
-    <updated>2023-02-06T15:35:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-06:/articles/nhs-uk-national-health-service-strike-costs-11675693883</id>
-    <content type="html">Ill children turned away from hospitals. Three-day-long emergency room waits. Nurses on strike. The NHS is struggling under the effects of budget cuts, Covid delays and an aging population.</content>
-    <link href="https://www.wsj.com/articles/nhs-uk-national-health-service-strike-costs-11675693883" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
