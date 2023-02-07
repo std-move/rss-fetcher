@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-07T18:24:06Z</updated>
+  <updated>2023-02-07T20:20:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Turkey Declares State of Emergency in Quake-Hit Regions</title>
-    <updated>2023-02-07T18:00:00Z</updated>
+    <updated>2023-02-07T19:31:00Z</updated>
     <id>tag:www.wsj.com,2023-02-07:/articles/earthquake-rescue-efforts-in-turkey-syria-hampered-by-snowstorm-11675758235</id>
-    <content type="html">Snowfall and blocked roads hindered efforts to respond to two powerful earthquakes that killed more than 6,250 people in southern Turkey and northern Syria, leading Turkey’s president to declare a three-month state of emergency in affected areas.</content>
+    <content type="html">Snowfall and blocked roads hindered efforts to respond to two powerful earthquakes that killed more than 7,100 people in southern Turkey and northern Syria, leading Turkey’s president to declare a three-month state of emergency in affected areas.</content>
     <link href="https://www.wsj.com/articles/earthquake-rescue-efforts-in-turkey-syria-hampered-by-snowstorm-11675758235" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Russia Pushes on Several Fronts in Ukraine</title>
-    <updated>2023-02-07T16:59:00Z</updated>
+    <updated>2023-02-07T18:40:00Z</updated>
     <id>tag:www.wsj.com,2023-02-07:/articles/russia-pushes-on-several-fronts-in-ukraine-11675770451</id>
-    <content type="html">Russian forces launched multiple attacks in eastern Ukraine, pushing for a breakthrough on the battlefield ahead of the delivery of new Western weapons.</content>
+    <content type="html">Russian forces launched several attacks in eastern Ukraine, pushing for a breakthrough on the battlefield ahead of the delivery of new Western weapons.</content>
     <link href="https://www.wsj.com/articles/russia-pushes-on-several-fronts-in-ukraine-11675770451" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
