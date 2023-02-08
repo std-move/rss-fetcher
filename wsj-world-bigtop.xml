@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-08T20:21:16Z</updated>
+  <updated>2023-02-08T22:18:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-02-08:/articles/russian-forces-press-ukrainian-defense-in-northeast-11675852202</id>
     <content type="html">Moscow is seeking to gain an advantage ahead of the arrival of more powerful weapons in Ukraine from the West.</content>
     <link href="https://www.wsj.com/articles/russian-forces-press-ukrainian-defense-in-northeast-11675852202" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rescue Teams Race to Find Earthquake Survivors in Turkey, Syria</title>
-    <updated>2023-02-08T16:49:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-08:/articles/rescue-teams-race-against-time-to-find-survivors-11675840896</id>
-    <content type="html">The death toll from the earthquakes that struck Turkey and Syria rose past 11,700 and is expected to continue climbing, as freezing temperatures continued to complicate humanitarian efforts.  </content>
-    <link href="https://www.wsj.com/articles/rescue-teams-race-against-time-to-find-survivors-11675840896" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
