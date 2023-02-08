@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-08T08:25:28Z</updated>
+  <updated>2023-02-08T10:23:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Turkey, Syria Confront Earthquakes&#39; Devastation---&#39;I Buried My Kids Today&#39;</title>
+    <updated>2023-02-08T10:17:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-08:/articles/turkey-syria-deal-with-earthquakes-devastationi-buried-my-kids-today-11675813760</id>
+    <content type="html">Residents of the hardest-hit areas dig through the wreckage of their flattened homes.</content>
+    <link href="https://www.wsj.com/articles/turkey-syria-deal-with-earthquakes-devastationi-buried-my-kids-today-11675813760" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Turkey Declares State of Emergency in Quake-Hit Regions</title>
     <updated>2023-02-08T00:44:00Z</updated>
     <id>tag:www.wsj.com,2023-02-08:/articles/earthquake-rescue-efforts-in-turkey-syria-hampered-by-snowstorm-11675758235</id>
     <content type="html">Snowfall and blocked roads hindered efforts to respond to two powerful earthquakes that killed more than 7,500 people in southern Turkey and northern Syria.</content>
     <link href="https://www.wsj.com/articles/earthquake-rescue-efforts-in-turkey-syria-hampered-by-snowstorm-11675758235" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Turkey, Syria Confront Earthquakes&#39; Devastation---&#39;I Buried My Kids Today&#39;</title>
-    <updated>2023-02-08T00:26:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-08:/articles/turkey-syria-deal-with-earthquakes-devastationi-buried-my-kids-today-11675813760</id>
-    <content type="html">Residents of the hardest-hit areas dig through the wreckage of their flattened homes.</content>
-    <link href="https://www.wsj.com/articles/turkey-syria-deal-with-earthquakes-devastationi-buried-my-kids-today-11675813760" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
