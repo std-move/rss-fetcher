@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-02-11T10:19:19Z</updated>
+  <updated>2023-02-11T12:34:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Kenyan Refugee Complex Swells as Drought Hits Somalia</title>
+    <updated>2023-02-11T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-11:/articles/vast-refugee-camp-in-kenya-swells-as-drought-hits-somalia-86acea91</id>
+    <content type="html">A group of camps dating to the 1990s, housing 325,000 people, is growing to accommodate new arrivals fleeing drought and a Somali offensive against al-Shabaab.</content>
+    <link href="https://www.wsj.com/articles/vast-refugee-camp-in-kenya-swells-as-drought-hits-somalia-86acea91" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
