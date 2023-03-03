@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-02T22:18:53Z</updated>
+  <updated>2023-03-03T03:31:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>What Is Fentanyl and Why Is It So Dangerous?</title>
+    <updated>2023-02-28T18:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-28:/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650</id>
+    <content type="html">What to know about the opioid drug responsible for a surge in overdoses.</content>
+    <link href="https://www.wsj.com/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Follow the Heard on the Street Picks</title>
+    <updated>2023-02-27T19:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-27:/articles/the-wsj-stock-picking-contest-11660249192</id>
+    <content type="html">See the best ideas from our columnists as they compete to find the winning stock.</content>
+    <link href="https://www.wsj.com/articles/the-wsj-stock-picking-contest-11660249192" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>6 Affordable Golf Courses That Won&#39;t Sink You</title>
+    <updated>2023-02-22T17:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-02-22:/articles/best-affordable-golf-courses-43d16b88</id>
+    <content type="html">The cost of tee time has shot up as courses adopt dynamic pricing. To score a desirable slot for far less, consider these world-class (but still reasonable) fairways, from Texas to Hawaii.</content>
+    <link href="https://www.wsj.com/articles/best-affordable-golf-courses-43d16b88" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
