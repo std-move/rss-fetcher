@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T20:20:14Z</updated>
+  <updated>2023-03-28T22:17:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Aspen Home Asks $41 Million---More Than Double What It Sold for in 2019</title>
-    <updated>2023-03-28T20:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/aspen-home-asks-41-millionmore-than-double-what-it-sold-for-in-2019-e9fd4ec0</id>
-    <content type="html">The Colorado ski destination’s luxury market continues its hot streak.</content>
-    <link href="https://www.wsj.com/articles/aspen-home-asks-41-millionmore-than-double-what-it-sold-for-in-2019-e9fd4ec0" rel="alternate"></link>
+    <title>&#39;Succession&#39; Star J. Smith-Cameron Discovered Acting After a High-School Dare</title>
+    <updated>2023-03-28T21:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/succession-star-j-smith-cameron-discovered-acting-after-a-high-school-dare-5c4a536c</id>
+    <content type="html">The actress on serial moves, playing the violin and shedding an image of mystery in school.</content>
+    <link href="https://www.wsj.com/articles/succession-star-j-smith-cameron-discovered-acting-after-a-high-school-dare-5c4a536c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>How Israel&#39;s Citizen Soldiers Forced Netanyahu to Retreat on Judicial Overhaul</title>
-    <updated>2023-03-28T18:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/how-israels-citizen-soldiers-forced-netanyahu-to-retreat-on-judicial-overhaul-21d55e4e</id>
-    <content type="html">Military reservists played a pivotal role in derailing legislation that would have altered the balance of power between the government and the courts.</content>
-    <link href="https://www.wsj.com/articles/how-israels-citizen-soldiers-forced-netanyahu-to-retreat-on-judicial-overhaul-21d55e4e" rel="alternate"></link>
+    <title>&#39;Tranq&#39; Surges in U.S., Causing Wounds and Amputations</title>
+    <updated>2023-03-28T21:14:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/tranq-xylazine-fentanyl-wounds-injuries-647176d4</id>
+    <content type="html">Nurses treat xylazine wounds at home for users at the fringes of the healthcare system.</content>
+    <link href="https://www.wsj.com/articles/tranq-xylazine-fentanyl-wounds-injuries-647176d4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
