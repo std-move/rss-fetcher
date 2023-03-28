@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T10:21:12Z</updated>
+  <updated>2023-03-28T12:38:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>New Shell CEO Faces Big Dilemma: Should the Company Pump More Oil?</title>
-    <updated>2023-03-28T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/new-shell-ceo-faces-big-dilemma-should-the-company-pump-more-oil-9fa35497</id>
-    <content type="html">Wael Sawan says he knows some people are going to be unhappy when he completes his business plan for the energy giant.</content>
-    <link href="https://www.wsj.com/articles/new-shell-ceo-faces-big-dilemma-should-the-company-pump-more-oil-9fa35497" rel="alternate"></link>
+    <title>Concertgoers Are Behaving Badly. Blame TikTok.</title>
+    <updated>2023-03-28T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/concertgoers-are-behaving-badly-blame-tiktok-11ce4737</id>
+    <content type="html">It isn’t just about the music anymore: Fans want their viral moment with a superstar.</content>
+    <link href="https://www.wsj.com/articles/concertgoers-are-behaving-badly-blame-tiktok-11ce4737" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Youngest Head Coach in European Soccer Is 30 Years Old---and Nearly Undefeated</title>
+    <updated>2023-03-28T11:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/will-still-youngest-manager-reims-france-807ede51</id>
+    <content type="html">Stade de Reims coach Will Still has lost just once in the French league this season. His lack of pro certifications mean the club pays a €25,000 fine every match.</content>
+    <link href="https://www.wsj.com/articles/will-still-youngest-manager-reims-france-807ede51" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Says Bakhmut Tactics Will Give It Advantages Elsewhere</title>
+    <updated>2023-03-28T11:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/ukraine-says-bakhmut-tactics-will-give-it-advantages-elsewhere-e73a7a74</id>
+    <content type="html">Kyiv’s efforts to exhaust and deplete Russian forces in the eastern city will help it reclaim other territory in the country, a Ukrainian commander said.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-bakhmut-tactics-will-give-it-advantages-elsewhere-e73a7a74" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Jobs Most Exposed to ChatGPT</title>
+    <updated>2023-03-28T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/the-jobs-most-exposed-to-chatgpt-e7ceebf0</id>
+    <content type="html">A new study finds that AI tools could more quickly handle at least half of the tasks that auditors, interpreters and writers do now.</content>
+    <link href="https://www.wsj.com/articles/the-jobs-most-exposed-to-chatgpt-e7ceebf0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
