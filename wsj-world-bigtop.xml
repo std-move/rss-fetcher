@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T01:36:46Z</updated>
+  <updated>2023-03-28T02:37:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Follow the Heard on the Street Picks</title>
-    <updated>2023-03-10T22:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-10:/articles/the-wsj-stock-picking-contest-11660249192</id>
-    <content type="html">See the best ideas from our columnists as they compete to find the winning stock.</content>
-    <link href="https://www.wsj.com/articles/the-wsj-stock-picking-contest-11660249192" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China and Taiwan Relations Explained: What&#39;s Behind the Divide</title>
-    <updated>2023-03-10T10:55:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-10:/articles/china-taiwan-relations-tensions-explained-11653322751</id>
-    <content type="html">Beijing is flexing its military power in response to growing U.S. support for the island. Here’s a primer on the frictions.</content>
-    <link href="https://www.wsj.com/articles/china-taiwan-relations-tensions-explained-11653322751" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pull the Kids Out of School for a Family Vacation? These Parents Do</title>
-    <updated>2023-03-07T15:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-07:/articles/disney-trip-school-vacation-educational-1375c2d6</id>
-    <content type="html">To dodge higher costs and crowds, many moms and dads let their children skip school; frame Disney as educational?</content>
-    <link href="https://www.wsj.com/articles/disney-trip-school-vacation-educational-1375c2d6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What Is Fentanyl and Why Is It So Dangerous?</title>
-    <updated>2023-02-28T18:35:00Z</updated>
-    <id>tag:www.wsj.com,2023-02-28:/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650</id>
-    <content type="html">What to know about the opioid drug responsible for a surge in overdoses.</content>
-    <link href="https://www.wsj.com/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
