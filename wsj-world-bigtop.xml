@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T04:22:49Z</updated>
+  <updated>2023-03-28T06:24:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-03-28:/articles/strike-called-flights-grounded-in-israel-over-netanyahus-judicial-overhaul-plan-e8c95930</id>
     <content type="html">Prime Minister Netanyahu suspended a controversial judicial-overhaul plan in a bid to pull Israel back from the brink after mass protests and strikes rocked the nation. </content>
     <link href="https://www.wsj.com/articles/strike-called-flights-grounded-in-israel-over-netanyahus-judicial-overhaul-plan-e8c95930" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Explosions shook Russian-occupied cities in southern Ukraine, while a Russian missile strike killed at least two people and injured 29 in the eastern city of Slovyansk, Ukrainian officials said.</title>
-    <updated>2023-03-28T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/strikes-hit-russian-occupied-ukraine-as-kyiv-prepares-new-offensive-6d942f4e</id>
-    <content type="html">Explosions shook Russian-occupied cities in southern Ukraine, while a Russian missile strike killed at least two people and injured 29 in the eastern city of Slovyansk, Ukrainian officials said.</content>
-    <link href="https://www.wsj.com/articles/strikes-hit-russian-occupied-ukraine-as-kyiv-prepares-new-offensive-6d942f4e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
