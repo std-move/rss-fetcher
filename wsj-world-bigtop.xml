@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T16:33:24Z</updated>
+  <updated>2023-03-28T18:23:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Hotel-Quality Vacation Rentals, Without the Hotel</title>
-    <updated>2023-03-28T16:10:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/luxury-rentals-like-resorts-f5652893</id>
-    <content type="html">Luxury renters seek out properties with resort-like amenities.</content>
-    <link href="https://www.wsj.com/articles/luxury-rentals-like-resorts-f5652893" rel="alternate"></link>
+    <title>Rapper Pras Michel Is Unlikely Defendant in Case of International Skulduggery</title>
+    <updated>2023-03-28T17:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/rapper-pras-michel-is-unlikely-defendant-in-case-of-international-skulduggery-bfb44c22</id>
+    <content type="html">The multibillion-dollar 1MDB scandal and dealings with fugitive financier Jho Low have brought down political leaders and international bankers. Will the former Fugees rapper be next?</content>
+    <link href="https://www.wsj.com/articles/rapper-pras-michel-is-unlikely-defendant-in-case-of-international-skulduggery-bfb44c22" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Says Bakhmut Tactics Will Give It Advantages Elsewhere</title>
-    <updated>2023-03-28T15:42:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/ukraine-says-bakhmut-tactics-will-give-it-advantages-elsewhere-e73a7a74</id>
-    <content type="html">Kyiv’s efforts to exhaust and deplete Russian forces in the eastern city will help it reclaim other territory in the country, a Ukrainian commander said.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-bakhmut-tactics-will-give-it-advantages-elsewhere-e73a7a74" rel="alternate"></link>
+    <title>Two Florida Towns Vie to Be Center of the Equestrian World</title>
+    <updated>2023-03-28T17:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/two-florida-towns-vie-to-be-center-of-the-equestrian-world-41c54136</id>
+    <content type="html">A competition between Wellington and Ocala for horse-riding events and well-heeled residents is heating up.</content>
+    <link href="https://www.wsj.com/articles/two-florida-towns-vie-to-be-center-of-the-equestrian-world-41c54136" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
