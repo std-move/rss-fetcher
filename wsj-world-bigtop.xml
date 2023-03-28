@@ -1,63 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T14:18:50Z</updated>
+  <updated>2023-03-28T16:33:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Rapper Pras Michel Is Unlikely Defendant in Case of International Skulduggery</title>
-    <updated>2023-03-28T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/rapper-pras-michel-is-unlikely-defendant-in-case-of-international-skulduggery-bfb44c22</id>
-    <content type="html">The multibillion-dollar 1MDB scandal and dealings with fugitive financier Jho Low have brought down political leaders and international bankers. Will the former Fugees rapper be next?</content>
-    <link href="https://www.wsj.com/articles/rapper-pras-michel-is-unlikely-defendant-in-case-of-international-skulduggery-bfb44c22" rel="alternate"></link>
+    <title>Hotel-Quality Vacation Rentals, Without the Hotel</title>
+    <updated>2023-03-28T16:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/luxury-rentals-like-resorts-f5652893</id>
+    <content type="html">Luxury renters seek out properties with resort-like amenities.</content>
+    <link href="https://www.wsj.com/articles/luxury-rentals-like-resorts-f5652893" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Lockheed Martin Bets on Moon Missions</title>
-    <updated>2023-03-28T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/lockheed-martin-bets-on-moon-missions-fc8f54a3</id>
-    <content type="html">Government spending has helped spur private-sector investments in a range of products and services for future lunar missions.</content>
-    <link href="https://www.wsj.com/articles/lockheed-martin-bets-on-moon-missions-fc8f54a3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cold or Warm Water? A Laundry Dispute Enters the Spin Cycle</title>
-    <updated>2023-03-28T13:55:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/laundry-cold-warm-water-detergent-d8fc8eb9</id>
-    <content type="html">A detergent brand tumbles into the fray to argue that cool water saves costs and energy.</content>
-    <link href="https://www.wsj.com/articles/laundry-cold-warm-water-detergent-d8fc8eb9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What Is Fentanyl and Why Is It So Dangerous?</title>
-    <updated>2023-03-28T13:42:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650</id>
-    <content type="html">What to know about the opioid drug responsible for a surge in overdoses.</content>
-    <link href="https://www.wsj.com/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Times Square Office Building Is New York&#39;s Latest Migrant Shelter</title>
-    <updated>2023-03-28T13:11:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/times-square-office-building-is-new-yorks-latest-migrant-shelter-ddcef3f8</id>
-    <content type="html">The city is now in talks with houses of worship to provide accommodation for hundreds of asylum seekers in sanctuaries and parish halls.</content>
-    <link href="https://www.wsj.com/articles/times-square-office-building-is-new-yorks-latest-migrant-shelter-ddcef3f8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Two Florida Towns Vie to Be Center of the Equestrian World</title>
-    <updated>2023-03-28T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/two-florida-towns-vie-to-be-center-of-the-equestrian-world-41c54136</id>
-    <content type="html">A competition between Wellington and Ocala for horse-riding events and well-heeled residents is heating up.</content>
-    <link href="https://www.wsj.com/articles/two-florida-towns-vie-to-be-center-of-the-equestrian-world-41c54136" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rapid U.S. Warehouse Growth Sparks Resident Backlash</title>
-    <updated>2023-03-28T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/rapid-warehouse-growth-sparks-local-resident-backlash-across-the-u-s-53502618</id>
-    <content type="html">Americans have grown accustomed to buying everything online, but there is a growing backlash against quality-of-life issues that accompany e-commerce’s mega-warehouses.</content>
-    <link href="https://www.wsj.com/articles/rapid-warehouse-growth-sparks-local-resident-backlash-across-the-u-s-53502618" rel="alternate"></link>
+    <title>Ukraine Says Bakhmut Tactics Will Give It Advantages Elsewhere</title>
+    <updated>2023-03-28T15:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/ukraine-says-bakhmut-tactics-will-give-it-advantages-elsewhere-e73a7a74</id>
+    <content type="html">Kyiv’s efforts to exhaust and deplete Russian forces in the eastern city will help it reclaim other territory in the country, a Ukrainian commander said.</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-bakhmut-tactics-will-give-it-advantages-elsewhere-e73a7a74" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
