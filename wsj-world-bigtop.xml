@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T18:23:55Z</updated>
+  <updated>2023-03-28T20:20:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Rapper Pras Michel Is Unlikely Defendant in Case of International Skulduggery</title>
-    <updated>2023-03-28T17:26:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/rapper-pras-michel-is-unlikely-defendant-in-case-of-international-skulduggery-bfb44c22</id>
-    <content type="html">The multibillion-dollar 1MDB scandal and dealings with fugitive financier Jho Low have brought down political leaders and international bankers. Will the former Fugees rapper be next?</content>
-    <link href="https://www.wsj.com/articles/rapper-pras-michel-is-unlikely-defendant-in-case-of-international-skulduggery-bfb44c22" rel="alternate"></link>
+    <title>Aspen Home Asks $41 Million---More Than Double What It Sold for in 2019</title>
+    <updated>2023-03-28T20:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/aspen-home-asks-41-millionmore-than-double-what-it-sold-for-in-2019-e9fd4ec0</id>
+    <content type="html">The Colorado ski destination’s luxury market continues its hot streak.</content>
+    <link href="https://www.wsj.com/articles/aspen-home-asks-41-millionmore-than-double-what-it-sold-for-in-2019-e9fd4ec0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Two Florida Towns Vie to Be Center of the Equestrian World</title>
-    <updated>2023-03-28T17:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/two-florida-towns-vie-to-be-center-of-the-equestrian-world-41c54136</id>
-    <content type="html">A competition between Wellington and Ocala for horse-riding events and well-heeled residents is heating up.</content>
-    <link href="https://www.wsj.com/articles/two-florida-towns-vie-to-be-center-of-the-equestrian-world-41c54136" rel="alternate"></link>
+    <title>How Israel&#39;s Citizen Soldiers Forced Netanyahu to Retreat on Judicial Overhaul</title>
+    <updated>2023-03-28T18:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/how-israels-citizen-soldiers-forced-netanyahu-to-retreat-on-judicial-overhaul-21d55e4e</id>
+    <content type="html">Military reservists played a pivotal role in derailing legislation that would have altered the balance of power between the government and the courts.</content>
+    <link href="https://www.wsj.com/articles/how-israels-citizen-soldiers-forced-netanyahu-to-retreat-on-judicial-overhaul-21d55e4e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
