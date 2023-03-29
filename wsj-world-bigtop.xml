@@ -1,55 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-29T10:20:50Z</updated>
+  <updated>2023-03-29T12:40:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>A $140,000-a-Month Apartment Lets You Live Like a Rich New Yorker---For 30 Days at a Time,atLeast</title>
-    <updated>2023-03-29T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/flexible-leases-luxury-rentals-new-york-city-b7bfd4fa</id>
-    <content type="html">Flexible luxury rentals offer the amenities of a five-star hotel and the feel of a lavish home, no strings attached.</content>
-    <link href="https://www.wsj.com/articles/flexible-leases-luxury-rentals-new-york-city-b7bfd4fa" rel="alternate"></link>
+    <title>How Iowa&#39;s Caitlin Clark Became College Basketball&#39;s Must-See Star</title>
+    <updated>2023-03-29T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/caitlin-clark-iowa-womens-basketball-final-four-a11f8d82</id>
+    <content type="html">The long-shooting guard also excels at passing—and filling arenas.</content>
+    <link href="https://www.wsj.com/articles/caitlin-clark-iowa-womens-basketball-final-four-a11f8d82" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>People Are Complaining About Air Travel Way More Than Usual</title>
-    <updated>2023-03-29T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/people-are-complaining-about-air-travel-way-more-than-usual-607f5243</id>
-    <content type="html">The number of filed complaints has nearly quadrupled from prepandemic levels.</content>
-    <link href="https://www.wsj.com/articles/people-are-complaining-about-air-travel-way-more-than-usual-607f5243" rel="alternate"></link>
+    <title>Don&#39;t Forget to Block Your Ex on Your Payment Apps</title>
+    <updated>2023-03-29T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/dont-forget-to-block-your-ex-on-your-payment-apps-207358bc</id>
+    <content type="html">Venmo, Cash App and Zelle can let undesirables send you messages—for a small fee.</content>
+    <link href="https://www.wsj.com/articles/dont-forget-to-block-your-ex-on-your-payment-apps-207358bc" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Climate Funding Gets Squeezed by Volatile Markets</title>
-    <updated>2023-03-29T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/climate-funding-gets-squeezed-by-volatile-markets-66f008e5</id>
-    <content type="html">The interest-rate increases and market volatility that hit risky investments last year have finally caught up with green startups. </content>
-    <link href="https://www.wsj.com/articles/climate-funding-gets-squeezed-by-volatile-markets-66f008e5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>GameStop Decides It Likes Stores After All</title>
-    <updated>2023-03-29T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/gamestop-stores-ryan-cohen-f67d3871</id>
-    <content type="html">Videogame retailer, the original meme stock, hits brakes on e-commerce push to refocus on its 4,400 bricks-and-mortar locations.</content>
-    <link href="https://www.wsj.com/articles/gamestop-stores-ryan-cohen-f67d3871" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Hidden Ecosystem of Free Vacation Stuff</title>
-    <updated>2023-03-29T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/travel-buy-nothing-freecycle-facebook-las-vegas-c9d4f238</id>
-    <content type="html">Meet the travelers who connect with strangers to take their unused food, drinks and other goodies.</content>
-    <link href="https://www.wsj.com/articles/travel-buy-nothing-freecycle-facebook-las-vegas-c9d4f238" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Downs Russian Warplane Near Bakhmut</title>
-    <updated>2023-03-29T08:46:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617</id>
-    <content type="html">Kyiv’s forces continued to repel attempts to seize the city, as President Zelensky stressed its strategic significance and invited China’s Xi to visit Ukraine.</content>
-    <link href="https://www.wsj.com/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617" rel="alternate"></link>
+    <title>Wisconsin First Grade Class Banned From Singing Miley Cyrus, Dolly Parton&#39;s &#39;Rainbowland&#39;</title>
+    <updated>2023-03-29T11:57:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/wisconsin-first-grade-class-banned-from-singing-miley-cyrus-dolly-partons-rainbowland-d552f8e6</id>
+    <content type="html">School administrators said the song “could be deemed controversial.”</content>
+    <link href="https://www.wsj.com/articles/wisconsin-first-grade-class-banned-from-singing-miley-cyrus-dolly-partons-rainbowland-d552f8e6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
