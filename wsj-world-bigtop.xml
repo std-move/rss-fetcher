@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-29T18:27:59Z</updated>
+  <updated>2023-03-29T20:19:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky Urges China&#39;s Xi to Visit Ukraine</title>
-    <updated>2023-03-29T18:11:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617</id>
-    <content type="html">Kyiv’s forces continued to repel attempts to seize Bakhmut, as the Ukrainian president stressed its strategic significance and invited China’s Xi to visit his country.</content>
-    <link href="https://www.wsj.com/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617" rel="alternate"></link>
+    <title>Climate Funding Gets Squeezed by Volatile Markets</title>
+    <updated>2023-03-29T20:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/climate-funding-gets-squeezed-by-volatile-markets-66f008e5</id>
+    <content type="html">The interest-rate increases and market volatility that hit risky investments last year have finally caught up with green startups. </content>
+    <link href="https://www.wsj.com/articles/climate-funding-gets-squeezed-by-volatile-markets-66f008e5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Dogs and Cats Linked to Reduced Child Food Allergies</title>
-    <updated>2023-03-29T18:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/dogs-and-cats-linked-to-reduced-child-food-allergies-b30755a</id>
-    <content type="html">Researchers found that children living with indoor dogs were less likely to experience egg, milk and nut allergies, and children with cats were less likely to have egg, wheat and soybean allergies.</content>
-    <link href="https://www.wsj.com/articles/dogs-and-cats-linked-to-reduced-child-food-allergies-b30755a" rel="alternate"></link>
+    <title>They Dreamed of Living by the Sea. One Problem: Their Home Was in the English Countryside</title>
+    <updated>2023-03-29T20:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/they-dreamed-of-living-by-the-sea-one-problem-their-home-was-in-the-english-countryside-de0af3a3</id>
+    <content type="html">Annie Heyworth and Tim Healy didn’t want to move from Gloucestershire to be on the water, so they dug up a 6-foot-deep pond while building their roughly 2,400-square-foot timber house.</content>
+    <link href="https://www.wsj.com/articles/they-dreamed-of-living-by-the-sea-one-problem-their-home-was-in-the-english-countryside-de0af3a3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>&#39;Bridesmaids&#39; Star Chris O&#39;Dowd Wants to Know Why His Fridge Has Wi-Fi</title>
+    <updated>2023-03-29T19:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/chris-odowd-interview-the-big-door-prize-c57e816f</id>
+    <content type="html">In ‘The Big Door Prize,’ the new series from a ‘Schitt’s Creek’ writer, the actor plays an everyman in an odd situation. Here, he talks about cauliflower nachos, sleeping like ‘garbage’ and pushing his dog in a pram.</content>
+    <link href="https://www.wsj.com/articles/chris-odowd-interview-the-big-door-prize-c57e816f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
