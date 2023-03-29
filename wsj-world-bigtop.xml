@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-29T12:40:43Z</updated>
+  <updated>2023-03-29T14:56:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How Iowa&#39;s Caitlin Clark Became College Basketball&#39;s Must-See Star</title>
-    <updated>2023-03-29T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/caitlin-clark-iowa-womens-basketball-final-four-a11f8d82</id>
-    <content type="html">The long-shooting guard also excels at passing—and filling arenas.</content>
-    <link href="https://www.wsj.com/articles/caitlin-clark-iowa-womens-basketball-final-four-a11f8d82" rel="alternate"></link>
+    <title>Zelensky Urges China&#39;s Xi to Visit Ukraine</title>
+    <updated>2023-03-29T14:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617</id>
+    <content type="html">Kyiv’s forces continued to repel attempts to seize Bakhmut, as the Ukrainian president stressed its strategic significance and invited China’s Xi to visit his country.</content>
+    <link href="https://www.wsj.com/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Don&#39;t Forget to Block Your Ex on Your Payment Apps</title>
-    <updated>2023-03-29T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/dont-forget-to-block-your-ex-on-your-payment-apps-207358bc</id>
-    <content type="html">Venmo, Cash App and Zelle can let undesirables send you messages—for a small fee.</content>
-    <link href="https://www.wsj.com/articles/dont-forget-to-block-your-ex-on-your-payment-apps-207358bc" rel="alternate"></link>
+    <title>What Is Fentanyl and Why Is It So Dangerous?</title>
+    <updated>2023-03-29T14:31:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650</id>
+    <content type="html">What to know about the opioid drug responsible for a surge in overdoses.</content>
+    <link href="https://www.wsj.com/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Wisconsin First Grade Class Banned From Singing Miley Cyrus, Dolly Parton&#39;s &#39;Rainbowland&#39;</title>
-    <updated>2023-03-29T11:57:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/wisconsin-first-grade-class-banned-from-singing-miley-cyrus-dolly-partons-rainbowland-d552f8e6</id>
-    <content type="html">School administrators said the song “could be deemed controversial.”</content>
-    <link href="https://www.wsj.com/articles/wisconsin-first-grade-class-banned-from-singing-miley-cyrus-dolly-partons-rainbowland-d552f8e6" rel="alternate"></link>
+    <title>It&#39;s Northwestern vs. Evanston Neighbors Over a New $800 Million Stadium That Will Host Concerts and Serve Booze</title>
+    <updated>2023-03-29T14:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/its-northwestern-vs-evanston-neighbors-over-a-new-800-million-stadium-that-will-host-concerts-and-serve-booze-f0068c7a</id>
+    <content type="html">‘You’ll have people spilling out of concerts drunk at 10:30, 11 o’clock.’</content>
+    <link href="https://www.wsj.com/articles/its-northwestern-vs-evanston-neighbors-over-a-new-800-million-stadium-that-will-host-concerts-and-serve-booze-f0068c7a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Deploys Its Corruption Hunters Abroad</title>
+    <updated>2023-03-29T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/china-deploys-its-corruption-hunters-abroad-a6484983</id>
+    <content type="html">G-20 nations are among the first destinations planned for anticorruption inspectors, whose deployment risks intensifying alarm over the expansion of Beijing’s overseas activities.</content>
+    <link href="https://www.wsj.com/articles/china-deploys-its-corruption-hunters-abroad-a6484983" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
