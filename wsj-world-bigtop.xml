@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-28T22:17:26Z</updated>
+  <updated>2023-03-29T01:43:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>&#39;Succession&#39; Star J. Smith-Cameron Discovered Acting After a High-School Dare</title>
-    <updated>2023-03-28T21:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/succession-star-j-smith-cameron-discovered-acting-after-a-high-school-dare-5c4a536c</id>
-    <content type="html">The actress on serial moves, playing the violin and shedding an image of mystery in school.</content>
-    <link href="https://www.wsj.com/articles/succession-star-j-smith-cameron-discovered-acting-after-a-high-school-dare-5c4a536c" rel="alternate"></link>
+    <title>Times Square Office Building Is New York&#39;s Latest Migrant Shelter</title>
+    <updated>2023-03-29T00:39:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-29:/articles/times-square-office-building-is-new-yorks-latest-migrant-shelter-ddcef3f8</id>
+    <content type="html">The city is now in talks with houses of worship to provide accommodation for hundreds of asylum seekers in sanctuaries and parish halls.</content>
+    <link href="https://www.wsj.com/articles/times-square-office-building-is-new-yorks-latest-migrant-shelter-ddcef3f8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>&#39;Tranq&#39; Surges in U.S., Causing Wounds and Amputations</title>
-    <updated>2023-03-28T21:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-28:/articles/tranq-xylazine-fentanyl-wounds-injuries-647176d4</id>
-    <content type="html">Nurses treat xylazine wounds at home for users at the fringes of the healthcare system.</content>
-    <link href="https://www.wsj.com/articles/tranq-xylazine-fentanyl-wounds-injuries-647176d4" rel="alternate"></link>
+    <title>Crypto Crisis: A Timeline of Key Events</title>
+    <updated>2023-03-28T23:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-28:/articles/crypto-crisis-a-timeline-of-key-events-11675519887</id>
+    <content type="html">The industry’s troubles began months before the collapse of Sam Bankman-Fried’s FTX in November.</content>
+    <link href="https://www.wsj.com/articles/crypto-crisis-a-timeline-of-key-events-11675519887" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
