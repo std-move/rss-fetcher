@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-29T14:56:42Z</updated>
+  <updated>2023-03-29T17:44:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Zelensky Urges China&#39;s Xi to Visit Ukraine</title>
-    <updated>2023-03-29T14:33:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617</id>
-    <content type="html">Kyiv’s forces continued to repel attempts to seize Bakhmut, as the Ukrainian president stressed its strategic significance and invited China’s Xi to visit his country.</content>
-    <link href="https://www.wsj.com/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What Is Fentanyl and Why Is It So Dangerous?</title>
-    <updated>2023-03-29T14:31:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650</id>
-    <content type="html">What to know about the opioid drug responsible for a surge in overdoses.</content>
-    <link href="https://www.wsj.com/articles/what-is-fentanyl-drug-opioid-health-safety-explained-11658341650" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>It&#39;s Northwestern vs. Evanston Neighbors Over a New $800 Million Stadium That Will Host Concerts and Serve Booze</title>
-    <updated>2023-03-29T14:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/its-northwestern-vs-evanston-neighbors-over-a-new-800-million-stadium-that-will-host-concerts-and-serve-booze-f0068c7a</id>
-    <content type="html">‘You’ll have people spilling out of concerts drunk at 10:30, 11 o’clock.’</content>
-    <link href="https://www.wsj.com/articles/its-northwestern-vs-evanston-neighbors-over-a-new-800-million-stadium-that-will-host-concerts-and-serve-booze-f0068c7a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Deploys Its Corruption Hunters Abroad</title>
-    <updated>2023-03-29T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-29:/articles/china-deploys-its-corruption-hunters-abroad-a6484983</id>
-    <content type="html">G-20 nations are among the first destinations planned for anticorruption inspectors, whose deployment risks intensifying alarm over the expansion of Beijing’s overseas activities.</content>
-    <link href="https://www.wsj.com/articles/china-deploys-its-corruption-hunters-abroad-a6484983" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
