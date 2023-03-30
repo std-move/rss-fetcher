@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-30T04:22:28Z</updated>
+  <updated>2023-03-30T06:24:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China and Taiwan Relations Explained: What&#39;s Behind the Divide</title>
+    <updated>2023-03-30T06:04:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/china-taiwan-relations-tensions-explained-11653322751</id>
+    <content type="html">Beijing is flexing its military power in response to growing U.S. support for the island. Here’s a primer on the frictions.</content>
+    <link href="https://www.wsj.com/articles/china-taiwan-relations-tensions-explained-11653322751" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Is Sending Its Corruption Hunters to a Country Near You</title>
+    <updated>2023-03-30T05:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/china-deploys-its-corruption-hunters-abroad-a6484983</id>
+    <content type="html">G-20 nations are among the first destinations planned for anticorruption inspectors, whose deployment risks intensifying alarm over the expansion of Beijing’s overseas activities.</content>
+    <link href="https://www.wsj.com/articles/china-deploys-its-corruption-hunters-abroad-a6484983" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Zelensky is urging Chinese leader Xi to meet with him as Beijing maneuvers itself as a potential peacemaker.</title>
     <updated>2023-03-30T04:01:00Z</updated>
