@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-30T12:37:39Z</updated>
+  <updated>2023-03-30T14:17:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Nuclear Plant at Risk as Ukraine and Russia Gear Up for Spring Offensive</title>
-    <updated>2023-03-30T11:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/nuclear-plant-at-risk-as-ukraine-and-russia-gear-up-for-spring-offensive-7cf4ad3c</id>
-    <content type="html">Military activity is increasing around the Zaporizhzhia nuclear-power plant, according to international atomic energy officials, as Ukrainian and Russian forces gear up for an expected increase in fighting this spring. </content>
-    <link href="https://www.wsj.com/articles/nuclear-plant-at-risk-as-ukraine-and-russia-gear-up-for-spring-offensive-7cf4ad3c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>He Wasn&#39;t Thinking About Renting His Arizona Home. Then Rihanna Came Knocking.</title>
-    <updated>2023-03-30T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/celebrity-real-estate-rentals-3a178570</id>
-    <content type="html">When a big event comes to town or vacation time rolls in, A-listers turn to the privacy, security and space of private homes.</content>
-    <link href="https://www.wsj.com/articles/celebrity-real-estate-rentals-3a178570" rel="alternate"></link>
+    <title>Sleepovers Are Now a Battleground</title>
+    <updated>2023-03-30T13:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/sleepovers-divide-parents-allow-or-not-d9b8072c</id>
+    <content type="html">Parents split on slumber parties, once a rite of passage—‘I’ve had parents ask me if we have a water filter’</content>
+    <link href="https://www.wsj.com/articles/sleepovers-divide-parents-allow-or-not-d9b8072c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
