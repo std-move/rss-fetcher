@@ -1,47 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-30T10:20:10Z</updated>
+  <updated>2023-03-30T12:37:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Booze on a Cruise Now Costs More for Travelers</title>
-    <updated>2023-03-30T10:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/cruises-drink-packages-msc-carnival-norwegian-dd0d97c5</id>
-    <content type="html">All-inclusive packages that include alcoholic beverages are a major enticement for some cruise aficionados.</content>
-    <link href="https://www.wsj.com/articles/cruises-drink-packages-msc-carnival-norwegian-dd0d97c5" rel="alternate"></link>
+    <title>Nuclear Plant at Risk as Ukraine and Russia Gear Up for Spring Offensive</title>
+    <updated>2023-03-30T11:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/nuclear-plant-at-risk-as-ukraine-and-russia-gear-up-for-spring-offensive-7cf4ad3c</id>
+    <content type="html">Military activity is increasing around the Zaporizhzhia nuclear-power plant, according to international atomic energy officials, as Ukrainian and Russian forces gear up for an expected increase in fighting this spring. </content>
+    <link href="https://www.wsj.com/articles/nuclear-plant-at-risk-as-ukraine-and-russia-gear-up-for-spring-offensive-7cf4ad3c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>The Class of 2023 Faces a Jittery Job Market: &#39;The World Seems to Have Flipped on Its Head.&#39;</title>
-    <updated>2023-03-30T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/jobs-new-college-graduates-2023-labor-market-openings-7195e28</id>
-    <content type="html">Companies from Amazon to Wayfair are tapping the brakes on their hiring of college grads this year, forcing seniors to cast a wider net as they search for that crucial first job.</content>
-    <link href="https://www.wsj.com/articles/jobs-new-college-graduates-2023-labor-market-openings-7195e28" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Small Banks Are Losing to Big Banks. Customers Are About to Feel It.</title>
-    <updated>2023-03-30T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/small-banks-are-losing-to-big-banks-their-customers-are-about-to-feel-it-178abb47</id>
-    <content type="html">Banks too big to fail are gaining deposits: “How can I compete for new business with that big enchilada out there?”</content>
-    <link href="https://www.wsj.com/articles/small-banks-are-losing-to-big-banks-their-customers-are-about-to-feel-it-178abb47" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Apple Wants to Solve One of Music&#39;s Biggest Problems</title>
-    <updated>2023-03-30T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/apple-music-classical-app-3325c6ba</id>
-    <content type="html">Forget the metaverse. The future is metadata. It’s how the world’s most valuable company built a better way of listening to Mozart and Beethoven.</content>
-    <link href="https://www.wsj.com/articles/apple-music-classical-app-3325c6ba" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hong Kong Arrests Show No Letup in Beijing-Driven Crackdown on Dissent</title>
-    <updated>2023-03-30T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/hong-kong-arrests-show-no-letup-in-beijing-driven-crackdown-on-dissent-7a2a0e68</id>
-    <content type="html">The arrest of a Hong Kong labor activist on national security grounds suggests Beijing is unlikely to relent on its drive to root out dissent the international financial center.</content>
-    <link href="https://www.wsj.com/articles/hong-kong-arrests-show-no-letup-in-beijing-driven-crackdown-on-dissent-7a2a0e68" rel="alternate"></link>
+    <title>He Wasn&#39;t Thinking About Renting His Arizona Home. Then Rihanna Came Knocking.</title>
+    <updated>2023-03-30T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/celebrity-real-estate-rentals-3a178570</id>
+    <content type="html">When a big event comes to town or vacation time rolls in, A-listers turn to the privacy, security and space of private homes.</content>
+    <link href="https://www.wsj.com/articles/celebrity-real-estate-rentals-3a178570" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
