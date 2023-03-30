@@ -1,31 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-30T08:24:31Z</updated>
+  <updated>2023-03-30T10:20:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China and Taiwan Relations Explained: What&#39;s Behind the Divide</title>
-    <updated>2023-03-30T06:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/china-taiwan-relations-tensions-explained-11653322751</id>
-    <content type="html">Beijing is flexing its military power in response to growing U.S. support for the island. Here’s a primer on the frictions.</content>
-    <link href="https://www.wsj.com/articles/china-taiwan-relations-tensions-explained-11653322751" rel="alternate"></link>
+    <title>Booze on a Cruise Now Costs More for Travelers</title>
+    <updated>2023-03-30T10:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/cruises-drink-packages-msc-carnival-norwegian-dd0d97c5</id>
+    <content type="html">All-inclusive packages that include alcoholic beverages are a major enticement for some cruise aficionados.</content>
+    <link href="https://www.wsj.com/articles/cruises-drink-packages-msc-carnival-norwegian-dd0d97c5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China Is Sending Its Corruption Hunters to a Country Near You</title>
-    <updated>2023-03-30T05:42:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/china-deploys-its-corruption-hunters-abroad-a6484983</id>
-    <content type="html">G-20 nations are among the first destinations planned for anticorruption inspectors, whose deployment risks intensifying alarm over the expansion of Beijing’s overseas activities.</content>
-    <link href="https://www.wsj.com/articles/china-deploys-its-corruption-hunters-abroad-a6484983" rel="alternate"></link>
+    <title>The Class of 2023 Faces a Jittery Job Market: &#39;The World Seems to Have Flipped on Its Head.&#39;</title>
+    <updated>2023-03-30T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/jobs-new-college-graduates-2023-labor-market-openings-7195e28</id>
+    <content type="html">Companies from Amazon to Wayfair are tapping the brakes on their hiring of college grads this year, forcing seniors to cast a wider net as they search for that crucial first job.</content>
+    <link href="https://www.wsj.com/articles/jobs-new-college-graduates-2023-labor-market-openings-7195e28" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine&#39;s Zelensky is urging Chinese leader Xi to meet with him as Beijing maneuvers itself as a potential peacemaker.</title>
-    <updated>2023-03-30T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617</id>
-    <content type="html">Ukraine’s Zelensky is urging Chinese leader Xi to meet with him as Beijing maneuvers itself as a potential peacemaker.</content>
-    <link href="https://www.wsj.com/articles/ukraine-downs-russian-warplane-near-bakhmut-39eeb617" rel="alternate"></link>
+    <title>Small Banks Are Losing to Big Banks. Customers Are About to Feel It.</title>
+    <updated>2023-03-30T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/small-banks-are-losing-to-big-banks-their-customers-are-about-to-feel-it-178abb47</id>
+    <content type="html">Banks too big to fail are gaining deposits: “How can I compete for new business with that big enchilada out there?”</content>
+    <link href="https://www.wsj.com/articles/small-banks-are-losing-to-big-banks-their-customers-are-about-to-feel-it-178abb47" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Apple Wants to Solve One of Music&#39;s Biggest Problems</title>
+    <updated>2023-03-30T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/apple-music-classical-app-3325c6ba</id>
+    <content type="html">Forget the metaverse. The future is metadata. It’s how the world’s most valuable company built a better way of listening to Mozart and Beethoven.</content>
+    <link href="https://www.wsj.com/articles/apple-music-classical-app-3325c6ba" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hong Kong Arrests Show No Letup in Beijing-Driven Crackdown on Dissent</title>
+    <updated>2023-03-30T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/hong-kong-arrests-show-no-letup-in-beijing-driven-crackdown-on-dissent-7a2a0e68</id>
+    <content type="html">The arrest of a Hong Kong labor activist on national security grounds suggests Beijing is unlikely to relent on its drive to root out dissent the international financial center.</content>
+    <link href="https://www.wsj.com/articles/hong-kong-arrests-show-no-letup-in-beijing-driven-crackdown-on-dissent-7a2a0e68" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
