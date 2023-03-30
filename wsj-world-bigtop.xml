@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-30T14:55:56Z</updated>
+  <updated>2023-03-30T16:25:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Considers Asking Black Americans on Census if They Are Slave Descendants</title>
+    <updated>2023-03-30T15:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/u-s-considers-asking-black-americans-on-census-if-they-are-slave-descendants-f9b5eb09</id>
+    <content type="html">Such a change would help quantify eligibility for reparations should the government agree to pay them.</content>
+    <link href="https://www.wsj.com/articles/u-s-considers-asking-black-americans-on-census-if-they-are-slave-descendants-f9b5eb09" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Railroads Are a Lot More Efficient. Are  They Also Less Safe?</title>
+    <updated>2023-03-30T15:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-30:/articles/railroads-are-a-lot-more-efficient-are-they-also-less-safe-7c5d2a60</id>
+    <content type="html">Norfolk Southern cut railcar inspection time to a minute. A “hurry up and get it done” mentality.</content>
+    <link href="https://www.wsj.com/articles/railroads-are-a-lot-more-efficient-are-they-also-less-safe-7c5d2a60" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
