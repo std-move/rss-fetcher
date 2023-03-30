@@ -52,6 +52,26 @@ func main() {
 }
 
 func processArticle(item *gofeed.Item, myItems *[]*feeds.Item) error {
+	ext, ok := item.Extensions["dj"]
+	if !ok {
+		return fmt.Errorf("no dj extensions in article")
+	}
+	atype, ok := ext["articletype"]
+	if !ok {
+		return fmt.Errorf("no articletype in dj extension")
+	}
+	found := false
+	for _, itm := range atype {
+		if strings.Contains(itm.Value, "News") || strings.Contains(itm.Value, "news") {
+			found = true
+			break
+		}
+	}
+	if !found {
+		log.Print("not a news article [", item.Link, "]", "\n")
+		return nil
+	}
+
 	ampLink := func() string {
 		if !strings.Contains(item.Link, "wsj.com/amp/") {
 			return strings.Replace(item.Link, "wsj.com/", "wsj.com/amp/", -1)
