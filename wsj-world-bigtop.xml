@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-31T12:35:40Z</updated>
+  <updated>2023-03-31T14:17:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Young French Protesters Worry About Their Parents&#39; Retirement, Not Their Own</title>
-    <updated>2023-03-31T10:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-31:/articles/young-french-protesters-worry-about-their-parents-retirement-not-their-own-82e8db6d</id>
-    <content type="html">The question of whether there will be pension checks to collect decades from now has taken a back seat in the minds of many young people</content>
-    <link href="https://www.wsj.com/articles/young-french-protesters-worry-about-their-parents-retirement-not-their-own-82e8db6d" rel="alternate"></link>
+    <title>Ukraine Points to Success in Defending Bakhmut</title>
+    <updated>2023-03-31T13:39:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-31:/articles/ukraine-points-to-success-in-defending-bakhmut-14f868d2</id>
+    <content type="html">Ukrainian commanders touted their latest successes in holding Russian forces back in the city despite falling ammunition stocks and pressure from some Western officials to withdraw.</content>
+    <link href="https://www.wsj.com/articles/ukraine-points-to-success-in-defending-bakhmut-14f868d2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
