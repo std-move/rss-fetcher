@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-31T14:17:04Z</updated>
+  <updated>2023-03-31T16:22:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Points to Success in Defending Bakhmut</title>
-    <updated>2023-03-31T13:39:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-31:/articles/ukraine-points-to-success-in-defending-bakhmut-14f868d2</id>
-    <content type="html">Ukrainian commanders touted their latest successes in holding Russian forces back in the city despite falling ammunition stocks and pressure from some Western officials to withdraw.</content>
-    <link href="https://www.wsj.com/articles/ukraine-points-to-success-in-defending-bakhmut-14f868d2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
