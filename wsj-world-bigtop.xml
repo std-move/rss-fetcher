@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-31T10:20:18Z</updated>
+  <updated>2023-03-31T12:35:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How a Ukrainian Soldier&#39;s Final Act of Defiance Made Him a Hero</title>
-    <updated>2023-03-31T10:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-31:/articles/how-a-ukrainian-soldiers-final-act-of-defiance-made-him-a-hero-e22f5288</id>
-    <content type="html">No one knew how Pvt. Oleksandr Matsievskiy, a 42-year-old electrician, died until a video showed his final seconds.</content>
-    <link href="https://www.wsj.com/articles/how-a-ukrainian-soldiers-final-act-of-defiance-made-him-a-hero-e22f5288" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Donald Trump Indictment Sets Historical Marker</title>
-    <updated>2023-03-31T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-31:/articles/donald-trump-indictment-sets-historical-marker-defb8108</id>
-    <content type="html">Other presidents have been impeached or left office in disgrace, but none has ever found himself in the legal jeopardy that now imperils Donald Trump.</content>
-    <link href="https://www.wsj.com/articles/donald-trump-indictment-sets-historical-marker-defb8108" rel="alternate"></link>
+    <title>Young French Protesters Worry About Their Parents&#39; Retirement, Not Their Own</title>
+    <updated>2023-03-31T10:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-03-31:/articles/young-french-protesters-worry-about-their-parents-retirement-not-their-own-82e8db6d</id>
+    <content type="html">The question of whether there will be pension checks to collect decades from now has taken a back seat in the minds of many young people</content>
+    <link href="https://www.wsj.com/articles/young-french-protesters-worry-about-their-parents-retirement-not-their-own-82e8db6d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
