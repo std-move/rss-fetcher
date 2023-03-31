@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-31T01:35:09Z</updated>
+  <updated>2023-03-31T02:37:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Trump Hush-Money Case Will Likely Hinge on Evidence of Coverup</title>
-    <updated>2023-03-30T23:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-30:/articles/donald-trump-indictment-stormy-daniels-hush-money-coverup-3667259e</id>
-    <content type="html">Manhattan grand jury heard detailed accounts of payments to a porn star and a former Playboy model in the final stretch of the 2016 campaign.</content>
-    <link href="https://www.wsj.com/articles/donald-trump-indictment-stormy-daniels-hush-money-coverup-3667259e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
