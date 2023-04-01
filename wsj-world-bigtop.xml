@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-01T14:09:07Z</updated>
+  <updated>2023-04-01T15:10:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Venezuelan Migrant Endured Poverty, Trek to Mexico Before Fire</title>
+    <updated>2023-04-01T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-01:/articles/venezuelan-migrant-endured-poverty-and-trek-to-mexico-before-deadly-fire-9133abfb</id>
+    <content type="html">A brother is mourning one of 39 migrants who died at a detention facility in Ciudad Juárez, Mexico.</content>
+    <link href="https://www.wsj.com/articles/venezuelan-migrant-endured-poverty-and-trek-to-mexico-before-deadly-fire-9133abfb" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Dill, Gherkin and Jalapeño, Houston&#39;s Tortoise Hatchlings, Were Years in the Making</title>
     <updated>2023-04-01T14:00:00Z</updated>
