@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-01T15:10:04Z</updated>
+  <updated>2023-04-01T16:13:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2023-04-01:/articles/rising-atlantic-ocean-engulfs-fishing-town-in-brazil-b1d69c2d</id>
     <content type="html">Climate change has increased sea levels, scientists say, and Atafona is an extreme example of the challenge that lies ahead in a country with some 4,600 miles of coastline.</content>
     <link href="https://www.wsj.com/articles/rising-atlantic-ocean-engulfs-fishing-town-in-brazil-b1d69c2d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Says It Is Boosting Military Production</title>
-    <updated>2023-04-01T10:49:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-01:/articles/russia-says-it-is-boosting-military-production-as-campaign-in-ukraine-stalls-a4b19dcd</id>
-    <content type="html">Russia said it was ramping up production of ammunition for front-line forces in Ukraine as it continued its push to seize territory there despite suffering heavy losses.</content>
-    <link href="https://www.wsj.com/articles/russia-says-it-is-boosting-military-production-as-campaign-in-ukraine-stalls-a4b19dcd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
