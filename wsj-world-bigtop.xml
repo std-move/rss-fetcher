@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-03-31T22:16:45Z</updated>
+  <updated>2023-04-01T01:33:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>A History of the Trump Hush-Money Saga</title>
-    <updated>2023-03-31T21:23:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-31:/articles/a-history-of-the-trump-hush-money-saga-fe5cac3c</id>
-    <content type="html">The path leading to Manhattan District Attorney Alvin Bragg’s decision on whether to charge Donald Trump for his role in paying hush money to a porn star began nearly seven years ago.</content>
-    <link href="https://www.wsj.com/articles/a-history-of-the-trump-hush-money-saga-fe5cac3c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gershkovich Loved Russia, Country That Turned on Him</title>
-    <updated>2023-03-31T21:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-03-31:/articles/wsj-reporter-evan-gershkovich-detained-russia-cd03b0f3</id>
-    <content type="html">The Wall Street Journal correspondent, whose parents fled the Soviet Union, made Moscow a second home. He was detained Wednesday by the FSB for alleged espionage, an allegation the Journal vehemently denies.</content>
-    <link href="https://www.wsj.com/articles/wsj-reporter-evan-gershkovich-detained-russia-cd03b0f3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
