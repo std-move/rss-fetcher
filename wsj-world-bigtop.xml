@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-02T15:10:11Z</updated>
+  <updated>2023-04-02T16:13:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2023-04-02:/articles/parking-problem-too-much-cities-e94dcecf</id>
     <content type="html">Many cities are getting rid of spaces, freeing land for new development. “People are looking for a place to live, not to park,” said a Buffalo city official.</content>
     <link href="https://www.wsj.com/articles/parking-problem-too-much-cities-e94dcecf" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cancer Patients Choose Lifestyle Over More Aggressive Treatment</title>
-    <updated>2023-04-02T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-02:/articles/cancer-patients-choose-lifestyle-over-more-aggressive-treatment-6d945572</id>
-    <content type="html">Some people with early stage breast or prostate cancer are pursuing less surgery and radiation.</content>
-    <link href="https://www.wsj.com/articles/cancer-patients-choose-lifestyle-over-more-aggressive-treatment-6d945572" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
