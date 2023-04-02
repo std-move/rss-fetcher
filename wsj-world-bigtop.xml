@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-02T19:08:19Z</updated>
+  <updated>2023-04-02T20:11:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>After Direct Hit, Arkansas Town Surveys Tornado&#39;s Wreckage</title>
+    <updated>2023-04-02T19:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-02:/articles/after-direct-hit-arkansas-town-surveys-tornados-wreckage-3926996c</id>
+    <content type="html">The town of Wynne sustained heavy damage from the system of storms that swept through the Midwest and South.</content>
+    <link href="https://www.wsj.com/articles/after-direct-hit-arkansas-town-surveys-tornados-wreckage-3926996c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Rising Atlantic Ocean Engulfs Fishing Town in Brazil</title>
     <updated>2023-04-02T18:19:00Z</updated>
