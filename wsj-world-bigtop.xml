@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-02T12:19:43Z</updated>
+  <updated>2023-04-02T13:12:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,30 +18,6 @@
     <id>tag:www.wsj.com,2023-04-02:/articles/homelessness-shapes-denvers-crowded-mayoral-race-ff4d8eff</id>
     <content type="html">Divided residents are set to choose Tuesday among 16 candidates offering competing plans on how to tackle the issue.</content>
     <link href="https://www.wsj.com/articles/homelessness-shapes-denvers-crowded-mayoral-race-ff4d8eff" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Storm System Kills at Least 22 People Across Central U.S.</title>
-    <updated>2023-04-02T00:31:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-02:/articles/storm-system-kills-at-least-10-people-across-central-u-s-3dfa90e1</id>
-    <content type="html">Fueled by a series of rotating thunderstorms, the weather system felled trees and power lines and battered homes across at least eight states.</content>
-    <link href="https://www.wsj.com/articles/storm-system-kills-at-least-10-people-across-central-u-s-3dfa90e1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Says Boosting Military Production as Campaign in Ukraine Stalls</title>
-    <updated>2023-04-01T23:10:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-01:/articles/russia-says-it-is-boosting-military-production-as-campaign-in-ukraine-stalls-a4b19dcd</id>
-    <content type="html">The Kremlin says it is ramping up production of ammunition for its front-line forces in Ukraine as it continued a push to seize territory there despite suffering heavy losses.</content>
-    <link href="https://www.wsj.com/articles/russia-says-it-is-boosting-military-production-as-campaign-in-ukraine-stalls-a4b19dcd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Rising Atlantic Ocean Engulfs Fishing Town in Brazil</title>
-    <updated>2023-04-01T18:58:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-01:/articles/rising-atlantic-ocean-engulfs-fishing-town-in-brazil-b1d69c2d</id>
-    <content type="html">Climate change has increased sea levels, scientists say, and Atafona is an extreme example of the challenge that lies ahead in a country with some 4,600 miles of coastline.</content>
-    <link href="https://www.wsj.com/articles/rising-atlantic-ocean-engulfs-fishing-town-in-brazil-b1d69c2d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
