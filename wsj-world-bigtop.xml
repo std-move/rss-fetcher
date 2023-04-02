@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-02T16:13:16Z</updated>
+  <updated>2023-04-02T17:09:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Storm System Kills at Least 26 People Across Central U.S.</title>
+    <updated>2023-04-02T16:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-02:/articles/storm-system-kills-at-least-10-people-across-central-u-s-3dfa90e1</id>
+    <content type="html">Fueled by a series of rotating thunderstorms, the system felled trees and power lines and battered homes across at least eight states.</content>
+    <link href="https://www.wsj.com/articles/storm-system-kills-at-least-10-people-across-central-u-s-3dfa90e1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Deadly Shipwreck Shakes Italy&#39;s Anti-Immigration Government</title>
     <updated>2023-04-02T15:00:00Z</updated>
     <id>tag:www.wsj.com,2023-04-02:/articles/deadly-shipwreck-shakes-italys-anti-immigration-government-b35a6d81</id>
     <content type="html">The number of refugees and other migrants crossing the Mediterranean Sea to reach Europe is rising—and tragedies are increasing.</content>
     <link href="https://www.wsj.com/articles/deadly-shipwreck-shakes-italys-anti-immigration-government-b35a6d81" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Storm System Kills at Least 26 People Across Central U.S.</title>
-    <updated>2023-04-02T14:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-02:/articles/storm-system-kills-at-least-10-people-across-central-u-s-3dfa90e1</id>
-    <content type="html">Fueled by a series of rotating thunderstorms, the system felled trees and power lines and battered homes across at least eight states.</content>
-    <link href="https://www.wsj.com/articles/storm-system-kills-at-least-10-people-across-central-u-s-3dfa90e1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
