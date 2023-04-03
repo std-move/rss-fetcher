@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-03T02:01:10Z</updated>
+  <updated>2023-04-03T03:11:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>After Direct Hit, Arkansas City Surveys Tornado&#39;s Wreckage</title>
-    <updated>2023-04-02T23:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-02:/articles/after-direct-hit-arkansas-town-surveys-tornados-wreckage-3926996c</id>
-    <content type="html">The city of Wynne sustained heavy damage from the system of storms that swept through the Midwest and South.</content>
-    <link href="https://www.wsj.com/articles/after-direct-hit-arkansas-town-surveys-tornados-wreckage-3926996c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Evan Gershkovich&#39;s Arrest Marks a New Era of Hostage Diplomacy</title>
-    <updated>2023-04-02T22:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-02:/articles/wsj-reporter-evan-gershkovich-russia-detained-hostage-diplomacy-f5545f85</id>
-    <content type="html">The Wall Street Journal reporter is the latest in a growing list of Americans who have been detained by foreign governments on bogus charges, often to gain leverage with Washington.</content>
-    <link href="https://www.wsj.com/articles/wsj-reporter-evan-gershkovich-russia-detained-hostage-diplomacy-f5545f85" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
