@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-03T14:10:45Z</updated>
+  <updated>2023-04-03T15:12:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fighting Escalates in Ukraine&#39;s Bakhmut, as Wagner Chief Hoists Russian Flag</title>
+    <updated>2023-04-03T14:44:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-03:/articles/fighting-escalates-in-ukraines-bakhmut-as-wagner-chief-hoists-russian-flag-in-eastern-city-3f862ea0</id>
+    <content type="html">Ukrainian officials denied Russian claims of victory in the eastern city, which has become a pivotal battlefield in the war, and said they were still fighting there.</content>
+    <link href="https://www.wsj.com/articles/fighting-escalates-in-ukraines-bakhmut-as-wagner-chief-hoists-russian-flag-in-eastern-city-3f862ea0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The &#39;King Kong&#39; of Weight-Loss Drugs Is Coming</title>
+    <updated>2023-04-03T14:31:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-03:/articles/ozempic-mounjaro-weight-loss-drug-wegovy-eli-lilly-66f2906</id>
+    <content type="html">Eli Lilly’s Mounjaro could outpace Ozempic as the most powerful treatment on the market. To develop it, the drug company needed to overhaul long-held but failing practices.</content>
+    <link href="https://www.wsj.com/articles/ozempic-mounjaro-weight-loss-drug-wegovy-eli-lilly-66f2906" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Migrants Surge Into Maine and Beyond, Far From Southern Border</title>
     <updated>2023-04-03T13:00:00Z</updated>
