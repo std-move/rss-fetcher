@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-04T19:08:44Z</updated>
+  <updated>2023-04-04T20:12:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Key Players in the Hush-Money Case</title>
-    <updated>2023-04-04T18:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-04:/articles/key-players-in-the-hush-money-case-6102deae</id>
-    <content type="html">Michael Cohen, David Pecker and others: The critical figures in the criminal charges against Trump.</content>
-    <link href="https://www.wsj.com/articles/key-players-in-the-hush-money-case-6102deae" rel="alternate"></link>
+    <title>Trump&#39;s Indictment: A History of the WSJ&#39;s Hush-Money Investigation</title>
+    <updated>2023-04-04T19:20:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-04:/articles/trumps-hush-money-a-history-of-the-wsjs-investigation-fccf8096</id>
+    <content type="html">The criminal probe of the former president was triggered by Wall Street Journal articles concerning a payment to a porn star.</content>
+    <link href="https://www.wsj.com/articles/trumps-hush-money-a-history-of-the-wsjs-investigation-fccf8096" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
