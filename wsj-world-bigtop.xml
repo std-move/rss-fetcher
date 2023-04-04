@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-04T18:11:58Z</updated>
+  <updated>2023-04-04T19:08:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Drones Hit Odessa as Ukraine Makes Fresh Diplomatic Push</title>
-    <updated>2023-04-04T17:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-04:/articles/russian-drones-hit-odessa-as-ukraine-makes-fresh-diplomatic-push-576b6149</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky met with U.S. Republicans and is set to visit Poland as he seeks to secure additional arms and economic support.</content>
-    <link href="https://www.wsj.com/articles/russian-drones-hit-odessa-as-ukraine-makes-fresh-diplomatic-push-576b6149" rel="alternate"></link>
+    <title>Key Players in the Hush-Money Case</title>
+    <updated>2023-04-04T18:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-04:/articles/key-players-in-the-hush-money-case-6102deae</id>
+    <content type="html">Michael Cohen, David Pecker and others: The critical figures in the criminal charges against Trump.</content>
+    <link href="https://www.wsj.com/articles/key-players-in-the-hush-money-case-6102deae" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
