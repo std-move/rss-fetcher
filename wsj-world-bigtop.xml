@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-05T16:17:46Z</updated>
+  <updated>2023-04-05T17:12:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Zelensky Visits Poland as Russia Strengthens Defenses in Occupied Ukraine</title>
-    <updated>2023-04-05T16:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-05:/articles/russia-strengthens-defenses-in-occupied-ukraine-as-zelensky-visits-poland-62f32f22</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky’s visit comes amid a flurry of diplomacy aimed at expediting a possible outcome to the continuing war in Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russia-strengthens-defenses-in-occupied-ukraine-as-zelensky-visits-poland-62f32f22" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#39;You are Completely Alone:&#39; Inside the Infamous Russian Prison Holding Evan Gershkovich</title>
-    <updated>2023-04-05T14:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-05:/articles/evan-gershkovich-lefortovo-russian-prison-detainment-ae4d9414</id>
-    <content type="html">Former prisoners at Lefortovo and their lawyers and families describe a sterile facility carefully engineered to make its prisoners feel abandoned.</content>
-    <link href="https://www.wsj.com/articles/evan-gershkovich-lefortovo-russian-prison-detainment-ae4d9414" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
