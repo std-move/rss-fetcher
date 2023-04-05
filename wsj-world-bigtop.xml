@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-05T19:10:15Z</updated>
+  <updated>2023-04-05T20:12:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Zelensky Visits Poland as Ukraine Pursues Support for Offensive</title>
-    <updated>2023-04-05T17:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-05:/articles/russia-strengthens-defenses-in-occupied-ukraine-as-zelensky-visits-poland-62f32f22</id>
-    <content type="html">Ukrainian President Volodymyr Zelensky’s visit came amid a flurry of diplomacy aimed at expediting a possible outcome to the continuing war in Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russia-strengthens-defenses-in-occupied-ukraine-as-zelensky-visits-poland-62f32f22" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
