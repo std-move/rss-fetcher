@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-06T17:09:45Z</updated>
+  <updated>2023-04-06T18:13:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Evan Gershkovich -- sein geliebtes Russland hat sich gegen ihn gewendet</title>
-    <updated>2023-04-06T16:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-sein-geliebtes-russland-hat-sich-gegen-ihn-gewendet-b164039b</id>
-    <content type="html">Moskau war für den Korrespondenten des Wall Street Journal, dessen Eltern einst aus der Sowjetunion flohen, zur zweiten Heimat geworden. Der russische Geheimdienst FSB beschuldigt ihn nun der Spionage und hat ihn festgenommen. Das Wall Street Journal bestreitet diesen Vorwurf vehement.</content>
-    <link href="https://www.wsj.com/articles/evan-gershkovich-sein-geliebtes-russland-hat-sich-gegen-ihn-gewendet-b164039b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Evan Gershkovich amava la Russia, il paese che si è rivoltato contro di lui</title>
-    <updated>2023-04-06T16:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-amava-la-russia-il-paese-che-si-e-rivoltato-contro-di-lui-aa5de046</id>
-    <content type="html">Il corrispondente del Wall Street Journal, i cui genitori fuggirono dall’Unione Sovietica, aveva fatto di Mosca una seconda casa. L’FSB lo ha arrestato con l’accusa di spionaggio, che il Journal nega con forza.</content>
-    <link href="https://www.wsj.com/articles/evan-gershkovich-amava-la-russia-il-paese-che-si-e-rivoltato-contro-di-lui-aa5de046" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
