@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-06T16:14:23Z</updated>
+  <updated>2023-04-06T17:09:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Evan Gershkovich -- sein geliebtes Russland hat sich gegen ihn gewendet</title>
+    <updated>2023-04-06T16:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-sein-geliebtes-russland-hat-sich-gegen-ihn-gewendet-b164039b</id>
+    <content type="html">Moskau war für den Korrespondenten des Wall Street Journal, dessen Eltern einst aus der Sowjetunion flohen, zur zweiten Heimat geworden. Der russische Geheimdienst FSB beschuldigt ihn nun der Spionage und hat ihn festgenommen. Das Wall Street Journal bestreitet diesen Vorwurf vehement.</content>
+    <link href="https://www.wsj.com/articles/evan-gershkovich-sein-geliebtes-russland-hat-sich-gegen-ihn-gewendet-b164039b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Evan Gershkovich amava la Russia, il paese che si è rivoltato contro di lui</title>
     <updated>2023-04-06T16:02:00Z</updated>
     <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-amava-la-russia-il-paese-che-si-e-rivoltato-contro-di-lui-aa5de046</id>
     <content type="html">Il corrispondente del Wall Street Journal, i cui genitori fuggirono dall’Unione Sovietica, aveva fatto di Mosca una seconda casa. L’FSB lo ha arrestato con l’accusa di spionaggio, che il Journal nega con forza.</content>
     <link href="https://www.wsj.com/articles/evan-gershkovich-amava-la-russia-il-paese-che-si-e-rivoltato-contro-di-lui-aa5de046" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Evan Gershkovich amava a Rússia, o país que se voltou contra ele</title>
-    <updated>2023-04-06T15:58:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-amava-a-russia-o-pais-que-se-voltou-contra-ele-8f439a78</id>
-    <content type="html">O correspondente do The Wall Street Journal, cujos pais fugiram da União Soviética, fez de Moscou seu segundo lar. Ele foi detido pelo FSB e acusado de espionagem, acusação que o Journal nega veementemente.</content>
-    <link href="https://www.wsj.com/articles/evan-gershkovich-amava-a-russia-o-pais-que-se-voltou-contra-ele-8f439a78" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Evan Gershkovich aimait la Russie, le pays qui s&#39;est retourné contre lui</title>
-    <updated>2023-04-06T15:55:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-aimait-la-russie-le-pays-qui-sest-retourne-contre-lui-26c5b7e7</id>
-    <content type="html">Le correspondant du Wall Street Journal, dont les parents avaient fui l’Union soviétique, a fait de Moscou son deuxième domicile. Il a été détenu par le FSB et accusé d’espionnage, une allégation que le Journal nie catégoriquement.</content>
-    <link href="https://www.wsj.com/articles/evan-gershkovich-aimait-la-russie-le-pays-qui-sest-retourne-contre-lui-26c5b7e7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Evan Gershkovich amaba a Rusia, el país que se volvió en su contra</title>
-    <updated>2023-04-06T15:46:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-amaba-a-rusia-el-pais-que-se-volvio-en-su-contra-ef25dfbe</id>
-    <content type="html">El corresponsal de The Wall Street Journal, cuyos padres huyeron de la unión soviética, hizo de Moscú su segundo hogar. Fue detenido por el FSB y acusado de espionaje, cargo que el periódico niega categóricamente</content>
-    <link href="https://www.wsj.com/articles/evan-gershkovich-amaba-a-rusia-el-pais-que-se-volvio-en-su-contra-ef25dfbe" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
