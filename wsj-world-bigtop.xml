@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-06T12:21:19Z</updated>
+  <updated>2023-04-06T13:13:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Blasts Hit Russia-Controlled City in Ukraine</title>
-    <updated>2023-04-06T10:51:00Z</updated>
+    <title>Cedar Rapids Wants to Take These Homes---Before the Floods Do</title>
+    <updated>2023-04-06T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-06:/articles/cedar-rapids-wants-to-take-these-homesbefore-the-floods-do-14e4d454</id>
+    <content type="html">In Cedar Rapids’ Time Check neighborhood, some homeowners are “paying the price for the safety of the entire city,” mayor says.</content>
+    <link href="https://www.wsj.com/articles/cedar-rapids-wants-to-take-these-homesbefore-the-floods-do-14e4d454" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Blasts Hit Russia-Controlled City in Ukraine on Supply Route to Crimea</title>
+    <updated>2023-04-06T12:45:00Z</updated>
     <id>tag:www.wsj.com,2023-04-06:/articles/blasts-hit-russia-controlled-city-in-ukraine-a48cf659</id>
     <content type="html">The strikes on Melitopol make strategic sense, analysts say, because they could help to break through Russia’s land bridge and restore Ukraine’s access to the Azov Sea.</content>
     <link href="https://www.wsj.com/articles/blasts-hit-russia-controlled-city-in-ukraine-a48cf659" rel="alternate"></link>
