@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-06T18:13:39Z</updated>
+  <updated>2023-04-06T19:08:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ο  Έβαν Γκέρσκοβιτς αγαπούσε τη Ρωσία, τη χώρα που στράφηκε εναντίον του</title>
+    <updated>2023-04-06T18:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-06:/articles/evan-gershkovich-profile-greek-43f55320</id>
+    <content type="html">Ο ανταποκριτής της Wall Street Journal, παιδί προσφύγων της Σοβιετικής Ένωσης, είχε κάνει τη Μόσχα δεύτερο σπίτι του. Συνελήφθη από την FSB και κατηγορήθηκε για κατασκοπεία, έναν ισχυρισμό που η εφημερίδα αρνείται κατηγορηματικά.</content>
+    <link href="https://www.wsj.com/articles/evan-gershkovich-profile-greek-43f55320" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
