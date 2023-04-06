@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-06T11:09:16Z</updated>
+  <updated>2023-04-06T12:21:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-04-06:/articles/blasts-hit-russia-controlled-city-in-ukraine-a48cf659</id>
     <content type="html">The strikes on Melitopol make strategic sense, analysts say, because they could help to break through Russia’s land bridge and restore Ukraine’s access to the Azov Sea.</content>
     <link href="https://www.wsj.com/articles/blasts-hit-russia-controlled-city-in-ukraine-a48cf659" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ex-Tabloid King Poses Threat to Donald Trump in Hush-Money Case</title>
-    <updated>2023-04-06T10:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-06:/articles/ex-tabloid-king-poses-threat-to-donald-trump-in-hush-money-case-48da68f</id>
-    <content type="html">Once enlisted to help protect Trump from scandal, David Pecker could provide testimony potentially hurting the ex-president in his criminal case.</content>
-    <link href="https://www.wsj.com/articles/ex-tabloid-king-poses-threat-to-donald-trump-in-hush-money-case-48da68f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>India&#39;s Gautam Adani Wants to Redevelop Giant Slum From &#39;Slumdog Millionaire&#39;</title>
-    <updated>2023-04-06T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-06:/articles/indias-gautam-adani-wants-to-redevelop-giant-slum-from-slumdog-millionaire-2ed88452</id>
-    <content type="html">The billionaire’s Adani Properties is expected to get the contract to replace the narrow streets and shanties of Dharavi in the center of Mumbai.</content>
-    <link href="https://www.wsj.com/articles/indias-gautam-adani-wants-to-redevelop-giant-slum-from-slumdog-millionaire-2ed88452" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
