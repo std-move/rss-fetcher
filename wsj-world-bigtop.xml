@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-07T00:53:27Z</updated>
+  <updated>2023-04-07T01:58:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Blasts Hit Russia-Controlled City in Ukraine on Supply Route to Crimea</title>
-    <updated>2023-04-07T00:35:00Z</updated>
+    <updated>2023-04-07T00:52:00Z</updated>
     <id>tag:www.wsj.com,2023-04-07:/articles/blasts-hit-russia-controlled-city-in-ukraine-a48cf659</id>
     <content type="html">The strikes on Melitopol make strategic sense, analysts say, because they could help to break through Russia’s land bridge and restore Ukraine’s access to the Azov Sea.</content>
     <link href="https://www.wsj.com/articles/blasts-hit-russia-controlled-city-in-ukraine-a48cf659" rel="alternate"></link>
