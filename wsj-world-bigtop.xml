@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-08T13:11:36Z</updated>
+  <updated>2023-04-08T14:09:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2023-04-08:/articles/ukraine-resumes-electricity-exports-as-russian-strikes-on-grid-lose-efficacy-b4567eda</id>
     <content type="html">The decision signals that the country has withstood Russia’s monthslong assault on its power grid. </content>
     <link href="https://www.wsj.com/articles/ukraine-resumes-electricity-exports-as-russian-strikes-on-grid-lose-efficacy-b4567eda" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>More Workers Take Parental Leave as States, Employers Expand Eligibility</title>
-    <updated>2023-04-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-08:/articles/more-workers-take-parental-leave-as-states-employers-expand-eligibility-8eaf8e3a</id>
-    <content type="html">The number of workers taking parental leave is exploding, as more states mandate the benefit, and companies adopt leave policies to attract workers.</content>
-    <link href="https://www.wsj.com/articles/more-workers-take-parental-leave-as-states-employers-expand-eligibility-8eaf8e3a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Seeks Ways to Help Burkina Faso&#39;s Military Junta Fight Jihadists</title>
-    <updated>2023-04-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-08:/articles/u-s-seeks-ways-to-help-burkina-fasos-military-junta-fight-jihadists-f942cf68</id>
-    <content type="html">The Biden administration is quietly helping Burkina Faso’s ruling junta battle al Qaeda and Islamic State in a hotly contested corner of West Africa.</content>
-    <link href="https://www.wsj.com/articles/u-s-seeks-ways-to-help-burkina-fasos-military-junta-fight-jihadists-f942cf68" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
