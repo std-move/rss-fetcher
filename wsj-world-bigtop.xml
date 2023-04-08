@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-08T15:10:02Z</updated>
+  <updated>2023-04-08T16:13:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Evan Gershkovich Rusya&#39;yı Seviyordu, Ama Rusya Ona Sırt Çevirdi</title>
+    <updated>2023-04-08T15:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-08:/articles/evan-gershkovich-rusyay-seviyordu-ama-rusya-ona-srt-cevirdi-8426a201</id>
+    <content type="html">Ailesi Sovyetler Birliği’nden kaçan Wall Street Journal muhabiri Moskova’yı ikinci bir ev olarak görüyordu. FSB tarafından gözaltına alındı ve casuslukla suçlandı. Wall Street Journal bu iddiayı kuvvetle yalanlıyor.</content>
+    <link href="https://www.wsj.com/articles/evan-gershkovich-rusyay-seviyordu-ama-rusya-ona-srt-cevirdi-8426a201" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>An Uneasy Peace Prevails in Northern Ireland on Anniversary of Good Friday Agreement</title>
     <updated>2023-04-08T12:00:00Z</updated>
     <id>tag:www.wsj.com,2023-04-08:/articles/twenty-five-years-after-the-good-friday-agreement-an-uneasy-peace-prevails-in-northern-ireland-26a2a47e</id>
     <content type="html">On the eve of a visit by President Biden, the Catholic and Protestant communities are cleaved by Brexit and sectarian tensions.</content>
     <link href="https://www.wsj.com/articles/twenty-five-years-after-the-good-friday-agreement-an-uneasy-peace-prevails-in-northern-ireland-26a2a47e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Resumes Electricity Exports, as Russian Strikes on Grid Lose Efficacy</title>
-    <updated>2023-04-08T11:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-08:/articles/ukraine-resumes-electricity-exports-as-russian-strikes-on-grid-lose-efficacy-b4567eda</id>
-    <content type="html">The decision signals that the country has withstood Russia’s monthslong assault on its power grid. </content>
-    <link href="https://www.wsj.com/articles/ukraine-resumes-electricity-exports-as-russian-strikes-on-grid-lose-efficacy-b4567eda" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
