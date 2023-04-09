@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-09T09:09:55Z</updated>
+  <updated>2023-04-09T10:10:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How Will the Abortion Pill Case in Texas Change Access to Abortions in the U.S.?</title>
-    <updated>2023-04-08T17:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-08:/articles/abortion-pill-access-case-texas-judge-11651775689</id>
-    <content type="html">Medication abortion accounts for more than half of procedures nationwide.</content>
-    <link href="https://www.wsj.com/articles/abortion-pill-access-case-texas-judge-11651775689" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Evan Gershkovich Rusya&#39;yı Seviyordu, Ama Rusya Ona Sırt Çevirdi</title>
-    <updated>2023-04-08T15:21:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-08:/articles/evan-gershkovich-rusyay-seviyordu-ama-rusya-ona-srt-cevirdi-8426a201</id>
-    <content type="html">Ailesi Sovyetler Birliği’nden kaçan Wall Street Journal muhabiri Moskova’yı ikinci bir ev olarak görüyordu. FSB tarafından gözaltına alındı ve casuslukla suçlandı. Wall Street Journal bu iddiayı kuvvetle yalanlıyor.</content>
-    <link href="https://www.wsj.com/articles/evan-gershkovich-rusyay-seviyordu-ama-rusya-ona-srt-cevirdi-8426a201" rel="alternate"></link>
+    <title>WSJ Reporter&#39;s Detention Spotlights the Rise of Arrests by Authoritarian Regimes</title>
+    <updated>2023-04-09T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-09:/articles/wsj-reporters-detention-spotlights-the-rise-of-arrests-by-authoritarian-regimes-f78ade76</id>
+    <content type="html">The Evan Gershkovich case reflects a growing practice in which Americans are arrested to obtain concessions from the U.S.</content>
+    <link href="https://www.wsj.com/articles/wsj-reporters-detention-spotlights-the-rise-of-arrests-by-authoritarian-regimes-f78ade76" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
