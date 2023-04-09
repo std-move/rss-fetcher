@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-09T13:12:04Z</updated>
+  <updated>2023-04-09T14:09:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -34,14 +34,6 @@
     <id>tag:www.wsj.com,2023-04-09:/articles/east-palestine-isnt-alone-how-one-town-recovered-from-a-toxic-train-derailment-2a84266b</id>
     <content type="html">Paulsboro, N.J., residents have worked to move past a vinyl chloride release a decade ago that raised health concerns and hit businesses and housing.</content>
     <link href="https://www.wsj.com/articles/east-palestine-isnt-alone-how-one-town-recovered-from-a-toxic-train-derailment-2a84266b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>WSJ Reporter&#39;s Detention Spotlights the Rise of Arrests by Authoritarian Regimes</title>
-    <updated>2023-04-09T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-09:/articles/wsj-reporters-detention-spotlights-the-rise-of-arrests-by-authoritarian-regimes-f78ade76</id>
-    <content type="html">The Evan Gershkovich case reflects a growing practice in which Americans are arrested to obtain concessions from the U.S.</content>
-    <link href="https://www.wsj.com/articles/wsj-reporters-detention-spotlights-the-rise-of-arrests-by-authoritarian-regimes-f78ade76" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
