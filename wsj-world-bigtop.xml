@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-10T17:09:52Z</updated>
+  <updated>2023-04-10T18:13:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ozempic, Wegovy and Mounjaro Spark a Weight-Loss and Diet Industry Identity Crisis</title>
+    <updated>2023-04-10T17:49:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-10:/articles/ozempic-wegovy-mounjaro-weight-loss-industry-89419ecb</id>
+    <content type="html">Weight-loss businesses, which long pushed calorie-counting and willpower, are grappling with the surging popularity of new drugs.</content>
+    <link href="https://www.wsj.com/articles/ozempic-wegovy-mounjaro-weight-loss-industry-89419ecb" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Says Russia Uses &#39;Scorched Earth&#39; Tactics in Bakhmut</title>
+    <updated>2023-04-10T17:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-10:/articles/ukraine-says-russia-is-using-scorched-earth-tactics-in-bakhmut-b8838a0a</id>
+    <content type="html">A top Ukrainian military commander described the situation in the city, where Ukrainian forces have been largely pushed out of its center, as “difficult but under control.”</content>
+    <link href="https://www.wsj.com/articles/ukraine-says-russia-is-using-scorched-earth-tactics-in-bakhmut-b8838a0a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
