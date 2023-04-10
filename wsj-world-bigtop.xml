@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-09T23:10:09Z</updated>
+  <updated>2023-04-10T00:57:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine May Run Out of Air Defenses by May, Leaked Pentagon Documents Warn</title>
+    <updated>2023-04-10T00:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-10:/articles/ukraine-may-run-out-of-air-defenses-by-may-leaked-pentagon-documents-warn-b96b0655</id>
+    <content type="html">Kyiv is depleting its last reserves of S-300 missiles, making it possible for Russia to achieve air superiority, according to purported Pentagon presentations.</content>
+    <link href="https://www.wsj.com/articles/ukraine-may-run-out-of-air-defenses-by-may-leaked-pentagon-documents-warn-b96b0655" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>New Details on Intelligence Leak Show It Circulated for Weeks Before Raising Alarm</title>
+    <updated>2023-04-09T23:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-09:/articles/new-details-on-intelligence-leak-show-it-circulated-for-weeks-before-raising-alarm-7730a395</id>
+    <content type="html">The secret documents were first posted in January to a small group on a messaging channel that trafficked in memes, jokes and racist talk.</content>
+    <link href="https://www.wsj.com/articles/new-details-on-intelligence-leak-show-it-circulated-for-weeks-before-raising-alarm-7730a395" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
