@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-10T13:13:56Z</updated>
+  <updated>2023-04-10T14:10:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Says Russia Is Using &#39;Scorched Earth&#39; Tactics in Bakhmut</title>
-    <updated>2023-04-10T11:08:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-10:/articles/ukraine-says-russia-is-using-scorched-earth-tactics-in-bakhmut-b8838a0a</id>
-    <content type="html">A top Ukrainian military commander described the situation in the city, where Ukrainian forces have been largely pushed out of its center, as “difficult but under control.”</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-russia-is-using-scorched-earth-tactics-in-bakhmut-b8838a0a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Climate Change and Poverty Pose Challenge to World Bank</title>
-    <updated>2023-04-10T11:00:00Z</updated>
+    <updated>2023-04-10T13:33:00Z</updated>
     <id>tag:www.wsj.com,2023-04-10:/articles/climate-change-and-poverty-pose-challenge-to-world-bank-69f27b9e</id>
     <content type="html">As the organization embarks on overhauling lending practices, a question looms about divvying up limited resources.</content>
     <link href="https://www.wsj.com/articles/climate-change-and-poverty-pose-challenge-to-world-bank-69f27b9e" rel="alternate"></link>
