@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-11T13:14:59Z</updated>
+  <updated>2023-04-11T14:11:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Repels Russian Attacks in East as Kyiv Plays Down U.S. Leaks</title>
-    <updated>2023-04-11T11:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-11:/articles/ukraine-repels-russian-attacks-in-east-as-kyiv-plays-down-u-s-leaks-7c36acef</id>
-    <content type="html">The purported intelligence leaks appear to contain information about potential battlefield vulnerabilities and the composition of parts of Ukraine’s forces that could be exploited by Moscow.</content>
-    <link href="https://www.wsj.com/articles/ukraine-repels-russian-attacks-in-east-as-kyiv-plays-down-u-s-leaks-7c36acef" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
