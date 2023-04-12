@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-12T09:11:20Z</updated>
+  <updated>2023-04-12T10:12:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China Seeks to Write Its Own History of Battle With Covid-19</title>
-    <updated>2023-04-12T05:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-12:/articles/china-seeks-to-write-its-own-history-of-battle-with-covid-19-1f6f8939</id>
-    <content type="html">The Beijing government is withholding data and censoring debate as it promotes a narrative of triumph as to how it handled the virus.</content>
-    <link href="https://www.wsj.com/articles/china-seeks-to-write-its-own-history-of-battle-with-covid-19-1f6f8939" rel="alternate"></link>
+    <title>Russia Stole Land and Grain. Now It&#39;s Taking Timber, Ukraine Says.</title>
+    <updated>2023-04-12T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-12:/articles/russia-stole-land-and-grain-now-its-taking-timber-ukraine-says-80de779c</id>
+    <content type="html">Officials say acres of forest have been cut down for commercial gain or to fortify defensive positions.</content>
+    <link href="https://www.wsj.com/articles/russia-stole-land-and-grain-now-its-taking-timber-ukraine-says-80de779c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
