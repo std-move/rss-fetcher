@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-12T13:15:01Z</updated>
+  <updated>2023-04-12T14:10:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ticks Are Bringing Disease to a Backyard Near You</title>
+    <updated>2023-04-12T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-12:/articles/tick-season-diseases-lyme-backyards-39599226</id>
+    <content type="html">Bites and infections are increasing as temperatures warm and deer populations grow.</content>
+    <link href="https://www.wsj.com/articles/tick-season-diseases-lyme-backyards-39599226" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Texas-Border Bridges Race to Expand as Trade Grows with Mexico</title>
     <updated>2023-04-12T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-04-12:/articles/texas-border-bridges-race-to-expand-as-trade-grows-with-mexico-c1878199</id>
-    <content type="html">Most U.S.-Mexico spans are owned by the communities that surround them, so toll revenue stays local, bolstering the budgets of low-income border cities and counties.</content>
+    <content type="html">Most U.S.-Mexico spans are owned by the communities that surround them, so toll revenue stays local and can bolster the budgets of low-income border cities and counties.</content>
     <link href="https://www.wsj.com/articles/texas-border-bridges-race-to-expand-as-trade-grows-with-mexico-c1878199" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
