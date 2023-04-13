@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-13T12:22:22Z</updated>
+  <updated>2023-04-13T13:14:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Why Is America Still Flying the A-10 Warthog, a Cold War Relic?</title>
+    <updated>2023-04-13T13:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-13:/articles/a-10-warthog-why-is-america-still-flying-cold-war-relic-f34f607f</id>
+    <content type="html">Lawmakers protecting jobs and commerce for their districts block the military from retiring outdated equipment, impairing the effort to counter rapidly modernizing Chinese forces. This article is part of a series examining the problems confronting America’s military.</content>
+    <link href="https://www.wsj.com/articles/a-10-warthog-why-is-america-still-flying-cold-war-relic-f34f607f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Presses Attacks in Eastern Ukraine</title>
     <updated>2023-04-13T12:06:00Z</updated>
