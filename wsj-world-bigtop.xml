@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-13T08:14:39Z</updated>
+  <updated>2023-04-13T09:11:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Macron Fuels Debate and Protests in France Over Presidential Power</title>
+    <updated>2023-04-13T08:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-13:/articles/macron-sparks-debate-protests-in-france-over-presidential-power-5e160779</id>
+    <content type="html">The leader wields his executive authority broadly, causing some to ask whether his office needs to be reined in.</content>
+    <link href="https://www.wsj.com/articles/macron-sparks-debate-protests-in-france-over-presidential-power-5e160779" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
