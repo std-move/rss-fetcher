@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-13T22:10:30Z</updated>
+  <updated>2023-04-13T23:11:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Texas County Keeps Libraries Open Amid Battle Over Books</title>
+    <updated>2023-04-13T22:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-13:/articles/a-battle-over-books-could-lead-one-texas-county-to-close-its-libraries-1eb3d220</id>
+    <content type="html">A federal judge had ordered Llano County to return about a dozen books to its shelves.</content>
+    <link href="https://www.wsj.com/articles/a-battle-over-books-could-lead-one-texas-county-to-close-its-libraries-1eb3d220" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
