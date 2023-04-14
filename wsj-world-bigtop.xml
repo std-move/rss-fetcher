@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-14T21:09:46Z</updated>
+  <updated>2023-04-14T22:10:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Iran Is Recruiting Militant Allies to Launch Attacks Against Israel</title>
-    <updated>2023-04-14T19:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-14:/articles/iran-is-recruiting-militant-allies-to-launch-attacks-against-israel-c40f369f</id>
-    <content type="html">The commander of the Quds Force has met leaders of Hamas and Hezbollah in recent weeks to coordinate strikes.</content>
-    <link href="https://www.wsj.com/articles/iran-is-recruiting-militant-allies-to-launch-attacks-against-israel-c40f369f" rel="alternate"></link>
+    <title>Ireland Marks Biden &#39;Homecoming&#39; Over 150 Years After Ancestors Fled</title>
+    <updated>2023-04-14T21:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-14:/articles/ireland-marks-biden-homecoming-more-than-150-years-after-his-ancestors-fled-1a5393a3</id>
+    <content type="html">The warm embrace of the Irish offers the U.S. president a respite from domestic political tensions.</content>
+    <link href="https://www.wsj.com/articles/ireland-marks-biden-homecoming-more-than-150-years-after-his-ancestors-fled-1a5393a3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Macron Wins Approval to Raise France&#39;s Retirement Age</title>
-    <updated>2023-04-14T19:10:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-14:/articles/frances-macron-wins-approval-to-raise-retirement-age-f3122e5d</id>
-    <content type="html">The Constitutional Council’s ruling clears the way for key parts of the French leader’s pension overhaul to become law in September.</content>
-    <link href="https://www.wsj.com/articles/frances-macron-wins-approval-to-raise-retirement-age-f3122e5d" rel="alternate"></link>
+    <title>Abortion Pill Access in the U.S.: What the Legal Battle Means</title>
+    <updated>2023-04-14T21:17:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-14:/articles/abortion-pill-access-case-texas-judge-11651775689</id>
+    <content type="html">Medication abortion accounts for more than half of procedures nationwide.</content>
+    <link href="https://www.wsj.com/articles/abortion-pill-access-case-texas-judge-11651775689" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
