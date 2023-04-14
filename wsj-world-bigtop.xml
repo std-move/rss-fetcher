@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-14T16:14:38Z</updated>
+  <updated>2023-04-14T17:08:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>As a Tiny Island Is Militarized, India Worries About China&#39;s Growing Footprint</title>
-    <updated>2023-04-14T16:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-14:/articles/as-a-tiny-island-is-militarized-india-worries-about-chinas-growing-footprint-7e2c7f0e</id>
-    <content type="html">Satellite images show a gradual buildup of infrastructure on a Myanmar island well located for surveillance of Indian naval ship movements, satellite launches and missile tests.</content>
-    <link href="https://www.wsj.com/articles/as-a-tiny-island-is-militarized-india-worries-about-chinas-growing-footprint-7e2c7f0e" rel="alternate"></link>
+    <title>Ireland Marks Biden &#39;Homecoming&#39; Over 150 Years After Ancestors Fled</title>
+    <updated>2023-04-14T16:28:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-14:/articles/ireland-marks-biden-homecoming-more-than-150-years-after-his-ancestors-fled-1a5393a3</id>
+    <content type="html">The warm embrace of the Irish offers the U.S. president a respite from domestic political tensions.</content>
+    <link href="https://www.wsj.com/articles/ireland-marks-biden-homecoming-more-than-150-years-after-his-ancestors-fled-1a5393a3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
