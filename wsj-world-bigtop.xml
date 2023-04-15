@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-15T12:19:43Z</updated>
+  <updated>2023-04-15T13:12:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-04-15:/articles/ukrainian-rescuers-dig-for-survivors-in-russian-strike-on-housing-complex-e548d9d2</id>
     <content type="html">Ukrainian rescue workers searched for survivors in a housing complex in the eastern city of Slovyansk that had been hit by a Russian missile strike.</content>
     <link href="https://www.wsj.com/articles/ukrainian-rescuers-dig-for-survivors-in-russian-strike-on-housing-complex-e548d9d2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As a Tiny Island Is Militarized, India Worries About China&#39;s Growing Footprint</title>
-    <updated>2023-04-15T08:28:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-15:/articles/as-a-tiny-island-is-militarized-india-worries-about-chinas-growing-footprint-7e2c7f0e</id>
-    <content type="html">Satellite images show a gradual buildup of infrastructure on a Myanmar island well located for surveillance of Indian naval ship movements, satellite launches and missile tests.</content>
-    <link href="https://www.wsj.com/articles/as-a-tiny-island-is-militarized-india-worries-about-chinas-growing-footprint-7e2c7f0e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
