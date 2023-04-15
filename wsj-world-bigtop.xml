@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-15T11:08:33Z</updated>
+  <updated>2023-04-15T12:19:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>California Braces for More Flooding When Record Snowpack Melts</title>
+    <updated>2023-04-15T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-15:/articles/california-braces-for-more-flooding-when-record-snowpack-melts-13bf9bcd</id>
+    <content type="html">The state’s swing from record drought to record precipitation already has resulted in heavy damage—even before the snow melts.</content>
+    <link href="https://www.wsj.com/articles/california-braces-for-more-flooding-when-record-snowpack-melts-13bf9bcd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukrainian Rescuers Dig for Survivors in Russian Strike on Housing Complex</title>
     <updated>2023-04-15T09:26:00Z</updated>
