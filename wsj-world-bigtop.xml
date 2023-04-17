@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-16T23:10:30Z</updated>
+  <updated>2023-04-17T00:58:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-04-16:/articles/arrest-of-jack-teixeira-brings-shock-confusion-to-small-new-england-town-4ed1c188</id>
     <content type="html">Airman had a deep interest in guns and the military, former high-school classmates say.</content>
     <link href="https://www.wsj.com/articles/arrest-of-jack-teixeira-brings-shock-confusion-to-small-new-england-town-4ed1c188" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Online Account Overseen by Ex-Navy Member Aided Spread of Secrets</title>
-    <updated>2023-04-16T19:46:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-16:/articles/social-media-account-overseen-by-former-navy-noncommissioned-officer-helped-spread-secrets-a4b5643b</id>
-    <content type="html">A pro-Russian account overseen by an American administrator played a key role in spreading classified documents online, reposting files from obscure chat rooms.</content>
-    <link href="https://www.wsj.com/articles/social-media-account-overseen-by-former-navy-noncommissioned-officer-helped-spread-secrets-a4b5643b" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
