@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-17T00:58:33Z</updated>
+  <updated>2023-04-17T02:06:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Arrest of Jack Teixeira Disrupts a Quiet New England Town</title>
-    <updated>2023-04-16T20:41:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-16:/articles/arrest-of-jack-teixeira-brings-shock-confusion-to-small-new-england-town-4ed1c188</id>
-    <content type="html">Airman had a deep interest in guns and the military, former high-school classmates say.</content>
-    <link href="https://www.wsj.com/articles/arrest-of-jack-teixeira-brings-shock-confusion-to-small-new-england-town-4ed1c188" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
