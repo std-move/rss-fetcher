@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-17T11:10:00Z</updated>
+  <updated>2023-04-17T12:22:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China&#39;s Xi Seeks to Shake Trans-Atlantic Solidarity With Flurry of Diplomacy</title>
+    <updated>2023-04-17T11:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-17:/articles/chinas-xi-jinping-seeks-to-shake-trans-atlantic-solidarity-with-flurry-of-diplomacy-b671c6af</id>
+    <content type="html">The leader has pushed back against what he calls U.S. suppression.</content>
+    <link href="https://www.wsj.com/articles/chinas-xi-jinping-seeks-to-shake-trans-atlantic-solidarity-with-flurry-of-diplomacy-b671c6af" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Power Station Strike Knocks Out Electricity in Russian Border Region</title>
+    <updated>2023-04-17T11:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-17:/articles/power-station-strike-knocks-out-electricity-in-russian-border-region-4d016bdb</id>
+    <content type="html">Russian military correspondents attributed the attack to a Ukrainian drone, while in eastern Ukraine, the fight around Bakhmut raged on.</content>
+    <link href="https://www.wsj.com/articles/power-station-strike-knocks-out-electricity-in-russian-border-region-4d016bdb" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
