@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-18T22:10:31Z</updated>
+  <updated>2023-04-18T23:11:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Desperation Grows for Sudanese Sheltering From Warring Generals</title>
-    <updated>2023-04-18T20:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-18:/articles/u-s-and-other-diplomats-in-sudan-are-attacked-as-violence-flares-6211c1ae</id>
-    <content type="html">The power struggle between the country’s top two generals continued as civilians sheltered from airstrikes and gunfire and supplies of water and food ran out.</content>
-    <link href="https://www.wsj.com/articles/u-s-and-other-diplomats-in-sudan-are-attacked-as-violence-flares-6211c1ae" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
