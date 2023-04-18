@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-18T08:14:44Z</updated>
+  <updated>2023-04-18T09:11:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Putin Makes Rare Trip to Russian-Occupied Areas of Ukraine</title>
+    <updated>2023-04-18T08:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-18:/articles/putin-makes-rare-trip-to-russian-occupied-areas-of-ukraine-e178d5c5</id>
+    <content type="html">The Russian president traveled to the Kherson and Luhansk regions and was briefed by senior officers, the Kremlin said, without specifying when the trip took place. </content>
+    <link href="https://www.wsj.com/articles/putin-makes-rare-trip-to-russian-occupied-areas-of-ukraine-e178d5c5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
