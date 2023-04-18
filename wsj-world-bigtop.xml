@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-18T14:12:42Z</updated>
+  <updated>2023-04-18T15:13:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Egyptians Struggle to Afford Food This Ramadan as Crisis Worsens</title>
-    <updated>2023-04-18T13:43:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-18:/articles/egyptians-struggle-to-afford-food-this-ramadan-as-crisis-worsens-831e5a54</id>
-    <content type="html">The Egyptian pound has lost about half its value against the dollar over the past year, pushing millions into poverty in the Arab world’s most populous country. Many are now scraping for even their one daily meal during the Islamic holy month.</content>
-    <link href="https://www.wsj.com/articles/egyptians-struggle-to-afford-food-this-ramadan-as-crisis-worsens-831e5a54" rel="alternate"></link>
+    <title>Decades of Negligence and Mismanagement Made Turkey&#39;s Earthquake Deadlier</title>
+    <updated>2023-04-18T15:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-18:/articles/turkey-earthquake-construction-death-toll-9193952c</id>
+    <content type="html">A comprehensive review shows that widespread problems in the country’s construction boom under the Erdogan government added to the devastating toll.</content>
+    <link href="https://www.wsj.com/articles/turkey-earthquake-construction-death-toll-9193952c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
