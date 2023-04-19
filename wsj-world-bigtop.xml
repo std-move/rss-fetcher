@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-19T13:15:05Z</updated>
+  <updated>2023-04-19T14:10:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Brazil Battles for Amazon Tribe Known as Guardian of the Rainforest</title>
+    <updated>2023-04-19T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-19:/articles/brazil-battles-for-amazon-tribe-known-as-guardian-of-the-rainforest-5a66569d</id>
+    <content type="html">President Luiz Inácio Lula da Silva’s government is expelling gold miners from the Yanomami people’s lands in a bid to halt Amazonian destruction.</content>
+    <link href="https://www.wsj.com/articles/brazil-battles-for-amazon-tribe-known-as-guardian-of-the-rainforest-5a66569d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russian Drones Target Odessa as Ukraine Seeks More Air Defenses</title>
+    <updated>2023-04-19T13:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-19:/articles/russian-drones-target-odessa-as-ukraine-seeks-more-air-defenses-a7b9d90a</id>
+    <content type="html">Moscow’s attacks are putting strain on Ukraine’s air-defense network, threatening to deplete its munitions and leading the government to make urgent requests to its Western allies to send more antimissile systems.</content>
+    <link href="https://www.wsj.com/articles/russian-drones-target-odessa-as-ukraine-seeks-more-air-defenses-a7b9d90a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
