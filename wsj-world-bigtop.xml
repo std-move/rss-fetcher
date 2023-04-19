@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-19T12:21:54Z</updated>
+  <updated>2023-04-19T13:15:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Turns to Treason Laws as Putin Extends Crackdown</title>
-    <updated>2023-04-19T10:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-19:/articles/russia-turns-to-treason-laws-as-putin-extends-crackdown-ba8321b6</id>
-    <content type="html">Moscow is increasingly using treason and espionage laws to smother criticism of the war against Ukraine after President Vladimir Putin’s government widened the scope of the legislation and expanded his crackdown on opponents.</content>
-    <link href="https://www.wsj.com/articles/russia-turns-to-treason-laws-as-putin-extends-crackdown-ba8321b6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
