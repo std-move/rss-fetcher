@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-20T09:11:20Z</updated>
+  <updated>2023-04-20T10:12:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Seeks to Deplete Ukraine&#39;s Air Defenses Ahead of Kyiv&#39;s Expected Offensive</title>
+    <updated>2023-04-20T09:46:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-20:/articles/russia-seeks-to-deplete-ukraines-air-defenses-ahead-of-kyivs-expected-offensive-95e3f7f8</id>
+    <content type="html">Ukraine said it had shot down a slew of drones overnight as the country’s Western backers prepared to meet to discuss fresh military supplies.</content>
+    <link href="https://www.wsj.com/articles/russia-seeks-to-deplete-ukraines-air-defenses-ahead-of-kyivs-expected-offensive-95e3f7f8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>A Record Number of Journalists Were Detained Worldwide Prior to Evan Gershkovich&#39;s Arrest</title>
+    <updated>2023-04-20T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-20:/articles/a-record-number-of-journalists-were-detained-worldwide-prior-to-evan-gershkovichs-arrest-cae34b14</id>
+    <content type="html">“It’s gotten worse everywhere,” the Committee to Protect Journalists said about press freedom.</content>
+    <link href="https://www.wsj.com/articles/a-record-number-of-journalists-were-detained-worldwide-prior-to-evan-gershkovichs-arrest-cae34b14" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Pilots Stretch Soviet-Era Helicopters to Their Limits in Daring Assaults</title>
+    <updated>2023-04-20T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-20:/articles/ukraine-pilots-stretch-soviet-era-helicopters-to-their-limits-in-daring-assaults-d49f2061</id>
+    <content type="html">More than a year into the war, helicopter units are playing an increasingly vital role in Ukraine’s efforts to hold the Russians back in the east.</content>
+    <link href="https://www.wsj.com/articles/ukraine-pilots-stretch-soviet-era-helicopters-to-their-limits-in-daring-assaults-d49f2061" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
