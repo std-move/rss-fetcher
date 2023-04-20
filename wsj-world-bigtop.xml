@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-20T14:10:43Z</updated>
+  <updated>2023-04-20T15:11:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Seeks to Deplete Ukraine&#39;s Air Defenses Ahead of Kyiv&#39;s Expected Offensive</title>
-    <updated>2023-04-20T12:35:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-20:/articles/russia-seeks-to-deplete-ukraines-air-defenses-ahead-of-kyivs-expected-offensive-95e3f7f8</id>
-    <content type="html">Ukraine said it had shot down a slew of drones overnight as the country’s Western backers prepared to meet to discuss fresh military supplies.</content>
-    <link href="https://www.wsj.com/articles/russia-seeks-to-deplete-ukraines-air-defenses-ahead-of-kyivs-expected-offensive-95e3f7f8" rel="alternate"></link>
+    <title>New Covid-19 Booster Shots: What to Know</title>
+    <updated>2023-04-20T15:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-20:/articles/omicron-fall-booster-shot-11661953623</id>
+    <content type="html">New booster shots are available to bolster people’s protection against Omicron subvariants BA.4 and BA.5.</content>
+    <link href="https://www.wsj.com/articles/omicron-fall-booster-shot-11661953623" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Andes Turmoil Rattles Governments, Spurs Migration to U.S.</title>
+    <updated>2023-04-20T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-20:/articles/andes-turmoil-rattles-governments-spurs-migration-to-u-s-d8396753</id>
+    <content type="html">Violent crime and political upheaval are buffeting countries in the Andean region, threatening fragile governments and prompting hundreds of thousands to flee north to the U.S.</content>
+    <link href="https://www.wsj.com/articles/andes-turmoil-rattles-governments-spurs-migration-to-u-s-d8396753" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
