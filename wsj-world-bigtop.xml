@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-21T10:12:16Z</updated>
+  <updated>2023-04-21T11:09:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-04-21:/articles/a-village-cemetery-bears-witness-to-russias-centuries-long-efforts-to-subjugate-ukraine-3c72db56</id>
     <content type="html">For Ukrainians, the war is the latest chapter in a historic struggle against a larger neighbor that has repeatedly sought to wipe it out.</content>
     <link href="https://www.wsj.com/articles/a-village-cemetery-bears-witness-to-russias-centuries-long-efforts-to-subjugate-ukraine-3c72db56" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Mistakenly Bombs Own City</title>
-    <updated>2023-04-21T07:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-21:/articles/russia-mistakenly-bombs-own-city-4645ea23</id>
-    <content type="html">Moscow said one of its jet fighters had accidentally dropped a weapon over Belgorod near the Ukrainian border, leaving several injured.</content>
-    <link href="https://www.wsj.com/articles/russia-mistakenly-bombs-own-city-4645ea23" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
