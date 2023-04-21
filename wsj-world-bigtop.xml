@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-21T11:09:24Z</updated>
+  <updated>2023-04-21T12:21:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>A Village Cemetery Bears Witness to Russia&#39;s Centuries-Long Efforts to Subjugate Ukraine</title>
-    <updated>2023-04-21T09:33:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-21:/articles/a-village-cemetery-bears-witness-to-russias-centuries-long-efforts-to-subjugate-ukraine-3c72db56</id>
-    <content type="html">For Ukrainians, the war is the latest chapter in a historic struggle against a larger neighbor that has repeatedly sought to wipe it out.</content>
-    <link href="https://www.wsj.com/articles/a-village-cemetery-bears-witness-to-russias-centuries-long-efforts-to-subjugate-ukraine-3c72db56" rel="alternate"></link>
+    <title>Food Insecurity Hits Hard With Veterans and Uniformed Troops</title>
+    <updated>2023-04-21T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-21:/articles/food-insecurity-hits-hard-with-veterans-and-uniformed-troops-ba74a1fd</id>
+    <content type="html">Lack of dual-income households in the military and problems transitioning to civilian life are exacerbating hunger among service members and veterans.</content>
+    <link href="https://www.wsj.com/articles/food-insecurity-hits-hard-with-veterans-and-uniformed-troops-ba74a1fd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia Mistakenly Bombs Own City</title>
+    <updated>2023-04-21T11:18:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-21:/articles/russia-mistakenly-bombs-own-city-4645ea23</id>
+    <content type="html">Moscow said one of its jet fighters had accidentally dropped a weapon over Belgorod near the Ukrainian border, leaving several injured.</content>
+    <link href="https://www.wsj.com/articles/russia-mistakenly-bombs-own-city-4645ea23" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
