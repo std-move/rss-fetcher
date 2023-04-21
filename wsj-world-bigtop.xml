@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-21T15:11:17Z</updated>
+  <updated>2023-04-21T16:14:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Stakes in Sudan&#39;s War Include Russian Gold, Nile Dam, Key Shipping Lane</title>
-    <updated>2023-04-21T14:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-21:/articles/stakes-in-sudans-war-include-russian-gold-nile-dam-key-shipping-lane-e49c0b8</id>
-    <content type="html">The fate of some of Africa’s most important strategic resources is hanging in the balance as Sudan’s top two generals vie for supremacy.</content>
-    <link href="https://www.wsj.com/articles/stakes-in-sudans-war-include-russian-gold-nile-dam-key-shipping-lane-e49c0b8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
