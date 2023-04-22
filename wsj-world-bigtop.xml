@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-22T20:11:17Z</updated>
+  <updated>2023-04-22T21:09:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Evacuates Thousands in Border City It Accidentally Bombed</title>
-    <updated>2023-04-22T14:40:00Z</updated>
+    <updated>2023-04-22T20:52:00Z</updated>
     <id>tag:www.wsj.com,2023-04-22:/articles/russia-evacuates-thousands-in-border-city-it-accidentally-bombed-969e47b3</id>
     <content type="html">Russian authorities rushed to evacuate thousands of residents from parts of a border city that had been struck by its own air force in an accidental attack.</content>
     <link href="https://www.wsj.com/articles/russia-evacuates-thousands-in-border-city-it-accidentally-bombed-969e47b3" rel="alternate"></link>
@@ -16,7 +16,7 @@
     <title>Record Western Snow Leaves Trail of Collapsed Buildings</title>
     <updated>2023-04-22T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-04-22:/articles/record-western-snow-leaves-trail-of-collapsed-buildings-9ebe1f92</id>
-    <content type="html">California has sustained some of the heaviest damage, with owners of homes and commercial buildings taking stock as the snow melts.</content>
+    <content type="html">California has sustained some of the heaviest damage, with owners of homes and commercial structures taking stock as the snow melts.</content>
     <link href="https://www.wsj.com/articles/record-western-snow-leaves-trail-of-collapsed-buildings-9ebe1f92" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
