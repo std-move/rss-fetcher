@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-23T16:13:45Z</updated>
+  <updated>2023-04-23T17:09:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-04-23:/articles/new-quarrel-in-israel-occupied-west-bank-where-to-dump-the-trash-1752f1f9</id>
     <content type="html">The territory’s more than 70 unofficial dumps send noxious fumes into Palestinian homes and sometimes kill farm animals.</content>
     <link href="https://www.wsj.com/articles/new-quarrel-in-israel-occupied-west-bank-where-to-dump-the-trash-1752f1f9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Seattle Area to Vote on $1.2 Billion Tax Increase for Mental-Health System</title>
-    <updated>2023-04-23T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-23:/articles/seattle-region-to-vote-on-1-2-billion-tax-increase-for-mental-health-system-f41f700f</id>
-    <content type="html">Local and state governments in the U.S. are looking for ways to address a shortage of resources.</content>
-    <link href="https://www.wsj.com/articles/seattle-region-to-vote-on-1-2-billion-tax-increase-for-mental-health-system-f41f700f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
