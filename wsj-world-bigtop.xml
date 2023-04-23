@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-23T12:20:38Z</updated>
+  <updated>2023-04-23T13:12:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Seattle Area to Vote on $1.2 Billion Tax Increase for Mental-Health System</title>
+    <updated>2023-04-23T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-23:/articles/seattle-region-to-vote-on-1-2-billion-tax-increase-for-mental-health-system-f41f700f</id>
+    <content type="html">Local and state governments in the U.S. are looking for ways to address a shortage of resources.</content>
+    <link href="https://www.wsj.com/articles/seattle-region-to-vote-on-1-2-billion-tax-increase-for-mental-health-system-f41f700f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Gears Up to Hit Russians---and Show West It Can Win</title>
     <updated>2023-04-23T09:30:00Z</updated>
