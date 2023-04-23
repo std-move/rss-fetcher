@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-23T13:12:34Z</updated>
+  <updated>2023-04-23T14:09:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>New Quarrel in Israel-Occupied West Bank: Where to Dump the Trash</title>
+    <updated>2023-04-23T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-23:/articles/new-quarrel-in-israel-occupied-west-bank-where-to-dump-the-trash-1752f1f9</id>
+    <content type="html">The territory’s more than 70 unofficial dumps send noxious fumes into Palestinian homes and sometimes kill farm animals.</content>
+    <link href="https://www.wsj.com/articles/new-quarrel-in-israel-occupied-west-bank-where-to-dump-the-trash-1752f1f9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukrainian Forces Recapture Land Across Key River in South, Think Tank Says</title>
+    <updated>2023-04-23T13:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-23:/articles/ukrainian-forces-recapture-land-across-key-river-in-south-think-tank-says-8fc9a06</id>
+    <content type="html">Kyiv’s forces have established a presence on the eastern bank of the Dnipro River in the southern Kherson region, according to the Institute for the Study of War, in what would be a significant step in Ukraine’s effort to reclaim occupied territory.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-forces-recapture-land-across-key-river-in-south-think-tank-says-8fc9a06" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Seattle Area to Vote on $1.2 Billion Tax Increase for Mental-Health System</title>
     <updated>2023-04-23T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-04-23:/articles/seattle-region-to-vote-on-1-2-billion-tax-increase-for-mental-health-system-f41f700f</id>
     <content type="html">Local and state governments in the U.S. are looking for ways to address a shortage of resources.</content>
     <link href="https://www.wsj.com/articles/seattle-region-to-vote-on-1-2-billion-tax-increase-for-mental-health-system-f41f700f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Gears Up to Hit Russians---and Show West It Can Win</title>
-    <updated>2023-04-23T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-23:/articles/ukraine-gears-up-to-hit-russiansand-show-west-it-can-win-89c43105</id>
-    <content type="html">In the looming offensive, Kyiv will want to regain the initiative in the conflict and win further military assistance from the U.S. and its allies.</content>
-    <link href="https://www.wsj.com/articles/ukraine-gears-up-to-hit-russiansand-show-west-it-can-win-89c43105" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
