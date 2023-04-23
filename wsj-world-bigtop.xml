@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-23T15:10:28Z</updated>
+  <updated>2023-04-23T16:13:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukrainian Forces Recapture Land Across Key River in South, Think Tank Says</title>
+    <updated>2023-04-23T15:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-23:/articles/ukrainian-forces-recapture-land-across-key-river-in-south-think-tank-says-8fc9a06</id>
+    <content type="html">Kyiv’s forces have established a presence on the eastern bank of the Dnipro River in the southern Kherson region, according to the Institute for the Study of War.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-forces-recapture-land-across-key-river-in-south-think-tank-says-8fc9a06" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>New Quarrel in Israel-Occupied West Bank: Where to Dump the Trash</title>
     <updated>2023-04-23T14:00:00Z</updated>
     <id>tag:www.wsj.com,2023-04-23:/articles/new-quarrel-in-israel-occupied-west-bank-where-to-dump-the-trash-1752f1f9</id>
     <content type="html">The territory’s more than 70 unofficial dumps send noxious fumes into Palestinian homes and sometimes kill farm animals.</content>
     <link href="https://www.wsj.com/articles/new-quarrel-in-israel-occupied-west-bank-where-to-dump-the-trash-1752f1f9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainian Forces Recapture Land Across Key River in South, Think Tank Says</title>
-    <updated>2023-04-23T13:16:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-23:/articles/ukrainian-forces-recapture-land-across-key-river-in-south-think-tank-says-8fc9a06</id>
-    <content type="html">Kyiv’s forces have established a presence on the eastern bank of the Dnipro River in the southern Kherson region, according to the Institute for the Study of War.</content>
-    <link href="https://www.wsj.com/articles/ukrainian-forces-recapture-land-across-key-river-in-south-think-tank-says-8fc9a06" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
