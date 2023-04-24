@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-24T14:10:52Z</updated>
+  <updated>2023-04-24T15:11:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Grim Life and Brutal Death of a Wagner Recruit</title>
+    <updated>2023-04-24T14:18:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-24:/articles/grim-life-and-brutal-death-of-a-wagner-recruit-40d9473a</id>
+    <content type="html">A Russian prisoner struck a deal to fight for six months in Ukraine in exchange for his freedom, one of many who hoped to collect his due</content>
+    <link href="https://www.wsj.com/articles/grim-life-and-brutal-death-of-a-wagner-recruit-40d9473a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia Says Drone Boats Attack Black Sea Fleet in Crimea</title>
+    <updated>2023-04-24T14:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-24:/articles/russia-says-two-drones-attack-crimea-another-crashes-near-moscow-d1f59bb5</id>
+    <content type="html">The attack in Sevastopol, a key military port city, didn’t cause damage, the local Russian-installed governor said. Meanwhile, Moscow stepped up its criticism of a deal that allows for the export of Ukrainian grain.</content>
+    <link href="https://www.wsj.com/articles/russia-says-two-drones-attack-crimea-another-crashes-near-moscow-d1f59bb5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
