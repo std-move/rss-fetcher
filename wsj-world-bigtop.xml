@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-25T15:12:00Z</updated>
+  <updated>2023-04-25T16:14:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>&#39;A Large Portion of This Base Is Going to Be Underwater&#39;: U.S. Military Adapts to Climate</title>
-    <updated>2023-04-25T14:39:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-25:/articles/americas-climate-adaptation-ambitions-are-coming-to-life-in-coastal-virginia-c99774bd</id>
-    <content type="html">Virginia’s Hampton Roads region is preparing for higher sea levels, although debates continue on strategy and costs.</content>
-    <link href="https://www.wsj.com/articles/americas-climate-adaptation-ambitions-are-coming-to-life-in-coastal-virginia-c99774bd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Russia Renews Threats to Black Sea Grain Deal</title>
-    <updated>2023-04-25T14:21:00Z</updated>
+    <updated>2023-04-25T15:10:00Z</updated>
     <id>tag:www.wsj.com,2023-04-25:/articles/russia-strikes-history-museum-in-recaptured-ukrainian-city-28746610</id>
     <content type="html">Russia is piling pressure on Ukraine and Western governments over a deal that reopened key ports for vital grain exports, renewing threats to back out of the agreement.</content>
     <link href="https://www.wsj.com/articles/russia-strikes-history-museum-in-recaptured-ukrainian-city-28746610" rel="alternate"></link>
