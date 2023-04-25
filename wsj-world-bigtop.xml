@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-25T18:13:59Z</updated>
+  <updated>2023-04-25T19:08:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russia Renews Threats to Black Sea Grain Deal</title>
-    <updated>2023-04-25T16:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-25:/articles/russia-strikes-history-museum-in-recaptured-ukrainian-city-28746610</id>
-    <content type="html">Russia is piling pressure on Ukraine and Western governments over a deal that reopened key ports for vital grain exports, renewing threats to back out of the agreement.</content>
-    <link href="https://www.wsj.com/articles/russia-strikes-history-museum-in-recaptured-ukrainian-city-28746610" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
