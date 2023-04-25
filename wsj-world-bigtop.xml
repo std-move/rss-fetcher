@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-25T11:09:20Z</updated>
+  <updated>2023-04-25T12:22:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Strikes History Museum in Recaptured Ukrainian City</title>
-    <updated>2023-04-25T10:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-25:/articles/russia-strikes-history-museum-in-recaptured-ukrainian-city-28746610</id>
-    <content type="html">Sharing a video of soldiers and other officials rushing toward a building reduced to ruins, Ukrainian President Volodymyr Zelensky accused Russia of “doing everything to destroy us completely.”</content>
-    <link href="https://www.wsj.com/articles/russia-strikes-history-museum-in-recaptured-ukrainian-city-28746610" rel="alternate"></link>
+    <title>Italy Strips Some Gay Couples of Parental Recognition</title>
+    <updated>2023-04-25T12:09:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-25:/articles/italy-strips-some-gay-couples-of-parental-recognition-4f3993c1</id>
+    <content type="html">Prime Minister Georgia Meloni’s government has moved to restrict same-sex parenthood as its champions traditional values.</content>
+    <link href="https://www.wsj.com/articles/italy-strips-some-gay-couples-of-parental-recognition-4f3993c1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>America&#39;s Climate-Adaptation Ambitions Are Coming to Life in Coastal Virginia</title>
-    <updated>2023-04-25T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-25:/articles/americas-climate-adaptation-ambitions-are-coming-to-life-in-coastal-virginia-c99774bd</id>
-    <content type="html">The Hampton Roads region is preparing for higher sea levels, although debates continue on strategy and costs.</content>
-    <link href="https://www.wsj.com/articles/americas-climate-adaptation-ambitions-are-coming-to-life-in-coastal-virginia-c99774bd" rel="alternate"></link>
+    <title>Turkey&#39;s Erdogan Faces Biggest Election Challenge Over Economy</title>
+    <updated>2023-04-25T11:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-25:/articles/turkeys-erdogan-faces-biggest-election-challenge-over-economy-6ba8c6bc</id>
+    <content type="html">Once celebrated as the leader who lifted millions of Turks into the middle class, President Recep Tayyip Erdogan is losing support over his handling of the economy as the rising cost of food, energy, medicine and other essentials unravel the standard of living for most people.</content>
+    <link href="https://www.wsj.com/articles/turkeys-erdogan-faces-biggest-election-challenge-over-economy-6ba8c6bc" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
