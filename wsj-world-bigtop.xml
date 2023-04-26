@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-26T12:21:47Z</updated>
+  <updated>2023-04-26T13:14:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>A Cyberattack Forced a Logistics Company to Temporarily Halt Operations</title>
+    <updated>2023-04-26T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-26:/articles/a-cyberattack-forced-a-logistics-company-to-temporarily-halt-operations-dde27a19</id>
+    <content type="html">The Expeditors International breach shut down most of its operations for three weeks in early 2022, adding to pandemic-related snarls.</content>
+    <link href="https://www.wsj.com/articles/a-cyberattack-forced-a-logistics-company-to-temporarily-halt-operations-dde27a19" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Ukraine Battles to Hold Off Russia in Bakhmut&#39;s Western Districts</title>
-    <updated>2023-04-26T11:55:00Z</updated>
+    <updated>2023-04-26T12:47:00Z</updated>
     <id>tag:www.wsj.com,2023-04-26:/articles/ukraine-battles-to-hold-off-russia-in-bakhmuts-western-districts-2c54b03f</id>
     <content type="html">The head of Ukraine’s special operations forces described the situation in the city as “difficult,” but said Ukrainian troops were continuing to exact a heavy price for Russian advances.</content>
     <link href="https://www.wsj.com/articles/ukraine-battles-to-hold-off-russia-in-bakhmuts-western-districts-2c54b03f" rel="alternate"></link>
