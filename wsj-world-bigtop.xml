@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-27T11:09:32Z</updated>
+  <updated>2023-04-27T12:20:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Russian Rockets Batter Residential Area in Southern Ukraine</title>
-    <updated>2023-04-27T10:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-27:/articles/russian-rockets-batter-residential-area-in-southern-ukraine-db7980c4</id>
-    <content type="html">A Russian rocket barrage left at least one person dead and almost two dozen injured in the southern Ukrainian city of Mykolaiv after months of relative calm there, as Russian forces continued to push to capture the city of Bakhmut in the east.</content>
-    <link href="https://www.wsj.com/articles/russian-rockets-batter-residential-area-in-southern-ukraine-db7980c4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fire Sale: $300 Million San Francisco Office Tower, Mostly Empty. Open to Offers.</title>
-    <updated>2023-04-27T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-27:/articles/san-francisco-commercial-real-estate-office-buildings-471742ea</id>
-    <content type="html">350 California Street was worth $300 million four years ago. It might sell for 80% less now, brokers say, in a market where office vacancy rates have soared.</content>
-    <link href="https://www.wsj.com/articles/san-francisco-commercial-real-estate-office-buildings-471742ea" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
