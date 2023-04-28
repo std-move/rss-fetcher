@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-28T15:11:12Z</updated>
+  <updated>2023-04-28T16:13:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How New York and California Botched Marijuana Legalization</title>
+    <updated>2023-04-28T15:57:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-28:/articles/marijuana-legalization-dispensary-california-new-york-db1bb11c</id>
+    <content type="html">Steep taxes and heavy regulation are making it hard for licensed pot sellers to operate in some states, driving more producers and buyers to illegal outlets. ‘Our No. 1 competitor is the illicit market.’</content>
+    <link href="https://www.wsj.com/articles/marijuana-legalization-dispensary-california-new-york-db1bb11c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russian Missile Barrage Kills at Least 23 in Ukraine</title>
+    <updated>2023-04-28T15:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-28:/articles/russian-missile-barrage-kills-13-in-ukraine-3c4dec04</id>
+    <content type="html">Russia targeted cities across Ukraine in the most severe missile barrage in more than a month, as the Kremlin called for expanding the development and use of drones.</content>
+    <link href="https://www.wsj.com/articles/russian-missile-barrage-kills-13-in-ukraine-3c4dec04" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
