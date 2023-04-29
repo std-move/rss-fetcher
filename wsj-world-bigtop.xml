@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-29T11:08:44Z</updated>
+  <updated>2023-04-29T12:19:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>American Doctor Killed in Sudan Stayed to Treat His Patients as Bombs Fell</title>
+    <updated>2023-04-29T11:28:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-29:/articles/american-doctor-killed-in-sudan-had-stayed-to-treat-his-patients-as-bombs-fell-8f432585</id>
+    <content type="html">Iowa native Bushra Ibnauf Sulieman, director of the Faculty of Medicine at the University of Khartoum, was fatally stabbed this week amid lawlessness unleashed by a power struggle between two generals.</content>
+    <link href="https://www.wsj.com/articles/american-doctor-killed-in-sudan-had-stayed-to-treat-his-patients-as-bombs-fell-8f432585" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Crimea Oil Depot Hit in Suspected Ukrainian Drone Strike</title>
     <updated>2023-04-29T08:23:00Z</updated>
