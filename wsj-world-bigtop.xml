@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-29T14:09:06Z</updated>
+  <updated>2023-04-29T15:10:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In India&#39;s Landmark Same-Sex Marriage Case, Arguments Span Equality, Family, Religion</title>
+    <updated>2023-04-29T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-29:/articles/in-indias-landmark-same-sex-marriage-case-arguments-span-equality-family-religion-63ac7ec5</id>
+    <content type="html">Petitioners seeking marriage rights for LGBTQ people face opposition from India’s socially conservative government.</content>
+    <link href="https://www.wsj.com/articles/in-indias-landmark-same-sex-marriage-case-arguments-span-equality-family-religion-63ac7ec5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>American Doctor Killed in Sudan Stayed to Treat His Patients as Bombs Fell</title>
     <updated>2023-04-29T11:28:00Z</updated>
