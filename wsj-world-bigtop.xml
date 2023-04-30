@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-30T16:13:04Z</updated>
+  <updated>2023-04-30T17:09:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China Locks Information on the Country Inside a Black Box</title>
+    <updated>2023-04-30T16:37:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-30:/articles/china-locks-information-on-the-country-inside-a-black-box-9c039928</id>
+    <content type="html">Restrictions on Wind database and other information channels add to campaign to curb foreign influence.</content>
+    <link href="https://www.wsj.com/articles/china-locks-information-on-the-country-inside-a-black-box-9c039928" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Zelensky Calls for Justice After Deadly Russian Missile Strikes</title>
     <updated>2023-04-30T15:56:00Z</updated>
