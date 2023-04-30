@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-30T22:09:47Z</updated>
+  <updated>2023-04-30T23:10:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>China Locks Information on the Country Inside a Black Box</title>
-    <updated>2023-04-30T17:09:00Z</updated>
+    <updated>2023-04-30T22:13:00Z</updated>
     <id>tag:www.wsj.com,2023-04-30:/articles/china-locks-information-on-the-country-inside-a-black-box-9c039928</id>
     <content type="html">Restrictions on the crucial Wind database, used by analysts and investors inside and outside the country, and other information channels are adding to a campaign to curb foreign influence.</content>
     <link href="https://www.wsj.com/articles/china-locks-information-on-the-country-inside-a-black-box-9c039928" rel="alternate"></link>
