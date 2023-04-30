@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-30T11:08:29Z</updated>
+  <updated>2023-04-30T12:19:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Epstein&#39;s Private Calendar Reveals Prominent Names, Including CIA Chief, Goldman&#39;s Top Lawyer</title>
+    <updated>2023-04-30T11:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-30:/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff</id>
+    <content type="html">Schedules and emails detail meetings in the years after he was a convicted sex offender; visitors cite his wealth and connections</content>
+    <link href="https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Victory Elusive for Russians in Grinding Battle in Ukraine&#39;s East</title>
     <updated>2023-04-30T10:00:00Z</updated>
