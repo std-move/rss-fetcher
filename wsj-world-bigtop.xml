@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-04-30T15:10:21Z</updated>
+  <updated>2023-04-30T16:13:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Epstein&#39;s Private Calendar Reveals Prominent Names, Including CIA Chief, Goldman&#39;s Top Lawyer</title>
-    <updated>2023-04-30T11:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-30:/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff</id>
-    <content type="html">Schedules and emails detail meetings in the years after he was a convicted sex offender; visitors cite his wealth and connections.</content>
-    <link href="https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Victory Elusive for Russians in Grinding Battle in Ukraine&#39;s East</title>
-    <updated>2023-04-30T10:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-04-30:/articles/victory-elusive-for-russians-in-grinding-battle-in-ukraines-east-ea2e6246</id>
-    <content type="html">Months after Russia dialed up its offensive in the eastern Donetsk region, the Kremlin is still searching for something to call a victory.</content>
-    <link href="https://www.wsj.com/articles/victory-elusive-for-russians-in-grinding-battle-in-ukraines-east-ea2e6246" rel="alternate"></link>
+    <title>Ukraine&#39;s Zelensky Calls for Justice After Deadly Russian Missile Strikes</title>
+    <updated>2023-04-30T15:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-04-30:/articles/ukraines-zelensky-calls-for-justice-after-deadly-russian-missile-strikes-608257f2</id>
+    <content type="html">Ukraine’s president vowed to hold Russia accountable after a barrage of cruise missiles killed more than two dozen people last week, as battles rage in the east of the country ahead of an anticipated Ukrainian counteroffensive.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-justice-after-deadly-russian-missile-strikes-608257f2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
