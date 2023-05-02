@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-02T16:14:22Z</updated>
+  <updated>2023-05-02T17:10:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Patients Lose Access to Free Medications as Drugmakers and Insurers Spar</title>
-    <updated>2023-05-02T15:38:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-02:/articles/patients-lose-access-to-free-medicines-amid-spat-between-drugmakers-health-plans-cca15b58</id>
-    <content type="html">The programs have been costing drugmakers billions of dollars a year and have been increasing as health plans seeking to control their own spending have tried to take advantage of the assistance.</content>
-    <link href="https://www.wsj.com/articles/patients-lose-access-to-free-medicines-amid-spat-between-drugmakers-health-plans-cca15b58" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
