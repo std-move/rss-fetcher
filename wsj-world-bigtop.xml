@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-03T09:10:50Z</updated>
+  <updated>2023-05-03T10:11:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Jeffrey Epstein Documents, Part 2: Dinners With Lawrence Summers and Movie Screenings With Woody Allen</title>
+    <updated>2023-05-03T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-03:/articles/jeffrey-epstein-documents-woody-allen-larry-summers-edb3e9b2</id>
+    <content type="html">Schedules and emails show deeper relationships between the disgraced financier and a range of prominent people, including the former Treasury secretary and the filmmaker.</content>
+    <link href="https://www.wsj.com/articles/jeffrey-epstein-documents-woody-allen-larry-summers-edb3e9b2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
