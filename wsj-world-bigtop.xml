@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-03T13:13:42Z</updated>
+  <updated>2023-05-03T14:10:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Drones Strike Russia as Ukraine Readies Offensive</title>
-    <updated>2023-05-03T12:53:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-03:/articles/drones-strike-russia-as-ukraine-readies-offensive-d9deb49a</id>
-    <content type="html">A fuel depot in a strategically important area caught fire, the latest in a series of attacks and acts of sabotage on Russian-held territory ahead of an expected Ukrainian offensive. Meanwhile, President Zelensky visited Finland.</content>
-    <link href="https://www.wsj.com/articles/drones-strike-russia-as-ukraine-readies-offensive-d9deb49a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
