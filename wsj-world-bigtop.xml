@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-04T18:13:41Z</updated>
+  <updated>2023-05-04T19:08:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Drone Attacks Target Russian Supply Lines Ahead of Ukraine&#39;s Expected Offensive</title>
+    <updated>2023-05-04T18:37:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-04:/articles/crescendo-of-attacks-target-russian-supply-lines-ahead-of-expected-offensive-5bd48a28</id>
+    <content type="html">Strikes inside Russia target military logistics hubs in an apparent effort to disrupt Moscow’s ability to supply its troops.</content>
+    <link href="https://www.wsj.com/articles/crescendo-of-attacks-target-russian-supply-lines-ahead-of-expected-offensive-5bd48a28" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gun Group&#39;s Financial Dealings With Founder Spark State Probe</title>
+    <updated>2023-05-04T18:20:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-04:/articles/gun-groups-financial-dealings-with-founder-spark-state-investigation-4ca2fe49</id>
+    <content type="html">The Second Amendment Foundation, a group involved in several lawsuits to expand gun rights, said the Washington state attorney general’s office has examined transactions involving its founder, Alan Gottlieb.</content>
+    <link href="https://www.wsj.com/articles/gun-groups-financial-dealings-with-founder-spark-state-investigation-4ca2fe49" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
