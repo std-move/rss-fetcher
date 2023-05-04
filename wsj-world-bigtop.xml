@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-04T13:14:12Z</updated>
+  <updated>2023-05-04T14:10:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Target Russian Supply Lines Ahead of Expected Offensive</title>
-    <updated>2023-05-04T12:31:00Z</updated>
+    <updated>2023-05-04T13:37:00Z</updated>
     <id>tag:www.wsj.com,2023-05-04:/articles/crescendo-of-attacks-target-russian-supply-lines-ahead-of-expected-offensive-5bd48a28</id>
-    <content type="html">Drone attacks inside Russia carried into a second day, disrupting Moscow’s battlefield supply lines amid a marked increase in strikes against its logistics hubs.</content>
+    <content type="html">A second day of drone attacks inside Russia targeted military logistics hubs in an apparent effort to disrupt Moscow’s battlefield supply lines ahead of an expected Ukrainian counteroffensive.</content>
     <link href="https://www.wsj.com/articles/crescendo-of-attacks-target-russian-supply-lines-ahead-of-expected-offensive-5bd48a28" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Bill Gates, Leon Black, Thomas Pritzker: ​One​ Day in the Life of Jeffrey Epstein</title>
-    <updated>2023-05-04T12:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-04:/articles/jeffrey-epstein-calendar-bill-gates-leon-black-thomas-pritzker-62d7590</id>
-    <content type="html">The disgraced financier’s calendar for Monday, Sept. 8, 2014, details his planned meetings with some of the country’s richest men</content>
-    <link href="https://www.wsj.com/articles/jeffrey-epstein-calendar-bill-gates-leon-black-thomas-pritzker-62d7590" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
