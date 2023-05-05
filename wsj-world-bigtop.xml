@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-05T13:13:31Z</updated>
+  <updated>2023-05-05T14:10:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>WHO Declares Covid-19 Pandemic Emergency Over</title>
+    <updated>2023-05-05T14:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-05:/articles/who-declares-covid-19-pandemic-emergency-over-23977772</id>
+    <content type="html">The move by the World Health Organization marks a milestone as the pandemic recedes and the coronavirus becomes routine.</content>
+    <link href="https://www.wsj.com/articles/who-declares-covid-19-pandemic-emergency-over-23977772" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Wagner Threatens to Pull Out of Ukraine in Latest Internal Russia Spat</title>
     <updated>2023-05-05T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-05-05:/articles/wagner-threatens-to-pull-out-of-ukraine-in-latest-internal-russia-spat-6df13ff</id>
     <content type="html">Founder Yevgeny Prigozhin said his forces would leave their positions in the eastern city of Bakhmut on May 10 after delivering an expletive-riddled broadside against Moscow’s military leadership.</content>
     <link href="https://www.wsj.com/articles/wagner-threatens-to-pull-out-of-ukraine-in-latest-internal-russia-spat-6df13ff" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The U.S. Guide to King Charles III&#39;s Coronation</title>
-    <updated>2023-05-05T12:08:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-05:/articles/the-u-s-guide-to-king-charles-iiis-coronation-9b7d0ea4</id>
-    <content type="html">The king will hold his official coronation on Saturday. Here are the ceremony’s key stages, some of which are largely unchanged for 1,000 years.</content>
-    <link href="https://www.wsj.com/articles/the-u-s-guide-to-king-charles-iiis-coronation-9b7d0ea4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
