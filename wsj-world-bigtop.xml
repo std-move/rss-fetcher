@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-05T10:11:52Z</updated>
+  <updated>2023-05-05T11:09:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Wagner Threatens to Pull Out of Ukraine in Latest Internal Russia Spat</title>
+    <updated>2023-05-05T10:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-05:/articles/wagner-threatens-to-pull-out-of-ukraine-in-latest-internal-russia-spat-6df13ff</id>
+    <content type="html">Founder Yevgeny Prigozhin said his forces would leave their positions in the eastern city of Bakhmut on May 10 after delivering an expletive-riddled broadside against Moscow’s military leadership.</content>
+    <link href="https://www.wsj.com/articles/wagner-threatens-to-pull-out-of-ukraine-in-latest-internal-russia-spat-6df13ff" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
