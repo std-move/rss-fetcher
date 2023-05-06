@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-06T03:11:24Z</updated>
+  <updated>2023-05-06T04:12:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>King Charles III&#39;s Coronation to Draw Global Audience for Lavish Ceremony</title>
+    <updated>2023-05-06T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-06:/articles/king-charles-iii-royal-coronation-ceremony-britain-2e2ea49</id>
+    <content type="html">The coronation ceremony dates back 1,000 years, a throwback to a bygone age when all-powerful monarchs dictated the fates of nations.</content>
+    <link href="https://www.wsj.com/articles/king-charles-iii-royal-coronation-ceremony-britain-2e2ea49" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>King Charles Inherits Bulging Royal Purse Thanks to Property Boom</title>
+    <updated>2023-05-06T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-06:/articles/king-charles-inherits-bulging-royal-purse-thanks-to-property-boom-2e34c8c4</id>
+    <content type="html">Behind the royal wealth is a booming real-estate portfolio of bucolic farms, wholesale warehouses and prime London offices that has helped cover a royal spending spree. </content>
+    <link href="https://www.wsj.com/articles/king-charles-inherits-bulging-royal-purse-thanks-to-property-boom-2e34c8c4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
