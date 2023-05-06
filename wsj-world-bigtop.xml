@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-06T14:09:02Z</updated>
+  <updated>2023-05-06T15:10:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2023-05-06:/articles/the-independent-journalists-risking-their-freedom-to-keep-reporting-from-russia-7d55f372</id>
     <content type="html">Even before the arrest of Evan Gershkovich, journalism was dangerous. The few independent Russian reporters still in the country speak about their work and the risks they face.</content>
     <link href="https://www.wsj.com/articles/the-independent-journalists-risking-their-freedom-to-keep-reporting-from-russia-7d55f372" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Evacuates Civilians From Parts of Ukraine Ahead of Kyiv Counteroffensive</title>
-    <updated>2023-05-06T11:17:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-06:/articles/russia-evacuates-civilians-from-parts-of-ukraine-ahead-of-kyiv-counteroffensive-282e6421</id>
-    <content type="html">The evacuations are the latest step Russian officials have taken to consolidate their hold on occupied parts of Ukraine ahead of an expected Ukrainian offensive to retake lost territory.</content>
-    <link href="https://www.wsj.com/articles/russia-evacuates-civilians-from-parts-of-ukraine-ahead-of-kyiv-counteroffensive-282e6421" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
