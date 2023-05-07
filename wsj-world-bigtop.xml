@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-07T09:09:50Z</updated>
+  <updated>2023-05-07T10:10:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Prince Harry Sidelined at Coronation of King Charles</title>
+    <updated>2023-05-07T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-07:/articles/prince-harry-sidelined-at-king-charles-iiis-coronation-ee80d354</id>
+    <content type="html">The Duke of Sussex plays minor role in father’s big day, underscoring enduring rift in royal family.</content>
+    <link href="https://www.wsj.com/articles/prince-harry-sidelined-at-king-charles-iiis-coronation-ee80d354" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>King Charles III Is Crowned in Lavish Coronation Ceremony</title>
     <updated>2023-05-06T19:42:00Z</updated>
     <id>tag:www.wsj.com,2023-05-06:/articles/king-charles-iii-royal-coronation-ceremony-britain-2e2ea49</id>
     <content type="html">The coronation marked the new Carolean era with a star-studded guest list, thousands of marching soldiers and a ceremony that celebrates a millennium of history and reflects a more modern, diverse Britain.</content>
     <link href="https://www.wsj.com/articles/king-charles-iii-royal-coronation-ceremony-britain-2e2ea49" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Evacuates Civilians From Parts of Ukraine Ahead of Kyiv Counteroffensive</title>
-    <updated>2023-05-06T17:53:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-06:/articles/russia-evacuates-civilians-from-parts-of-ukraine-ahead-of-kyiv-counteroffensive-282e6421</id>
-    <content type="html">The evacuations are the latest step Russian officials have taken to consolidate their hold on occupied parts of Ukraine ahead of an expected Ukrainian offensive to retake lost territory.</content>
-    <link href="https://www.wsj.com/articles/russia-evacuates-civilians-from-parts-of-ukraine-ahead-of-kyiv-counteroffensive-282e6421" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Prison vs. Harvard: The Debate Rematch</title>
-    <updated>2023-05-06T16:40:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-06:/articles/prison-vs-harvard-the-debate-rematch-8f2985c9</id>
-    <content type="html">The Bard Prison Initiative team has built an impressive record—and international reputation—since its unlikely 2015 victory.</content>
-    <link href="https://www.wsj.com/articles/prison-vs-harvard-the-debate-rematch-8f2985c9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
