@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-08T11:09:46Z</updated>
+  <updated>2023-05-08T12:22:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>&#39;Over My Dead Body&#39;: Backlash Builds Against $3 Trillion Clean-Energy Push</title>
-    <updated>2023-05-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-08:/articles/inflation-reduction-act-backlash-clean-energy-wind-solar-f3d4d900</id>
-    <content type="html">Ballooning size of wind and solar projects draws local ire as they march closer to populated areas.</content>
-    <link href="https://www.wsj.com/articles/inflation-reduction-act-backlash-clean-energy-wind-solar-f3d4d900" rel="alternate"></link>
+    <title>Ukraine Downs Dozens of Drones Over Kyiv in Russian Air Assault</title>
+    <updated>2023-05-08T11:48:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-08:/articles/ukraine-downs-dozens-of-drones-over-kyiv-in-russian-air-assault-16180460</id>
+    <content type="html">The heavy attack came as Moscow seeks to wear down Ukraine’s air defenses ahead of Kyiv’s planned offensive and follows a string of assaults on Russian territory.</content>
+    <link href="https://www.wsj.com/articles/ukraine-downs-dozens-of-drones-over-kyiv-in-russian-air-assault-16180460" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
