@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-08T13:13:59Z</updated>
+  <updated>2023-05-08T14:10:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Downs Dozens of Drones Over Kyiv in Russian Air Assault</title>
-    <updated>2023-05-08T11:48:00Z</updated>
+    <updated>2023-05-08T13:27:00Z</updated>
     <id>tag:www.wsj.com,2023-05-08:/articles/ukraine-downs-dozens-of-drones-over-kyiv-in-russian-air-assault-16180460</id>
     <content type="html">The heavy attack came as Moscow seeks to wear down Ukraine’s air defenses ahead of Kyiv’s planned offensive and follows a string of assaults on Russian territory.</content>
     <link href="https://www.wsj.com/articles/ukraine-downs-dozens-of-drones-over-kyiv-in-russian-air-assault-16180460" rel="alternate"></link>
