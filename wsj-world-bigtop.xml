@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-09T13:37:28Z</updated>
+  <updated>2023-05-09T14:10:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Venezuelan Migrants Set Sights on U.S. After Finding Hardship in Colombia</title>
+    <updated>2023-05-09T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-09:/articles/venezuelan-migrants-set-sights-on-u-s-after-finding-hardship-in-colombia-f5330510</id>
+    <content type="html">Thousands of Venezuelans who fled to Colombia are leaving their new home because of growing obstacles there and are trying to make it to the U.S.</content>
+    <link href="https://www.wsj.com/articles/venezuelan-migrants-set-sights-on-u-s-after-finding-hardship-in-colombia-f5330510" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
