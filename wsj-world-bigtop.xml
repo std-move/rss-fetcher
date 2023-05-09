@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-09T09:11:07Z</updated>
+  <updated>2023-05-09T10:12:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Chicago, New York Scramble to House Migrants as Border Restrictions End</title>
+    <updated>2023-05-09T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-09:/articles/chicago-new-york-scramble-to-house-migrants-as-border-restrictions-end-468f291b</id>
+    <content type="html">People are sleeping in police stations, hotels and vacant schools as northern cities prepare for end of Title 42.</content>
+    <link href="https://www.wsj.com/articles/chicago-new-york-scramble-to-house-migrants-as-border-restrictions-end-468f291b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China Finally Has a Rival as the World&#39;s Factory Floor</title>
+    <updated>2023-05-09T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-09:/articles/india-china-factory-manufacturing-24a4e3fe</id>
+    <content type="html">Companies are looking to find a backup for manufacturing, and India—which has a labor force and an internal market comparable in size to China’s—is making its case.</content>
+    <link href="https://www.wsj.com/articles/india-china-factory-manufacturing-24a4e3fe" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
