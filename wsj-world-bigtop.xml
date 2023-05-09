@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-09T22:10:05Z</updated>
+  <updated>2023-05-09T23:10:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Targets Kyiv Again With Missile Barrage</title>
+    <updated>2023-05-09T22:36:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-09:/articles/russia-fires-missiles-at-kyiv-as-moscow-celebrates-world-war-ii-victory-56513985</id>
+    <content type="html">Russia fired cruise missiles at Ukrainian cities, most of which were intercepted. Hours later, the EU’s Ursula von der Leyen visited the Ukrainian capital to mark Europe Day.</content>
+    <link href="https://www.wsj.com/articles/russia-fires-missiles-at-kyiv-as-moscow-celebrates-world-war-ii-victory-56513985" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Chicago, New York Struggle to House Migrants as Border Restrictions End</title>
+    <updated>2023-05-09T22:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-09:/articles/chicago-new-york-scramble-to-house-migrants-as-border-restrictions-end-468f291b</id>
+    <content type="html">People are sleeping in police stations, hotels and vacant schools as 1,500 U.S. troops are ordered to help secure the border and northern cities prepare for the end of Title 42.</content>
+    <link href="https://www.wsj.com/articles/chicago-new-york-scramble-to-house-migrants-as-border-restrictions-end-468f291b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
