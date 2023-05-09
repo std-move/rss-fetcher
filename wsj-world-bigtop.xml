@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-09T11:09:20Z</updated>
+  <updated>2023-05-09T12:58:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Chicago, New York Scramble to House Migrants as Border Restrictions End</title>
-    <updated>2023-05-09T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-09:/articles/chicago-new-york-scramble-to-house-migrants-as-border-restrictions-end-468f291b</id>
-    <content type="html">People are sleeping in police stations, hotels and vacant schools as 1,500 U.S troops are ordered to help secure the border and northern cities prepare for the end of Title 42.</content>
-    <link href="https://www.wsj.com/articles/chicago-new-york-scramble-to-house-migrants-as-border-restrictions-end-468f291b" rel="alternate"></link>
+    <title>Putin Condemns Western Support for Ukraine</title>
+    <updated>2023-05-09T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-09:/articles/putin-condemns-western-support-for-ukraine-as-russias-battlefield-losses-mount-2c09554f</id>
+    <content type="html">This year’s Victory Day celebrations were more muted after a drone attack on the Kremlin and a series of strikes in Russia that exposed the country’s vulnerability and rattled many Russians.</content>
+    <link href="https://www.wsj.com/articles/putin-condemns-western-support-for-ukraine-as-russias-battlefield-losses-mount-2c09554f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russia Targets Kyiv Again With Missile Barrage</title>
+    <updated>2023-05-09T11:58:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-09:/articles/russia-fires-missiles-at-kyiv-as-moscow-celebrates-world-war-ii-victory-56513985</id>
+    <content type="html">Russia fired cruise missiles at Ukrainian cities, most of which were intercepted. Hours later, the EU’s Ursula von der Leyen visited the Ukrainian capital to mark Europe Day.</content>
+    <link href="https://www.wsj.com/articles/russia-fires-missiles-at-kyiv-as-moscow-celebrates-world-war-ii-victory-56513985" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
