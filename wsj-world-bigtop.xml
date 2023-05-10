@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-10T11:09:12Z</updated>
+  <updated>2023-05-10T12:21:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Claims Gains Around Bakhmut as Fighting Rages</title>
-    <updated>2023-05-10T10:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-10:/articles/ukraine-claims-gains-around-bakhmut-as-fighting-rages-74d391e9</id>
-    <content type="html">Ukrainian troops said they had destroyed two units of a Russian brigade during fighting for control of Bakhmut in the country’s east.</content>
-    <link href="https://www.wsj.com/articles/ukraine-claims-gains-around-bakhmut-as-fighting-rages-74d391e9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Home Buyer&#39;s Quandary: Nobody&#39;s Selling</title>
-    <updated>2023-05-10T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-10:/articles/low-mortgage-rates-home-sales-low-supply-899aab29</id>
-    <content type="html">Many are ready to move but don’t want to lose the low-rate mortgages they locked in a few years ago, crimping the supply of homes and keeping prices high.</content>
-    <link href="https://www.wsj.com/articles/low-mortgage-rates-home-sales-low-supply-899aab29" rel="alternate"></link>
+    <title>First Round of U.S. Troops Head to Southern Border</title>
+    <updated>2023-05-10T12:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-10:/articles/first-round-of-u-s-troops-head-to-southern-border-51f6394</id>
+    <content type="html">The first group of American troops is being deployed to the southern border as the Biden administration prepares for the expiration of a pandemic-era measure that expires later this week.</content>
+    <link href="https://www.wsj.com/articles/first-round-of-u-s-troops-head-to-southern-border-51f6394" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
