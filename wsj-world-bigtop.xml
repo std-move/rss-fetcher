@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-10T10:11:54Z</updated>
+  <updated>2023-05-10T11:09:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Claims Gains Around Bakhmut as Fighting Rages</title>
+    <updated>2023-05-10T10:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-10:/articles/ukraine-claims-gains-around-bakhmut-as-fighting-rages-74d391e9</id>
+    <content type="html">Ukrainian troops said they had destroyed two units of a Russian brigade during fighting for control of Bakhmut in the country’s east.</content>
+    <link href="https://www.wsj.com/articles/ukraine-claims-gains-around-bakhmut-as-fighting-rages-74d391e9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Home Buyer&#39;s Quandary: Nobody&#39;s Selling</title>
     <updated>2023-05-10T09:30:00Z</updated>
