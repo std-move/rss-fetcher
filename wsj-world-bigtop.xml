@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-11T16:14:23Z</updated>
+  <updated>2023-05-11T17:09:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky Says Ukraine Needs More Time Before Launching Counteroffensive</title>
-    <updated>2023-05-11T14:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-11:/articles/zelensky-says-ukraine-needs-more-time-before-launching-counteroffensive-55b36d6d</id>
-    <content type="html">Ukraine’s military hasn’t yet received equipment pledged by Western allies and the cost in lives could be too great if it were to proceed now, the president said.</content>
-    <link href="https://www.wsj.com/articles/zelensky-says-ukraine-needs-more-time-before-launching-counteroffensive-55b36d6d" rel="alternate"></link>
+    <title>Israel and Palestinian Militants Trade Fire</title>
+    <updated>2023-05-11T16:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-11:/articles/israeli-strikes-kill-fourth-militant-commander-in-gaza-4758ae5e</id>
+    <content type="html">An Israeli civilian was killed by Palestinian rocket fire, as Israel said it killed more senior Islamic Jihad commanders in targeted strikes.</content>
+    <link href="https://www.wsj.com/articles/israeli-strikes-kill-fourth-militant-commander-in-gaza-4758ae5e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Migrant Influx Overwhelms Southern Border as Title 42 Winds Down</title>
-    <updated>2023-05-11T14:39:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-11:/articles/migrant-influx-overwhelms-southern-border-as-title-42-winds-down-da4e1e99</id>
-    <content type="html">The pandemic-era border measure that has served as a blunt border-enforcement tool for two successive administrations is set to end Thursday night.</content>
-    <link href="https://www.wsj.com/articles/migrant-influx-overwhelms-southern-border-as-title-42-winds-down-da4e1e99" rel="alternate"></link>
+    <title>Zelensky Says Ukraine Needs More Time Before Launching Counteroffensive</title>
+    <updated>2023-05-11T16:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-11:/articles/zelensky-says-ukraine-needs-more-time-before-launching-counteroffensive-55b36d6d</id>
+    <content type="html">Ukraine’s military hasn’t yet received equipment pledged by Western allies and the cost in lives could be too great if it were to proceed now, the president said.</content>
+    <link href="https://www.wsj.com/articles/zelensky-says-ukraine-needs-more-time-before-launching-counteroffensive-55b36d6d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
