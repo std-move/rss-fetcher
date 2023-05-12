@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-12T03:11:45Z</updated>
+  <updated>2023-05-12T04:13:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How the New Immigration System Works After Title 42 Ends</title>
-    <updated>2023-05-11T23:47:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-11:/articles/how-the-new-immigration-system-works-after-title-42-ends-2fba7498</id>
-    <content type="html">The Biden administration’s new model at the border aims to divert as many people as possible, by offering alternative routes into the U.S. and applying stiff consequences for those who try to enter illegally.</content>
-    <link href="https://www.wsj.com/articles/how-the-new-immigration-system-works-after-title-42-ends-2fba7498" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Migrant Influx Overwhelms Southern Border as Title 42 Winds Down</title>
-    <updated>2023-05-11T22:56:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-11:/articles/migrant-influx-overwhelms-southern-border-as-title-42-winds-down-da4e1e99</id>
+    <updated>2023-05-12T03:29:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-12:/articles/migrant-influx-overwhelms-southern-border-as-title-42-winds-down-da4e1e99</id>
     <content type="html">A massive surge of migrants sought to cross from Mexico into the U.S., straining resources and patience on both sides of the border as the pandemic-era measure known as Title 42 was set to end at midnight.</content>
     <link href="https://www.wsj.com/articles/migrant-influx-overwhelms-southern-border-as-title-42-winds-down-da4e1e99" rel="alternate"></link>
     <summary type="html"></summary>
