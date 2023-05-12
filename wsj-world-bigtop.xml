@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-12T14:09:49Z</updated>
+  <updated>2023-05-12T15:10:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>This 20-Year-Old French Jet Fighter Is Suddenly Outselling Rivals</title>
-    <updated>2023-05-12T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-12:/articles/this-20-year-old-french-jet-fighter-is-suddenly-outselling-rivals-66ba2</id>
-    <content type="html">The Rafale jet fighter is benefiting from rising military spending in Europe and Asia and sanctions that have curbed Russian competitors.</content>
-    <link href="https://www.wsj.com/articles/this-20-year-old-french-jet-fighter-is-suddenly-outselling-rivals-66ba2" rel="alternate"></link>
+    <title>How the New Immigration System Works After Title 42</title>
+    <updated>2023-05-12T14:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-12:/articles/how-the-new-immigration-system-works-after-title-42-ends-2fba7498</id>
+    <content type="html">The Biden administration’s new policy at the border aims to divert as many people as possible, by offering alternative routes into the U.S. and applying stiff consequences for those who try to enter illegally.</content>
+    <link href="https://www.wsj.com/articles/how-the-new-immigration-system-works-after-title-42-ends-2fba7498" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
