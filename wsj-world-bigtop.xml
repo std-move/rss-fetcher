@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-12T12:20:42Z</updated>
+  <updated>2023-05-12T13:13:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Pandemic-Era Border Policy Expires Amid Migrant Surge</title>
-    <updated>2023-05-12T11:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-12:/articles/title-42-expires-migrant-surge-border-89d085d1</id>
-    <content type="html">Thousands of migrants crossed into the U.S. before midnight in anticipation of harsher immigration rules with the expiration of Title 42.</content>
-    <link href="https://www.wsj.com/articles/title-42-expires-migrant-surge-border-89d085d1" rel="alternate"></link>
+    <title>This 20-Year-Old French Jet Fighter Is Suddenly Outselling Rivals</title>
+    <updated>2023-05-12T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-12:/articles/this-20-year-old-french-jet-fighter-is-suddenly-outselling-rivals-66ba2</id>
+    <content type="html">The Rafale jet fighter is benefiting from rising military spending in Europe and Asia and sanctions that have curbed Russian competitors.</content>
+    <link href="https://www.wsj.com/articles/this-20-year-old-french-jet-fighter-is-suddenly-outselling-rivals-66ba2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2023-05-12:/articles/gaza-militants-fire-rockets-toward-jerusalem-area-dfee4e92</id>
     <content type="html">The rocket barrage set off air-raid sirens in Beitar Illit, an Israeli settlement in the occupied West Bank 10 miles south of the contested city.</content>
     <link href="https://www.wsj.com/articles/gaza-militants-fire-rockets-toward-jerusalem-area-dfee4e92" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Presses Counterattack Around Bakhmut</title>
-    <updated>2023-05-12T11:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-12:/articles/ukraine-presses-counterattack-around-bakhmut-53234494</id>
-    <content type="html">The Ukrainian government said its troops had advanced on Russian forces on the Bakhmut front as Kyiv seeks to turn the tide around the embattled city after months on the defensive.</content>
-    <link href="https://www.wsj.com/articles/ukraine-presses-counterattack-around-bakhmut-53234494" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Israel, Army Service Is Required for All. That Could Now Change.</title>
-    <updated>2023-05-12T10:38:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-12:/articles/in-israel-army-service-is-required-for-all-that-could-now-change-2c76624d</id>
-    <content type="html">A demand by ultra-Orthodox lawmakers to exempt their community from the draft is pushing the government to rethink what it requires of the nation’s youth.</content>
-    <link href="https://www.wsj.com/articles/in-israel-army-service-is-required-for-all-that-could-now-change-2c76624d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
