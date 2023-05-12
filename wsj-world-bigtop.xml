@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-12T16:13:54Z</updated>
+  <updated>2023-05-12T17:09:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Presses Counterattack Around Bakhmut</title>
-    <updated>2023-05-12T15:42:00Z</updated>
+    <updated>2023-05-12T16:54:00Z</updated>
     <id>tag:www.wsj.com,2023-05-12:/articles/ukraine-presses-counterattack-around-bakhmut-53234494</id>
     <content type="html">The Ukrainian government said its troops had advanced on Russian forces on the Bakhmut front as Kyiv seeks to turn the tide around the embattled city after months on the defensive.</content>
     <link href="https://www.wsj.com/articles/ukraine-presses-counterattack-around-bakhmut-53234494" rel="alternate"></link>
