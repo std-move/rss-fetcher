@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-12T13:13:11Z</updated>
+  <updated>2023-05-12T14:09:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-05-12:/articles/this-20-year-old-french-jet-fighter-is-suddenly-outselling-rivals-66ba2</id>
     <content type="html">The Rafale jet fighter is benefiting from rising military spending in Europe and Asia and sanctions that have curbed Russian competitors.</content>
     <link href="https://www.wsj.com/articles/this-20-year-old-french-jet-fighter-is-suddenly-outselling-rivals-66ba2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gaza Militants Fire Rockets Toward Jerusalem Area</title>
-    <updated>2023-05-12T11:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-12:/articles/gaza-militants-fire-rockets-toward-jerusalem-area-dfee4e92</id>
-    <content type="html">The rocket barrage set off air-raid sirens in Beitar Illit, an Israeli settlement in the occupied West Bank 10 miles south of the contested city.</content>
-    <link href="https://www.wsj.com/articles/gaza-militants-fire-rockets-toward-jerusalem-area-dfee4e92" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
