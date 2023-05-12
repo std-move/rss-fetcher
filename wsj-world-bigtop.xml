@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-12T09:10:57Z</updated>
+  <updated>2023-05-12T10:11:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>&#39;War Is Fun&#39;: The Navy SEAL Who Went to Ukraine Because He Couldn&#39;t Stop Fighting</title>
+    <updated>2023-05-12T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-12:/articles/navy-seal-ukraine-daniel-swift-a97491cd</id>
+    <content type="html">Daniel Swift was in his element waging America’s war on terror from Afghanistan to Yemen. After his marriage failed back home, he found a new purpose: killing Russians.</content>
+    <link href="https://www.wsj.com/articles/navy-seal-ukraine-daniel-swift-a97491cd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Pandemic-Era Border Policy Expires Amid Migrant Surge</title>
     <updated>2023-05-12T05:51:00Z</updated>
