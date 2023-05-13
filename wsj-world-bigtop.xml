@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-13T19:08:04Z</updated>
+  <updated>2023-05-13T20:10:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Four Russian Military Aircraft Downed Near Border with Ukraine</title>
-    <updated>2023-05-13T15:09:00Z</updated>
+    <updated>2023-05-13T19:15:00Z</updated>
     <id>tag:www.wsj.com,2023-05-13:/articles/ukraine-used-u-k-missiles-to-strike-russian-controlled-territory-russia-claims-1cf7c936</id>
     <content type="html">The strikes suggested Kyiv has gained new long-range capabilities, as Germany announced its biggest package of military equipment for Ukraine to date.</content>
     <link href="https://www.wsj.com/articles/ukraine-used-u-k-missiles-to-strike-russian-controlled-territory-russia-claims-1cf7c936" rel="alternate"></link>
