@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-13T13:11:18Z</updated>
+  <updated>2023-05-13T14:09:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Migrants Wait Along Southern Border as New Rules Go Into Effect</title>
+    <updated>2023-05-13T13:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-13:/articles/migrants-wait-along-southern-border-as-new-rules-go-into-effect-e73df3a6</id>
+    <content type="html">Thousands of migrants along the border are deciding to stay in Mexico and request asylum appointments instead of entering the U.S. illegally.</content>
+    <link href="https://www.wsj.com/articles/migrants-wait-along-southern-border-as-new-rules-go-into-effect-e73df3a6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Top Democrats in Philadelphia Mayoral Race Call for More Policing</title>
     <updated>2023-05-13T13:00:00Z</updated>
