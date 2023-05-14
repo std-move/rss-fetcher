@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-14T20:10:47Z</updated>
+  <updated>2023-05-14T21:10:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Look What Taylor Swift Made Cities Do</title>
-    <updated>2023-05-14T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-14:/articles/look-what-taylor-swift-made-cities-do-3210108e</id>
-    <content type="html">Swifties expect a hero-like welcome for their favorite anti-hero. These Eras Tour stops are complying.</content>
-    <link href="https://www.wsj.com/articles/look-what-taylor-swift-made-cities-do-3210108e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
