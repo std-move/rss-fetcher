@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-14T09:09:42Z</updated>
+  <updated>2023-05-14T10:10:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-05-13:/articles/ukraine-used-u-k-missiles-to-strike-russian-controlled-territory-russia-claims-1cf7c936</id>
     <content type="html">The crashes are the worst losses for Russia’s military aviation since the first week of its full-scale invasion of Ukraine in February 2022.</content>
     <link href="https://www.wsj.com/articles/ukraine-used-u-k-missiles-to-strike-russian-controlled-territory-russia-claims-1cf7c936" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>An Extraordinary Mission to Find an American WWII Bomber Crew at the Bottom of the Pacific</title>
-    <updated>2023-05-13T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-13:/articles/an-extraordinary-mission-to-find-an-american-wwii-bomber-crew-at-the-bottom-of-the-pacific-e5e5693</id>
-    <content type="html">A B-24 aircraft was carrying 11 men when it was shot down nearly 80 years ago. Reaching it involved the deepest excavation ever undertaken to recover war remains.</content>
-    <link href="https://www.wsj.com/articles/an-extraordinary-mission-to-find-an-american-wwii-bomber-crew-at-the-bottom-of-the-pacific-e5e5693" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
