@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-14T13:11:26Z</updated>
+  <updated>2023-05-14T14:09:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-05-14:/articles/chinas-power-politics-clouds-its-ukraine-peace-efforts-a69ba55d</id>
     <content type="html">Beijing seeking to bring an end to the war while it faces questions about its close relationship with Russia and its position on other countries’ sovereignty.</content>
     <link href="https://www.wsj.com/articles/chinas-power-politics-clouds-its-ukraine-peace-efforts-a69ba55d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Migrants Wait Along Southern Border as New Rules Go Into Effect</title>
-    <updated>2023-05-14T00:40:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-14:/articles/migrants-wait-along-southern-border-as-new-rules-go-into-effect-e73df3a6</id>
-    <content type="html">Thousands of migrants along the border are deciding to stay in Mexico and request asylum appointments instead of entering the U.S. illegally.</content>
-    <link href="https://www.wsj.com/articles/migrants-wait-along-southern-border-as-new-rules-go-into-effect-e73df3a6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
