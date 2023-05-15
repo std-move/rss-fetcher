@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-15T08:14:16Z</updated>
+  <updated>2023-05-15T09:11:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.K. Provides Ukraine With Long-Range Attack Drones</title>
+    <updated>2023-05-15T08:57:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-15:/articles/u-k-provides-ukraine-with-long-range-attack-drones-ahead-of-planned-offensive-6452d30</id>
+    <content type="html">President Volodymyr Zelensky visited Britain as part of a tour of Ukraine’s European allies aimed at replenishing the country’s war chest ahead of a planned counteroffensive.</content>
+    <link href="https://www.wsj.com/articles/u-k-provides-ukraine-with-long-range-attack-drones-ahead-of-planned-offensive-6452d30" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
