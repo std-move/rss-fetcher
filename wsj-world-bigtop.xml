@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-15T11:09:16Z</updated>
+  <updated>2023-05-15T12:22:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.K. Provides Ukraine With Long-Range Attack Drones</title>
-    <updated>2023-05-15T10:02:00Z</updated>
+    <title>Zelensky Makes Latest Stop on Tour to Drum Up Support</title>
+    <updated>2023-05-15T11:36:00Z</updated>
     <id>tag:www.wsj.com,2023-05-15:/articles/u-k-provides-ukraine-with-long-range-attack-drones-ahead-of-planned-offensive-6452d30</id>
-    <content type="html">President Volodymyr Zelensky visited Britain as part of a tour of Ukraine’s European allies aimed at replenishing the country’s war chest ahead of a planned counteroffensive.</content>
+    <content type="html">The U.K. said it would provide hundreds of air-defense missiles and further unmanned aerial systems, including hundreds of new long-range attack drones.</content>
     <link href="https://www.wsj.com/articles/u-k-provides-ukraine-with-long-range-attack-drones-ahead-of-planned-offensive-6452d30" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#39;Bakhmut Trap&#39;: Ukrainian Advances Vindicate Defense of Besieged City</title>
-    <updated>2023-05-15T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-15:/articles/bakhmut-trap-ukrainian-advances-vindicate-defense-of-besieged-city-cfea6093</id>
-    <content type="html">Ukrainian commanders say recent advances are proof that their strategy—to hold on to the city for as long as possible—is paying off.</content>
-    <link href="https://www.wsj.com/articles/bakhmut-trap-ukrainian-advances-vindicate-defense-of-besieged-city-cfea6093" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How to Get Your Health Insurance to Cover Ozempic and Other Drugs Used for Weight Loss</title>
-    <updated>2023-05-15T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-15:/articles/how-to-get-your-health-insurance-to-cover-ozempic-and-other-drugs-used-for-weight-loss-3f8ea547</id>
-    <content type="html">Insurers and employers often put up hurdles when patients seek access to Ozempic, Wegovy or another costly prescription drug to help with weight loss. But there are ways to get your health plan to pay, if you qualify.</content>
-    <link href="https://www.wsj.com/articles/how-to-get-your-health-insurance-to-cover-ozempic-and-other-drugs-used-for-weight-loss-3f8ea547" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
