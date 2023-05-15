@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-15T13:14:44Z</updated>
+  <updated>2023-05-15T14:10:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Too Young to Have Wrinkles, but Already Getting Botox</title>
+    <updated>2023-05-15T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-15:/articles/too-young-to-have-wrinkles-but-already-getting-botox-2933eae5</id>
+    <content type="html">More people in their 20s and 30s are seeking what is called preventive Botox, in hopes of keeping wrinkles from developing.</content>
+    <link href="https://www.wsj.com/articles/too-young-to-have-wrinkles-but-already-getting-botox-2933eae5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>&#39;Bakhmut Trap&#39;: Ukrainian Advances Vindicate Defense of Besieged City</title>
+    <updated>2023-05-15T13:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-15:/articles/bakhmut-trap-ukrainian-advances-vindicate-defense-of-besieged-city-cfea6093</id>
+    <content type="html">Ukrainian commanders say recent advances are proof that their strategy—to hold on to the city for as long as possible—is paying off.</content>
+    <link href="https://www.wsj.com/articles/bakhmut-trap-ukrainian-advances-vindicate-defense-of-besieged-city-cfea6093" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
