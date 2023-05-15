@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-15T16:13:55Z</updated>
+  <updated>2023-05-15T17:09:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Can Botox in Your 20s Really Prevent Wrinkles?</title>
+    <updated>2023-05-15T17:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-15:/articles/too-young-to-have-wrinkles-but-already-getting-botox-2933eae5</id>
+    <content type="html">More people in their 20s and 30s are seeking what is called preventive Botox, in hopes of keeping wrinkles from developing.</content>
+    <link href="https://www.wsj.com/articles/too-young-to-have-wrinkles-but-already-getting-botox-2933eae5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
