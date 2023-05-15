@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-15T20:11:11Z</updated>
+  <updated>2023-05-15T21:09:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Can Botox in Your 20s Really Prevent Wrinkles?</title>
-    <updated>2023-05-15T18:49:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-15:/articles/too-young-to-have-wrinkles-but-already-getting-botox-2933eae5</id>
-    <content type="html">More people in their 20s and 30s are seeking what is called preventive Botox, in hopes of keeping wrinkles from developing.</content>
-    <link href="https://www.wsj.com/articles/too-young-to-have-wrinkles-but-already-getting-botox-2933eae5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Texas Lawmakers Pass Measure Preventing Treatment for Transgender Youth</title>
-    <updated>2023-05-15T18:48:00Z</updated>
+    <updated>2023-05-15T21:03:00Z</updated>
     <id>tag:www.wsj.com,2023-05-15:/articles/texas-lawmakers-pass-measure-preventing-treatment-for-transgender-youth-a0d2f12f</id>
     <content type="html">The bill bars physicians from administering gender-affirming care, including hormones, to minors.</content>
     <link href="https://www.wsj.com/articles/texas-lawmakers-pass-measure-preventing-treatment-for-transgender-youth-a0d2f12f" rel="alternate"></link>
