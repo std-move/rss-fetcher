@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-16T16:14:14Z</updated>
+  <updated>2023-05-16T17:09:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Gulf Leader Tests U.S. Ties With Moves Toward Russia, China</title>
-    <updated>2023-05-16T15:08:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-16:/articles/gulf-leader-tests-u-s-ties-with-moves-toward-russia-china-ecf9b779</id>
-    <content type="html">President Sheikh Mohamed bin Zayed has positioned the U.A.E. as a friend to all sides since Moscow invaded Ukraine—but not without a cost.</content>
-    <link href="https://www.wsj.com/articles/gulf-leader-tests-u-s-ties-with-moves-toward-russia-china-ecf9b779" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Fight to Protect the Joshua Tree</title>
-    <updated>2023-05-16T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-16:/articles/the-fight-to-protect-the-joshua-tree-609bc7e9</id>
-    <content type="html">Local officials say conservation efforts are complicating a push for more housing.</content>
-    <link href="https://www.wsj.com/articles/the-fight-to-protect-the-joshua-tree-609bc7e9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
