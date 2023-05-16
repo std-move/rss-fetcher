@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-15T23:10:43Z</updated>
+  <updated>2023-05-16T00:59:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>&#39;Bakhmut Trap&#39;: Ukrainian Advances Vindicate Defense of Besieged City</title>
+    <updated>2023-05-15T23:23:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-15:/articles/bakhmut-trap-ukrainian-advances-vindicate-defense-of-besieged-city-cfea6093</id>
+    <content type="html">Ukrainian commanders say recent advances are proof that their strategy—to hold on to the city for as long as possible—is paying off.</content>
+    <link href="https://www.wsj.com/articles/bakhmut-trap-ukrainian-advances-vindicate-defense-of-besieged-city-cfea6093" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Texas Lawmakers Pass Measure Preventing Treatment for Transgender Youth</title>
+    <updated>2023-05-15T23:09:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-15:/articles/texas-lawmakers-pass-measure-preventing-treatment-for-transgender-youth-a0d2f12f</id>
+    <content type="html">The bill bars physicians from administering gender-affirming care, including hormones, to minors.</content>
+    <link href="https://www.wsj.com/articles/texas-lawmakers-pass-measure-preventing-treatment-for-transgender-youth-a0d2f12f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
