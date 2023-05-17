@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-17T10:11:47Z</updated>
+  <updated>2023-05-17T11:08:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Hits Shopping Mall in Southern Ukrainian City</title>
+    <updated>2023-05-17T10:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-17:/articles/russia-hits-shopping-mall-in-southern-ukrainian-city-d69e80a0</id>
+    <content type="html">Russia struck Ukraine’s southern city of Mykolaiv with a salvo of cruise missiles as its forces continued advancing inside the eastern city of Bakhmut.</content>
+    <link href="https://www.wsj.com/articles/russia-hits-shopping-mall-in-southern-ukrainian-city-d69e80a0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Young Americans Are Dying at Alarming Rates, Reversing Years of Progress</title>
     <updated>2023-05-17T09:30:00Z</updated>
