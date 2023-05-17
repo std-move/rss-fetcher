@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-17T09:11:16Z</updated>
+  <updated>2023-05-17T10:11:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Young Americans Are Dying at Alarming Rates, Reversing Years of Progress</title>
+    <updated>2023-05-17T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-17:/articles/death-rate-children-teens-guns-drugs-54c604f4</id>
+    <content type="html">Car accidents, homicides, suicides and drug overdoses have pushed up death rates for children and teens in the U.S.</content>
+    <link href="https://www.wsj.com/articles/death-rate-children-teens-guns-drugs-54c604f4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
