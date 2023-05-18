@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-18T13:13:21Z</updated>
+  <updated>2023-05-18T14:10:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Jordan Neely Killing Shows Limits of Eric Adams&#39;s Subway-Safety Push</title>
+    <updated>2023-05-18T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-18:/articles/jordan-neely-killing-shows-limits-of-eric-adamss-subway-safety-push-e4151e4a</id>
+    <content type="html">The Democratic mayor—a former police officer who patrolled the transit system—has called for more social-service programs in recent weeks.</content>
+    <link href="https://www.wsj.com/articles/jordan-neely-killing-shows-limits-of-eric-adamss-subway-safety-push-e4151e4a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chinese Dissidents&#39; New Weapon Against Beijing: Sell-Out New York Comedy Shows</title>
     <updated>2023-05-18T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-05-18:/articles/chinese-dissidents-new-weapon-against-beijing-sell-out-new-york-comedy-shows-164910b4</id>
     <content type="html">Exiled activists open the mic for jokes about the anxieties of being immigrants and oblique jabs at Xi Jinping’s authoritarian vision.</content>
     <link href="https://www.wsj.com/articles/chinese-dissidents-new-weapon-against-beijing-sell-out-new-york-comedy-shows-164910b4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Train Derails in Russia-Controlled Crimea, With Authorities Blaming &#39;Outsiders&#39;</title>
-    <updated>2023-05-18T12:23:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-18:/articles/train-derails-in-russia-controlled-crimea-with-authorities-blaming-outsiders-cccd949d</id>
-    <content type="html">Another barrage of ballistic missiles targeted Ukrainian cities overnight, damaging an industrial facility and killing at least one person.</content>
-    <link href="https://www.wsj.com/articles/train-derails-in-russia-controlled-crimea-with-authorities-blaming-outsiders-cccd949d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
