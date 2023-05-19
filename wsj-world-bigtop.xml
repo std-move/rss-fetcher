@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-19T16:14:01Z</updated>
+  <updated>2023-05-19T17:09:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-05-19:/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454</id>
     <content type="html">Russia launched a barrage of missiles and drones against Kyiv and other Ukrainian cities, continuing its recent effort to deplete Ukraine’s air defenses ahead of the country’s planned offensive.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Persian Gulf States Boom With Billionaires, Beyoncé and Bling</title>
-    <updated>2023-05-19T15:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-19:/articles/dubai-uae-saudi-arabia-oil-ukraine-qatar-aa72c59</id>
-    <content type="html">Oil-rich Gulf countries have become a magnet for global wealth, and they’re trying new strategies to keep the good times rolling.</content>
-    <link href="https://www.wsj.com/articles/dubai-uae-saudi-arabia-oil-ukraine-qatar-aa72c59" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>World&#39;s Biggest Tourism Spenders Aren&#39;t Traveling---And May Not for Years</title>
-    <updated>2023-05-19T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-19:/articles/worlds-biggest-tourism-spenders-arent-travelingand-may-not-for-years-3195de39</id>
-    <content type="html">Limited flights and other bottlenecks are keeping many Chinese from venturing abroad, depriving the world of needed spending.</content>
-    <link href="https://www.wsj.com/articles/worlds-biggest-tourism-spenders-arent-travelingand-may-not-for-years-3195de39" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
