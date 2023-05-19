@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-19T19:08:18Z</updated>
+  <updated>2023-05-19T20:10:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Biden Backs Plan to Train Ukrainian Pilots on F-16s</title>
-    <updated>2023-05-19T18:54:00Z</updated>
+    <updated>2023-05-19T19:56:00Z</updated>
     <id>tag:www.wsj.com,2023-05-19:/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454</id>
     <content type="html">Russia’s missile barrages aim to deplete Kyiv’s munitions ahead of Ukraine’s planned offensive.</content>
     <link href="https://www.wsj.com/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454" rel="alternate"></link>
