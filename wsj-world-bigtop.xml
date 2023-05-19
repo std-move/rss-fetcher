@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-19T11:09:13Z</updated>
+  <updated>2023-05-19T12:20:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russian Missiles Stretch Ukraine&#39;s Air Defenses</title>
+    <updated>2023-05-19T11:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-19:/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454</id>
+    <content type="html">Russia launched a barrage of missiles and drones against Kyiv and other Ukrainian cities, continuing its recent effort to deplete Ukraine’s air defenses ahead of the country’s planned offensive.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
