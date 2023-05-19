@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-19T14:10:00Z</updated>
+  <updated>2023-05-19T15:10:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russian Missiles Stretch Ukraine&#39;s Air Defenses</title>
-    <updated>2023-05-19T13:26:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-19:/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454</id>
-    <content type="html">Russia launched a barrage of missiles and drones against Kyiv and other Ukrainian cities, continuing its recent effort to deplete Ukraine’s air defenses ahead of the country’s planned offensive.</content>
-    <link href="https://www.wsj.com/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454" rel="alternate"></link>
+    <title>World&#39;s Biggest Tourism Spenders Aren&#39;t Traveling---And May Not for Years</title>
+    <updated>2023-05-19T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-19:/articles/worlds-biggest-tourism-spenders-arent-travelingand-may-not-for-years-3195de39</id>
+    <content type="html">Limited flights and other bottlenecks are keeping many Chinese from venturing abroad, depriving the world of needed spending.</content>
+    <link href="https://www.wsj.com/articles/worlds-biggest-tourism-spenders-arent-travelingand-may-not-for-years-3195de39" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>If Your Toddler Isn&#39;t Talking Yet, the Pandemic Might Be to Blame</title>
-    <updated>2023-05-19T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-19:/articles/speech-delays-more-common-pandemic-c1a55c93</id>
-    <content type="html">Children who spent little time socializing are talking later and treatment is scarce.</content>
-    <link href="https://www.wsj.com/articles/speech-delays-more-common-pandemic-c1a55c93" rel="alternate"></link>
+    <title>Russian Missiles Stretch Ukraine&#39;s Air Defenses</title>
+    <updated>2023-05-19T14:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-19:/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454</id>
+    <content type="html">Russia launched a barrage of missiles and drones against Kyiv and other Ukrainian cities, continuing its recent effort to deplete Ukraine’s air defenses ahead of the country’s planned offensive.</content>
+    <link href="https://www.wsj.com/articles/russian-missiles-stretch-ukraines-air-defenses-14ad9454" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
