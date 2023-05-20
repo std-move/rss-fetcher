@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-20T09:09:43Z</updated>
+  <updated>2023-05-20T10:10:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Doctors Reconstruct Faces of Wounded Ukrainian Soldiers</title>
+    <updated>2023-05-20T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-20:/articles/doctors-reconstruct-faces-of-wounded-ukrainian-soldiers-2162de55</id>
+    <content type="html">A Canadian team operating in Poland is performing complex surgery that helps Ukrainians return to society, their families, or even to battle.</content>
+    <link href="https://www.wsj.com/articles/doctors-reconstruct-faces-of-wounded-ukrainian-soldiers-2162de55" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Migrants Stretch Resources in U.S. Cities Near and Far</title>
+    <updated>2023-05-20T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-20:/articles/migrants-stretch-resources-in-cities-near-and-far-from-southern-border-9c4a66d5</id>
+    <content type="html">A major dilemma is finding beds for the new arrivals, many of whom were released by federal authorities after entering the U.S. to claim asylum.</content>
+    <link href="https://www.wsj.com/articles/migrants-stretch-resources-in-cities-near-and-far-from-southern-border-9c4a66d5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
