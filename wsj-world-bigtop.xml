@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-21T10:10:36Z</updated>
+  <updated>2023-05-21T11:08:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Says It Controls Bakhmut, Ukraine Denies It Has Lost City</title>
+    <updated>2023-05-21T10:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-21:/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296</id>
+    <content type="html">The capture of the city would mark the only significant success of a monthslong Russian offensive that has severely depleted its military.</content>
+    <link href="https://www.wsj.com/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>China Seeks to Rival U.S. With Its Own Starlink-Like Network</title>
     <updated>2023-05-21T09:30:00Z</updated>
     <id>tag:www.wsj.com,2023-05-21:/articles/china-seeks-to-counter-musks-starlink-with-own-satellite-network-ca94aa52</id>
     <content type="html">China is ramping up efforts to develop a satellite-powered internet network amid rising geopolitical tensions and concerns over crowded space.</content>
     <link href="https://www.wsj.com/articles/china-seeks-to-counter-musks-starlink-with-own-satellite-network-ca94aa52" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Moscow Claims Control of Bakhmut, While Kyiv Denies It Has Lost City</title>
-    <updated>2023-05-21T09:12:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-21:/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296</id>
-    <content type="html">Ukraine said it still holds part of the city that has been obliterated by months of relentless fighting.</content>
-    <link href="https://www.wsj.com/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
