@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-21T08:12:47Z</updated>
+  <updated>2023-05-21T09:09:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Moscow Claims Control of Bakhmut, While Kyiv Denies It Has Lost City</title>
+    <updated>2023-05-21T08:53:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-21:/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296</id>
+    <content type="html">Ukraine said it still holds part of the city that has been obliterated by months of relentless fighting.</content>
+    <link href="https://www.wsj.com/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russian Paramilitary Group Claims Full Control Over Ukraine&#39;s Bakhmut</title>
     <updated>2023-05-21T07:45:00Z</updated>
