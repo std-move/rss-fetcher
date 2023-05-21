@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-21T17:08:46Z</updated>
+  <updated>2023-05-21T18:12:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Bakhmut Is Largely Under Russian Control, Says Ukrainian General</title>
-    <updated>2023-05-21T16:57:00Z</updated>
+    <updated>2023-05-21T17:37:00Z</updated>
     <id>tag:www.wsj.com,2023-05-21:/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296</id>
     <content type="html">The capture of the city would mark the only significant success of a monthslong Russian offensive that has severely depleted its military.</content>
     <link href="https://www.wsj.com/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China&#39;s Xi Mimics Mao&#39;s Crisis Response in Sweeping Indoctrination Drive</title>
-    <updated>2023-05-21T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-21:/articles/chinas-xi-mimics-maos-crisis-response-in-sweeping-indoctrination-drive-b8941652</id>
-    <content type="html">The intensity of the “spiritual baptism” campaign reflects the damage that the Chinese leader has sustained from the pandemic, the economy and U.S. tensions.</content>
-    <link href="https://www.wsj.com/articles/chinas-xi-mimics-maos-crisis-response-in-sweeping-indoctrination-drive-b8941652" rel="alternate"></link>
+    <title>Brutal Battle for Bakhmut Leaves Russia With an Uncertain Victory</title>
+    <updated>2023-05-21T17:22:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-21:/articles/brutal-battle-for-bakhmut-leaves-russia-with-an-uncertain-victory-29b56da7</id>
+    <content type="html">Ukraine sought to deplete the Russians—and prepare for a new offensive—by continuing to fight for the small city. But nine months of attrition warfare cost both sides dearly.</content>
+    <link href="https://www.wsj.com/articles/brutal-battle-for-bakhmut-leaves-russia-with-an-uncertain-victory-29b56da7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
