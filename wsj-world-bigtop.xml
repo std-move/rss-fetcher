@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-21T21:09:08Z</updated>
+  <updated>2023-05-21T22:09:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Bakhmut Is Largely Under Russian Control, Says Ukrainian General</title>
-    <updated>2023-05-21T17:37:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-21:/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296</id>
-    <content type="html">The capture of the city would mark the only significant success of a monthslong Russian offensive that has severely depleted its military.</content>
-    <link href="https://www.wsj.com/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Brutal Battle for Bakhmut Leaves Russia With an Uncertain Victory</title>
-    <updated>2023-05-21T17:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-21:/articles/brutal-battle-for-bakhmut-leaves-russia-with-an-uncertain-victory-29b56da7</id>
-    <content type="html">Ukraine sought to deplete the Russians—and prepare for a new offensive—by continuing to fight for the small city. But nine months of attrition warfare cost both sides dearly.</content>
-    <link href="https://www.wsj.com/articles/brutal-battle-for-bakhmut-leaves-russia-with-an-uncertain-victory-29b56da7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
