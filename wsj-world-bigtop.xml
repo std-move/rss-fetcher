@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-21T11:08:26Z</updated>
+  <updated>2023-05-21T12:19:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Says It Controls Bakhmut, Ukraine Denies It Has Lost City</title>
-    <updated>2023-05-21T10:32:00Z</updated>
+    <updated>2023-05-21T11:50:00Z</updated>
     <id>tag:www.wsj.com,2023-05-21:/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296</id>
     <content type="html">The capture of the city would mark the only significant success of a monthslong Russian offensive that has severely depleted its military.</content>
     <link href="https://www.wsj.com/articles/moscow-claims-control-of-bakhmut-while-kyiv-denies-it-has-lost-city-bfdd8296" rel="alternate"></link>
