@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-22T12:21:18Z</updated>
+  <updated>2023-05-22T13:14:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Rising Nuclear-Weapons Risks Overshadow G-7&#39;s Push for Disarmament at Hiroshima</title>
+    <updated>2023-05-22T13:03:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-22:/articles/rising-nuclear-weapons-risks-overshadowg-7s-push-for-disarmament-at-hiroshima-222eeaf2</id>
+    <content type="html">Russia is engaging in nuclear brinkmanship over Ukraine, while China and North Korea are building up their stocks and developing new types of weapons. </content>
+    <link href="https://www.wsj.com/articles/rising-nuclear-weapons-risks-overshadowg-7s-push-for-disarmament-at-hiroshima-222eeaf2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How Peaceful Sweden Became Europe&#39;s Gun-Murder Capital</title>
     <updated>2023-05-22T12:00:00Z</updated>
     <id>tag:www.wsj.com,2023-05-22:/articles/how-peaceful-sweden-became-europes-gun-murder-capital-a5b500a7</id>
     <content type="html">The rise of the Scandinavian equivalent of Pablo Escobar has tracked growing violence in Sweden. That has sparked an anti-immigration backlash.</content>
     <link href="https://www.wsj.com/articles/how-peaceful-sweden-became-europes-gun-murder-capital-a5b500a7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Gains Ground Outside of Bakhmut as Russia Consolidates Control in City</title>
-    <updated>2023-05-22T10:58:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-22:/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885</id>
-    <content type="html">Russian troops have taken up positions in bombed-out apartment blocks exposed to Ukrainian forces that have retreated to higher ground in and around the town of Chasiv Yar to the west.</content>
-    <link href="https://www.wsj.com/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why Was Gandhi Killed? After Official Edit, India&#39;s Textbooks Don&#39;t Say</title>
-    <updated>2023-05-22T10:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-22:/articles/why-was-gandhi-killed-after-official-edit-indias-textbooks-dont-say-d5b86e77</id>
-    <content type="html">School books, including key chapters on history, have been revised under Indian Prime Minister Narendra Modi’s government.</content>
-    <link href="https://www.wsj.com/articles/why-was-gandhi-killed-after-official-edit-indias-textbooks-dont-say-d5b86e77" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
