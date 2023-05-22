@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-22T09:11:27Z</updated>
+  <updated>2023-05-22T10:11:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Why Was Gandhi Killed? After Official Edit, India&#39;s Textbooks Don&#39;t Say</title>
+    <updated>2023-05-22T10:06:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-22:/articles/why-was-gandhi-killed-after-official-edit-indias-textbooks-dont-say-d5b86e77</id>
+    <content type="html">School books, including key chapters on history, have been revised under Indian Prime Minister Narendra Modi’s government.</content>
+    <link href="https://www.wsj.com/articles/why-was-gandhi-killed-after-official-edit-indias-textbooks-dont-say-d5b86e77" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
