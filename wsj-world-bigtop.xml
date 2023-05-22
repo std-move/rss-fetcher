@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-22T14:10:28Z</updated>
+  <updated>2023-05-22T15:11:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Says Ukrainian Commandos Stage Cross-Border Incursion</title>
-    <updated>2023-05-22T13:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-22:/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885</id>
-    <content type="html">Russia said that its military and security forces were moving to eliminate Ukrainian commandos who had crossed the border, a rare incursion that appeared to catch Moscow off guard.</content>
-    <link href="https://www.wsj.com/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885" rel="alternate"></link>
+    <title>Brain Study Finds Clues to Treating Chronic Pain</title>
+    <updated>2023-05-22T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-22:/articles/brain-study-finds-clues-to-treating-chronic-pain-a19be9fb</id>
+    <content type="html">Embedded electrodes in the brains of four study participants captured brain activity linked to their yearslong chronic pain.</content>
+    <link href="https://www.wsj.com/articles/brain-study-finds-clues-to-treating-chronic-pain-a19be9fb" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Rising Nuclear-Weapons Risks Overshadow G-7&#39;s Push for Disarmament at Hiroshima</title>
-    <updated>2023-05-22T13:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-22:/articles/rising-nuclear-weapons-risks-overshadowg-7s-push-for-disarmament-at-hiroshima-222eeaf2</id>
-    <content type="html">Russia is engaging in nuclear brinkmanship over Ukraine, while China and North Korea are building up their stocks and developing new types of weapons. </content>
-    <link href="https://www.wsj.com/articles/rising-nuclear-weapons-risks-overshadowg-7s-push-for-disarmament-at-hiroshima-222eeaf2" rel="alternate"></link>
+    <title>Russia Says Ukrainian Commandos Stage Cross-Border Incursion</title>
+    <updated>2023-05-22T14:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-22:/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885</id>
+    <content type="html">Russia said that its forces are fighting against Ukrainian units that had crossed into its southern Belgorod region, the largest such incursion into Russian territory since the war began.</content>
+    <link href="https://www.wsj.com/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
