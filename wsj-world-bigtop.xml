@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-22T10:11:55Z</updated>
+  <updated>2023-05-22T11:09:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Gains Ground Outside of Bakhmut as Russia Consolidates Control in City</title>
+    <updated>2023-05-22T10:58:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-22:/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885</id>
+    <content type="html">Russian troops have taken up positions in bombed-out apartment blocks exposed to Ukrainian forces that have retreated to higher ground in and around the town of Chasiv Yar to the west.</content>
+    <link href="https://www.wsj.com/articles/ukraine-gains-ground-outside-of-bakhmut-as-russia-consolidates-control-in-city-d41e6885" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Why Was Gandhi Killed? After Official Edit, India&#39;s Textbooks Don&#39;t Say</title>
     <updated>2023-05-22T10:06:00Z</updated>
