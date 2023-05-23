@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-23T15:12:10Z</updated>
+  <updated>2023-05-23T16:14:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Sixteen States Have Restricted Care for Trans Teens</title>
+    <title>Fighting in Russian Border Region Following Incursion Enters Second Day</title>
+    <updated>2023-05-23T15:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-23:/articles/fighting-in-russian-border-region-following-incursion-enters-second-day-379b30f9</id>
+    <content type="html">Russia said that its military forces were still fighting what President Vladimir Putin labeled an antiterrorist operation in the Belgorod region.</content>
+    <link href="https://www.wsj.com/articles/fighting-in-russian-border-region-following-incursion-enters-second-day-379b30f9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Bills Restricting Care for Trans Teens Skyrocket</title>
     <updated>2023-05-23T14:00:00Z</updated>
     <id>tag:www.wsj.com,2023-05-23:/articles/transgender-laws-rights-states-4fd67b16</id>
-    <content type="html">The bills have mostly been introduced in Republican-controlled states.</content>
+    <content type="html">Sixteen states have placed broad new restrictions on gender-affirming healthcare for transgender minors this year, with 16 others having introduced similar bills.</content>
     <link href="https://www.wsj.com/articles/transgender-laws-rights-states-4fd67b16" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
