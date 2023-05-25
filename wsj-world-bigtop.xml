@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-25T15:10:51Z</updated>
+  <updated>2023-05-25T16:14:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,16 +16,8 @@
     <title>Wagner Begins Handoff of Ukraine&#39;s Bakhmut to Russia&#39;s Military</title>
     <updated>2023-05-25T14:58:00Z</updated>
     <id>tag:www.wsj.com,2023-05-25:/articles/wagner-begins-handoff-of-ukraines-bakhmut-to-russias-military-3c765d97</id>
-    <content type="html">The head of the Russian paramilitary group, Yevgeny Prigozhin, said his fighters are handing over the city to Russian regular troops following a monthslong battle.</content>
+    <content type="html">The head of the Russian paramilitary group, Yevgeny Prigozhin, tells fighters to leave behind ammunition for the regular army.</content>
     <link href="https://www.wsj.com/articles/wagner-begins-handoff-of-ukraines-bakhmut-to-russias-military-3c765d97" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pakistan&#39;s Opposition Begins to Crack After Thousands Arrested</title>
-    <updated>2023-05-25T14:48:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-25:/articles/pakistans-opposition-begins-to-crack-after-thousands-arrested-82e959d6</id>
-    <content type="html">Supporters of former Prime Minister Imran Khan say the government is trying to hobble a political threat ahead of elections.</content>
-    <link href="https://www.wsj.com/articles/pakistans-opposition-begins-to-crack-after-thousands-arrested-82e959d6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
