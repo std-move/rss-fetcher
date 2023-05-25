@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-25T16:14:01Z</updated>
+  <updated>2023-05-25T17:09:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>A Barbecue Craze in China Shows Why Its Economy Is Undercooked</title>
-    <updated>2023-05-25T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-25:/articles/a-barbecue-craze-in-china-shows-why-its-economy-is-undercooked-a314adb2</id>
-    <content type="html">The trajectory of the city of Zibo—from industrial backwater to meat-grilling vacation hot spot—reflects the bitter reality of China’s postpandemic recovery.</content>
-    <link href="https://www.wsj.com/articles/a-barbecue-craze-in-china-shows-why-its-economy-is-undercooked-a314adb2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Wagner Begins Handoff of Ukraine&#39;s Bakhmut to Russia&#39;s Military</title>
-    <updated>2023-05-25T14:58:00Z</updated>
+    <updated>2023-05-25T16:37:00Z</updated>
     <id>tag:www.wsj.com,2023-05-25:/articles/wagner-begins-handoff-of-ukraines-bakhmut-to-russias-military-3c765d97</id>
     <content type="html">The head of the Russian paramilitary group, Yevgeny Prigozhin, tells fighters to leave behind ammunition for the regular army.</content>
     <link href="https://www.wsj.com/articles/wagner-begins-handoff-of-ukraines-bakhmut-to-russias-military-3c765d97" rel="alternate"></link>
