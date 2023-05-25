@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-25T12:21:59Z</updated>
+  <updated>2023-05-25T13:14:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Wagner Begins Handoff of Ukraine&#39;s Bakhmut to Russia&#39;s Military</title>
-    <updated>2023-05-25T11:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-25:/articles/wagner-begins-handoff-of-ukraines-bakhmut-to-russias-military-3c765d97</id>
-    <content type="html">The head of the Russian paramilitary group, Yevgeny Prigozhin, said his fighters are handing over the city to Russian regular troops following a monthslong battle.</content>
-    <link href="https://www.wsj.com/articles/wagner-begins-handoff-of-ukraines-bakhmut-to-russias-military-3c765d97" rel="alternate"></link>
+    <title>China, Once Pioneer of Zero Covid, Shrugs Off Looming Wave</title>
+    <updated>2023-05-25T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-25:/articles/china-once-pioneer-of-zero-covid-shrugs-off-looming-wave-2485e089</id>
+    <content type="html">Covid infections are estimated to peak around 65 million a week by late June, but many Chinese are eager to move on.</content>
+    <link href="https://www.wsj.com/articles/china-once-pioneer-of-zero-covid-shrugs-off-looming-wave-2485e089" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
