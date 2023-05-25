@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-25T17:09:48Z</updated>
+  <updated>2023-05-25T18:13:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Pakistan&#39;s Opposition Begins to Crack After Thousands Arrested</title>
+    <updated>2023-05-25T17:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-25:/articles/pakistans-opposition-begins-to-crack-after-thousands-arrested-82e959d6</id>
+    <content type="html">Supporters of former Prime Minister Imran Khan say the government is trying to hobble a political threat ahead of elections.</content>
+    <link href="https://www.wsj.com/articles/pakistans-opposition-begins-to-crack-after-thousands-arrested-82e959d6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Wagner Begins Handoff of Ukraine&#39;s Bakhmut to Russia&#39;s Military</title>
     <updated>2023-05-25T16:37:00Z</updated>
