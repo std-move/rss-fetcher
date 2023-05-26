@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-26T18:13:12Z</updated>
+  <updated>2023-05-26T19:08:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Popocatépetl Volcano in Mexico: What We Know About Eruption Alert Level</title>
-    <updated>2023-05-26T17:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-26:/articles/popocatpetl-volcano-mexico-city-eruption-290c359a</id>
-    <content type="html">A volcano near Mexico City has authorities on higher alert following increased activity and ashfall.</content>
-    <link href="https://www.wsj.com/articles/popocatpetl-volcano-mexico-city-eruption-290c359a" rel="alternate"></link>
+    <title>Colombia Searches for Children After Jungle Plane Crash</title>
+    <updated>2023-05-26T18:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-26:/articles/colombia-searches-for-children-after-jungle-plane-crash-180f19a0</id>
+    <content type="html">A baby and three small children are believed to be alive following a deadly crash in a dangerous jungle.</content>
+    <link href="https://www.wsj.com/articles/colombia-searches-for-children-after-jungle-plane-crash-180f19a0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Russian Rockets Hit Medical Clinic in Ukraine&#39;s Dnipro</title>
-    <updated>2023-05-26T16:44:00Z</updated>
+    <updated>2023-05-26T18:24:00Z</updated>
     <id>tag:www.wsj.com,2023-05-26:/articles/russian-airstrikes-set-homes-ablaze-in-ukraine-298c9e2e</id>
     <content type="html">The attack followed a broad salvo of Russian missile and drone strikes across Ukraine overnight.</content>
     <link href="https://www.wsj.com/articles/russian-airstrikes-set-homes-ablaze-in-ukraine-298c9e2e" rel="alternate"></link>
