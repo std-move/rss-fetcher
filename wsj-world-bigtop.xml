@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-27T03:11:13Z</updated>
+  <updated>2023-05-27T04:12:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Chinese Alternative to Bloomberg Terminals Quietly Limits Information Overseas</title>
+    <updated>2023-05-27T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-27:/articles/a-chinese-alternative-to-bloomberg-terminals-quietly-limits-information-overseas-bd98cf5e</id>
+    <content type="html">E-commerce shopping trends and satellite images are no longer available to foreign users of Wind, clouding their view of the world’s second-largest economy.</content>
+    <link href="https://www.wsj.com/articles/a-chinese-alternative-to-bloomberg-terminals-quietly-limits-information-overseas-bd98cf5e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
