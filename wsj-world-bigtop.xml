@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-27T12:19:39Z</updated>
+  <updated>2023-05-27T13:11:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Michigan Gov. Gretchen Whitmer Charts a &#39;Pragmatic-Progressive&#39; Course</title>
+    <updated>2023-05-27T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-27:/articles/michigan-gov-gretchen-whitmer-charts-a-pragmatic-progressive-course-a35cdf8c</id>
+    <content type="html">Democrats, led by Whitmer, are in control for the first time in 40 years. They have been fast-tracking their priorities, including expanded background checks for gun purchases and repeal of an abortion ban. </content>
+    <link href="https://www.wsj.com/articles/michigan-gov-gretchen-whitmer-charts-a-pragmatic-progressive-course-a35cdf8c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Launches Airstrikes on Russian-Held Targets</title>
     <updated>2023-05-27T12:13:00Z</updated>
