@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-28T03:11:58Z</updated>
+  <updated>2023-05-28T04:12:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Popocatépetl Volcano in Mexico: What We Know About Eruption Alert Level</title>
-    <updated>2023-05-27T15:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-27:/articles/popocatpetl-volcano-mexico-city-eruption-290c359a</id>
-    <content type="html">A volcano near Mexico City has authorities on higher alert following increased activity and ashfall.</content>
-    <link href="https://www.wsj.com/articles/popocatpetl-volcano-mexico-city-eruption-290c359a" rel="alternate"></link>
+    <title>Turkey Votes in Runoff After Erdogan Takes First-Round Lead</title>
+    <updated>2023-05-28T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-28:/articles/turkey-votes-in-runoff-after-erdogan-takes-first-round-lead-95773cfd</id>
+    <content type="html">Millions of people are heading to the polls on Sunday in a presidential runoff election that could cement President Recep Tayyip Erdogan’s grip on power and his country’s influence in the war in Ukraine, the Middle East and NATO.</content>
+    <link href="https://www.wsj.com/articles/turkey-votes-in-runoff-after-erdogan-takes-first-round-lead-95773cfd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine Launches Airstrikes on Russian-Held Targets</title>
-    <updated>2023-05-27T14:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-27:/articles/ukraine-launches-airstrikes-on-russian-held-targets-a367b44</id>
-    <content type="html">Ukraine’s armed forces said its air force launched strikes on 11 Russian clusters of personnel and equipment over the past day as anticipation grew that Kyiv was on the brink of beginning a long-awaited offensive to regain lost territory.</content>
-    <link href="https://www.wsj.com/articles/ukraine-launches-airstrikes-on-russian-held-targets-a367b44" rel="alternate"></link>
+    <title>In a Small California City, Nearly Half the Police Included in Racist Text Threads</title>
+    <updated>2023-05-28T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-28:/articles/in-a-small-california-city-nearly-half-the-police-included-in-racist-text-threads-ee308235</id>
+    <content type="html">For at least four years, officers in Antioch called Black residents racial slurs, bragged about beating suspects and joked about violating people’s rights.</content>
+    <link href="https://www.wsj.com/articles/in-a-small-california-city-nearly-half-the-police-included-in-racist-text-threads-ee308235" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
