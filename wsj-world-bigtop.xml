@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-28T17:08:45Z</updated>
+  <updated>2023-05-28T18:12:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Turkey&#39;s Erdogan Leads in Presidential Runoff Election</title>
+    <updated>2023-05-28T17:29:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-28:/articles/turkey-votes-in-runoff-after-erdogan-takes-first-round-lead-95773cfd</id>
+    <content type="html">Millions of people voted in a presidential runoff election that could cement President Recep Tayyip Erdogan’s grip on power and his country’s influence in the war in Ukraine, the Middle East and NATO.</content>
+    <link href="https://www.wsj.com/articles/turkey-votes-in-runoff-after-erdogan-takes-first-round-lead-95773cfd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Launches Largest Drone Attack on Kyiv Since Start of War</title>
     <updated>2023-05-28T15:37:00Z</updated>
     <id>tag:www.wsj.com,2023-05-28:/articles/russia-launches-largest-drone-attack-on-kyiv-since-start-of-war-a68c2daa</id>
     <content type="html">Depleting Ukraine’s air-defense stocks could be an attempt to increase the effectiveness of Russia’s future cruise-missile attacks, defense experts said.</content>
     <link href="https://www.wsj.com/articles/russia-launches-largest-drone-attack-on-kyiv-since-start-of-war-a68c2daa" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Turkey Votes in Runoff After Erdogan Takes First-Round Lead</title>
-    <updated>2023-05-28T14:13:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-28:/articles/turkey-votes-in-runoff-after-erdogan-takes-first-round-lead-95773cfd</id>
-    <content type="html">Millions of people voted in a presidential runoff election that could cement President Recep Tayyip Erdogan’s grip on power and his country’s influence in the war in Ukraine, the Middle East and NATO.</content>
-    <link href="https://www.wsj.com/articles/turkey-votes-in-runoff-after-erdogan-takes-first-round-lead-95773cfd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
