@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-29T14:09:55Z</updated>
+  <updated>2023-05-29T15:11:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Erdogan&#39;s Next Focus: Turkey&#39;s Place on the World Stage</title>
+    <updated>2023-05-29T14:36:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-29:/articles/erdogans-next-focus-turkeys-place-on-the-world-stage-bbba032d</id>
+    <content type="html">After seeing off his biggest election challenge, President Recep Tayyip Erdogan is turning his attention to fixing Turkey’s place on the map as an aspiring global power.</content>
+    <link href="https://www.wsj.com/articles/erdogans-next-focus-turkeys-place-on-the-world-stage-bbba032d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Follows Barrage on Kyiv With More Drone, Missile Attacks</title>
     <updated>2023-05-29T13:19:00Z</updated>
