@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-29T13:13:32Z</updated>
+  <updated>2023-05-29T14:09:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Follows Barrage on Kyiv With More Drone, Missile Attacks</title>
+    <updated>2023-05-29T13:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-29:/articles/russia-follows-barrage-on-kyiv-with-more-drone-missile-attacks-f9a4c9b6</id>
+    <content type="html">The strikes are part of an escalating campaign to degrade Ukraine’s air defenses and disrupt preparations for an offensive that Kyiv has signaled could be imminent.</content>
+    <link href="https://www.wsj.com/articles/russia-follows-barrage-on-kyiv-with-more-drone-missile-attacks-f9a4c9b6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Hits a Dead End in Bakhmut</title>
     <updated>2023-05-29T12:45:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-05-29:/articles/with-psych-wards-full-mentally-ill-accused-of-crimes-languish-in-jail-baee0279</id>
     <content type="html">Those referred for treatment in order to stand trial can wait behind bars longer than the sentence for the crime they’re charged with.</content>
     <link href="https://www.wsj.com/articles/with-psych-wards-full-mentally-ill-accused-of-crimes-languish-in-jail-baee0279" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Follows Barrage on Kyiv With More Drone, Missile Attacks</title>
-    <updated>2023-05-29T10:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-29:/articles/russia-follows-barrage-on-kyiv-with-more-drone-missile-attacks-f9a4c9b6</id>
-    <content type="html">The strikes targeted military facilities and infrastructure in an escalating campaign to disrupt Ukraine’s preparations for an offensive it has signaled could be imminent.</content>
-    <link href="https://www.wsj.com/articles/russia-follows-barrage-on-kyiv-with-more-drone-missile-attacks-f9a4c9b6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
