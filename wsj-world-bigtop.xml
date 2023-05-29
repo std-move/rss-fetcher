@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-29T15:11:05Z</updated>
+  <updated>2023-05-29T16:14:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2023-05-29:/articles/russia-hits-a-dead-end-in-bakhmut-1020d4ae</id>
     <content type="html">Victory in Bakhmut has given Russia something to show for its efforts after months without any meaningful gain, but its forces appear unable to capitalize on it.</content>
     <link href="https://www.wsj.com/articles/russia-hits-a-dead-end-in-bakhmut-1020d4ae" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>With Psych Wards Full, Mentally Ill Accused of Crimes Languish in Jail</title>
-    <updated>2023-05-29T12:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-29:/articles/with-psych-wards-full-mentally-ill-accused-of-crimes-languish-in-jail-baee0279</id>
-    <content type="html">Those referred for treatment in order to stand trial can wait behind bars longer than the sentence for the crime they’re charged with.</content>
-    <link href="https://www.wsj.com/articles/with-psych-wards-full-mentally-ill-accused-of-crimes-languish-in-jail-baee0279" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
