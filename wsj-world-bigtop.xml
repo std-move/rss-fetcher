@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-29T03:12:07Z</updated>
+  <updated>2023-05-29T04:13:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Turkey&#39;s Erdogan Defies Odds to Win Presidential Election</title>
-    <updated>2023-05-28T21:58:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-28:/articles/turkeys-erdogan-claims-victory-in-presidential-election-889d8cde</id>
-    <content type="html">Sunday’s runoff election results establish President Recep Tayyip Erdogan as one of the great survivors in recent political history and secures his outsize role in global affairs.</content>
-    <link href="https://www.wsj.com/articles/turkeys-erdogan-claims-victory-in-presidential-election-889d8cde" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
