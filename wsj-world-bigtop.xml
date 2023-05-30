@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-30T20:11:24Z</updated>
+  <updated>2023-05-30T21:09:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Drones Hit Residential Areas in Moscow for First Time</title>
-    <updated>2023-05-30T18:24:00Z</updated>
+    <updated>2023-05-30T20:21:00Z</updated>
     <id>tag:www.wsj.com,2023-05-30:/articles/drones-strike-residential-areas-in-moscow-9984942</id>
     <content type="html">Drones struck several buildings in the first attacks on civilian areas deep inside Russia since the invasion of Ukraine last year, as Kyiv spent another night under air assault.</content>
     <link href="https://www.wsj.com/articles/drones-strike-residential-areas-in-moscow-9984942" rel="alternate"></link>
