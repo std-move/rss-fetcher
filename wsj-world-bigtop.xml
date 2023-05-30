@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-30T09:11:29Z</updated>
+  <updated>2023-05-30T10:11:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>China Launches Three Astronauts, Including First Civilian, Into Orbit</title>
+    <updated>2023-05-30T10:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-30:/articles/china-launches-three-astronauts-including-first-civilian-into-orbit-898a29b9</id>
+    <content type="html">The liftoff showcases the nation’s expanding capabilities in space at a time when mounting military and technological competition with the U.S. is stoking geopolitical tension.</content>
+    <link href="https://www.wsj.com/articles/china-launches-three-astronauts-including-first-civilian-into-orbit-898a29b9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Drones Hit Residential Areas in Moscow for First Time</title>
-    <updated>2023-05-30T08:56:00Z</updated>
+    <updated>2023-05-30T09:26:00Z</updated>
     <id>tag:www.wsj.com,2023-05-30:/articles/drones-strike-residential-areas-in-moscow-9984942</id>
     <content type="html">Drones struck several buildings in the first attacks on civilian areas deep inside Russia since the invasion of Ukraine last year, as Kyiv spent another night under air assault.</content>
     <link href="https://www.wsj.com/articles/drones-strike-residential-areas-in-moscow-9984942" rel="alternate"></link>
