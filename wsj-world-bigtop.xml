@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-31T15:11:13Z</updated>
+  <updated>2023-05-31T16:13:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>How a High-Value Russian Wanted by the U.S. Escaped From Italy</title>
-    <updated>2023-05-31T13:11:00Z</updated>
-    <id>tag:www.wsj.com,2023-05-31:/articles/how-a-high-value-russian-wanted-by-the-u-s-escaped-from-italy-878f5aaa</id>
-    <content type="html">Artem Uss was able to escape after he was granted house arrest near Milan, despite U.S. warnings that he would flee. The affair has robbed the U.S. of a potentially valuable asset in prisoner exchanges for Americans held in Russia.</content>
-    <link href="https://www.wsj.com/articles/how-a-high-value-russian-wanted-by-the-u-s-escaped-from-italy-878f5aaa" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
