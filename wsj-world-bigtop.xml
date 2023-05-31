@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-05-31T13:14:14Z</updated>
+  <updated>2023-05-31T14:09:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How a High-Value Russian Wanted by the U.S. Escaped From Italy</title>
+    <updated>2023-05-31T13:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-31:/articles/how-a-high-value-russian-wanted-by-the-u-s-escaped-from-italy-878f5aaa</id>
+    <content type="html">Artem Uss was able to escape after he was granted house arrest near Milan, despite U.S. warnings that he would flee. The affair has robbed the U.S. of a potentially valuable asset in prisoner exchanges for Americans held in Russia.</content>
+    <link href="https://www.wsj.com/articles/how-a-high-value-russian-wanted-by-the-u-s-escaped-from-italy-878f5aaa" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Drones Hit Russian Oil Refineries as Moscow Shores Up Front Line</title>
+    <updated>2023-05-31T13:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-05-31:/articles/drones-hit-russian-oil-refineries-as-moscow-shores-up-front-line-f365abfb</id>
+    <content type="html">Such attacks come as Russia loses the initiative in the conflict, say Western officials, with Moscow increasingly reacting to Ukrainian offensives that are setting the agenda on the battlefield. </content>
+    <link href="https://www.wsj.com/articles/drones-hit-russian-oil-refineries-as-moscow-shores-up-front-line-f365abfb" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Next Wave of Mass Environmental Litigation Bubbles Up From Coastal Florida</title>
     <updated>2023-05-31T13:01:00Z</updated>
     <id>tag:www.wsj.com,2023-05-31:/articles/the-next-wave-of-mass-environmental-litigation-bubbles-up-from-coastal-florida-e4a5a530</id>
-    <content type="html">Compounds used in firefighting foam seeped into the groundwater in the town of Stuart. Now it’s at the forefront of thousands of suits against chemical companies. ‘</content>
+    <content type="html">Compounds used in firefighting foam seeped into the groundwater in the town of Stuart. Now it’s at the forefront of thousands of suits against chemical companies.</content>
     <link href="https://www.wsj.com/articles/the-next-wave-of-mass-environmental-litigation-bubbles-up-from-coastal-florida-e4a5a530" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
