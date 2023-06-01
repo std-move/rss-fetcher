@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-01T10:13:56Z</updated>
+  <updated>2023-06-01T11:09:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Drones Hit Russian Oil Refineries as Moscow Shores Up Front Line</title>
-    <updated>2023-06-01T06:27:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-01:/articles/drones-hit-russian-oil-refineries-as-moscow-shores-up-front-line-f365abfb</id>
-    <content type="html">Such attacks come as Russia loses the initiative in the conflict, say Western officials, with Moscow increasingly reacting to Ukrainian offensives that are setting the agenda on the battlefield. </content>
-    <link href="https://www.wsj.com/articles/drones-hit-russian-oil-refineries-as-moscow-shores-up-front-line-f365abfb" rel="alternate"></link>
+    <title>The Test for Deadly Cancer That More People Should Get</title>
+    <updated>2023-06-01T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-01:/articles/deadly-lung-cancer-test-b3dec341</id>
+    <content type="html">More people at risk are having CT scans to help detect lung cancer early.</content>
+    <link href="https://www.wsj.com/articles/deadly-lung-cancer-test-b3dec341" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
