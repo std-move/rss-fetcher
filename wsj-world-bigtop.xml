@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-02T15:11:17Z</updated>
+  <updated>2023-06-02T16:13:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>How Chinese Dissent Found Its Voice in New York City</title>
-    <updated>2023-06-02T14:47:00Z</updated>
+    <updated>2023-06-02T15:42:00Z</updated>
     <id>tag:www.wsj.com,2023-06-02:/articles/how-chinese-dissent-found-its-voice-in-new-york-city-4a394893</id>
     <content type="html">An exhibit on the Tiananmen Square crackdown highlights re-energized activism and camaraderie.</content>
     <link href="https://www.wsj.com/articles/how-chinese-dissent-found-its-voice-in-new-york-city-4a394893" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Says It Stopped Russia&#39;s Latest Attacks on Kyiv</title>
-    <updated>2023-06-02T14:41:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-02:/articles/ukraine-says-it-stopped-russias-latest-missile-and-drone-attacks-on-kyiv-2d5d94f3</id>
-    <content type="html">The Ukrainian air force said its air defenses intercepted all of the Russian cruise missiles and Iranian-made Shahed drones launched at the capital overnight.</content>
-    <link href="https://www.wsj.com/articles/ukraine-says-it-stopped-russias-latest-missile-and-drone-attacks-on-kyiv-2d5d94f3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
