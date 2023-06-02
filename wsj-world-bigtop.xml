@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-02T03:12:10Z</updated>
+  <updated>2023-06-02T04:12:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>California Spent $17 Billion on the Homeless. It Isn&#39;t Working.</title>
+    <updated>2023-06-02T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-02:/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3</id>
+    <content type="html">The Wood Street encampment for years drew people with nowhere to live, until a fire made finding a solution an urgent—and frustrating—task.</content>
+    <link href="https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As China Risks Grow, Manufacturers Seek Plan B---and C and D</title>
+    <updated>2023-06-02T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-02:/articles/as-china-risks-grow-manufacturers-seek-plan-band-c-and-d-aad7c47b</id>
+    <content type="html">Western executives are shifting to various countries to prepare for contingencies.</content>
+    <link href="https://www.wsj.com/articles/as-china-risks-grow-manufacturers-seek-plan-band-c-and-d-aad7c47b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
