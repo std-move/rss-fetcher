@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-03T15:09:52Z</updated>
+  <updated>2023-06-03T16:13:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-06-03:/articles/russia-ukraine-trade-artillery-fire-97b8b25d</id>
     <content type="html">In Ukraine’s Kharkiv and Sumy regions, Russian shelling killed at least one civilian, while inside Russia, five civilians were killed by rocket fire in the Belgorod region.</content>
     <link href="https://www.wsj.com/articles/russia-ukraine-trade-artillery-fire-97b8b25d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Chicago, Volunteers Help Migrants Sleeping in Police Stations</title>
-    <updated>2023-06-03T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-03:/articles/in-chicago-volunteers-help-migrants-sleeping-in-police-stations-339fcc37</id>
-    <content type="html">Hundreds of mostly Venezuelan asylum seekers await housing as shelters are overwhelmed following the expiration of Title 42.</content>
-    <link href="https://www.wsj.com/articles/in-chicago-volunteers-help-migrants-sleeping-in-police-stations-339fcc37" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
