@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-04T12:20:14Z</updated>
+  <updated>2023-06-04T13:11:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Three-Way Train Crash in India Kills More Than 250: &#39;I Haven&#39;t Seen Anything So Horrific&#39;</title>
-    <updated>2023-06-04T01:38:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-04:/articles/indian-train-crash-kills-more-than-200-people-1308cfb3</id>
-    <content type="html">A three-way train crash in India killed at least 261 people and injured hundreds more, in one of the deadliest rail accidents in the country’s history.</content>
-    <link href="https://www.wsj.com/articles/indian-train-crash-kills-more-than-200-people-1308cfb3" rel="alternate"></link>
+    <title>Russian Strike Kills Ukrainian Child, Wounds Several More</title>
+    <updated>2023-06-04T12:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-04:/articles/russian-strike-kills-ukrainian-child-wounds-several-more-9b86289b</id>
+    <content type="html">A 2-year-old was killed and almost two dozen people were wounded after Moscow launched a fresh barrage of missile strikes, while fighting continued in a Russian region bordering Ukraine.</content>
+    <link href="https://www.wsj.com/articles/russian-strike-kills-ukrainian-child-wounds-several-more-9b86289b" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
