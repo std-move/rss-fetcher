@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-04T18:12:44Z</updated>
+  <updated>2023-06-04T19:08:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine-Backed Troops Capture Russian Soldiers in Cross-Border Foray</title>
-    <updated>2023-06-04T16:49:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-04:/articles/russian-strike-kills-ukrainian-child-wounds-several-more-9b86289b</id>
-    <content type="html">Cross-border raids are testing Russia’s defenses away from the front line inside Ukraine.</content>
-    <link href="https://www.wsj.com/articles/russian-strike-kills-ukrainian-child-wounds-several-more-9b86289b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>How Chinese Dissent Found Its Voice in New York City</title>
     <updated>2023-06-04T15:13:00Z</updated>
