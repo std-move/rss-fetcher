@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-05T15:11:30Z</updated>
+  <updated>2023-06-05T16:14:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>White-Water Rafting Set to Boom After Record Snow</title>
-    <updated>2023-06-05T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-05:/articles/white-water-rafting-season-in-the-west-set-to-boom-following-record-snowfall-3369b1f0</id>
-    <content type="html">In the West, fast-moving and bitterly cold water poses a major public safety risk.</content>
-    <link href="https://www.wsj.com/articles/white-water-rafting-season-in-the-west-set-to-boom-following-record-snowfall-3369b1f0" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Russia Says Ukraine Has Launched Attacks on Front Lines</title>
-    <updated>2023-06-05T13:46:00Z</updated>
+    <updated>2023-06-05T15:16:00Z</updated>
     <id>tag:www.wsj.com,2023-06-05:/articles/russia-says-ukraine-has-launched-attacks-on-front-lines-d49cd983</id>
     <content type="html">Moscow said it had fended off the largest Ukrainian assault in months in eastern Ukraine as Kyiv moved to retake the initiative in the 15-month war.</content>
     <link href="https://www.wsj.com/articles/russia-says-ukraine-has-launched-attacks-on-front-lines-d49cd983" rel="alternate"></link>
