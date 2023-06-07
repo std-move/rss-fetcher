@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-07T13:15:21Z</updated>
+  <updated>2023-06-07T14:10:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>What We Know About Nova Kakhovka Dam Destruction</title>
+    <updated>2023-06-07T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-07:/articles/what-we-know-about-nova-kakhovka-dam-destruction-34bfc197</id>
+    <content type="html">The dam on the Dnipro River was a crucial piece of infrastructure supporting Ukraine’s agricultural sector and the vulnerable Zaporizhzhia nuclear power plant.</content>
+    <link href="https://www.wsj.com/articles/what-we-know-about-nova-kakhovka-dam-destruction-34bfc197" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Wildfire Smoke Blankets  New York, Other States, Prompting Air-Quality Warnings</title>
-    <updated>2023-06-07T12:43:00Z</updated>
+    <updated>2023-06-07T13:57:00Z</updated>
     <id>tag:www.wsj.com,2023-06-07:/articles/smoke-air-quality-nyc-northeast-canadian-wildfires-6b5ffc01</id>
     <content type="html">Skies were hazy again across northern states from Minnesota to Maine. In New York, the unhealthy level surpassed those of some of the most polluted cities on Earth.</content>
     <link href="https://www.wsj.com/articles/smoke-air-quality-nyc-northeast-canadian-wildfires-6b5ffc01" rel="alternate"></link>
