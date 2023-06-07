@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-07T16:14:42Z</updated>
+  <updated>2023-06-07T17:09:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In Southern Ukraine, Floodwaters Still Rising From Burst Dam</title>
-    <updated>2023-06-07T15:29:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-07:/articles/southern-ukrainian-towns-inundated-as-floodwaters-from-burst-dam-rise-7b5e3424</id>
-    <content type="html">The flooding has forced thousands of people to flee their homes, adding another dimension to a humanitarian crisis resulting from the war.</content>
-    <link href="https://www.wsj.com/articles/southern-ukrainian-towns-inundated-as-floodwaters-from-burst-dam-rise-7b5e3424" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Wildfire Smoke Blankets  New York, Other States, Prompting Air-Quality Warnings</title>
-    <updated>2023-06-07T15:04:00Z</updated>
+    <title>Wildfire Smoke Blankets New York, Other States, Prompting Air-Quality Warnings</title>
+    <updated>2023-06-07T16:20:00Z</updated>
     <id>tag:www.wsj.com,2023-06-07:/articles/smoke-air-quality-nyc-northeast-canadian-wildfires-6b5ffc01</id>
     <content type="html">Skies were hazy again across northern states from Minnesota to Maine. In New York, the unhealthy level surpassed those of some of the most polluted cities on Earth.</content>
     <link href="https://www.wsj.com/articles/smoke-air-quality-nyc-northeast-canadian-wildfires-6b5ffc01" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Burst Ukraine Dam Alters Battlefield as Floodwaters Rise</title>
+    <updated>2023-06-07T16:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-07:/articles/southern-ukrainian-towns-inundated-as-floodwaters-from-burst-dam-rise-7b5e3424</id>
+    <content type="html">The flooding has forced thousands of people to flee their homes, adding another dimension to a humanitarian crisis resulting from the war.</content>
+    <link href="https://www.wsj.com/articles/southern-ukrainian-towns-inundated-as-floodwaters-from-burst-dam-rise-7b5e3424" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
