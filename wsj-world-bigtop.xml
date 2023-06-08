@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-08T13:15:08Z</updated>
+  <updated>2023-06-08T14:10:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>A Factory Exodus Is Hollowing Out Brazil&#39;s Industrial Heartland</title>
+    <updated>2023-06-08T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-08:/articles/a-factory-exodus-is-hollowing-out-brazils-industrial-heartland-83505647</id>
+    <content type="html">More than a dozen major companies from Ford to Sony have shut operations in Latin America’s biggest economy, part of a deindustrialization that is among the fastest in the world.</content>
+    <link href="https://www.wsj.com/articles/a-factory-exodus-is-hollowing-out-brazils-industrial-heartland-83505647" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Pat Robertson, Influential Christian Broadcaster, Dies at 93</title>
-    <updated>2023-06-08T13:11:00Z</updated>
+    <updated>2023-06-08T13:22:00Z</updated>
     <id>tag:www.wsj.com,2023-06-08:/articles/pat-robertson-influential-christian-broadcaster-dies-at-93-61648535</id>
-    <content type="html">He founded the Christian Broadcasting Network and played an influential role as evangelicals become more politically engaged.</content>
+    <content type="html">He founded the Christian Broadcasting Network and played an influential role as evangelicals became more politically engaged.</content>
     <link href="https://www.wsj.com/articles/pat-robertson-influential-christian-broadcaster-dies-at-93-61648535" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
