@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-08T11:09:57Z</updated>
+  <updated>2023-06-08T12:21:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Zelensky Visits Flood-Hit Kherson as Kyiv Presses Counterattack</title>
-    <updated>2023-06-08T10:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-08:/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260</id>
-    <content type="html">Russia claimed to have withstood an attempt by Kyiv’s military to break through its fortifications further east as signs emerge that Ukraine’s long-awaited offensive is under way.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Hazardous Smoky Conditions to Last for Days as Canada Wildfires Rage</title>
-    <updated>2023-06-08T09:40:00Z</updated>
+    <updated>2023-06-08T11:19:00Z</updated>
     <id>tag:www.wsj.com,2023-06-08:/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3</id>
     <content type="html">Millions of Americans are being advised to stay indoors as the smoke continues to drift south.</content>
     <link href="https://www.wsj.com/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>East Coast Gets a Taste of What It&#39;s Like Living With Wildfires</title>
-    <updated>2023-06-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-08:/articles/the-east-coast-gets-a-taste-of-what-its-like-living-with-wildfires-f4330a14</id>
-    <content type="html">Millions of Americans monitored air-quality levels and put plans on hold as smoke from Canadian wildfires kept people indoors.</content>
-    <link href="https://www.wsj.com/articles/the-east-coast-gets-a-taste-of-what-its-like-living-with-wildfires-f4330a14" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Cut Off From Food and Cash, Sudanese Starve as Fighting Drags On</title>
-    <updated>2023-06-08T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-08:/articles/cut-off-from-food-and-cash-sudanese-starve-as-fighting-drags-on-eaea355f</id>
-    <content type="html">Hungry residents are searching for scraps as a lethal power struggle between rival generals has upended daily trade.</content>
-    <link href="https://www.wsj.com/articles/cut-off-from-food-and-cash-sudanese-starve-as-fighting-drags-on-eaea355f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
