@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-08T09:10:56Z</updated>
+  <updated>2023-06-08T10:11:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Attacks Ukraine&#39;s Future by Forcibly Removing Its Children</title>
-    <updated>2023-06-08T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-08:/articles/russia-ukraine-removing-children-orphanage-aa9471ce</id>
-    <content type="html">Thousands of orphans and young people separated from their parents have been taken to Russian territory and placed in foster homes and institutions. Some families are able to make the difficult journey to bring them back.</content>
-    <link href="https://www.wsj.com/articles/russia-ukraine-removing-children-orphanage-aa9471ce" rel="alternate"></link>
+    <title>Ukraine&#39;s Zelensky Visits Flood-Hit Kherson as Kyiv Presses Counterattack</title>
+    <updated>2023-06-08T10:04:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-08:/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260</id>
+    <content type="html">Russian officials claimed to have withstood an attempt by Kyiv’s military to break through Russian fortifications further east as signs emerge that Kyiv’s long-awaited offensive is under way at various points along the front line.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hazardous Smoky Conditions to Last for Days as Canada Wildfires Rage</title>
+    <updated>2023-06-08T09:40:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-08:/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3</id>
+    <content type="html">Millions of Americans are being advised to stay indoors as the smoke continues to drift south.</content>
+    <link href="https://www.wsj.com/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>East Coast Gets a Taste of What It&#39;s Like Living With Wildfires</title>
+    <updated>2023-06-08T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-08:/articles/the-east-coast-gets-a-taste-of-what-its-like-living-with-wildfires-f4330a14</id>
+    <content type="html">Millions of Americans monitored air-quality levels and put plans on hold as smoke from Canadian wildfires kept people indoors.</content>
+    <link href="https://www.wsj.com/articles/the-east-coast-gets-a-taste-of-what-its-like-living-with-wildfires-f4330a14" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Cut Off From Food and Cash, Sudanese Starve as Fighting Drags On</title>
+    <updated>2023-06-08T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-08:/articles/cut-off-from-food-and-cash-sudanese-starve-as-fighting-drags-on-eaea355f</id>
+    <content type="html">Hungry residents are searching for scraps as a lethal power struggle between rival generals has upended daily trade.</content>
+    <link href="https://www.wsj.com/articles/cut-off-from-food-and-cash-sudanese-starve-as-fighting-drags-on-eaea355f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
