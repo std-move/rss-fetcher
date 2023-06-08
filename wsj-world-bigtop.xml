@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-08T20:11:13Z</updated>
+  <updated>2023-06-08T21:11:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine Targets Russian Lines, as Counteroffensive Gathers Pace</title>
-    <updated>2023-06-08T19:41:00Z</updated>
+    <updated>2023-06-08T20:27:00Z</updated>
     <id>tag:www.wsj.com,2023-06-08:/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260</id>
     <content type="html">Kyiv launched armored assaults in the southeast of the country, appearing to mark the initial phase of what military strategists expect to be a monthslong push aimed at retaking Russian-held territory.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Smoky Conditions to Last for Days as Canada Wildfires Rage</title>
-    <updated>2023-06-08T19:27:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-08:/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3</id>
-    <content type="html">Millions of Americans are being advised to stay indoors as the smoke continues to drift south.</content>
-    <link href="https://www.wsj.com/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
