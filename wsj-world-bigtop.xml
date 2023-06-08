@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-08T10:11:48Z</updated>
+  <updated>2023-06-08T11:09:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Zelensky Visits Flood-Hit Kherson as Kyiv Presses Counterattack</title>
+    <title>Zelensky Visits Flood-Hit Kherson as Kyiv Presses Counterattack</title>
     <updated>2023-06-08T10:04:00Z</updated>
     <id>tag:www.wsj.com,2023-06-08:/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260</id>
-    <content type="html">Russian officials claimed to have withstood an attempt by Kyiv’s military to break through Russian fortifications further east as signs emerge that Kyiv’s long-awaited offensive is under way at various points along the front line.</content>
+    <content type="html">Russia claimed to have withstood an attempt by Kyiv’s military to break through its fortifications further east as signs emerge that Ukraine’s long-awaited offensive is under way.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
