@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-08T12:21:27Z</updated>
+  <updated>2023-06-08T13:15:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Hazardous Smoky Conditions to Last for Days as Canada Wildfires Rage</title>
-    <updated>2023-06-08T11:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-08:/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3</id>
-    <content type="html">Millions of Americans are being advised to stay indoors as the smoke continues to drift south.</content>
-    <link href="https://www.wsj.com/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3" rel="alternate"></link>
+    <title>Pat Robertson, Influential Christian Broadcaster, Dies at 93</title>
+    <updated>2023-06-08T13:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-08:/articles/pat-robertson-influential-christian-broadcaster-dies-at-93-61648535</id>
+    <content type="html">He founded the Christian Broadcasting Network and played an influential role as evangelicals become more politically engaged.</content>
+    <link href="https://www.wsj.com/articles/pat-robertson-influential-christian-broadcaster-dies-at-93-61648535" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
