@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-09T05:10:27Z</updated>
+  <updated>2023-06-09T06:14:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Trump Indicted in Classified Documents Case</title>
+    <updated>2023-06-09T05:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/donald-trump-indicted-in-document-case-b4e563d7</id>
+    <content type="html">The former president said he has been summoned to the federal courthouse in Miami over his handling of government documents at Mar-a-Lago.</content>
+    <link href="https://www.wsj.com/articles/donald-trump-indicted-in-document-case-b4e563d7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>More Startups Throw in the Towel, Unable to Raise Money for Their Ideas</title>
     <updated>2023-06-09T04:01:00Z</updated>
