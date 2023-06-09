@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-09T13:13:38Z</updated>
+  <updated>2023-06-09T14:10:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>India Faces Conundrum for Its Sprawling Railways: Fix the Old or Build New</title>
-    <updated>2023-06-09T12:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-09:/articles/india-faces-conundrum-for-its-sprawling-railways-fix-the-old-or-build-new-5ef6338d</id>
-    <content type="html">The country has invested in high-speed trains and modern technology but did far less to repair old tracks, improve safety and hone its workforce skills.</content>
-    <link href="https://www.wsj.com/articles/india-faces-conundrum-for-its-sprawling-railways-fix-the-old-or-build-new-5ef6338d" rel="alternate"></link>
+    <title>A $300 Million Titanium Mine Proposal Could Reshape Georgia&#39;s Swamp Country</title>
+    <updated>2023-06-09T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/a-300-million-titanium-mine-proposal-could-reshape-georgias-swamp-country-c32c110</id>
+    <content type="html">A company’s plan to mine titanium dioxide near the Okefenokee National Wildlife Refuge pits environmental concerns against the promise of more jobs.</content>
+    <link href="https://www.wsj.com/articles/a-300-million-titanium-mine-proposal-could-reshape-georgias-swamp-country-c32c110" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>In Flooded Kherson, Ukrainian Rescuers Forge On After Dam Burst</title>
+    <updated>2023-06-09T13:43:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/in-flooded-kherson-ukrainian-rescuers-who-survived-occupation-forge-on-after-dam-burst-efd53172</id>
+    <content type="html">Volunteers helping people stranded by floodwaters are coming under Russian fire as they work.</content>
+    <link href="https://www.wsj.com/articles/in-flooded-kherson-ukrainian-rescuers-who-survived-occupation-forge-on-after-dam-burst-efd53172" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
