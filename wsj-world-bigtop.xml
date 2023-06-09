@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-09T01:10:00Z</updated>
+  <updated>2023-06-09T02:52:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Trump Indicted in Classified Documents Case</title>
-    <updated>2023-06-09T00:33:00Z</updated>
+    <updated>2023-06-09T01:39:00Z</updated>
     <id>tag:www.wsj.com,2023-06-09:/articles/donald-trump-indicted-in-document-case-b4e563d7</id>
     <content type="html">The former president said he has been summoned to the federal courthouse in Miami over his handling of government documents at Mar-a-Lago.</content>
     <link href="https://www.wsj.com/articles/donald-trump-indicted-in-document-case-b4e563d7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>A Timeline of Mar-a-Lago Probe, Trump Indictment</title>
+    <updated>2023-06-09T01:06:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/how-jack-smiths-mar-a-lago-probe-led-to-trumps-indictment-74ed9bfd</id>
+    <content type="html">A timeline of the handling of classified documents and the events leading to the former president being charged.</content>
+    <link href="https://www.wsj.com/articles/how-jack-smiths-mar-a-lago-probe-led-to-trumps-indictment-74ed9bfd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
