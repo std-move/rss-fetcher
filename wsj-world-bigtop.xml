@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-09T10:12:02Z</updated>
+  <updated>2023-06-09T11:09:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Court Papers Open Rare Window Into Role of Graft in China&#39;s Overseas Lending</title>
-    <updated>2023-06-09T07:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-09:/articles/court-papers-open-rare-window-into-role-of-graft-in-chinas-overseas-lending-69f7ab81</id>
-    <content type="html">A former state bank executive collected millions in kickbacks as he helped pioneer Beijing’s resource-for-infrastructure investment model in the Global South.</content>
-    <link href="https://www.wsj.com/articles/court-papers-open-rare-window-into-role-of-graft-in-chinas-overseas-lending-69f7ab81" rel="alternate"></link>
+    <title>Smoke From Canada Wildfires to Move South, Ease in Northeast</title>
+    <updated>2023-06-09T10:53:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/smoke-from-canada-wildfires-to-move-south-ease-in-northeast-d989976f</id>
+    <content type="html">The changing picture will bring relief to millions who have been choked this week by thick smoke and hazy skies. The smoke is expected to move south, but conditions will be much less severe.</content>
+    <link href="https://www.wsj.com/articles/smoke-from-canada-wildfires-to-move-south-ease-in-northeast-d989976f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Trump Indicted in Classified Documents Case</title>
-    <updated>2023-06-09T05:42:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-09:/articles/donald-trump-indicted-in-document-case-b4e563d7</id>
-    <content type="html">The former president said he has been summoned to the federal courthouse in Miami over his handling of government documents at Mar-a-Lago.</content>
-    <link href="https://www.wsj.com/articles/donald-trump-indicted-in-document-case-b4e563d7" rel="alternate"></link>
+    <title>Ukraine Probes for Russian Weak Points After Kicking Off Counteroffensive</title>
+    <updated>2023-06-09T10:50:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/ukraine-probes-russian-defenses-for-weak-points-after-kicking-off-counteroffensive-26296960</id>
+    <content type="html">The attacks came as Kyiv released information suggesting that Russian saboteurs ere responsible for the destruction of a dam in southern Ukraine.</content>
+    <link href="https://www.wsj.com/articles/ukraine-probes-russian-defenses-for-weak-points-after-kicking-off-counteroffensive-26296960" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
