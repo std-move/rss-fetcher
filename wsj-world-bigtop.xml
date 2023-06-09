@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-09T17:10:15Z</updated>
+  <updated>2023-06-09T18:13:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Probes for Russian Weak Points After Kicking Off Counteroffensive</title>
-    <updated>2023-06-09T16:31:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-09:/articles/ukraine-probes-russian-defenses-for-weak-points-after-kicking-off-counteroffensive-26296960</id>
-    <content type="html">Zelensky says forces making progress in ‘very tough battles,’ but Putin says Kyiv’s efforts ‘so far have failed.’</content>
-    <link href="https://www.wsj.com/articles/ukraine-probes-russian-defenses-for-weak-points-after-kicking-off-counteroffensive-26296960" rel="alternate"></link>
+    <title>New York Emerges From the Haze as Canadian Wildfire Smoke Moves South</title>
+    <updated>2023-06-09T17:38:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/smoke-from-canada-wildfires-to-move-south-ease-in-northeast-d989976f</id>
+    <content type="html">The changing picture will bring relief to millions who have been choked this week by thick smoke and hazy skies. The smoke is expected to move south, but conditions will be much less severe.</content>
+    <link href="https://www.wsj.com/articles/smoke-from-canada-wildfires-to-move-south-ease-in-northeast-d989976f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Ukraine&#39;s Counteroffensive in Maps and Charts</title>
-    <updated>2023-06-09T16:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-09:/articles/ukraine-russia-war-offensive-maps-c718da1a</id>
-    <content type="html">Expected monthslong effort to oust Russia from the 20% of Ukrainian territory it occupies is under way.</content>
-    <link href="https://www.wsj.com/articles/ukraine-russia-war-offensive-maps-c718da1a" rel="alternate"></link>
+    <title>Ukraine Probes for Russian Weak Points After Kicking Off Counteroffensive</title>
+    <updated>2023-06-09T17:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-09:/articles/ukraine-probes-russian-defenses-for-weak-points-after-kicking-off-counteroffensive-26296960</id>
+    <content type="html">Ukrainian forces have begun deploying Western armored vehicles and units trained by the West into combat for the first time, marking the start of a counteroffensive against occupying Russian forces.</content>
+    <link href="https://www.wsj.com/articles/ukraine-probes-russian-defenses-for-weak-points-after-kicking-off-counteroffensive-26296960" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
