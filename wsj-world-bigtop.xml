@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-10T14:08:54Z</updated>
+  <updated>2023-06-10T15:10:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Chicago Business Group Backs Big Push Into Violence Prevention</title>
-    <updated>2023-06-10T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-10:/articles/chicago-business-group-backs-big-push-into-violence-prevention-76276463</id>
-    <content type="html">Pledging to help cut homicides in half, the influential Civic Committee has offered support for the new mayor’s focus on tackling the root causes of crime.</content>
-    <link href="https://www.wsj.com/articles/chicago-business-group-backs-big-push-into-violence-prevention-76276463" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Ukraine Achieves Mixed Success in Counteroffensive&#39;s Early Battles, Says U.K.</title>
-    <updated>2023-06-10T11:09:00Z</updated>
+    <updated>2023-06-10T14:23:00Z</updated>
     <id>tag:www.wsj.com,2023-06-10:/articles/ukraine-achieves-mixed-success-in-counteroffensives-early-battles-says-u-k-e0b40334</id>
     <content type="html">Kyiv’s forces have managed to break through some Russian defensive lines but are struggling on other fronts.</content>
     <link href="https://www.wsj.com/articles/ukraine-achieves-mixed-success-in-counteroffensives-early-battles-says-u-k-e0b40334" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>After India&#39;s Train Crash, a Couple Frantically Searches for Their Son</title>
-    <updated>2023-06-10T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-10:/articles/racing-to-find-their-son-after-indias-train-crash-couple-faces-decomposing-bodies-competing-claims-d7579892</id>
-    <content type="html">A three-day hunt through hospitals, morgues and competing claims for bodies shows the immense human toll of one of the country’s worst rail accidents.</content>
-    <link href="https://www.wsj.com/articles/racing-to-find-their-son-after-indias-train-crash-couple-faces-decomposing-bodies-competing-claims-d7579892" rel="alternate"></link>
+    <title>Chicago Business Group Backs Big Push Into Violence Prevention</title>
+    <updated>2023-06-10T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-10:/articles/chicago-business-group-backs-big-push-into-violence-prevention-76276463</id>
+    <content type="html">Pledging to help cut homicides in half, the influential Civic Committee has offered support for the new mayor’s focus on tackling the root causes of crime.</content>
+    <link href="https://www.wsj.com/articles/chicago-business-group-backs-big-push-into-violence-prevention-76276463" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
