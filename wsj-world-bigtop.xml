@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-10T17:09:07Z</updated>
+  <updated>2023-06-10T18:12:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Achieves Mixed Success in Counteroffensive&#39;s Early Battles, Says U.K.</title>
-    <updated>2023-06-10T14:23:00Z</updated>
+    <title>Ukrainian Troops Face Hard Slog in Offensive&#39;s First Days</title>
+    <updated>2023-06-10T18:04:00Z</updated>
     <id>tag:www.wsj.com,2023-06-10:/articles/ukraine-achieves-mixed-success-in-counteroffensives-early-battles-says-u-k-e0b40334</id>
-    <content type="html">Kyiv’s forces have managed to break through some Russian defensive lines but are struggling on other fronts.</content>
+    <content type="html">Brigades with Western arms make small gains against Russia’s defensive lines in occupied regions.</content>
     <link href="https://www.wsj.com/articles/ukraine-achieves-mixed-success-in-counteroffensives-early-battles-says-u-k-e0b40334" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
