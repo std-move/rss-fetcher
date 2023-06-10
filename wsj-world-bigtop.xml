@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-10T11:08:20Z</updated>
+  <updated>2023-06-10T12:19:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Chicago Business Group Backs Big Push Into Violence Prevention</title>
+    <updated>2023-06-10T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-10:/articles/chicago-business-group-backs-big-push-into-violence-prevention-76276463</id>
+    <content type="html">Pledging to help cut homicides in half, the influential Civic Committee has offered support for the new mayor’s focus on tackling the root causes of crime.</content>
+    <link href="https://www.wsj.com/articles/chicago-business-group-backs-big-push-into-violence-prevention-76276463" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>After India&#39;s Train Crash, a Couple Frantically Searches for Their Son</title>
     <updated>2023-06-10T09:30:00Z</updated>
