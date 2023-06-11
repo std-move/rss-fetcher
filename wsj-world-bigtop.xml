@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-11T14:09:14Z</updated>
+  <updated>2023-06-11T15:10:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Counteroffensive Notches Small Gains After Costly Early Assaults</title>
+    <updated>2023-06-11T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-11:/articles/ukraine-counteroffensive-notches-small-gains-after-costly-early-assaults-288c7907</id>
+    <content type="html">Kyiv’s forces attacked multiple axes of the 600-mile front line as the onset of wet weather threatened to slow their advance.</content>
+    <link href="https://www.wsj.com/articles/ukraine-counteroffensive-notches-small-gains-after-costly-early-assaults-288c7907" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How the U.S. Patriot Missile Became a Hero of Ukraine War</title>
     <updated>2023-06-11T13:00:00Z</updated>
