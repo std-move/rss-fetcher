@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-11T16:12:58Z</updated>
+  <updated>2023-06-11T17:08:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine Counteroffensive Notches Small Gains After Costly Early Assaults</title>
-    <updated>2023-06-11T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-11:/articles/ukraine-counteroffensive-notches-small-gains-after-costly-early-assaults-288c7907</id>
-    <content type="html">Kyiv’s forces attacked multiple axes of the 600-mile front line as the onset of wet weather threatened to slow their advance.</content>
-    <link href="https://www.wsj.com/articles/ukraine-counteroffensive-notches-small-gains-after-costly-early-assaults-288c7907" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How the U.S. Patriot Missile Became a Hero of Ukraine War</title>
-    <updated>2023-06-11T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-11:/articles/u-s-patriot-missile-is-an-unsung-hero-of-ukraine-war-db6053a0</id>
-    <content type="html">The air-defense system is doing what it was designed for—40 years after it was brought into service.</content>
-    <link href="https://www.wsj.com/articles/u-s-patriot-missile-is-an-unsung-hero-of-ukraine-war-db6053a0" rel="alternate"></link>
+    <title>Ukraine&#39;s Counteroffensive in Maps and Charts</title>
+    <updated>2023-06-11T16:53:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-11:/articles/ukraine-russia-war-offensive-maps-c718da1a</id>
+    <content type="html">Expected monthslong effort to oust Russia from the 20% of Ukrainian territory it occupies is under way.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-war-offensive-maps-c718da1a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
