@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-11T13:12:33Z</updated>
+  <updated>2023-06-11T14:09:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.S. Patriot Missile Is an Unsung Hero of Ukraine War</title>
+    <title>How the U.S. Patriot Missile Became a Hero of Ukraine War</title>
     <updated>2023-06-11T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-06-11:/articles/u-s-patriot-missile-is-an-unsung-hero-of-ukraine-war-db6053a0</id>
     <content type="html">The air-defense system is doing what it was designed for—40 years after it was brought into service.</content>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-06-11:/articles/tranq-xylazine-drug-addiction-recovery-acebae3c</id>
     <content type="html">Xylazine’s disfiguring power pushes doctors to devise new treatment plans.</content>
     <link href="https://www.wsj.com/articles/tranq-xylazine-drug-addiction-recovery-acebae3c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Bakhmut Collapsed Around Them, This Family Clung On</title>
-    <updated>2023-06-11T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-11:/articles/as-bakhmut-collapsed-around-them-this-family-clung-on-621e5ef2</id>
-    <content type="html">Roman Dmytriev refused to evacuate his family, including two teenage daughters, even as Russia squeezed Ukrainian soldiers out.</content>
-    <link href="https://www.wsj.com/articles/as-bakhmut-collapsed-around-them-this-family-clung-on-621e5ef2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
