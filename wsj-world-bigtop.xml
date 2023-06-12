@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-12T11:10:02Z</updated>
+  <updated>2023-06-12T12:21:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Offensive Relies on Army Gear That Doesn&#39;t Shoot</title>
-    <updated>2023-06-12T09:33:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-12:/articles/ukraines-offensive-relies-on-army-gear-that-doesnt-shoot-64372f36</id>
-    <content type="html">In Kyiv’s push against entrenched Russian forces, some of its most vital military gear is a collection of vehicles that keeps weaponry operating and helps troops advance.</content>
-    <link href="https://www.wsj.com/articles/ukraines-offensive-relies-on-army-gear-that-doesnt-shoot-64372f36" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Silvio Berlusconi, Italian Media Magnate and Ex-Premier, Dies</title>
-    <updated>2023-06-12T08:57:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-12:/articles/silvio-berlusconi-media-magnate-who-dominated-italian-politics-for-years-dies-at-86-98c096be</id>
-    <content type="html">The three-time premier was a divisive figure who conditioned Italian politics and embodied its conservative movement during and after his tenure.</content>
-    <link href="https://www.wsj.com/articles/silvio-berlusconi-media-magnate-who-dominated-italian-politics-for-years-dies-at-86-98c096be" rel="alternate"></link>
+    <title>Ukraine Strikes Russian Logistics, Recaptures Village</title>
+    <updated>2023-06-12T11:49:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-12:/articles/ukraine-strikes-russian-logistics-recaptures-village-7ea8ca19</id>
+    <content type="html">Kyiv’s forces conducted several attacks deep in the occupied south as officials said they had recaptured another village in the east, showcasing Ukraine’s strategy of probing Russia’s front lines for weaknesses while seeking to choke supplies to the troops manning them.</content>
+    <link href="https://www.wsj.com/articles/ukraine-strikes-russian-logistics-recaptures-village-7ea8ca19" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
