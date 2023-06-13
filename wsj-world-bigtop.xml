@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-13T12:22:41Z</updated>
+  <updated>2023-06-13T13:14:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-06-13:/articles/canadian-fires-signal-new-frontier-in-climate-change-a57788b2</id>
     <content type="html">Scientists and residents see changes in the ecosystem of forests that make the regions ripe for conflagration.</content>
     <link href="https://www.wsj.com/articles/canadian-fires-signal-new-frontier-in-climate-change-a57788b2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#39;Just the Beginning:&#39; Hardened Ukrainian Units Go on Attack in Country&#39;s East</title>
-    <updated>2023-06-13T11:12:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-13:/articles/just-the-beginning-hardened-ukrainian-units-go-on-attack-in-countrys-east-b37e6a8c</id>
-    <content type="html">Early battles in Kyiv’s long-awaited counteroffensive are bringing arduous gains, while Russian soldiers taken prisoner are describing low morale amid Moscow’s forces.</content>
-    <link href="https://www.wsj.com/articles/just-the-beginning-hardened-ukrainian-units-go-on-attack-in-countrys-east-b37e6a8c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
