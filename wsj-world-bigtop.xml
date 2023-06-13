@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-13T14:10:30Z</updated>
+  <updated>2023-06-13T15:11:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-06-13:/articles/west-virginia-jail-deaths-under-investigation-12f86777</id>
     <content type="html">Former officers report understaffing, overcrowded cells and broken locks. State lawmakers have acknowledged a corrections staffing and maintenance crisis.</content>
     <link href="https://www.wsj.com/articles/west-virginia-jail-deaths-under-investigation-12f86777" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Colombian Children Survived on Fruit, Nuts and Wits After Crash in Amazon Jungle</title>
-    <updated>2023-06-13T13:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-13:/articles/colombian-children-survived-on-fruit-nuts-and-wits-in-amazon-jungle-b462a3ef</id>
-    <content type="html">After escaping the wreckage of a plane crash that killed their mother, four children wandered for a month, suffering from malnourishment and dehydration before being found.</content>
-    <link href="https://www.wsj.com/articles/colombian-children-survived-on-fruit-nuts-and-wits-in-amazon-jungle-b462a3ef" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
