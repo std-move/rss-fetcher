@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-13T18:13:54Z</updated>
+  <updated>2023-06-13T19:08:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Trump&#39;s Federal Court Appearance Attracts Supporters, Protesters…and a Pig&#39;s Head</title>
+    <updated>2023-06-13T19:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-13:/articles/trumps-federal-court-appearance-attracts-supporters-protestersand-a-pigs-head-7a08b782</id>
+    <content type="html">In hot and sticky Miami, the arraignment of the former president drew throngs of Trump detractors and backers to the federal courthouse.</content>
+    <link href="https://www.wsj.com/articles/trumps-federal-court-appearance-attracts-supporters-protestersand-a-pigs-head-7a08b782" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
