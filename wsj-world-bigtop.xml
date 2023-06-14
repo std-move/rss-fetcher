@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-14T11:09:00Z</updated>
+  <updated>2023-06-14T12:22:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-06-14:/articles/russian-strikes-kill-six-in-ukraine-as-moscow-looks-to-undermine-kyivs-counteroffensive-177b0c2d</id>
     <content type="html">Moscow unleashed a barrage of missiles and drones in southern and eastern Ukraine overnight. Ukraine said it had shot down the majority of them as fighting intensified along parts of the front line.</content>
     <link href="https://www.wsj.com/articles/russian-strikes-kill-six-in-ukraine-as-moscow-looks-to-undermine-kyivs-counteroffensive-177b0c2d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Russian Soldier Who Surrendered to a Ukrainian Drone</title>
-    <updated>2023-06-14T10:08:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-14:/articles/russia-soldier-surrender-ukraine-drone-3860ab6a</id>
-    <content type="html">Trying to survive bombardment in the trenches, draftee Ruslan Anitin pleaded with a drone to spare his life</content>
-    <link href="https://www.wsj.com/articles/russia-soldier-surrender-ukraine-drone-3860ab6a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
