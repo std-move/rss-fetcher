@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-14T14:10:21Z</updated>
+  <updated>2023-06-14T15:10:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Reparations for Black Californians Face Uphill Climb in State Legislature</title>
+    <title>Reparations for Black Californians Face Uphill Climb in Legislature</title>
     <updated>2023-06-14T14:00:00Z</updated>
     <id>tag:www.wsj.com,2023-06-14:/articles/reparations-for-black-californians-face-uphill-climb-in-state-legislature-85444c17</id>
     <content type="html">Monetary compensation is expected to be particularly controversial as task-force economists peg the impact of slavery and discrimination at more than $800 billion.</content>
