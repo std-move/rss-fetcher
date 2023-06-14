@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-14T13:14:02Z</updated>
+  <updated>2023-06-14T14:10:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Reparations for Black Californians Face Uphill Climb in State Legislature</title>
+    <updated>2023-06-14T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-14:/articles/reparations-for-black-californians-face-uphill-climb-in-state-legislature-85444c17</id>
+    <content type="html">Monetary compensation is expected to be particularly controversial as task-force economists peg the impact of slavery and discrimination at more than $800 billion.</content>
+    <link href="https://www.wsj.com/articles/reparations-for-black-californians-face-uphill-climb-in-state-legislature-85444c17" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Berlusconi Given State Funeral as Parties Seek to Woo His Supporters</title>
+    <updated>2023-06-14T13:36:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-14:/articles/berlusconi-given-state-funeral-as-italian-parties-seek-to-woo-his-supporters-4a297f8d</id>
+    <content type="html">Italy said goodbye to its flamboyant former prime minister as the country debated his legacy and questions hung over the future of his business empire and political party.</content>
+    <link href="https://www.wsj.com/articles/berlusconi-given-state-funeral-as-italian-parties-seek-to-woo-his-supporters-4a297f8d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russian Strikes Kill Six in Ukraine as Moscow Looks to Undermine Kyiv&#39;s Counteroffensive</title>
+    <updated>2023-06-14T13:28:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-14:/articles/russian-strikes-kill-six-in-ukraine-as-moscow-looks-to-undermine-kyivs-counteroffensive-177b0c2d</id>
+    <content type="html">Moscow unleashed a barrage of missiles and drones in southern and eastern Ukraine overnight. Ukraine said it had shot down the majority of them as fighting intensified along parts of the front line.</content>
+    <link href="https://www.wsj.com/articles/russian-strikes-kill-six-in-ukraine-as-moscow-looks-to-undermine-kyivs-counteroffensive-177b0c2d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
