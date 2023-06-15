@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-15T09:11:25Z</updated>
+  <updated>2023-06-15T10:12:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Migrants&#39; Perilous Route to Europe Is at Its Busiest---and Deadliest---in Years</title>
+    <updated>2023-06-15T10:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-15:/articles/migrants-perilous-route-to-europe-is-at-its-busiestand-deadliestin-years-260dd49b</id>
+    <content type="html">The number of people taking the perilous voyage across the Mediterranean Sea to Europe has surged to a six-year high.</content>
+    <link href="https://www.wsj.com/articles/migrants-perilous-route-to-europe-is-at-its-busiestand-deadliestin-years-260dd49b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>When AI Overrules the Nurses Caring for You</title>
+    <updated>2023-06-15T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-15:/articles/ai-medical-diagnosis-nurses-f881b0fe</id>
+    <content type="html">Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?</content>
+    <link href="https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
