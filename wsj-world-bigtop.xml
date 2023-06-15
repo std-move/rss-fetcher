@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-15T12:22:38Z</updated>
+  <updated>2023-06-15T13:15:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine&#39;s Offensive Meets Strong Russian Riposte</title>
-    <updated>2023-06-15T11:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-15:/articles/ukraines-offensive-meets-strong-russian-riposte-4d588bdf</id>
-    <content type="html">Fierce battles have ensued in the south and east of the country as Russian forces push back against Kyiv’s counteroffensive, a top Ukrainian official said.</content>
-    <link href="https://www.wsj.com/articles/ukraines-offensive-meets-strong-russian-riposte-4d588bdf" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Postal Service&#39;s Search For Savings Brings Riskier Drivers</title>
-    <updated>2023-06-15T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-15:/articles/u-s-postal-services-search-for-savings-brings-riskier-drivers-33d5bf6c</id>
-    <content type="html">The agency’s new strategy of using freight brokers to cut its rates for long-haul trucking raises questions about highway safety.</content>
-    <link href="https://www.wsj.com/articles/u-s-postal-services-search-for-savings-brings-riskier-drivers-33d5bf6c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
