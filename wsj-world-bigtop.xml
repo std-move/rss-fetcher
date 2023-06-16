@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-16T13:13:58Z</updated>
+  <updated>2023-06-16T14:10:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China&#39;s Stimulus Pivot Is Prompted by Fears Slowing Growth Could Worsen</title>
-    <updated>2023-06-16T11:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-16:/articles/chinas-stimulus-pivot-is-prompted-by-fears-slowing-growth-could-worsen-5d35d34</id>
-    <content type="html">Chinese officials abruptly committed to do more to stimulate growth following an increasingly bleak picture of an economy losing steam.</content>
-    <link href="https://www.wsj.com/articles/chinas-stimulus-pivot-is-prompted-by-fears-slowing-growth-could-worsen-5d35d34" rel="alternate"></link>
+    <title>Two Children From a Donor Father Build a New Family</title>
+    <updated>2023-06-16T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-16:/articles/anonymous-sperm-donation-dna-tests-new-family-7127fca0</id>
+    <content type="html">DNA tests are uncovering a generation of biological fathers and half-siblings who stretch the bounds of what makes kin.</content>
+    <link href="https://www.wsj.com/articles/anonymous-sperm-donation-dna-tests-new-family-7127fca0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
