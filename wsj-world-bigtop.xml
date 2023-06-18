@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-18T11:08:42Z</updated>
+  <updated>2023-06-18T12:20:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine Hits Russian Ammunition Depot Deep in Occupied Territory</title>
+    <updated>2023-06-18T12:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-18:/articles/ukraine-hits-russian-ammunition-depot-deep-in-occupied-territory-fd4f9ed0</id>
+    <content type="html">Kyiv has stepped up strikes against infrastructure in Russian-held areas after receiving long-range missiles from the U.K.</content>
+    <link href="https://www.wsj.com/articles/ukraine-hits-russian-ammunition-depot-deep-in-occupied-territory-fd4f9ed0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ozempic Might Help You Drink and Smoke Less</title>
     <updated>2023-06-18T09:30:00Z</updated>
