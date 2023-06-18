@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-18T13:12:16Z</updated>
+  <updated>2023-06-18T14:09:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Firefighters Boost Use of Prescribed Burns in Bid to Prevent Massive Wildfires</title>
+    <updated>2023-06-18T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-18:/articles/firefighters-boost-use-of-prescribed-burns-in-bid-to-prevent-massive-wildfires-1ea27c52</id>
+    <content type="html">Officials in the U.S. West take advantage of wet conditions to set controlled fires in hopes of reducing the risk of destructive blazes.</content>
+    <link href="https://www.wsj.com/articles/firefighters-boost-use-of-prescribed-burns-in-bid-to-prevent-massive-wildfires-1ea27c52" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Hits Russian Ammunition Depot Deep in Occupied Territory</title>
     <updated>2023-06-18T12:16:00Z</updated>
