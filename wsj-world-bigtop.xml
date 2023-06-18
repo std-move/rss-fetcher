@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-18T12:20:13Z</updated>
+  <updated>2023-06-18T13:12:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2023-06-18:/articles/russias-grim-fashion-colony-americans-describe-harsh-life-in-remote-labor-camp-9324bb80</id>
     <content type="html">Inmates of IK-17 in Russia’s Mordovia region struggle with hazardous work and meager medical care. It could be the next destination for jailed Wall Street Journal reporter Evan Gershkovich.</content>
     <link href="https://www.wsj.com/articles/russias-grim-fashion-colony-americans-describe-harsh-life-in-remote-labor-camp-9324bb80" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Suspected Islamic State Allies Kill at Least 37 High-School Students in Uganda</title>
-    <updated>2023-06-17T22:57:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-17:/articles/suspected-islamic-state-allies-kill-at-least-37-high-school-students-in-uganda-1ec05881</id>
-    <content type="html">Three adults were also killed as gunmen attacked a private boarding school near the East African country’s border with eastern Congo.</content>
-    <link href="https://www.wsj.com/articles/suspected-islamic-state-allies-kill-at-least-37-high-school-students-in-uganda-1ec05881" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
