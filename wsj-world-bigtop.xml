@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-18T02:49:55Z</updated>
+  <updated>2023-06-18T03:15:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-06-17:/articles/suspected-islamic-state-allies-kill-at-least-37-high-school-students-in-uganda-1ec05881</id>
     <content type="html">Three adults were also killed as gunmen attacked a private boarding school near the East African country’s border with eastern Congo.</content>
     <link href="https://www.wsj.com/articles/suspected-islamic-state-allies-kill-at-least-37-high-school-students-in-uganda-1ec05881" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Runs Into Russian Air Superiority</title>
-    <updated>2023-06-17T12:49:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-17:/articles/ukraine-runs-into-russian-air-superiority-82c621c</id>
-    <content type="html">Kyiv said its forces were advancing on several axes in their counteroffensive but were struggling to counter Russian air power and artillery hobbling its assaults in the east and south.</content>
-    <link href="https://www.wsj.com/articles/ukraine-runs-into-russian-air-superiority-82c621c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
