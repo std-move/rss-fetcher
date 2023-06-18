@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-17T23:10:49Z</updated>
+  <updated>2023-06-18T01:13:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>Ukraine Runs Into Russian Air Superiority</title>
     <updated>2023-06-17T12:49:00Z</updated>
     <id>tag:www.wsj.com,2023-06-17:/articles/ukraine-runs-into-russian-air-superiority-82c621c</id>
-    <content type="html">Kyiv said its forces were advancing on several axes in their counteroffensive but were struggling to counter Russian airpower and artillery hobbling its assaults in the east and south.</content>
+    <content type="html">Kyiv said its forces were advancing on several axes in their counteroffensive but were struggling to counter Russian air power and artillery hobbling its assaults in the east and south.</content>
     <link href="https://www.wsj.com/articles/ukraine-runs-into-russian-air-superiority-82c621c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
