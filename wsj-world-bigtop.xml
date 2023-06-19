@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-19T17:09:57Z</updated>
+  <updated>2023-06-19T18:13:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>What Is Juneteenth? And How Did It Become a Federal Holiday?</title>
+    <updated>2023-06-19T17:52:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-19:/articles/juneteenth-holiday-history-celebration-c51f1a2a</id>
+    <content type="html">The celebration commemorates the day when the last enslaved African-Americans were informed they were free.</content>
+    <link href="https://www.wsj.com/articles/juneteenth-holiday-history-celebration-c51f1a2a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.N. Says Russia Blocking Aid to Flooded Areas in Ukraine</title>
     <updated>2023-06-19T13:53:00Z</updated>
