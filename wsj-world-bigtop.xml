@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-19T02:39:14Z</updated>
+  <updated>2023-06-19T03:11:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Homeless Numbers Rise in U.S. Cities</title>
+    <updated>2023-06-19T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-19:/articles/homeless-numbers-rise-in-u-s-cities-fd59bc7b</id>
+    <content type="html">A Wall Street Journal review of data from around the nation finds sharper increases than in recent years as pandemic-era protections end and housing costs climb.</content>
+    <link href="https://www.wsj.com/articles/homeless-numbers-rise-in-u-s-cities-fd59bc7b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
