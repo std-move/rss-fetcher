@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-19T05:11:12Z</updated>
+  <updated>2023-06-19T06:15:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Offensive Is a Battle of Readiness</title>
+    <updated>2023-06-19T06:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-19:/articles/ukraines-offensive-is-a-battle-of-readiness-e26d3825</id>
+    <content type="html">The coming battles with Russian troops ultimately will boil down to which side has better prepared and strengthened over recent months.</content>
+    <link href="https://www.wsj.com/articles/ukraines-offensive-is-a-battle-of-readiness-e26d3825" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Homeless Numbers Rise in U.S. Cities</title>
     <updated>2023-06-19T04:00:00Z</updated>
