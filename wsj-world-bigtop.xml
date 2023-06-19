@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-19T11:09:48Z</updated>
+  <updated>2023-06-19T12:23:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.N. Says Russia Is Blocking Aid to Flooded Areas in Ukraine</title>
-    <updated>2023-06-19T09:55:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-19:/articles/u-n-says-russia-is-blocking-aid-to-flooded-areas-in-ukraine-e3b5a682</id>
-    <content type="html">Kyiv’s forces took control of another village along the southern front line, the first new territory they have claimed in a week, following a pause to their counteroffensive.</content>
-    <link href="https://www.wsj.com/articles/u-n-says-russia-is-blocking-aid-to-flooded-areas-in-ukraine-e3b5a682" rel="alternate"></link>
+    <title>How We Told the Story of One Russian&#39;s Surrender to a Ukrainian Drone</title>
+    <updated>2023-06-19T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-19:/articles/how-we-told-the-story-of-one-russians-surrender-to-a-ukrainian-drone-3a1a009e</id>
+    <content type="html">Aerial footage captured Ruslan Anitin’s bid for survival in its entirety, but it still left questions unanswered. So a WSJ team spent 10 days tracking him down.</content>
+    <link href="https://www.wsj.com/articles/how-we-told-the-story-of-one-russians-surrender-to-a-ukrainian-drone-3a1a009e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>What Is Juneteenth? And How Did It Become a Federal Holiday?</title>
-    <updated>2023-06-19T09:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-19:/articles/juneteenth-holiday-history-celebration-c51f1a2a</id>
-    <content type="html">The celebration commemorates the day when the last enslaved African-Americans were informed they were free.</content>
-    <link href="https://www.wsj.com/articles/juneteenth-holiday-history-celebration-c51f1a2a" rel="alternate"></link>
+    <title>Flooding Hits American Towns Far From Oceans and Big Rivers</title>
+    <updated>2023-06-19T11:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-19:/articles/flooding-inland-climate-change-kentucky-3ed2c7fb</id>
+    <content type="html">Unprecedented storms in Kentucky illustrate a growing and often overlooked threat: severe flooding across the inland U.S.</content>
+    <link href="https://www.wsj.com/articles/flooding-inland-climate-change-kentucky-3ed2c7fb" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
