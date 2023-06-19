@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-19T18:13:48Z</updated>
+  <updated>2023-06-19T19:08:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Uganda School Massacre Signals Islamic State&#39;s Growing Reach in Africa</title>
+    <updated>2023-06-19T18:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-19:/articles/uganda-school-massacre-signals-islamic-states-growing-reach-in-africa-a955cf19</id>
+    <content type="html">Uganda’s worst terrorist attack in more than a decade is a grisly marker of how far militants of the Allied Democratic Forces have expanded the territory in which they operate.</content>
+    <link href="https://www.wsj.com/articles/uganda-school-massacre-signals-islamic-states-growing-reach-in-africa-a955cf19" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>What Is Juneteenth? And How Did It Become a Federal Holiday?</title>
     <updated>2023-06-19T17:52:00Z</updated>
     <id>tag:www.wsj.com,2023-06-19:/articles/juneteenth-holiday-history-celebration-c51f1a2a</id>
     <content type="html">The celebration commemorates the day when the last enslaved African-Americans were informed they were free.</content>
     <link href="https://www.wsj.com/articles/juneteenth-holiday-history-celebration-c51f1a2a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.N. Says Russia Blocking Aid to Flooded Areas in Ukraine</title>
-    <updated>2023-06-19T13:53:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-19:/articles/u-n-says-russia-is-blocking-aid-to-flooded-areas-in-ukraine-e3b5a682</id>
-    <content type="html">Kyiv’s forces took control of another village along the southern front line, the first new territory they have claimed in a week, following a pause to their counteroffensive.</content>
-    <link href="https://www.wsj.com/articles/u-n-says-russia-is-blocking-aid-to-flooded-areas-in-ukraine-e3b5a682" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
