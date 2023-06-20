@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-20T03:11:54Z</updated>
+  <updated>2023-06-20T04:13:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>India&#39;s Modi Says Trust With U.S. Is Unprecedented</title>
-    <updated>2023-06-20T03:00:00Z</updated>
+    <updated>2023-06-20T04:04:00Z</updated>
     <id>tag:www.wsj.com,2023-06-20:/articles/indias-modi-sees-unprecedented-trust-with-u-s-touts-new-delhis-leadership-role-35e151b4</id>
-    <content type="html">Prime Minister Narendra Modi spoke before a visit to Washington about his country’s foreign policy and its efforts to build a more modern and sustainable economy.</content>
+    <content type="html">In a WSJ interview before an official visit to Washington, Prime Minister Narendra Modi called for an overhaul of global institutions.</content>
     <link href="https://www.wsj.com/articles/indias-modi-sees-unprecedented-trust-with-u-s-touts-new-delhis-leadership-role-35e151b4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
