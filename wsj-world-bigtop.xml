@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-19T23:11:03Z</updated>
+  <updated>2023-06-20T01:03:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-06-19:/articles/uganda-school-massacre-signals-islamic-states-growing-reach-in-africa-a955cf19</id>
     <content type="html">Uganda’s worst terrorist attack in more than a decade is a grisly marker of how far militants of the Allied Democratic Forces have expanded the territory in which they operate.</content>
     <link href="https://www.wsj.com/articles/uganda-school-massacre-signals-islamic-states-growing-reach-in-africa-a955cf19" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What Is Juneteenth? And How Did It Become a Federal Holiday?</title>
-    <updated>2023-06-19T17:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-19:/articles/juneteenth-holiday-history-celebration-c51f1a2a</id>
-    <content type="html">The celebration commemorates the day when the last enslaved African-Americans were informed they were free.</content>
-    <link href="https://www.wsj.com/articles/juneteenth-holiday-history-celebration-c51f1a2a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
