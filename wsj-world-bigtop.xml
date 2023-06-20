@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-20T13:14:16Z</updated>
+  <updated>2023-06-20T14:09:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>NATO&#39;s Largest-Ever Aerial Wargame Has Russia, China in Mind</title>
-    <updated>2023-06-20T12:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-20:/articles/natos-largest-ever-aerial-wargame-has-russia-china-in-mind-9d24a27a</id>
-    <content type="html">The German-led exercise simulates mass deployment in skies across Europe in response to an attack.</content>
-    <link href="https://www.wsj.com/articles/natos-largest-ever-aerial-wargame-has-russia-china-in-mind-9d24a27a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How the Worst Drought in a Century Is Changing the Panama Canal</title>
-    <updated>2023-06-20T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-20:/articles/how-the-worst-drought-in-a-century-is-changing-the-panama-canal-50e58f13</id>
-    <content type="html">An extended lack of rainfall could saddle global supply chains with delays and higher fees to move cargo. </content>
-    <link href="https://www.wsj.com/articles/how-the-worst-drought-in-a-century-is-changing-the-panama-canal-50e58f13" rel="alternate"></link>
+    <title>Russia Strikes Ukrainian Cities With Drones as Fighting Rages in the South</title>
+    <updated>2023-06-20T13:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-20:/articles/russia-strikes-ukrainian-cities-with-drones-as-fighting-rages-in-the-south-fe368ace</id>
+    <content type="html">Moscow has increased its missile and drone attacks on Ukrainian cities in part to prevent Kyiv from deploying more of its scarce air-defense systems to the front line in the south.</content>
+    <link href="https://www.wsj.com/articles/russia-strikes-ukrainian-cities-with-drones-as-fighting-rages-in-the-south-fe368ace" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
