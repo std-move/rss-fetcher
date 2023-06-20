@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-20T17:09:59Z</updated>
+  <updated>2023-06-20T18:12:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How the Panama Canal Is Adapting to the Worst Drought in a Century</title>
+    <updated>2023-06-20T17:07:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-20:/articles/how-the-worst-drought-in-a-century-is-changing-the-panama-canal-50e58f13</id>
+    <content type="html">Ships are reducing container loads to avoid running aground amid lowest rainfall since waterway opened in 1914.</content>
+    <link href="https://www.wsj.com/articles/how-the-worst-drought-in-a-century-is-changing-the-panama-canal-50e58f13" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Strikes Ukrainian Cities With Drones as Fighting Rages in the South</title>
     <updated>2023-06-20T16:45:00Z</updated>
