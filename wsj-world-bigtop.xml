@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-20T16:13:59Z</updated>
+  <updated>2023-06-20T17:09:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Strikes Ukrainian Cities With Drones as Fighting Rages in the South</title>
+    <updated>2023-06-20T16:45:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-20:/articles/russia-strikes-ukrainian-cities-with-drones-as-fighting-rages-in-the-south-fe368ace</id>
+    <content type="html">Moscow has increased its missile and drone attacks on Ukrainian cities in part to prevent Kyiv from deploying more of its scarce air-defense systems to the front line in the south.</content>
+    <link href="https://www.wsj.com/articles/russia-strikes-ukrainian-cities-with-drones-as-fighting-rages-in-the-south-fe368ace" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
