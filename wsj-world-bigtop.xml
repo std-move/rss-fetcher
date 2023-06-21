@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-21T14:10:58Z</updated>
+  <updated>2023-06-21T15:11:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Prior Submersible Passengers Recount Thrilling Experience: &#39;Pretty Extreme&#39;</title>
+    <updated>2023-06-21T14:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-21:/articles/prior-submersible-passengers-recount-thrilling-experience-pretty-extreme-924e2d8b</id>
+    <content type="html">A waiver all passengers must sign mentions death three times on the first page, travelers say.</content>
+    <link href="https://www.wsj.com/articles/prior-submersible-passengers-recount-thrilling-experience-pretty-extreme-924e2d8b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Modi&#39;s Vision For India Rests On Six Giant Companies</title>
+    <updated>2023-06-21T14:29:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-21:/articles/modi-india-economy-reliance-industries-adani-group-tata-d2c4f89e</id>
+    <content type="html">Conglomerates are executing projects with a scale and speed that have eluded India in the past.</content>
+    <link href="https://www.wsj.com/articles/modi-india-economy-reliance-industries-adani-group-tata-d2c4f89e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Noises Detected in Hunt for Missing Titanic Submersible</title>
     <updated>2023-06-21T13:57:00Z</updated>
