@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-21T17:10:02Z</updated>
+  <updated>2023-06-21T18:13:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Prior Submersible Passengers Recount Thrilling Experience: &#39;Pretty Extreme&#39;</title>
-    <updated>2023-06-21T16:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-21:/articles/prior-submersible-passengers-recount-thrilling-experience-pretty-extreme-924e2d8b</id>
-    <content type="html">A waiver all passengers must sign mentions death three times on the first page, travelers say.</content>
-    <link href="https://www.wsj.com/articles/prior-submersible-passengers-recount-thrilling-experience-pretty-extreme-924e2d8b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
