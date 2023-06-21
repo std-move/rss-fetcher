@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-21T09:11:05Z</updated>
+  <updated>2023-06-21T10:11:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In Shattered Mariupol, Russia Uses a Theater to Legitimize Its Occupation</title>
+    <updated>2023-06-21T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-21:/articles/in-shattered-mariupol-russia-uses-a-theater-to-legitimize-its-occupation-7af6fb8</id>
+    <content type="html">Vladimir Putin’s Russia is using claims about Russian language and culture to justify its invasion.</content>
+    <link href="https://www.wsj.com/articles/in-shattered-mariupol-russia-uses-a-theater-to-legitimize-its-occupation-7af6fb8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
