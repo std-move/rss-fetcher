@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-21T11:09:17Z</updated>
+  <updated>2023-06-21T12:22:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Drone Attacks Thwarted in Moscow Region, Russia Says</title>
+    <updated>2023-06-21T11:09:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-21:/articles/drone-attacks-in-moscow-region-thwarted-russia-says-cde09ab0</id>
+    <content type="html">Three drones were brought down, Russia’s Ministry of Defense said, adding that there were no casualties or material damage.</content>
+    <link href="https://www.wsj.com/articles/drone-attacks-in-moscow-region-thwarted-russia-says-cde09ab0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Japan Decides &#39;Tourism Pollution&#39; Is Worth It as Money Floods In</title>
     <updated>2023-06-21T10:54:00Z</updated>
     <id>tag:www.wsj.com,2023-06-21:/articles/japan-decides-tourism-pollution-is-worth-it-as-money-floods-in-f12b4053</id>
-    <content type="html">After a pandemic timeout, the nation recommits to being top visitor destination.</content>
+    <content type="html">After a pandemic timeout, the nation has recommitted to being a top visitor destination.</content>
     <link href="https://www.wsj.com/articles/japan-decides-tourism-pollution-is-worth-it-as-money-floods-in-f12b4053" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-06-21:/articles/noises-detected-in-hunt-for-missing-titanic-submersible-81e45067</id>
     <content type="html">Despite the signs of hope from the tapping sounds, search experts sounded a note of pessimism over the likelihood of finding the crew alive, given the complications of locating the vessel and raising it.</content>
     <link href="https://www.wsj.com/articles/noises-detected-in-hunt-for-missing-titanic-submersible-81e45067" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Shattered Mariupol, Russia Uses a Theater to Legitimize Its Occupation</title>
-    <updated>2023-06-21T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-21:/articles/in-shattered-mariupol-russia-uses-a-theater-to-legitimize-its-occupation-7af6fb8</id>
-    <content type="html">Vladimir Putin’s Russia is using claims about the Russian language and culture to justify its invasion.</content>
-    <link href="https://www.wsj.com/articles/in-shattered-mariupol-russia-uses-a-theater-to-legitimize-its-occupation-7af6fb8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
