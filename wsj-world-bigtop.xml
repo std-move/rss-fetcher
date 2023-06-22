@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-22T19:10:27Z</updated>
+  <updated>2023-06-22T20:13:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Crews Searching for Missing Titanic Submersible Find Debris Field</title>
-    <updated>2023-06-22T18:57:00Z</updated>
+    <title>Submersible Passengers Are Presumed Dead</title>
+    <updated>2023-06-22T19:37:00Z</updated>
     <id>tag:www.wsj.com,2023-06-22:/articles/u-s-navy-sends-salvage-craft-as-clock-ticks-down-for-missing-titanic-submersible-f63c6efa</id>
-    <content type="html">One of the vehicles looking in the North Atlantic for a missing submersible with five people aboard discovered a debris field during its search, the U.S. Coast Guard said Thursday.</content>
+    <content type="html">Five people on the Titan submersible are presumed dead, OceanGate Expeditions says.</content>
     <link href="https://www.wsj.com/articles/u-s-navy-sends-salvage-craft-as-clock-ticks-down-for-missing-titanic-submersible-f63c6efa" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
