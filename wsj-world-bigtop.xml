@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-22T06:14:38Z</updated>
+  <updated>2023-06-22T07:10:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-06-22:/articles/japan-decides-tourism-pollution-is-worth-it-as-money-floods-in-f12b4053</id>
     <content type="html">After a pandemic timeout, the nation has recommitted to being a top visitor destination.</content>
     <link href="https://www.wsj.com/articles/japan-decides-tourism-pollution-is-worth-it-as-money-floods-in-f12b4053" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>America&#39;s Top Fast-Fashion Retailer Tries to Shed Its Chinese Image</title>
-    <updated>2023-06-22T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-22:/articles/americas-top-fast-fashion-retailer-tries-to-shed-its-chinese-image-7eebd4fe</id>
-    <content type="html">Fashion retailer Shein, trying to address concerns about its supply chain, says it doesn’t source cotton from Xinjiang—but its reporting lacks transparency.</content>
-    <link href="https://www.wsj.com/articles/americas-top-fast-fashion-retailer-tries-to-shed-its-chinese-image-7eebd4fe" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
