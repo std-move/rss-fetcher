@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-22T09:10:31Z</updated>
+  <updated>2023-06-22T10:11:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-06-22:/articles/ukraine-strikes-bridge-supplying-russian-troops-56564b0b</id>
     <content type="html">The attack threatens to undermine Moscow’s hold in the south of Ukraine as Kyiv presses an offensive to retake lost territory.</content>
     <link href="https://www.wsj.com/articles/ukraine-strikes-bridge-supplying-russian-troops-56564b0b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Japan Decides &#39;Tourism Pollution&#39; Is Worth It as Money Floods In</title>
-    <updated>2023-06-22T04:29:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-22:/articles/japan-decides-tourism-pollution-is-worth-it-as-money-floods-in-f12b4053</id>
-    <content type="html">After a pandemic timeout, the nation has recommitted to being a top visitor destination.</content>
-    <link href="https://www.wsj.com/articles/japan-decides-tourism-pollution-is-worth-it-as-money-floods-in-f12b4053" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
