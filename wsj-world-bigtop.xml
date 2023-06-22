@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-22T07:10:11Z</updated>
+  <updated>2023-06-22T08:13:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Navy Sends Salvage Craft for Missing Titanic Submersible</title>
+    <updated>2023-06-22T08:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-22:/articles/u-s-navy-sends-salvage-craft-as-clock-ticks-down-for-missing-titanic-submersible-f63c6efa</id>
+    <content type="html">The search focused on an area where banging noises were detected as the U.S. Coast Guard said emergency oxygen on the submersible could run out on Thursday morning.</content>
+    <link href="https://www.wsj.com/articles/u-s-navy-sends-salvage-craft-as-clock-ticks-down-for-missing-titanic-submersible-f63c6efa" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Strikes Bridge Supplying Russian Troops</title>
+    <updated>2023-06-22T07:44:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-22:/articles/ukraine-strikes-bridge-supplying-russian-troops-56564b0b</id>
+    <content type="html">The attack threatens to undermine Moscow’s hold in the south of Ukraine as Kyiv presses an offensive to retake lost territory.</content>
+    <link href="https://www.wsj.com/articles/ukraine-strikes-bridge-supplying-russian-troops-56564b0b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Japan Decides &#39;Tourism Pollution&#39; Is Worth It as Money Floods In</title>
     <updated>2023-06-22T04:29:00Z</updated>
