@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-23T08:16:07Z</updated>
+  <updated>2023-06-23T09:12:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Titanic Sub&#39;s Deadly Implosion Draws Investigation</title>
+    <updated>2023-06-23T08:49:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-23:/articles/titanic-subs-deadly-implosion-draws-investigation-d47398d3</id>
+    <content type="html">Officials were undertaking an international investigation into the submersible implosion that killed five adventurers on an expedition to the Titanic.</content>
+    <link href="https://www.wsj.com/articles/titanic-subs-deadly-implosion-draws-investigation-d47398d3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
