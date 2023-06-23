@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-23T19:10:04Z</updated>
+  <updated>2023-06-23T20:13:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Wagner Chief Accuses Russian Military Leaders of Lying About War</title>
-    <updated>2023-06-23T18:00:00Z</updated>
+    <title>Wagner Chief Says Russian Military Launched Strikes on His Camps</title>
+    <updated>2023-06-23T19:55:00Z</updated>
     <id>tag:www.wsj.com,2023-06-23:/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a</id>
-    <content type="html">Yevgeny Prigozhin’s comments represent the sharpest criticism by any Russian leader of the decision to attack Ukraine and the government’s execution of the war.</content>
+    <content type="html">Yevgeny Prigozhin accused Russia’s army of killing “an enormous amount” of his troops with missile strikes and vowed to retaliate. Moscow denied the claims.</content>
     <link href="https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
