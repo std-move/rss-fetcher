@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-22T23:13:35Z</updated>
+  <updated>2023-06-23T01:13:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>California Wine Could Get a Boost From a Bad Winter</title>
+    <updated>2023-06-23T01:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-23:/articles/california-wine-could-get-a-boost-from-a-bad-winter-ad25a56b</id>
+    <content type="html">The boon of a wet winter and cloudy spring came at the perfect time for the country’s largest wine-producing state.</content>
+    <link href="https://www.wsj.com/articles/california-wine-could-get-a-boost-from-a-bad-winter-ad25a56b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Submersible Passengers Died in Implosion</title>
-    <updated>2023-06-22T22:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-22:/articles/u-s-navy-sends-salvage-craft-as-clock-ticks-down-for-missing-titanic-submersible-f63c6efa</id>
+    <updated>2023-06-23T00:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-23:/articles/u-s-navy-sends-salvage-craft-as-clock-ticks-down-for-missing-titanic-submersible-f63c6efa</id>
     <content type="html">Search crews found debris from Titan craft on ocean floor near Titanic shipwreck.</content>
     <link href="https://www.wsj.com/articles/u-s-navy-sends-salvage-craft-as-clock-ticks-down-for-missing-titanic-submersible-f63c6efa" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>U.S. Navy Heard What It Believed Was Implosion of Titan Days Ago</title>
+    <updated>2023-06-22T23:15:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-22:/articles/u-s-navy-detected-titan-sub-implosion-days-ago-6844cb12</id>
+    <content type="html">Underwater microphones designed to detect enemy submarines first heard the suspected implosion just hours after the submersible began its voyage.</content>
+    <link href="https://www.wsj.com/articles/u-s-navy-detected-titan-sub-implosion-days-ago-6844cb12" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
