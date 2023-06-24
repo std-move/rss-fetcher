@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-24T11:09:58Z</updated>
+  <updated>2023-06-24T12:23:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Sushi Boom Upends Japanese Tradition as Chefs Get Trained in Short Order</title>
+    <updated>2023-06-24T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-24:/articles/sushi-boom-upends-japanese-tradition-as-chefs-get-trained-in-short-order-59e734d9</id>
+    <content type="html">With the global appetite for the Japanese specialty soaring, culinary educators in Tokyo are thriving by turning out sushi pros fast.</content>
+    <link href="https://www.wsj.com/articles/sushi-boom-upends-japanese-tradition-as-chefs-get-trained-in-short-order-59e734d9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>What&#39;s Happening With Wagner in Russia?</title>
     <updated>2023-06-24T10:08:00Z</updated>
