@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-24T13:17:57Z</updated>
+  <updated>2023-06-24T14:10:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As Wagner Fighters Take Rostov in Russia, Some Residents Offer Support</title>
+    <updated>2023-06-24T13:36:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-24:/articles/as-wagner-fighters-take-rostov-in-russian-south-some-residents-offer-support-393ac561</id>
+    <content type="html">While many holed up in their homes, others photographed themselves next to masked fighters, cheering against what some described as endemic corruption in Russia.</content>
+    <link href="https://www.wsj.com/articles/as-wagner-fighters-take-rostov-in-russian-south-some-residents-offer-support-393ac561" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Putin Orders Military to Crush Wagner&#39;s Power Grab, Calls It Treason</title>
     <updated>2023-06-24T12:41:00Z</updated>
