@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-24T10:12:55Z</updated>
+  <updated>2023-06-24T11:09:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>What&#39;s Happening With Wagner in Russia?</title>
+    <updated>2023-06-24T10:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-24:/articles/whats-happening-with-wagner-in-russia-d6f6ce7a</id>
+    <content type="html">Putin is facing the most serious threat since he took power in 2000 as Wagner chief Yevgeny Prigozhin turns on Russia’s military establishment.</content>
+    <link href="https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Putin Orders Military to Crush Wagner&#39;s Power Grab, Calls It Treason</title>
     <updated>2023-06-24T09:58:00Z</updated>
