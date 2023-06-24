@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-24T09:11:29Z</updated>
+  <updated>2023-06-24T10:12:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin Orders Military to Crush Prigozhin&#39;s Power Grab, Calls It &#39;Treason&#39;</title>
-    <updated>2023-06-24T07:48:00Z</updated>
+    <title>Putin Orders Military to Crush Wagner&#39;s Power Grab, Calls It Treason</title>
+    <updated>2023-06-24T09:58:00Z</updated>
     <id>tag:www.wsj.com,2023-06-24:/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a</id>
-    <content type="html">The Russian president intervened after Wagner troops entered the city of Rostov and took positions inside the main military headquarters for southern Russia.</content>
+    <content type="html">Russia’s president intervened after Yevgeny Prigozhin’s paramilitary group seized the city of Rostov and took positions inside the main military headquarters for southern Russia.</content>
     <link href="https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
