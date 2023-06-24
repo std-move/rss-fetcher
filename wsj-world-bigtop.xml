@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-24T01:13:10Z</updated>
+  <updated>2023-06-24T02:55:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Issues Arrest Warrant for Wagner Chief</title>
-    <updated>2023-06-24T00:17:00Z</updated>
+    <updated>2023-06-24T01:11:00Z</updated>
     <id>tag:www.wsj.com,2023-06-24:/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a</id>
     <content type="html">Russian authorities stepped up security in Moscow as Yevgeny Prigozhin, the owner of the Wagner paramilitary group, urged his troops to depose the country’s military leadership after he claimed Russian forces struck his camps with missiles.</content>
     <link href="https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Thinks Underwater Banging Noises Might Have Been Vessels Searching for Missing Submersible</title>
-    <updated>2023-06-24T00:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-24:/articles/titanic-subs-deadly-implosion-draws-investigation-d47398d3</id>
-    <content type="html">The investigation is starting to take shape, with one focus on the use of titanium and carbon fiber in the lost craft’s construction.</content>
-    <link href="https://www.wsj.com/articles/titanic-subs-deadly-implosion-draws-investigation-d47398d3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
