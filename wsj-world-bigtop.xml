@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-25T13:18:58Z</updated>
+  <updated>2023-06-25T14:10:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Guatemala Candidates Pledge to Imitate El Salvador&#39;s Crime Crackdown</title>
+    <updated>2023-06-25T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-25:/articles/guatemalan-candidates-pledge-to-imitate-el-salvadors-crime-crackdown-edc665d7</id>
+    <content type="html">Ahead of Sunday’s elections, many Guatemalan voters agree with El Salvador President Nayib Bukele’s hard-line approach.</content>
+    <link href="https://www.wsj.com/articles/guatemalan-candidates-pledge-to-imitate-el-salvadors-crime-crackdown-edc665d7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Glenn Youngkin&#39;s Effort to Reshape Virginia&#39;s Schools Is Off to Modest Start</title>
     <updated>2023-06-25T13:00:00Z</updated>
