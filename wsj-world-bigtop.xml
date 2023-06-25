@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-25T15:11:35Z</updated>
+  <updated>2023-06-25T16:15:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -34,14 +34,6 @@
     <id>tag:www.wsj.com,2023-06-25:/articles/as-russia-processes-wagners-aborted-mutiny-no-winners-emerge-in-the-aftermath-989d9345</id>
     <content type="html">The authority of the Russian state has sustained lasting damage, inviting future challenges to President Vladimir Putin’s regime.</content>
     <link href="https://www.wsj.com/articles/as-russia-processes-wagners-aborted-mutiny-no-winners-emerge-in-the-aftermath-989d9345" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What Makes Family? Advocates Debate Importance of Biological Ties</title>
-    <updated>2023-06-25T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-25:/articles/what-makes-family-advocates-debate-importance-of-biological-ties-f8e58646</id>
-    <content type="html">Emphasizing genetic ties over chosen family ties could undercut the legal rights of nonbiological parents, advocates for LGBTQ parents say.</content>
-    <link href="https://www.wsj.com/articles/what-makes-family-advocates-debate-importance-of-biological-ties-f8e58646" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
