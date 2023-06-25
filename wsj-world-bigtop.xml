@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-25T12:23:57Z</updated>
+  <updated>2023-06-25T13:18:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Glenn Youngkin&#39;s Effort to Reshape Virginia&#39;s Schools Is Off to Modest Start</title>
+    <updated>2023-06-25T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-25:/articles/glenn-youngkins-effort-to-reshape-virginias-schools-is-off-to-modest-start-1efbadb3</id>
+    <content type="html">Some of his backers say his gubernatorial clout can only go so far. Other supporters are urging him to further push the limits of the power he has.​</content>
+    <link href="https://www.wsj.com/articles/glenn-youngkins-effort-to-reshape-virginias-schools-is-off-to-modest-start-1efbadb3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>What&#39;s Happening With Wagner in Russia?</title>
+    <updated>2023-06-25T12:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-25:/articles/whats-happening-with-wagner-in-russia-d6f6ce7a</id>
+    <content type="html">Wagner chief Yevgeny Prigozhin pulled back his forces from the brink of a bloody clash with the Russian army in Moscow that threatened to plunge the country into civil war.</content>
+    <link href="https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Wagner&#39;s Aborted Mutiny Leaves No Winners in Russia</title>
     <updated>2023-06-25T10:26:00Z</updated>
@@ -13,27 +29,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>What&#39;s Happening With Wagner in Russia?</title>
-    <updated>2023-06-25T10:09:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-25:/articles/whats-happening-with-wagner-in-russia-d6f6ce7a</id>
-    <content type="html">Wagner chief Yevgeny Prigozhin pulled back his forces from the brink of a bloody clash with the Russian army in Moscow that threatened to plunge the country into civil war.</content>
-    <link href="https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>What Makes Family? Advocates Debate Importance of Biological Ties</title>
     <updated>2023-06-25T09:30:00Z</updated>
     <id>tag:www.wsj.com,2023-06-25:/articles/what-makes-family-advocates-debate-importance-of-biological-ties-f8e58646</id>
     <content type="html">Emphasizing genetic ties over chosen family ties could undercut the legal rights of nonbiological parents, advocates for LGBTQ parents say.</content>
     <link href="https://www.wsj.com/articles/what-makes-family-advocates-debate-importance-of-biological-ties-f8e58646" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Wagner Stops March on Moscow as Belarus Brokers Deal</title>
-    <updated>2023-06-25T02:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-25:/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a</id>
-    <content type="html">The compromise between the paramilitary group and Russian President Vladimir Putin averted an armed confrontation that threatened to plunge the country into civil war.</content>
-    <link href="https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
