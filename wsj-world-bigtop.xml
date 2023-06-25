@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-25T17:10:48Z</updated>
+  <updated>2023-06-25T18:14:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-06-25:/articles/as-russia-processes-wagners-aborted-mutiny-no-winners-emerge-in-the-aftermath-989d9345</id>
     <content type="html">With both Vladimir Putin and Yevgeny Prigozhin silent, Russians and Western officials wonder whether the crisis is truly over.</content>
     <link href="https://www.wsj.com/articles/as-russia-processes-wagners-aborted-mutiny-no-winners-emerge-in-the-aftermath-989d9345" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Glenn Youngkin&#39;s Effort to Reshape Virginia&#39;s Schools Is Off to Modest Start</title>
-    <updated>2023-06-25T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-25:/articles/glenn-youngkins-effort-to-reshape-virginias-schools-is-off-to-modest-start-1efbadb3</id>
-    <content type="html">Some of his backers say his gubernatorial clout can only go so far. Other supporters are urging him to further push the limits of the power he has.​</content>
-    <link href="https://www.wsj.com/articles/glenn-youngkins-effort-to-reshape-virginias-schools-is-off-to-modest-start-1efbadb3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
