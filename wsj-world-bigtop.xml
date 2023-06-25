@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-25T01:19:53Z</updated>
+  <updated>2023-06-25T03:08:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Wagner Stops March on Moscow as Belarus Brokers Deal</title>
+    <updated>2023-06-25T02:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-25:/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a</id>
+    <content type="html">The compromise between the paramilitary group and Russian President Vladimir Putin averted an armed confrontation that threatened to plunge the country into civil war.</content>
+    <link href="https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>What&#39;s Happening With Wagner in Russia?</title>
     <updated>2023-06-25T00:20:00Z</updated>
     <id>tag:www.wsj.com,2023-06-25:/articles/whats-happening-with-wagner-in-russia-d6f6ce7a</id>
     <content type="html">Wagner chief Yevgeny Prigozhin has pulled his forces back from the brink of a bloody clash with the Russian army in Moscow that threatened to plunge the country into civil war.</content>
     <link href="https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Wagner Stops March on Moscow as Belarus Brokers Deal</title>
-    <updated>2023-06-25T00:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-25:/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a</id>
-    <content type="html">The compromise shows the limits of Vladimir Putin’s authority after the Russian president initially condemned Wagner’s owner as a traitor.</content>
-    <link href="https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
