@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-26T07:12:27Z</updated>
+  <updated>2023-06-26T08:20:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Greek Conservatives Score Decisive Election Win</title>
+    <updated>2023-06-26T07:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-26:/articles/greek-conservatives-on-course-for-emphatic-election-win-d7dc0582</id>
+    <content type="html">Kyriakos Mitsotakis, head of the conservative New Democracy party and Greek prime minister for the past four years, is expected to be sworn in Monday for a second term.</content>
+    <link href="https://www.wsj.com/articles/greek-conservatives-on-course-for-emphatic-election-win-d7dc0582" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>What&#39;s Happening With Wagner in Russia?</title>
+    <updated>2023-06-26T07:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-26:/articles/whats-happening-with-wagner-in-russia-d6f6ce7a</id>
+    <content type="html">Wagner chief Yevgeny Prigozhin pulled back his forces from the brink of a bloody clash with the Russian army in Moscow that threatened to plunge the country into civil war.</content>
+    <link href="https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Why Wagner Chief Prigozhin Turned Against Putin</title>
+    <updated>2023-06-26T07:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-26:/articles/wagner-prigozhin-putin-mutiny-moscow-march-7072d6ea</id>
+    <content type="html">Military infighting, financial pressures and personal political ambitions played into the brash decision.</content>
+    <link href="https://www.wsj.com/articles/wagner-prigozhin-putin-mutiny-moscow-march-7072d6ea" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>After Weekend of Chaos in Russia, Questions Remain Over Fate of Wagner</title>
     <updated>2023-06-26T07:02:00Z</updated>
