@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-26T01:15:24Z</updated>
+  <updated>2023-06-26T03:01:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-06-25:/articles/wagner-mutiny-revives-u-s-fears-over-control-of-russias-nuclear-weapons-29319369</id>
     <content type="html">Washington says it is monitoring the Russian arsenal closely amid the failed insurrection led by Yevgeny Prigozhin, head of the paramilitary group.</content>
     <link href="https://www.wsj.com/articles/wagner-mutiny-revives-u-s-fears-over-control-of-russias-nuclear-weapons-29319369" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why Wagner Chief Prigozhin Turned Against Putin</title>
-    <updated>2023-06-25T20:29:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-25:/articles/wagner-prigozhin-putin-mutiny-moscow-march-7072d6ea</id>
-    <content type="html">Military infighting, financial pressures and personal political ambitions played into the brash decision.</content>
-    <link href="https://www.wsj.com/articles/wagner-prigozhin-putin-mutiny-moscow-march-7072d6ea" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
