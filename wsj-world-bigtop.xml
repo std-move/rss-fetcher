@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-26T20:13:19Z</updated>
+  <updated>2023-06-26T21:11:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Russia Tries to Restore Control, as Prigozhin Denies Trying to Oust Putin</title>
-    <updated>2023-06-26T20:00:00Z</updated>
+    <title>Russia Tries to Restore Control, as Putin Blasts Mutineers</title>
+    <updated>2023-06-26T20:51:00Z</updated>
     <id>tag:www.wsj.com,2023-06-26:/articles/questions-swirl-on-russia-truce-as-putin-prigozhin-stay-silent-b8a44500</id>
-    <content type="html">Mixed signals from Moscow illustrate how key questions, such as the ultimate fate of Wagner leader Yevgeny Prigozhin, remain unanswered.</content>
+    <content type="html">Yevgeny Prigozhin said the aim of Wagner’s insurrection was to protest the way the paramilitary group was being treated. Russian media said he is still under criminal investigation.</content>
     <link href="https://www.wsj.com/articles/questions-swirl-on-russia-truce-as-putin-prigozhin-stay-silent-b8a44500" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
