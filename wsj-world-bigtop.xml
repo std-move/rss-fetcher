@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-27T19:09:51Z</updated>
+  <updated>2023-06-27T20:13:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Texas Endures Brunt of Heat Wave Baking Southern U.S.</title>
-    <updated>2023-06-27T17:21:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-27:/articles/texas-endures-brunt-of-heat-wave-baking-southern-u-s-e38bd47f</id>
-    <content type="html">A heat dome has stalled over the region since earlier this month.</content>
-    <link href="https://www.wsj.com/articles/texas-endures-brunt-of-heat-wave-baking-southern-u-s-e38bd47f" rel="alternate"></link>
+    <title>Prigozhin in Belarus as Wagner Prepares to Hand Over Weapons</title>
+    <updated>2023-06-27T19:58:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-27:/articles/wagner-is-preparing-to-hand-over-heavy-weapons-russian-military-says-723e7a53</id>
+    <content type="html">The announcement is an indication that the paramilitary group could be disbanded as an autonomous force in coming days.</content>
+    <link href="https://www.wsj.com/articles/wagner-is-preparing-to-hand-over-heavy-weapons-russian-military-says-723e7a53" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Why Wagner Chief Prigozhin Turned Against Putin</title>
+    <updated>2023-06-27T19:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-27:/articles/wagner-prigozhin-putin-mutiny-moscow-march-7072d6ea</id>
+    <content type="html">Military infighting, financial pressures and personal political ambitions played into the brash decision.</content>
+    <link href="https://www.wsj.com/articles/wagner-prigozhin-putin-mutiny-moscow-march-7072d6ea" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>What&#39;s Happening With Wagner in Russia?</title>
+    <updated>2023-06-27T19:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-27:/articles/whats-happening-with-wagner-in-russia-d6f6ce7a</id>
+    <content type="html">Wagner chief Yevgeny Prigozhin pulled back his forces from the brink of a bloody clash with the Russian army in Moscow that threatened to plunge the country into civil war.</content>
+    <link href="https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Russian Turmoil Shows a Forever War Hurts Putin</title>
+    <updated>2023-06-27T19:28:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-27:/articles/russian-turmoil-shows-a-forever-war-in-ukraine-hurts-putin-5cbb8738</id>
+    <content type="html">The Russian president bet he had more staying power than the West, but his Ukrainian quagmire now poses clear risks for Russia’s political stability.</content>
+    <link href="https://www.wsj.com/articles/russian-turmoil-shows-a-forever-war-in-ukraine-hurts-putin-5cbb8738" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
