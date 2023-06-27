@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-27T15:13:07Z</updated>
+  <updated>2023-06-27T16:16:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Texas Endures Brunt of Heat Wave Baking Southern U.S.</title>
-    <updated>2023-06-27T15:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-27:/articles/texas-endures-brunt-of-heat-wave-baking-southern-u-s-e38bd47f</id>
-    <content type="html">A heat dome has stalled over the region since earlier this month.</content>
-    <link href="https://www.wsj.com/articles/texas-endures-brunt-of-heat-wave-baking-southern-u-s-e38bd47f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Prigozhin in Belarus as Wagner Prepares to Hand Over Weapons</title>
-    <updated>2023-06-27T14:55:00Z</updated>
+    <updated>2023-06-27T15:35:00Z</updated>
     <id>tag:www.wsj.com,2023-06-27:/articles/wagner-is-preparing-to-hand-over-heavy-weapons-russian-military-says-723e7a53</id>
     <content type="html">The announcement is an indication that the paramilitary group could be disbanded as an autonomous force in coming days.</content>
     <link href="https://www.wsj.com/articles/wagner-is-preparing-to-hand-over-heavy-weapons-russian-military-says-723e7a53" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russian Turmoil Shows a Forever War Hurts Putin</title>
-    <updated>2023-06-27T14:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-27:/articles/russian-turmoil-shows-a-forever-war-in-ukraine-hurts-putin-5cbb8738</id>
-    <content type="html">The Russian president bet he had more staying power than the West, but his Ukrainian quagmire now poses clear risks for Russia’s political stability.</content>
-    <link href="https://www.wsj.com/articles/russian-turmoil-shows-a-forever-war-in-ukraine-hurts-putin-5cbb8738" rel="alternate"></link>
+    <title>Texas Endures Brunt of Heat Wave Baking Southern U.S.</title>
+    <updated>2023-06-27T15:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-27:/articles/texas-endures-brunt-of-heat-wave-baking-southern-u-s-e38bd47f</id>
+    <content type="html">A heat dome has stalled over the region since earlier this month.</content>
+    <link href="https://www.wsj.com/articles/texas-endures-brunt-of-heat-wave-baking-southern-u-s-e38bd47f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
