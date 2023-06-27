@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-27T21:10:49Z</updated>
+  <updated>2023-06-27T22:11:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>As Psychedelics Become More Mainstream, Here&#39;s What You Need to Know</title>
-    <updated>2023-06-27T21:02:00Z</updated>
+    <updated>2023-06-27T21:45:00Z</updated>
     <id>tag:www.wsj.com,2023-06-27:/articles/psychedelics-ketamine-lsd-drug-what-to-know-d552ee9c</id>
-    <content type="html">Research has shown that they can temporarily alter a person’s mood, thoughts and perceptions of the world.</content>
+    <content type="html">Some people say that they take the drugs to increase focus and creativity or for mental health, but many substances are illegal</content>
     <link href="https://www.wsj.com/articles/psychedelics-ketamine-lsd-drug-what-to-know-d552ee9c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
