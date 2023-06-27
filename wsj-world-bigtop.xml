@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-27T13:21:16Z</updated>
+  <updated>2023-06-27T14:11:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Says Wagner Preparing to Hand Over Weapons</title>
+    <updated>2023-06-27T13:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-27:/articles/wagner-is-preparing-to-hand-over-heavy-weapons-russian-military-says-723e7a53</id>
+    <content type="html">The announcement is an indication that the paramilitary group could be disbanded as an autonomous force in coming days.</content>
+    <link href="https://www.wsj.com/articles/wagner-is-preparing-to-hand-over-heavy-weapons-russian-military-says-723e7a53" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
