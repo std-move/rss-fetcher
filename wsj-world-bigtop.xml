@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-28T15:12:57Z</updated>
+  <updated>2023-06-28T16:16:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Portland, Ore., Is Losing Residents Weary of Crime and High Housing Prices</title>
+    <title>Air Quality Is Terrible in Parts of the U.S. Here&#39;s What to Know About Your Health and Safety.</title>
+    <updated>2023-06-28T15:48:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-28:/articles/air-quality-health-effects-smoke-wildfire-canada-f9a2c7d4</id>
+    <content type="html">As the Midwest sees air quality deteriorate, officials warn that wildfire smoke could reach New York as early as Wednesday</content>
+    <link href="https://www.wsj.com/articles/air-quality-health-effects-smoke-wildfire-canada-f9a2c7d4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Portland, Ore., Is Losing Its Residents</title>
     <updated>2023-06-28T14:00:00Z</updated>
     <id>tag:www.wsj.com,2023-06-28:/articles/portland-ore-is-losing-residents-weary-of-crime-and-high-housing-prices-7b57eec3</id>
     <content type="html">The city’s population decline of about 17,400 people to 635,000 was the sixth largest decline among the 50 largest U.S. cities.</content>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-06-28:/articles/putin-moves-to-seize-control-of-wagners-global-empire-26d49286</id>
     <content type="html">The Kremlin assured nations in Africa and the Middle East that it would manage Wagner forces, which have spread Russian power at little cost to Putin.</content>
     <link href="https://www.wsj.com/articles/putin-moves-to-seize-control-of-wagners-global-empire-26d49286" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Wagner Chief Prigozhin Planned to Capture Russian Military Leaders</title>
-    <updated>2023-06-28T12:56:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-28:/articles/wagners-prigozhin-planned-to-capture-russian-military-leaders-805345cf</id>
-    <content type="html">The mercenary leader planned to capture Russia’s military leadership as part of the mutiny, Western officials said, and he accelerated his plans after the domestic intelligence agency became aware of the plot.</content>
-    <link href="https://www.wsj.com/articles/wagners-prigozhin-planned-to-capture-russian-military-leaders-805345cf" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
