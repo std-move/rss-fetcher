@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-28T21:11:07Z</updated>
+  <updated>2023-06-28T22:11:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Wagner Chief Prigozhin Planned to Capture Russian Military Leaders</title>
+    <updated>2023-06-28T21:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-28:/articles/wagners-prigozhin-planned-to-capture-russian-military-leaders-805345cf</id>
+    <content type="html">The mercenary leader planned to capture Russia’s military leadership as part of the mutiny, Western officials said, and he accelerated his plans after the domestic intelligence agency became aware of the plot.</content>
+    <link href="https://www.wsj.com/articles/wagners-prigozhin-planned-to-capture-russian-military-leaders-805345cf" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
