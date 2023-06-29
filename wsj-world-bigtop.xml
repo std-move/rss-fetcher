@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-29T09:12:29Z</updated>
+  <updated>2023-06-29T10:13:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>They Got Cancer. Then Their Drugs Were Rationed.</title>
+    <updated>2023-06-29T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-29:/articles/cancer-drug-shortage-chemotherapy-rationing-fc565eb9</id>
+    <content type="html">A monthslong shortage of chemotherapies forces some patients to receive less treatment. ‘Not enough people know how serious this is.’</content>
+    <link href="https://www.wsj.com/articles/cancer-drug-shortage-chemotherapy-rationing-fc565eb9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Sanctioned Russian Cargo Ships Made More Than 100 Stops at Turkish Ports</title>
+    <updated>2023-06-29T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-29:/articles/sanctioned-russian-cargo-ships-made-more-than-100-stops-at-turkish-ports-e6b723c3</id>
+    <content type="html">The port calls threaten to further inflame relations between the U.S. and Turkey, which is the only NATO member that hasn’t sanctioned the Kremlin.</content>
+    <link href="https://www.wsj.com/articles/sanctioned-russian-cargo-ships-made-more-than-100-stops-at-turkish-ports-e6b723c3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>New York Schools Fight Over Team Names After Native American Mascot Ban</title>
+    <updated>2023-06-29T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-29:/articles/new-york-schools-fight-over-team-names-after-native-american-mascot-ban-b9bb8e00</id>
+    <content type="html">An estimated 1,900 U.S. schools still have indigenous-inspired team names.</content>
+    <link href="https://www.wsj.com/articles/new-york-schools-fight-over-team-names-after-native-american-mascot-ban-b9bb8e00" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
