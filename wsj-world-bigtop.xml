@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-29T14:10:48Z</updated>
+  <updated>2023-06-29T15:12:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Supreme Court Rules Against Affirmative Action</title>
+    <updated>2023-06-29T14:37:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-29:/articles/supreme-court-rules-against-affirmative-action-c94b5a9c</id>
+    <content type="html">The court found it unconstitutional to consider race in university admissions, eliminating the principal tool the nation’s most exclusive schools have used to diversify their campuses.</content>
+    <link href="https://www.wsj.com/articles/supreme-court-rules-against-affirmative-action-c94b5a9c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Smoky Air Lingers in Midwest; Heat Wave Stifles the South</title>
+    <updated>2023-06-29T14:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-29:/articles/air-quality-heat-wave-us-weather-2f7d213f</id>
+    <content type="html">Canadian wildfire smoke and a Southern heat dome upended daily life for millions.</content>
+    <link href="https://www.wsj.com/articles/air-quality-heat-wave-us-weather-2f7d213f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Affirmative Action Timeline: Key Dates</title>
+    <updated>2023-06-29T14:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-29:/articles/affirmative-action-key-dates-cec126a8</id>
+    <content type="html">University leaders have pursued affirmative action since the 1970s; legal and political pushbacks gained steam in the 1990s.</content>
+    <link href="https://www.wsj.com/articles/affirmative-action-key-dates-cec126a8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
