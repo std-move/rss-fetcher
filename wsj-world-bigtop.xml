@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-30T06:16:17Z</updated>
+  <updated>2023-06-30T07:11:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-06-30:/articles/as-china-reopens-borders-trafficking-of-women-and-girls-resumes-b1132ab1</id>
     <content type="html">Covid restrictions had mostly halted the smuggling of Vietnamese women for marriage to Chinese men.</content>
     <link href="https://www.wsj.com/articles/as-china-reopens-borders-trafficking-of-women-and-girls-resumes-b1132ab1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Hits Russian Defenses From a Distance Before Risking Troops</title>
-    <updated>2023-06-30T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-30:/articles/ukraine-hits-russian-defenses-from-a-distance-before-risking-troops-26cd2502</id>
-    <content type="html">With ground counteroffensive stalled, Kyiv tries to interrupt the Kremlin’s supply lines and degrade its forces.</content>
-    <link href="https://www.wsj.com/articles/ukraine-hits-russian-defenses-from-a-distance-before-risking-troops-26cd2502" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Military Recruiting Crisis: Even Veterans Don&#39;t Want Their Children to Join</title>
-    <updated>2023-06-30T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-06-30:/articles/military-recruiting-crisis-veterans-dont-want-their-children-to-join-510e1a25</id>
-    <content type="html">The Pentagon is scrambling to retain the main pipeline for new service members as disillusioned families steer young people away. This article is part of a series examining the problems confronting America’s military.</content>
-    <link href="https://www.wsj.com/articles/military-recruiting-crisis-veterans-dont-want-their-children-to-join-510e1a25" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
