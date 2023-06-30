@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-06-30T02:48:03Z</updated>
+  <updated>2023-06-30T03:17:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As China Reopens Borders, Trafficking of Women and Girls Resumes</title>
+    <updated>2023-06-30T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-06-30:/articles/as-china-reopens-borders-trafficking-of-women-and-girls-resumes-b1132ab1</id>
+    <content type="html">Covid restrictions had mostly halted the smuggling of Vietnamese women for marriage to Chinese men.</content>
+    <link href="https://www.wsj.com/articles/as-china-reopens-borders-trafficking-of-women-and-girls-resumes-b1132ab1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
