@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-01T12:22:23Z</updated>
+  <updated>2023-07-01T13:16:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Mineral-Rich Developing Nations Demand Bigger Piece of the EV Pie</title>
+    <updated>2023-07-01T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-01:/articles/mineral-rich-developing-nations-demand-bigger-piece-of-the-ev-pie-d1421603</id>
+    <content type="html">Their policies are aimed at making the most of the clean-energy shift, but they also create challenges for it.</content>
+    <link href="https://www.wsj.com/articles/mineral-rich-developing-nations-demand-bigger-piece-of-the-ev-pie-d1421603" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How Medical Treatment Is Giving Ukraine a Quiet Edge Over Russia</title>
     <updated>2023-07-01T11:00:00Z</updated>
