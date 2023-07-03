@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-03T17:10:48Z</updated>
+  <updated>2023-07-03T18:15:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Migrant Workers Flee Florida as New Immigration Law Takes Effect</title>
-    <updated>2023-07-03T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-03:/articles/migrant-workers-flee-florida-as-new-immigration-law-takes-effect-94796abf</id>
-    <content type="html">Farm owners and construction companies say the law, which started July 1, has already diminished their workforce.</content>
-    <link href="https://www.wsj.com/articles/migrant-workers-flee-florida-as-new-immigration-law-takes-effect-94796abf" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukrainians Fight Back as Russia Seeks to Appropriate Their Country&#39;s History</title>
-    <updated>2023-07-03T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-03:/articles/ukrainians-fight-back-as-russia-seeks-to-appropriate-their-countrys-history-988d497d</id>
-    <content type="html">Archaeologists, museum workers and art curators strive to track the location of looted works that Russia claims as its own.</content>
-    <link href="https://www.wsj.com/articles/ukrainians-fight-back-as-russia-seeks-to-appropriate-their-countrys-history-988d497d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
