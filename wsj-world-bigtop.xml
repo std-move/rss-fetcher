@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-03T12:26:45Z</updated>
+  <updated>2023-07-03T13:22:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>What Makes Putin and the World&#39;s Autocrats So Resilient?</title>
-    <updated>2023-07-03T10:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-03:/articles/what-makes-putin-and-the-worlds-autocrats-so-resilient-b89c19de</id>
-    <content type="html">A regime survival playbook of sorts has emerged, with states combining lethal force, widespread arrests and cooperation to halt opposition.</content>
-    <link href="https://www.wsj.com/articles/what-makes-putin-and-the-worlds-autocrats-so-resilient-b89c19de" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
