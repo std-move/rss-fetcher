@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-02T23:11:44Z</updated>
+  <updated>2023-07-03T01:15:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-07-02:/articles/behind-french-riots-lie-years-of-anger-over-police-conduct-95df6c4d</id>
     <content type="html">Law-enforcement tactics that once remained in the shadows are now surfacing in videos, prompting investigations and inflaming the public.</content>
     <link href="https://www.wsj.com/articles/behind-french-riots-lie-years-of-anger-over-police-conduct-95df6c4d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Putin&#39;s Corporate Takeover of Wagner Has Begun</title>
-    <updated>2023-07-02T19:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-02:/articles/putin-russia-wagner-prigozhin-cc5da1b0</id>
-    <content type="html">In the wake of a mutiny that almost reached Moscow, Vladimir Putin is facing a new test—managing one of the most complex corporate takeovers in history.</content>
-    <link href="https://www.wsj.com/articles/putin-russia-wagner-prigozhin-cc5da1b0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
