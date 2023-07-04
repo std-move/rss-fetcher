@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-04T12:26:25Z</updated>
+  <updated>2023-07-04T13:22:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The U.S. Funds Shadow Police Units All Over the World</title>
-    <updated>2023-07-04T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-04:/articles/law-enforcement-police-developing-countries-856c41e2</id>
-    <content type="html">They pursue matters ranging from heroin smuggling to protecting pangolins, pursuing American interests when regular cops can’t be trusted.</content>
-    <link href="https://www.wsj.com/articles/law-enforcement-police-developing-countries-856c41e2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
