@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-05T03:25:54Z</updated>
+  <updated>2023-07-05T04:15:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Taiwan&#39;s Impossible Choice: Be Ukraine or Hong Kong</title>
+    <updated>2023-07-05T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-05:/articles/taiwan-china-ukraine-russia-hong-kong-military-war-517b87d</id>
+    <content type="html">Taiwan is drawing two opposite lessons from the Russian invasion of Ukraine.</content>
+    <link href="https://www.wsj.com/articles/taiwan-china-ukraine-russia-hong-kong-military-war-517b87d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
