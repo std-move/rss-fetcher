@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-05T16:17:41Z</updated>
+  <updated>2023-07-05T17:11:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Los Angeles Mayor Karen Bass Is Trying to Get Homeless People off the Street Fast</title>
-    <updated>2023-07-05T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-05:/articles/los-angeles-mayor-karen-bass-is-trying-to-get-homeless-people-off-the-street-fast-13411504</id>
-    <content type="html">The newly elected Democrat faces pressure to make a visible dent in encampments.</content>
-    <link href="https://www.wsj.com/articles/los-angeles-mayor-karen-bass-is-trying-to-get-homeless-people-off-the-street-fast-13411504" rel="alternate"></link>
+    <title>Ukraine Counterattack Is Heavy Going, West Says</title>
+    <updated>2023-07-05T16:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-05:/articles/ukraine-counterattack-is-heavy-going-west-says-as-russian-resists-dc6fb4b4</id>
+    <content type="html">Despite Russia’s loss of half its combat effectiveness since last year, Kyiv is struggling with tough Kremlin defenses.</content>
+    <link href="https://www.wsj.com/articles/ukraine-counterattack-is-heavy-going-west-says-as-russian-resists-dc6fb4b4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
