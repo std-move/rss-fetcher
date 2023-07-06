@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-06T21:11:30Z</updated>
+  <updated>2023-07-06T22:11:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Alzheimer&#39;s Disease Treatments: What to Know About New and Future Drugs</title>
+    <updated>2023-07-06T21:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-06:/articles/alzheimers-drugs-new-treatments-11672850623</id>
+    <content type="html">The new drug Leqembi promises to slow the disease in patients, but they will have to balance safety risks and reimbursement issues.</content>
+    <link href="https://www.wsj.com/articles/alzheimers-drugs-new-treatments-11672850623" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
