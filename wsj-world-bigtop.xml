@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-07T13:20:11Z</updated>
+  <updated>2023-07-07T14:11:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>&#39;How Could I Feel Safe?&#39; Japan&#39;s Dumping of Radioactive Fukushima Water Stirs Fear, Anger</title>
+    <updated>2023-07-07T13:53:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-07:/articles/how-could-i-feel-safe-japans-dumping-of-radioactive-fukushima-water-stirs-fear-anger-2c2059b4</id>
+    <content type="html">Officials deem the release of nuclear wastewater secure, though South Korea, parts of Japan and other Asian-Pacific countries harbor doubts.</content>
+    <link href="https://www.wsj.com/articles/how-could-i-feel-safe-japans-dumping-of-radioactive-fukushima-water-stirs-fear-anger-2c2059b4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Inside the Clandestine Russian Security Force That Took Evan Gershkovich</title>
     <updated>2023-07-07T13:06:00Z</updated>
