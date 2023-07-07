@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-07T17:11:06Z</updated>
+  <updated>2023-07-07T18:15:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>When Your Neighbor Is a Farm with 2,500 Hogs</title>
-    <updated>2023-07-07T15:55:00Z</updated>
+    <title>When Your Neighbor Is a Farm With 2,500 Hogs</title>
+    <updated>2023-07-07T17:39:00Z</updated>
     <id>tag:www.wsj.com,2023-07-07:/articles/when-your-neighbor-is-a-farm-with-2-500-hogs-2f9e8dc2</id>
     <content type="html">Local lawmakers and state courts have taken steps to shield large-scale hog barns from lawsuits—and paved the way for them to expand.</content>
     <link href="https://www.wsj.com/articles/when-your-neighbor-is-a-farm-with-2-500-hogs-2f9e8dc2" rel="alternate"></link>
