@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-08T15:11:15Z</updated>
+  <updated>2023-07-08T16:14:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Immigration Backlashes Spread Around the World</title>
+    <updated>2023-07-08T13:34:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-08:/articles/immigration-backlashes-spread-around-the-world-142124bc</id>
+    <content type="html">The collapse of the Netherlands’ government is the latest sign of discord as immigration surges to record levels, fueling populism.</content>
+    <link href="https://www.wsj.com/articles/immigration-backlashes-spread-around-the-world-142124bc" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>From Prison to New York City Council</title>
     <updated>2023-07-08T13:00:00Z</updated>
