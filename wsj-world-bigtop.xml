@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-08T23:11:38Z</updated>
+  <updated>2023-07-09T01:18:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-07-08:/articles/immigration-backlashes-spread-around-the-world-142124bc</id>
     <content type="html">The collapse of the Netherlands’ government is the latest sign of discord as immigration surges to record levels, fueling populism.</content>
     <link href="https://www.wsj.com/articles/immigration-backlashes-spread-around-the-world-142124bc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>From Prison to New York City Council</title>
-    <updated>2023-07-08T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-08:/articles/yusef-salaam-of-central-park-five-case-from-prison-to-new-york-city-council-2828b9f8</id>
-    <content type="html">As a teenager, Yusef Salaam was wrongfully imprisoned as one of the Central Park Five. Now, he is preparing to take a seat on the New York City Council.</content>
-    <link href="https://www.wsj.com/articles/yusef-salaam-of-central-park-five-case-from-prison-to-new-york-city-council-2828b9f8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
