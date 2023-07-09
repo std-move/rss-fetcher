@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-09T01:18:59Z</updated>
+  <updated>2023-07-09T03:03:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Amid Ukraine War and Internal Spats, NATO Seeks Show of Unity</title>
+    <updated>2023-07-09T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-09:/articles/amid-ukraine-war-and-internal-spats-nato-seeks-show-of-unity-cf9a0ad2</id>
+    <content type="html">Summit in Lithuania aims to showcase cohesion against Russia. But fights over Sweden joining and spending levels cast a shadow.</content>
+    <link href="https://www.wsj.com/articles/amid-ukraine-war-and-internal-spats-nato-seeks-show-of-unity-cf9a0ad2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Professor Helping Guide Billions in Climate Spending</title>
     <updated>2023-07-08T21:59:00Z</updated>
     <id>tag:www.wsj.com,2023-07-08:/articles/the-professor-helping-guide-billions-in-climate-spending-96d3d17c</id>
     <content type="html">Jesse Jenkins’s ZERO Lab says that faster upgrades for the power grid are essential to cutting emissions.</content>
     <link href="https://www.wsj.com/articles/the-professor-helping-guide-billions-in-climate-spending-96d3d17c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Immigration Backlashes Spread Around the World</title>
-    <updated>2023-07-08T13:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-08:/articles/immigration-backlashes-spread-around-the-world-142124bc</id>
-    <content type="html">The collapse of the Netherlands’ government is the latest sign of discord as immigration surges to record levels, fueling populism.</content>
-    <link href="https://www.wsj.com/articles/immigration-backlashes-spread-around-the-world-142124bc" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
