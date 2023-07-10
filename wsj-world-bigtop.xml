@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-10T13:22:07Z</updated>
+  <updated>2023-07-10T14:11:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Lead in the Bayou</title>
+    <updated>2023-07-10T13:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-10:/articles/lead-cables-louisiana-telecoms-59f36ffe</id>
+    <content type="html">Southern Louisiana is a prime example of how old phone cables are contaminating soil and water across the U.S., according to a Journal investigation.</content>
+    <link href="https://www.wsj.com/articles/lead-cables-louisiana-telecoms-59f36ffe" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Country With the Highest Murder Rate Now Has the Highest Incarceration Rate</title>
+    <updated>2023-07-10T13:17:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-10:/articles/the-country-with-the-highest-murder-rate-now-has-the-highest-incarceration-rate-b5401da7</id>
+    <content type="html">El Salvador President Nayib Bukele kicked off a gang crackdown that has strong support from locals who can now live and do business safely, but faces questions from rights groups.</content>
+    <link href="https://www.wsj.com/articles/the-country-with-the-highest-murder-rate-now-has-the-highest-incarceration-rate-b5401da7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>A Small Illinois City Pays Reparations in a &#39;Test Run for the Whole Country&#39;</title>
     <updated>2023-07-10T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-07-10:/articles/a-small-city-pays-reparations-in-a-test-run-for-the-whole-country-c1cb07fc</id>
     <content type="html">Evanston, Ill., has committed to spending $10 million over 10 years for discrimination against Black residents.</content>
     <link href="https://www.wsj.com/articles/a-small-city-pays-reparations-in-a-test-run-for-the-whole-country-c1cb07fc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Europe&#39;s Defense Dilemma: To Buy, or Not to Buy American</title>
-    <updated>2023-07-10T11:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-10:/articles/europes-defense-dilemma-to-buy-or-not-to-buy-american-1576c2f4</id>
-    <content type="html">Much of the continent’s rising military spending goes to U.S. companies, forming the backbone of industrial ties that underpin NATO. France’s president wants that to change.</content>
-    <link href="https://www.wsj.com/articles/europes-defense-dilemma-to-buy-or-not-to-buy-american-1576c2f4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
