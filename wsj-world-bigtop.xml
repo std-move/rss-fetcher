@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-12T11:09:59Z</updated>
+  <updated>2023-07-12T12:26:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>AT&amp;T and Verizon Knew About Toxic Lead Cables---and Did Little</title>
-    <updated>2023-07-12T09:40:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-12:/articles/att-verizon-lead-cables-telecom-5e329f9</id>
-    <content type="html">For decades, telecom companies have known that lead in their networks posed risks to workers and could leach into the environment.</content>
-    <link href="https://www.wsj.com/articles/att-verizon-lead-cables-telecom-5e329f9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Hiker Died With a Bullet in His Chest. Why Did Police Say He Was Stabbed by a Stick?</title>
-    <updated>2023-07-12T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-12:/articles/a-hiker-died-with-a-bullet-in-his-chest-why-did-police-say-he-was-stabbed-by-a-stick-841cb463</id>
-    <content type="html">A rural Washington sheriff’s office is accused of bungling the investigation of Aron Christensen’s death and faking an exit wound on his dog Buzzo.</content>
-    <link href="https://www.wsj.com/articles/a-hiker-died-with-a-bullet-in-his-chest-why-did-police-say-he-was-stabbed-by-a-stick-841cb463" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
