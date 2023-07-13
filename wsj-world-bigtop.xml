@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-13T18:15:11Z</updated>
+  <updated>2023-07-13T19:08:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ousted Russian General Accuses Moscow of Betraying Troops</title>
+    <updated>2023-07-13T19:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-13:/articles/ousted-russian-general-accuses-moscow-of-betraying-troops-9db78ceb</id>
+    <content type="html">Dissent by a senior army commander in Ukraine highlights the growing fractures within Russia’s military after Prigozhin’s mutiny.</content>
+    <link href="https://www.wsj.com/articles/ousted-russian-general-accuses-moscow-of-betraying-troops-9db78ceb" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
