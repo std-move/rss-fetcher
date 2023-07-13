@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-13T15:12:53Z</updated>
+  <updated>2023-07-13T16:16:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Is Aspartame Bad for Your Health?</title>
-    <updated>2023-07-13T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-13:/articles/aspartame-health-risks-44fc5d03</id>
-    <content type="html">Two different arms of the World Health Organization are expected soon to release separate reports on the sweetener used in Diet Coke, Pepsi Zero Sugar and other diet sodas. </content>
-    <link href="https://www.wsj.com/articles/aspartame-health-risks-44fc5d03" rel="alternate"></link>
+    <title>Ousted Russian General Accuses Moscow of Betraying Troops</title>
+    <updated>2023-07-13T15:44:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-13:/articles/ousted-russian-general-accuses-moscow-of-betraying-troops-9db78ceb</id>
+    <content type="html">Dissent by senior army commander in Ukraine highlights the growing fractures within Russia’s military after Prigozhin’s mutiny.</content>
+    <link href="https://www.wsj.com/articles/ousted-russian-general-accuses-moscow-of-betraying-troops-9db78ceb" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
