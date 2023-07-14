@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-14T12:25:11Z</updated>
+  <updated>2023-07-14T13:20:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Workers Exposed to Toxic Lead Cables Wrestle With the Aftermath</title>
+    <updated>2023-07-14T12:29:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-14:/articles/lead-cables-exposure-workers-ca6d67f0</id>
+    <content type="html">Many telecom employees who worked with lead over the years say they didn’t know about the risks. Some have illnesses that can be linked to exposure.</content>
+    <link href="https://www.wsj.com/articles/lead-cables-exposure-workers-ca6d67f0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
