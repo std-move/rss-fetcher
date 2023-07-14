@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-14T14:11:09Z</updated>
+  <updated>2023-07-14T15:12:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Is Aspartame Bad for Your Health? What to Know About Diet Coke&#39;s Key Ingredient</title>
-    <updated>2023-07-14T13:32:00Z</updated>
+    <updated>2023-07-14T14:18:00Z</updated>
     <id>tag:www.wsj.com,2023-07-14:/articles/aspartame-health-risks-44fc5d03</id>
     <content type="html">Two different arms of the World Health Organization released separate findings on aspartame, a sweetener widely used in foods and beverages.</content>
     <link href="https://www.wsj.com/articles/aspartame-health-risks-44fc5d03" rel="alternate"></link>
