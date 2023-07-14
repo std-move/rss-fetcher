@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-14T21:10:35Z</updated>
+  <updated>2023-07-14T22:11:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Dangerous Heat Wave Broils Southern U.S.</title>
-    <updated>2023-07-14T20:33:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-14:/articles/dangerous-heat-wave-broils-southern-u-s-87f1f969</id>
-    <content type="html">More than 90 million people from California to Florida are under heat alerts.</content>
-    <link href="https://www.wsj.com/articles/dangerous-heat-wave-broils-southern-u-s-87f1f969" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
