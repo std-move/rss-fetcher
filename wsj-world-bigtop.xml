@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-15T13:16:38Z</updated>
+  <updated>2023-07-15T14:10:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Nuclear Tests Ravaged Their Home. Then Their Leaders Drained a Compensation Fund Dry</title>
+    <title>Nuclear Tests Ravaged Their Home. Then Their Leaders Drained a Compensation Fund Dry.</title>
     <updated>2023-07-15T12:20:00Z</updated>
     <id>tag:www.wsj.com,2023-07-15:/articles/nuclear-tests-ravaged-their-home-their-leaders-drained-a-compensation-fund-dry-56f9ecf</id>
     <content type="html">Costly investments and purchases made by Bikini Atoll officials prompt questions from U.S. officials after compensation payments stop.</content>
