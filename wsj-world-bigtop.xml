@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-16T09:11:13Z</updated>
+  <updated>2023-07-16T10:12:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The No-Nonsense Georgia Prosecutor on a Collision Course With Donald Trump</title>
+    <updated>2023-07-16T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-16:/articles/fani-willis-the-no-nonsense-georgia-prosecutor-on-a-collision-course-with-donald-trump-600b88f8</id>
+    <content type="html">District Attorney Fani Willis has carved out a reputation as a no-nonsense prosecutor and workaholic who relishes taking on complex cases.</content>
+    <link href="https://www.wsj.com/articles/fani-willis-the-no-nonsense-georgia-prosecutor-on-a-collision-course-with-donald-trump-600b88f8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Nuclear Tests Ravaged Their Home. Then Their Leaders Drained a Compensation Fund Dry.</title>
     <updated>2023-07-15T17:07:00Z</updated>
