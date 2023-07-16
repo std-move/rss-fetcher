@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-16T16:14:40Z</updated>
+  <updated>2023-07-16T17:10:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-07-16:/articles/everything-is-bigger-in-texas-except-this-buc-ees-ec056a0e</id>
     <content type="html">Locals hope the remote spot will gain a cult following worthy of its name.</content>
     <link href="https://www.wsj.com/articles/everything-is-bigger-in-texas-except-this-buc-ees-ec056a0e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Drugs Like Ozempic Created a Gold Rush. These Drugmakers Want In.</title>
-    <updated>2023-07-16T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-16:/articles/weight-loss-drug-ozempic-gold-rush-baf849bd</id>
-    <content type="html">Companies developing weight-loss drugs have raised or made deals valued at more than $1.4 billion since about a year ago.</content>
-    <link href="https://www.wsj.com/articles/weight-loss-drug-ozempic-gold-rush-baf849bd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
