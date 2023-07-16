@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-16T14:10:15Z</updated>
+  <updated>2023-07-16T15:11:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Everything Is Bigger in Texas. Except This Buc-ee&#39;s.</title>
-    <updated>2023-07-16T13:00:00Z</updated>
+    <updated>2023-07-16T15:02:00Z</updated>
     <id>tag:www.wsj.com,2023-07-16:/articles/everything-is-bigger-in-texas-except-this-buc-ees-ec056a0e</id>
     <content type="html">Locals hope the remote spot will gain a cult following worthy of its name.</content>
     <link href="https://www.wsj.com/articles/everything-is-bigger-in-texas-except-this-buc-ees-ec056a0e" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-07-16:/articles/weight-loss-drug-ozempic-gold-rush-baf849bd</id>
     <content type="html">Companies developing weight-loss drugs have raised or made deals valued at more than $1.4 billion since about a year ago.</content>
     <link href="https://www.wsj.com/articles/weight-loss-drug-ozempic-gold-rush-baf849bd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The No-Nonsense Georgia Prosecutor on a Collision Course With Donald Trump</title>
-    <updated>2023-07-16T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-16:/articles/fani-willis-the-no-nonsense-georgia-prosecutor-on-a-collision-course-with-donald-trump-600b88f8</id>
-    <content type="html">District Attorney Fani Willis has carved out a reputation as a no-nonsense prosecutor and workaholic who relishes taking on complex cases.</content>
-    <link href="https://www.wsj.com/articles/fani-willis-the-no-nonsense-georgia-prosecutor-on-a-collision-course-with-donald-trump-600b88f8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
