@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-17T09:13:09Z</updated>
+  <updated>2023-07-17T10:13:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Bridge Between Crimea and Russia Disabled in Presumed Ukrainian Strikes</title>
-    <updated>2023-07-17T07:55:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-17:/articles/bridge-between-russia-and-crimea-damaged-in-overnight-strike-a3431b88</id>
-    <content type="html">The attack marked the second time the bridge had been hit, potentially constraining Russian supplies to the front lines in southern Ukraine.</content>
-    <link href="https://www.wsj.com/articles/bridge-between-russia-and-crimea-damaged-in-overnight-strike-a3431b88" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
