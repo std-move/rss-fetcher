@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-18T22:10:19Z</updated>
+  <updated>2023-07-18T23:11:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The World Bakes Under Extreme Heat</title>
-    <updated>2023-07-18T20:28:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-18:/articles/extreme-heat-waves-across-the-world-photos-7cc1544d</id>
-    <content type="html">A string of deadly heat waves have upended daily life across much of the world, straining businesses and threatening power grids.</content>
-    <link href="https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
