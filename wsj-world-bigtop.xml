@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-18T03:22:43Z</updated>
+  <updated>2023-07-18T04:13:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>The Man Charged With Steering the Yuan Through China&#39;s Economic Turmoil</title>
-    <updated>2023-07-18T03:00:00Z</updated>
+    <updated>2023-07-18T04:02:00Z</updated>
     <id>tag:www.wsj.com,2023-07-18:/articles/the-man-charged-with-steering-the-yuan-through-chinas-economic-turmoil-37574af8</id>
     <content type="html">Pan Gongsheng has experience in high-stakes tasks, but China’s fragile economy raises new risks.</content>
     <link href="https://www.wsj.com/articles/the-man-charged-with-steering-the-yuan-through-chinas-economic-turmoil-37574af8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>The Best of Frenemies: Saudi Crown Prince Clashes With U.A.E. President</title>
+    <updated>2023-07-18T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-18:/articles/frenemies-saudi-crown-prince-mbs-clashes-uae-president-mbz-c500f9b1</id>
+    <content type="html">The Saudi leader has pulled away from his former mentor as they compete to dominate the Gulf, where U.S. power has waned.</content>
+    <link href="https://www.wsj.com/articles/frenemies-saudi-crown-prince-mbs-clashes-uae-president-mbz-c500f9b1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Ukraine Adopts Slow Approach to Counteroffensive</title>
-    <updated>2023-07-18T03:00:00Z</updated>
+    <updated>2023-07-18T04:00:00Z</updated>
     <id>tag:www.wsj.com,2023-07-18:/articles/ukraine-adopts-slow-approach-to-counteroffensive-our-problem-everywhere-is-the-sky-a2e51d7a</id>
     <content type="html">The swift loss of several tanks and infantry fighting vehicles, many of them immobilized by mines or missiles from attack helicopters, has jolted Ukraine and its Western backers.  </content>
     <link href="https://www.wsj.com/articles/ukraine-adopts-slow-approach-to-counteroffensive-our-problem-everywhere-is-the-sky-a2e51d7a" rel="alternate"></link>
