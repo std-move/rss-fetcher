@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-18T09:11:44Z</updated>
+  <updated>2023-07-18T10:12:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Man Charged With Steering the Yuan Through China&#39;s Economic Turmoil</title>
-    <updated>2023-07-18T04:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-18:/articles/the-man-charged-with-steering-the-yuan-through-chinas-economic-turmoil-37574af8</id>
-    <content type="html">Pan Gongsheng has experience in high-stakes tasks, but China’s fragile economy raises new risks.</content>
-    <link href="https://www.wsj.com/articles/the-man-charged-with-steering-the-yuan-through-chinas-economic-turmoil-37574af8" rel="alternate"></link>
+    <title>To Treat Extreme Heat, Ice-Packed Body Bags and Wet Gowns</title>
+    <updated>2023-07-18T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-18:/articles/to-treat-extreme-heat-ice-packed-body-bags-and-wet-gowns-7c35c5c9</id>
+    <content type="html">Ice, water and fans are among the remedies for nausea, muscle cramps and comas caused by high body temperatures.</content>
+    <link href="https://www.wsj.com/articles/to-treat-extreme-heat-ice-packed-body-bags-and-wet-gowns-7c35c5c9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
