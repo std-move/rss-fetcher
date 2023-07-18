@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-18T02:56:50Z</updated>
+  <updated>2023-07-18T03:22:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Man Charged With Steering the Yuan Through China&#39;s Economic Turmoil</title>
+    <updated>2023-07-18T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-18:/articles/the-man-charged-with-steering-the-yuan-through-chinas-economic-turmoil-37574af8</id>
+    <content type="html">Pan Gongsheng has experience in high-stakes tasks, but China’s fragile economy raises new risks.</content>
+    <link href="https://www.wsj.com/articles/the-man-charged-with-steering-the-yuan-through-chinas-economic-turmoil-37574af8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Adopts Slow Approach to Counteroffensive</title>
+    <updated>2023-07-18T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-18:/articles/ukraine-adopts-slow-approach-to-counteroffensive-our-problem-everywhere-is-the-sky-a2e51d7a</id>
+    <content type="html">The swift loss of several tanks and infantry fighting vehicles, many of them immobilized by mines or missiles from attack helicopters, has jolted Ukraine and its Western backers.  </content>
+    <link href="https://www.wsj.com/articles/ukraine-adopts-slow-approach-to-counteroffensive-our-problem-everywhere-is-the-sky-a2e51d7a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
