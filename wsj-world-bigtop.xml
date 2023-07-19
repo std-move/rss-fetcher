@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-19T18:13:44Z</updated>
+  <updated>2023-07-19T19:09:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Blasts Hit Military Base in Russian-Occupied Crimea</title>
+    <updated>2023-07-19T18:31:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-19:/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1</id>
+    <content type="html">The explosions prompted an evacuation and followed a Ukrainian attack on key bridge linking the peninsula to Russia.</content>
+    <link href="https://www.wsj.com/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Extreme Heat Sends Nauseated, Comatose Patients to Hospitals Around U.S.</title>
     <updated>2023-07-19T17:57:00Z</updated>
     <id>tag:www.wsj.com,2023-07-19:/articles/to-treat-extreme-heat-ice-packed-body-bags-and-wet-gowns-7c35c5c9</id>
     <content type="html">Ice, water and fans are among the remedies for symptoms caused by high body temperatures.</content>
     <link href="https://www.wsj.com/articles/to-treat-extreme-heat-ice-packed-body-bags-and-wet-gowns-7c35c5c9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Blasts Hit Military Base in Russian-Occupied Crimea</title>
-    <updated>2023-07-19T17:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-19:/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1</id>
-    <content type="html">The explosions prompted an evacuation and followed a Ukrainian attack on key bridge linking the peninsula to Russia.</content>
-    <link href="https://www.wsj.com/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
