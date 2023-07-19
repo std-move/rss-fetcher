@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-19T15:11:39Z</updated>
+  <updated>2023-07-19T16:14:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Think You Never Got Covid-19? Thank Your Genes</title>
-    <updated>2023-07-19T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-19:/articles/think-you-never-got-covid-19-thank-your-genes-d61c7507</id>
-    <content type="html">A genetic variation increases some people’s odds of avoiding symptoms after infection.</content>
-    <link href="https://www.wsj.com/articles/think-you-never-got-covid-19-thank-your-genes-d61c7507" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Blasts Hit Military Base in Russian-Occupied Crimea</title>
-    <updated>2023-07-19T14:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-19:/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1</id>
-    <content type="html">The explosions prompted an evacuation and followed a Ukrainian attack on key bridge linking the peninsula to Russia.</content>
-    <link href="https://www.wsj.com/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1" rel="alternate"></link>
+    <title>The World Bakes Under Extreme Heat</title>
+    <updated>2023-07-19T15:18:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-19:/articles/extreme-heat-waves-across-the-world-photos-7cc1544d</id>
+    <content type="html">A string of deadly heat waves has upended daily life across much of the world, straining businesses and threatening power grids.</content>
+    <link href="https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
