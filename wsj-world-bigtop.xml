@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-19T14:10:26Z</updated>
+  <updated>2023-07-19T15:11:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Welcome to Summer Camp! You Can Play Outside for 15 Minutes.</title>
-    <updated>2023-07-19T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-19:/articles/welcome-to-summer-camp-you-can-play-outside-for-15-minutes-ccf9ac28</id>
-    <content type="html">Extreme heat forces camps to limit children’s time outdoors. ‘It’s like walking into a convection oven.’</content>
-    <link href="https://www.wsj.com/articles/welcome-to-summer-camp-you-can-play-outside-for-15-minutes-ccf9ac28" rel="alternate"></link>
+    <title>Think You Never Got Covid-19? Thank Your Genes</title>
+    <updated>2023-07-19T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-19:/articles/think-you-never-got-covid-19-thank-your-genes-d61c7507</id>
+    <content type="html">A genetic variation increases some people’s odds of avoiding symptoms after infection.</content>
+    <link href="https://www.wsj.com/articles/think-you-never-got-covid-19-thank-your-genes-d61c7507" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Blasts Hit Military Base in Russian-Occupied Crimea</title>
-    <updated>2023-07-19T12:59:00Z</updated>
+    <updated>2023-07-19T14:25:00Z</updated>
     <id>tag:www.wsj.com,2023-07-19:/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1</id>
     <content type="html">The explosions prompted an evacuation and followed a Ukrainian attack on key bridge linking the peninsula to Russia.</content>
     <link href="https://www.wsj.com/articles/blasts-hit-military-base-in-russian-occupied-crimea-c9c1ffc1" rel="alternate"></link>
