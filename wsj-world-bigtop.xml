@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-21T07:10:07Z</updated>
+  <updated>2023-07-21T08:13:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Seeks to Divert Ukrainian Forces Away From Counteroffensive</title>
+    <updated>2023-07-21T07:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-21:/articles/russia-seeks-to-divert-ukrainian-forces-away-from-counteroffensive-80580e89</id>
+    <content type="html">As Ukrainian forces edge forward in the south and east of the country, Russia is pressing an offensive in the north.</content>
+    <link href="https://www.wsj.com/articles/russia-seeks-to-divert-ukrainian-forces-away-from-counteroffensive-80580e89" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
