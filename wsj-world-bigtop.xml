@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-21T12:22:01Z</updated>
+  <updated>2023-07-21T13:14:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Texas&#39; Billion-Dollar Push on Border Security Isn&#39;t Paying Off</title>
-    <updated>2023-07-21T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-21:/articles/texas-billion-dollar-border-security-migration-isn-t-paying-off-16ed598d</id>
-    <content type="html">Operation Lone Star, with $4.5 billion spent so far, has had little effect on migration while facing charges of civil-rights abuses.</content>
-    <link href="https://www.wsj.com/articles/texas-billion-dollar-border-security-migration-isn-t-paying-off-16ed598d" rel="alternate"></link>
+    <title>Flying Wings, Rockets, Gliders: Air Force Envisions Its Next Cargo Workhorses</title>
+    <updated>2023-07-21T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-21:/articles/united-states-air-force-cargo-plane-development-china-1075021a</id>
+    <content type="html">The Pentagon wants a fleet able to fly vast distances in support of U.S. forces in the Pacific under the policy to deter China.</content>
+    <link href="https://www.wsj.com/articles/united-states-air-force-cargo-plane-development-china-1075021a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
