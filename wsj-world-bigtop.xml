@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-23T13:12:04Z</updated>
+  <updated>2023-07-23T14:08:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Deadly School Fire Casts Light on Sexual Exploitation in Guyana Mining Town</title>
-    <updated>2023-07-23T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-23:/articles/deadly-school-fire-casts-light-on-sexual-exploitation-in-guyana-mining-town-236d033</id>
-    <content type="html">Poverty and childhood abuse remain entrenched even as Exxon-led oil discoveries transform the economy.</content>
-    <link href="https://www.wsj.com/articles/deadly-school-fire-casts-light-on-sexual-exploitation-in-guyana-mining-town-236d033" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
