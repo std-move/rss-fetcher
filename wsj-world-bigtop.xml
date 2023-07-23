@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-23T10:10:20Z</updated>
+  <updated>2023-07-23T11:08:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>Ukraine&#39;s Lack of Weaponry and Training Risks Stalemate in Fight With Russia</title>
     <updated>2023-07-23T04:04:00Z</updated>
     <id>tag:www.wsj.com,2023-07-23:/articles/ukraines-lack-of-weaponry-and-training-risks-stalemate-in-fight-with-russia-f51ecf9</id>
-    <content type="html">U.S. and Ukraine knew of shortfalls in training and weapons, but Kyiv still launched offensive.</content>
+    <content type="html">The U.S. and Ukraine knew of the shortfalls, but Kyiv still launched its offensive.</content>
     <link href="https://www.wsj.com/articles/ukraines-lack-of-weaponry-and-training-risks-stalemate-in-fight-with-russia-f51ecf9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
