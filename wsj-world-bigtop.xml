@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-23T09:09:45Z</updated>
+  <updated>2023-07-23T10:10:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Deadly School Fire Casts Light on Sexual Exploitation in Guyana Mining Town</title>
+    <updated>2023-07-23T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-23:/articles/deadly-school-fire-casts-light-on-sexual-exploitation-in-guyana-mining-town-236d033</id>
+    <content type="html">Poverty and childhood abuse remain entrenched even as Exxon-led oil discoveries transform the economy.</content>
+    <link href="https://www.wsj.com/articles/deadly-school-fire-casts-light-on-sexual-exploitation-in-guyana-mining-town-236d033" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Lack of Weaponry and Training Risks Stalemate in Fight With Russia</title>
     <updated>2023-07-23T04:04:00Z</updated>
     <id>tag:www.wsj.com,2023-07-23:/articles/ukraines-lack-of-weaponry-and-training-risks-stalemate-in-fight-with-russia-f51ecf9</id>
     <content type="html">U.S. and Ukraine knew of shortfalls in training and weapons, but Kyiv still launched offensive.</content>
     <link href="https://www.wsj.com/articles/ukraines-lack-of-weaponry-and-training-risks-stalemate-in-fight-with-russia-f51ecf9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Summer Rental Market Cools Off After Pandemic Boom</title>
-    <updated>2023-07-22T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-22:/articles/summer-rental-market-cools-off-after-pandemic-boom-4997e1d</id>
-    <content type="html">Many summer rentals are standing empty this year on Cape Cod and in other vacation spots, including New York’s Hamptons, real-estate agents and property-rental experts say.</content>
-    <link href="https://www.wsj.com/articles/summer-rental-market-cools-off-after-pandemic-boom-4997e1d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
