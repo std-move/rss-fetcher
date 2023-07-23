@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-22T23:10:05Z</updated>
+  <updated>2023-07-23T01:08:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-07-22:/articles/summer-rental-market-cools-off-after-pandemic-boom-4997e1d</id>
     <content type="html">Many summer rentals are standing empty this year on Cape Cod and in other vacation spots, including New York’s Hamptons, real-estate agents and property-rental experts say.</content>
     <link href="https://www.wsj.com/articles/summer-rental-market-cools-off-after-pandemic-boom-4997e1d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Heat Waves Spread, So Too Do Unruly Climate Protests</title>
-    <updated>2023-07-22T09:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-22:/articles/as-heat-waves-spread-so-too-do-unruly-climate-protests-a896cb1</id>
-    <content type="html">Activists are taking radical steps to get governments to cut emissions, but worry about alienating some of those they hope to win over.</content>
-    <link href="https://www.wsj.com/articles/as-heat-waves-spread-so-too-do-unruly-climate-protests-a896cb1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Race to Avert an Oil Spill That Could Cost $20 Billion to Fix</title>
-    <updated>2023-07-22T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-22:/articles/the-race-to-avert-an-oil-spill-that-could-cost-20-billion-to-fix-85a884ea</id>
-    <content type="html">A rusting tanker is threatening to break apart and spill more than a million barrels of oil into the fragile ecosystem off the coast of Yemen.</content>
-    <link href="https://www.wsj.com/articles/the-race-to-avert-an-oil-spill-that-could-cost-20-billion-to-fix-85a884ea" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
