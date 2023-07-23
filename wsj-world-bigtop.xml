@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-23T22:09:27Z</updated>
+  <updated>2023-07-23T23:10:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The Race to Avert an Oil Spill That Could Cost $20 Billion to Fix</title>
-    <updated>2023-07-23T20:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-23:/articles/the-race-to-avert-an-oil-spill-that-could-cost-20-billion-to-fix-85a884ea</id>
-    <content type="html">A rusting tanker is threatening to break apart and spill more than a million barrels of oil into the fragile ecosystem off the coast of Yemen.</content>
-    <link href="https://www.wsj.com/articles/the-race-to-avert-an-oil-spill-that-could-cost-20-billion-to-fix-85a884ea" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
