@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-23T14:08:48Z</updated>
+  <updated>2023-07-23T15:10:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>From Moby Dick to Wind Farms: East Coast Tries to Pivot Centuries-Old Ports</title>
+    <updated>2023-07-23T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-23:/articles/from-moby-dick-to-wind-farms-east-coast-tries-to-pivot-centuries-old-ports-a1b3548b</id>
+    <content type="html">Turbine parts arrive in New London and New Bedford as future projects deal with surging costs.</content>
+    <link href="https://www.wsj.com/articles/from-moby-dick-to-wind-farms-east-coast-tries-to-pivot-centuries-old-ports-a1b3548b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
