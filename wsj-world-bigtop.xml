@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-24T02:31:49Z</updated>
+  <updated>2023-07-24T03:11:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Who Will Control Wagner&#39;s Empire of War and Gold?</title>
+    <updated>2023-07-24T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-24:/articles/who-will-control-wagners-empire-of-war-and-gold-22444d60</id>
+    <content type="html">This complex network of companies that make up Yevgeny Prigozhin’s paramilitary group will make any takeover by Vladimir Putin a challenge.</content>
+    <link href="https://www.wsj.com/articles/who-will-control-wagners-empire-of-war-and-gold-22444d60" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
