@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-24T14:10:58Z</updated>
+  <updated>2023-07-24T15:11:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As Cleanup of Ohio Train Derailment Slogs Along, Residents Still Feel Unsafe</title>
+    <updated>2023-07-24T15:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-24:/articles/ohio-train-derailment-norfolk-southern-update-cb5815ee</id>
+    <content type="html">Six months after Norfolk Southern accident, those who call East Palestine home worry about contamination</content>
+    <link href="https://www.wsj.com/articles/ohio-train-derailment-norfolk-southern-update-cb5815ee" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Yosemite Might Bring Back Reservations as Park Is Overwhelmed With Crowds Again</title>
+    <updated>2023-07-24T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-24:/articles/yosemite-might-bring-back-reservations-as-park-is-overwhelmed-with-crowds-again-98e759b4</id>
+    <content type="html">Lines are as long as three hours and people are leaving human waste in parking lots since the national park started letting anyone enter this summer.</content>
+    <link href="https://www.wsj.com/articles/yosemite-might-bring-back-reservations-as-park-is-overwhelmed-with-crowds-again-98e759b4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
