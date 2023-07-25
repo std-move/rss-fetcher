@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-25T04:13:06Z</updated>
+  <updated>2023-07-25T05:10:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine&#39;s Stalled Offensive Puts Biden in Uneasy Political Position</title>
-    <updated>2023-07-25T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-25:/articles/ukraines-stalled-offensive-puts-biden-in-uneasy-political-position-6f686ab5</id>
-    <content type="html">The administration’s hopes that Kyiv could negotiate with Moscow fade with Ukraine’s slow progress on the ground.</content>
-    <link href="https://www.wsj.com/articles/ukraines-stalled-offensive-puts-biden-in-uneasy-political-position-6f686ab5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
