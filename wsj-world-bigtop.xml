@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-25T13:17:23Z</updated>
+  <updated>2023-07-25T14:10:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Pouring Ice Into Concrete: Builders Adapt to Extreme Heat</title>
-    <updated>2023-07-25T12:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-25:/articles/pouring-ice-into-concrete-builders-adapt-to-extreme-heat-25142854</id>
-    <content type="html">Engineers and architects seek solutions as roads, bridges and train tracks are buckling from extreme heat gripping the globe.</content>
-    <link href="https://www.wsj.com/articles/pouring-ice-into-concrete-builders-adapt-to-extreme-heat-25142854" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Allies in Asia Snub Natural Gas From Alaska Project</title>
-    <updated>2023-07-25T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-25:/articles/u-s-allies-in-asia-snub-natural-gas-from-alaska-project-e54f754a</id>
-    <content type="html">Potential buyers are concerned about the lack of major investment commitments by big U.S. energy companies in the $44 billion project.</content>
-    <link href="https://www.wsj.com/articles/u-s-allies-in-asia-snub-natural-gas-from-alaska-project-e54f754a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
