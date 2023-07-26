@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-26T07:10:02Z</updated>
+  <updated>2023-07-26T08:13:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>It&#39;s So Hot, They&#39;re Growing Mangoes in Italy</title>
-    <updated>2023-07-26T04:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-26:/articles/its-so-hot-theyre-growing-mangoes-in-italy-55b97d58</id>
-    <content type="html">The climate in the Mediterranean is changing faster than in most places on Earth, offering a preview into the challenges of feeding a warmer planet.</content>
-    <link href="https://www.wsj.com/articles/its-so-hot-theyre-growing-mangoes-in-italy-55b97d58" rel="alternate"></link>
+    <title>What&#39;s Happening in Israel? Protests and Strikes Over Netanyahu&#39;s Judicial Overhaul</title>
+    <updated>2023-07-26T07:52:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-26:/articles/israel-protests-judicial-overhaul-netanyahu-7e264a71</id>
+    <content type="html">Here is what to know as the Israeli leader’s moves divide the country, sparking mass protests.</content>
+    <link href="https://www.wsj.com/articles/israel-protests-judicial-overhaul-netanyahu-7e264a71" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Italy Says it Will Build the Longest Suspension Bridge in the World. Don&#39;t Hold Your Breath.</title>
+    <updated>2023-07-26T07:46:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-26:/articles/italy-says-it-will-build-the-longest-suspension-bridge-in-the-world-dont-hold-your-breath-71b7cc86</id>
+    <content type="html">The country’s politicians have discussed building a single-span suspension bridge between Sicily and the Italian mainland for 160 years.</content>
+    <link href="https://www.wsj.com/articles/italy-says-it-will-build-the-longest-suspension-bridge-in-the-world-dont-hold-your-breath-71b7cc86" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
