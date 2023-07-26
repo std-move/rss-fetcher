@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-26T14:10:01Z</updated>
+  <updated>2023-07-26T15:10:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-07-26:/articles/china-youth-unemployment-xi-jobs-522028c5</id>
     <content type="html">The nation needs workers, but college graduates shun low-skill work. Many have opted out of the job market and are ‘lying flat.’</content>
     <link href="https://www.wsj.com/articles/china-youth-unemployment-xi-jobs-522028c5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What&#39;s Happening in Israel? Protests and Strikes Over Netanyahu&#39;s Judicial Overhaul</title>
-    <updated>2023-07-26T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-26:/articles/israel-protests-judicial-overhaul-netanyahu-7e264a71</id>
-    <content type="html">Here is what to know as the Israeli leader’s moves divide the country, sparking mass protests.</content>
-    <link href="https://www.wsj.com/articles/israel-protests-judicial-overhaul-netanyahu-7e264a71" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
