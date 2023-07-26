@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-26T11:08:57Z</updated>
+  <updated>2023-07-26T12:21:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As War Becomes Grinding Fight, Medics Battle to Save Soldiers in Ukraine</title>
+    <updated>2023-07-26T12:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-26:/articles/as-war-becomes-grinding-fight-medics-battle-to-save-soldiers-in-ukraine-b04a976a</id>
+    <content type="html">Mines and lack of training are causing high casualties in the country’s fight with Russia that has become a war of attrition.</content>
+    <link href="https://www.wsj.com/articles/as-war-becomes-grinding-fight-medics-battle-to-save-soldiers-in-ukraine-b04a976a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
