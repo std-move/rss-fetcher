@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-26T02:33:28Z</updated>
+  <updated>2023-07-26T03:11:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>It&#39;s So Hot, They&#39;re Growing Mangoes in Italy</title>
+    <updated>2023-07-26T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-26:/articles/its-so-hot-theyre-growing-mangoes-in-italy-55b97d58</id>
+    <content type="html">The climate in the Mediterranean is changing faster than in most places on Earth, offering a preview into the challenges of feeding a warmer planet.</content>
+    <link href="https://www.wsj.com/articles/its-so-hot-theyre-growing-mangoes-in-italy-55b97d58" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
