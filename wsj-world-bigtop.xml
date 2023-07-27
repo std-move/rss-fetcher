@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-27T15:10:57Z</updated>
+  <updated>2023-07-27T16:13:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-07-27:/articles/catherine-the-great-founded-odesa-now-missiles-are-destroying-its-russian-legacy-73f98c7c</id>
     <content type="html">Attacks on the Ukrainian city’s cathedral and historic center are turning even more of its residents against Moscow.</content>
     <link href="https://www.wsj.com/articles/catherine-the-great-founded-odesa-now-missiles-are-destroying-its-russian-legacy-73f98c7c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Biden&#39;s New Border Rules Don&#39;t Deter Venezuelans</title>
-    <updated>2023-07-27T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-27:/articles/bidens-new-border-rules-dont-deter-desperate-venezuelans-9a3c022b</id>
-    <content type="html">Illegal crossings at the U.S. southern border are down, but Venezuelan refugees with few options still seek to enter.</content>
-    <link href="https://www.wsj.com/articles/bidens-new-border-rules-dont-deter-desperate-venezuelans-9a3c022b" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
