@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-27T18:13:17Z</updated>
+  <updated>2023-07-27T19:08:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Video of India Sexual Assault Puts Pressure on Modi Government Over Ethnic Conflict</title>
-    <updated>2023-07-27T16:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-27:/articles/video-of-india-sexual-assault-puts-pressure-on-modi-government-over-ethnic-conflict-33297cc7</id>
-    <content type="html">The alleged assault took place in a state where conflict between two ethnic groups has led to months of violence.</content>
-    <link href="https://www.wsj.com/articles/video-of-india-sexual-assault-puts-pressure-on-modi-government-over-ethnic-conflict-33297cc7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
