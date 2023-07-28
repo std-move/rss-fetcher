@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-28T02:02:52Z</updated>
+  <updated>2023-07-28T03:11:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>How Foreign Thieves Are Scamming Americans on Welfare</title>
-    <updated>2023-07-28T01:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-28:/articles/how-foreign-thieves-are-scamming-americans-on-welfare-9c48d0eb</id>
-    <content type="html">Cons involve $158,000 of energy drinks bought with stolen food stamps, part of a growing problem that is particularly bad in Los Angeles.</content>
-    <link href="https://www.wsj.com/articles/how-foreign-thieves-are-scamming-americans-on-welfare-9c48d0eb" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
