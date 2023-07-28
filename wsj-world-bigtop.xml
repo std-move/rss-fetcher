@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-28T09:10:38Z</updated>
+  <updated>2023-07-28T10:11:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>If You Love Red Meat, Watch Out for These Ticks</title>
+    <updated>2023-07-28T10:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-07-28:/articles/if-you-love-red-meat-watch-out-for-these-ticks-b8466135</id>
+    <content type="html">CDC estimates up to 450,000 people could have red-meat allergy linked to lone star tick bites.</content>
+    <link href="https://www.wsj.com/articles/if-you-love-red-meat-watch-out-for-these-ticks-b8466135" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
