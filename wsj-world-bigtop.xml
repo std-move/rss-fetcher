@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-30T14:08:40Z</updated>
+  <updated>2023-07-30T15:09:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Transgender America Fights Back</title>
     <updated>2023-07-30T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-07-30:/articles/transgender-america-fights-back-a2c841f0</id>
-    <content type="html">From sanctuary states to the courts, lawyers and political allies resist Republican bans on transgender care for minors.</content>
+    <content type="html">From sanctuary states to the courts, lawyers and political allies are resisting Republican bans on transgender care for minors.</content>
     <link href="https://www.wsj.com/articles/transgender-america-fights-back-a2c841f0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>America&#39;s Military Trails Rivals in Race for the Melting Arctic</title>
+    <title>America&#39;s Military Trails Russia and China in Race for the Melting Arctic</title>
     <updated>2023-07-30T11:59:00Z</updated>
     <id>tag:www.wsj.com,2023-07-30:/articles/americas-military-falls-behind-russia-china-race-for-melting-arctic-2a71dfac</id>
-    <content type="html">The U.S. is competing with a Russian-Chinese partnership for a strategic presence but has fewer icebreakers and ports, and less experience. This article is part of a series examining the problems confronting America’s military.</content>
+    <content type="html">The U.S. is competing with a partnership between the two countries but has fewer icebreakers and ports, and less experience. This article is part of a series examining the problems confronting America’s military.</content>
     <link href="https://www.wsj.com/articles/americas-military-falls-behind-russia-china-race-for-melting-arctic-2a71dfac" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
