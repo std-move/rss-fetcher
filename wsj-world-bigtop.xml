@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-07-30T01:00:53Z</updated>
+  <updated>2023-07-30T02:25:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Iran Renews Crackdown on Women Who Defy Islamic Dress Code</title>
-    <updated>2023-07-29T11:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-07-29:/articles/iran-renews-crackdown-on-women-who-defy-islamic-dress-code-a805794b</id>
-    <content type="html">Authorities have reinstated street patrols and shut businesses where staffers flout a rule that requires women to cover their hair with a headscarf, or hijab.</content>
-    <link href="https://www.wsj.com/articles/iran-renews-crackdown-on-women-who-defy-islamic-dress-code-a805794b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
