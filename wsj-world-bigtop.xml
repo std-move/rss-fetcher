@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-01T11:08:53Z</updated>
+  <updated>2023-08-01T12:22:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-08-01:/articles/in-ukraine-a-surge-in-amputations-reveals-the-human-cost-of-russias-war-d0bca320</id>
     <content type="html">Tens of thousands of Ukrainians have lost limbs since the start of the war, according to new estimates, a toll not seen in recent armed conflicts in the West.</content>
     <link href="https://www.wsj.com/articles/in-ukraine-a-surge-in-amputations-reveals-the-human-cost-of-russias-war-d0bca320" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why the Nation&#39;s Gun Laws Are in Chaos</title>
-    <updated>2023-08-01T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-01:/articles/why-the-nations-gun-laws-are-in-chaos-587ded3f</id>
-    <content type="html">Judges clash over history a year after Supreme Court upended how courts decide Second Amendment cases—‘”he whole thing puzzles me.”</content>
-    <link href="https://www.wsj.com/articles/why-the-nations-gun-laws-are-in-chaos-587ded3f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
