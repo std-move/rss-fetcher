@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-02T16:14:17Z</updated>
+  <updated>2023-08-02T17:09:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Drawn-Out Ukraine War Opens New Risks for China</title>
+    <updated>2023-08-02T16:37:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-02:/articles/a-drawn-out-ukraine-war-opens-new-risks-for-china-e5fe8b7c</id>
+    <content type="html">With no clear sign of victory or capitulation on either side, Beijing may have more reason to push Moscow and Kyiv toward peace talks.</content>
+    <link href="https://www.wsj.com/articles/a-drawn-out-ukraine-war-opens-new-risks-for-china-e5fe8b7c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
