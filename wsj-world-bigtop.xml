@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-02T13:14:06Z</updated>
+  <updated>2023-08-02T14:10:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Dam Failures Show Harsh Reality of Aging Infrastructure</title>
+    <updated>2023-08-02T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-02:/articles/on-one-texas-river-four-dam-failures-show-harsh-reality-of-aging-infrastructure-bfc0f279</id>
+    <content type="html">On one Texas river, grassroot groups step in to tax themselves to bring lakes back.</content>
+    <link href="https://www.wsj.com/articles/on-one-texas-river-four-dam-failures-show-harsh-reality-of-aging-infrastructure-bfc0f279" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Makeshift Bases and Fast-Moving Troops: How the Marines Train to Thwart China</title>
     <updated>2023-08-02T12:00:00Z</updated>
