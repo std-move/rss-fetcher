@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-02T01:56:55Z</updated>
+  <updated>2023-08-02T02:25:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Six Co-Conspirators Described in Trump&#39;s 2020 Election Indictment</title>
+    <updated>2023-08-02T02:03:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-02:/articles/six-co-conspirators-described-in-trumps-2020-election-indictment-1475445d</id>
+    <content type="html">The former president’s orbit is under scrutiny for efforts to spread lies and submit fake electors.</content>
+    <link href="https://www.wsj.com/articles/six-co-conspirators-described-in-trumps-2020-election-indictment-1475445d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
