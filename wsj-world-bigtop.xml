@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-03T15:11:58Z</updated>
+  <updated>2023-08-03T16:12:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Rags-to-Riches Female Candidate Shakes Up Mexico Presidential Race</title>
-    <updated>2023-08-03T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-03:/articles/rags-to-riches-female-candidate-shakes-up-mexico-presidential-race-abf1ba86</id>
-    <content type="html">Xóchitl Gálvez, who sold tamales as a child, has sparred with President Andrés Manuel López Obrador and given encouragement to a dispirited opposition.</content>
-    <link href="https://www.wsj.com/articles/rags-to-riches-female-candidate-shakes-up-mexico-presidential-race-abf1ba86" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
