@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-03T13:14:00Z</updated>
+  <updated>2023-08-03T14:10:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Tragedy of Being a New Mom in America</title>
-    <updated>2023-08-03T12:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-03:/articles/mothers-mental-health-women-postpartum-depression-7b548f43</id>
-    <content type="html">One in five mothers in the U.S. suffer from mood and anxiety disorders during pregnancy or soon after birth. For many, help is hard to find.</content>
-    <link href="https://www.wsj.com/articles/mothers-mental-health-women-postpartum-depression-7b548f43" rel="alternate"></link>
+    <title>Rags-to-Riches Female Candidate Shakes Up Mexico Presidential Race</title>
+    <updated>2023-08-03T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-03:/articles/rags-to-riches-female-candidate-shakes-up-mexico-presidential-race-abf1ba86</id>
+    <content type="html">Xóchitl Gálvez, who sold tamales as a child, has sparred with President Andrés Manuel López Obrador and given encouragement to a dispirited opposition.</content>
+    <link href="https://www.wsj.com/articles/rags-to-riches-female-candidate-shakes-up-mexico-presidential-race-abf1ba86" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
