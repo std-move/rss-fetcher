@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-05T08:12:34Z</updated>
+  <updated>2023-08-05T09:09:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Struggles to Retake Bakhmut From Dogged Russian Fighters</title>
-    <updated>2023-08-05T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-05:/articles/ukraine-struggles-to-retake-bakhmut-from-dogged-russian-fighters-c8945b93</id>
-    <content type="html">Soldiers say advances have slowed in recent days against Russian defenses and counterattacks, denting hopes that Kyiv could soon retake the pivotal city.</content>
-    <link href="https://www.wsj.com/articles/ukraine-struggles-to-retake-bakhmut-from-dogged-russian-fighters-c8945b93" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
