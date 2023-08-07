@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-07T04:12:45Z</updated>
+  <updated>2023-08-07T05:10:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>New Jerseyans Don&#39;t Pump Gas. That&#39;s Just How They Like It.</title>
-    <updated>2023-08-07T04:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-07:/articles/new-jersey-pump-your-own-gas-full-service-stations-59a9102d</id>
-    <content type="html">Many Garden State residents are proud to be the last U.S. state to prohibit self-service gas stations.</content>
-    <link href="https://www.wsj.com/articles/new-jersey-pump-your-own-gas-full-service-stations-59a9102d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Ukraine&#39;s Ammunition Chief Battles to Boost Production</title>
     <updated>2023-08-07T04:03:00Z</updated>
     <id>tag:www.wsj.com,2023-08-07:/articles/ukraines-ammunition-chief-battles-to-boost-production-563e5fac</id>
     <content type="html">Oleksandr Kamyshin, formerly the head of the state railway company, now faces the challenge of bringing Ukraine’s defense industry up to speed as the war with Russia drags on.</content>
     <link href="https://www.wsj.com/articles/ukraines-ammunition-chief-battles-to-boost-production-563e5fac" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>New Jerseyans Don&#39;t Pump Gas. That&#39;s Just How They Like It.</title>
+    <updated>2023-08-07T04:03:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-07:/articles/new-jersey-pump-your-own-gas-full-service-stations-59a9102d</id>
+    <content type="html">Many Garden State residents are proud to be the last U.S. state to prohibit self-service gas stations.</content>
+    <link href="https://www.wsj.com/articles/new-jersey-pump-your-own-gas-full-service-stations-59a9102d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
