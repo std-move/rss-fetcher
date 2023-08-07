@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-07T11:08:47Z</updated>
+  <updated>2023-08-07T12:21:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Jack Smith Is Known to Take On Tough Cases. But He Doesn&#39;t Always Win.</title>
-    <updated>2023-08-07T09:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-07:/articles/jack-smith-is-known-to-take-on-tough-cases-but-he-doesnt-always-win-d6631aad</id>
-    <content type="html">The special counsel responsible for two indictments of Donald Trump has a decidedly mixed record, marked by big wins and high-profile setbacks.</content>
-    <link href="https://www.wsj.com/articles/jack-smith-is-known-to-take-on-tough-cases-but-he-doesnt-always-win-d6631aad" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
