@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-08T02:00:59Z</updated>
+  <updated>2023-08-08T03:11:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>What Is Happening in Niger? What to Know About the Coup</title>
-    <updated>2023-08-07T22:29:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-07:/articles/niger-coup-president-us-fumble-russia-africa-86cf1454-33d18bc</id>
-    <content type="html">The ouster of the elected president of Niger, a U.S. counterterrorism ally in West Africa, has prompted threats of a military intervention.</content>
-    <link href="https://www.wsj.com/articles/niger-coup-president-us-fumble-russia-africa-86cf1454-33d18bc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
