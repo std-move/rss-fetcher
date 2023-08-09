@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-09T03:11:05Z</updated>
+  <updated>2023-08-09T04:12:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>One of America&#39;s Favorite Generals Leads the Niger Coup</title>
+    <updated>2023-08-09T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-09:/articles/niger-coup-us-trained-general-65b5ecd6</id>
+    <content type="html">Brig. Gen. Moussa Salaou Barmou, long courted by Washington as a partner against Islamist extremism, has emerged as the main diplomatic channel between the U.S. and the junta.</content>
+    <link href="https://www.wsj.com/articles/niger-coup-us-trained-general-65b5ecd6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Returning Ukrainian Refugees Say There&#39;s No Place Like Home</title>
     <updated>2023-08-09T03:00:00Z</updated>
