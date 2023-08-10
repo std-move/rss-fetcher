@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-10T03:11:12Z</updated>
+  <updated>2023-08-10T04:13:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Ally Promised to Send Aid to Sudan. It Sent Weapons Instead.</title>
+    <updated>2023-08-10T04:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-10:/articles/a-u-s-ally-promised-to-send-aid-to-sudan-it-sent-weapons-instead-82d396f</id>
+    <content type="html">Arms shipments from the United Arab Emirates are fueling a war that has killed more than 3,900 people and run counter to Biden administration efforts to mediate an end to the conflict.</content>
+    <link href="https://www.wsj.com/articles/a-u-s-ally-promised-to-send-aid-to-sudan-it-sent-weapons-instead-82d396f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
