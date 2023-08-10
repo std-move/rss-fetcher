@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-10T12:23:48Z</updated>
+  <updated>2023-08-10T13:16:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia Aims to Restore Prestige in Race to Moon&#39;s South Pole</title>
+    <updated>2023-08-10T12:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-10:/articles/russia-aims-to-restore-prestige-in-race-to-moons-south-pole-86c25170</id>
+    <content type="html">Success could signal Moscow’s ability to overcome sanctions and demonstrate its technological prowess, but the challenges are severe.</content>
+    <link href="https://www.wsj.com/articles/russia-aims-to-restore-prestige-in-race-to-moons-south-pole-86c25170" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine Uses Small-Unit Tactics to Retake Captured Territory From Russia</title>
     <updated>2023-08-10T11:52:00Z</updated>
