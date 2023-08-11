@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-11T17:09:27Z</updated>
+  <updated>2023-08-11T18:12:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Maui Wildfires: Recovery Efforts Continue as Death Toll Hits 55</title>
-    <updated>2023-08-11T16:13:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-11:/articles/maui-wildfires-recovery-efforts-continue-as-death-toll-hits-55-8ce5a88a</id>
-    <content type="html">The number of people killed by the wildfire that has destroyed much of Lahaina is expected to rise.</content>
-    <link href="https://www.wsj.com/articles/maui-wildfires-recovery-efforts-continue-as-death-toll-hits-55-8ce5a88a" rel="alternate"></link>
+    <title>Why Are the Maui Wildfires So Devastating?</title>
+    <updated>2023-08-11T17:31:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-11:/articles/why-maui-wildfires-hawaii-devastating-84651f12</id>
+    <content type="html">Dry conditions, low humidity and high winds helped fuel the blazes.</content>
+    <link href="https://www.wsj.com/articles/why-maui-wildfires-hawaii-devastating-84651f12" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
