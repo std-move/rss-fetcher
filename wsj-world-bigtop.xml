@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-11T03:10:40Z</updated>
+  <updated>2023-08-11T04:12:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Sea Drones Alter Balance of Power in Black Sea</title>
-    <updated>2023-08-11T03:00:00Z</updated>
+    <updated>2023-08-11T04:01:00Z</updated>
     <id>tag:www.wsj.com,2023-08-11:/articles/ukraines-sea-drones-alter-balance-of-power-in-black-sea-391cebee</id>
     <content type="html">Kyiv has used the unmanned vessels to strike back at Russia’s more powerful navy and threaten Russian military supply lines and shipping lanes.</content>
     <link href="https://www.wsj.com/articles/ukraines-sea-drones-alter-balance-of-power-in-black-sea-391cebee" rel="alternate"></link>
