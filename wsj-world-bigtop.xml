@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-12T11:07:49Z</updated>
+  <updated>2023-08-12T12:18:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>18 Years at Guantanamo Without Charge. Hundreds of Paintings.</title>
+    <updated>2023-08-12T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-12:/articles/540-days-at-cia-black-sites-18-years-at-guantanamo-without-charge-hundreds-of-paintings-now-out-in-the-world-4f121799</id>
+    <content type="html">Ahmed Rabbani, released in February after being locked up for two decades as part of the U.S. war on terror, made art depicting life and torture in detention.</content>
+    <link href="https://www.wsj.com/articles/540-days-at-cia-black-sites-18-years-at-guantanamo-without-charge-hundreds-of-paintings-now-out-in-the-world-4f121799" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Maui Wildfires Leave 80 People Dead: It&#39;s a &#39;War Zone&#39;</title>
+    <updated>2023-08-12T11:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-12:/articles/maui-wildfires-recovery-efforts-continue-as-death-toll-hits-55-8ce5a88a</id>
+    <content type="html">Disrupted internet service made it difficult to determine how many people were missing, and officials said they expected the death toll to rise.</content>
+    <link href="https://www.wsj.com/articles/maui-wildfires-recovery-efforts-continue-as-death-toll-hits-55-8ce5a88a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hawaii Officials Were Warned Years Ago That Maui&#39;s Lahaina Faced High Wildfire Risk</title>
     <updated>2023-08-12T09:44:00Z</updated>
