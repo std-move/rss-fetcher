@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-12T17:08:15Z</updated>
+  <updated>2023-08-12T18:11:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>As Maui Fires Leave at Least 80 Dead, Some Residents Return</title>
-    <updated>2023-08-12T14:33:00Z</updated>
+    <updated>2023-08-12T17:16:00Z</updated>
     <id>tag:www.wsj.com,2023-08-12:/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4</id>
     <content type="html">The center of Lahaina remained barricaded and firefighters continued to extinguish flare-ups.</content>
     <link href="https://www.wsj.com/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4" rel="alternate"></link>
