@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-12T09:09:03Z</updated>
+  <updated>2023-08-12T10:09:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>This 60-Year-Old Soviet Rocket Launcher Fights On in Ukraine</title>
-    <updated>2023-08-12T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-12:/articles/this-60-year-old-soviet-rocket-launcher-fights-on-in-ukraine-c81690a9</id>
-    <content type="html">Vintage weapons are playing a pivotal role in backstopping Ukraine’s slow-moving counteroffensive. Few symbolize that reliance more than the BM-21 Grad.</content>
-    <link href="https://www.wsj.com/articles/this-60-year-old-soviet-rocket-launcher-fights-on-in-ukraine-c81690a9" rel="alternate"></link>
+    <title>Hawaii Officials Were Warned Years Ago That Maui&#39;s Lahaina Faced High Wildfire Risk</title>
+    <updated>2023-08-12T09:44:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-12:/articles/hawaii-maui-fire-risks-plans-government-e883f3a3</id>
+    <content type="html">“It’s just really frustrating and heartbreaking to see that some things could have been done,” said the author of a 2014 report.</content>
+    <link href="https://www.wsj.com/articles/hawaii-maui-fire-risks-plans-government-e883f3a3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>When Lahaina Resident Needed to Escape Fire, She Plunged Into Sea</title>
+    <updated>2023-08-12T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-12:/articles/when-this-lahaina-resident-needed-to-escape-the-fire-she-plunged-into-the-sea-7ac0c78f</id>
+    <content type="html">Many people from the devastated Maui town fled in desperation, leaving their homes and possessions behind to burn.</content>
+    <link href="https://www.wsj.com/articles/when-this-lahaina-resident-needed-to-escape-the-fire-she-plunged-into-the-sea-7ac0c78f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
