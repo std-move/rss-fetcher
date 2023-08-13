@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-13T02:15:07Z</updated>
+  <updated>2023-08-13T03:10:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As Maui Fires Leave at Least 89 Dead, Some Residents Return</title>
+    <updated>2023-08-13T02:45:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-13:/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4</id>
+    <content type="html">The center of Lahaina remained barricaded and firefighters worked to extinguish flare-ups among the smoldering embers of the wildfire.</content>
+    <link href="https://www.wsj.com/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Can San Francisco Save Itself From the Doom Loop?</title>
     <updated>2023-08-13T00:47:00Z</updated>
     <id>tag:www.wsj.com,2023-08-13:/articles/san-francisco-crime-downtown-doom-loop-e5fcd7ba</id>
     <content type="html">The city is racing to come up with solutions for its downtown, hollowed out by a tech exodus and struggling with homelessness and street crime</content>
     <link href="https://www.wsj.com/articles/san-francisco-crime-downtown-doom-loop-e5fcd7ba" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Maui Fires Leave at Least 80 Dead, Some Residents Return</title>
-    <updated>2023-08-12T20:36:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-12:/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4</id>
-    <content type="html">The center of Lahaina remained barricaded and firefighters worked to extinguish flare-ups among the smoldering embers of the wildfire.</content>
-    <link href="https://www.wsj.com/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
