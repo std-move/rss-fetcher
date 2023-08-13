@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-13T20:10:16Z</updated>
+  <updated>2023-08-13T21:08:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Maui Blaze Kills at Least 93, Highest Wildfire Death Toll in Over 100 Years</title>
-    <updated>2023-08-13T13:56:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-13:/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4</id>
-    <content type="html">The center of Lahaina remained barricaded and firefighters worked to extinguish flare-ups among the smoldering embers of the wildfire.</content>
-    <link href="https://www.wsj.com/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4" rel="alternate"></link>
+    <title>Officials Search for Remains of Maui Victims---and Answers for How the Wildfire Turned So Deadly</title>
+    <updated>2023-08-13T20:31:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-13:/articles/officials-search-for-remains-of-maui-victimsand-answers-for-how-the-wildfire-turned-so-deadly-9db67b14</id>
+    <content type="html">Forthcoming investigations are likely to surround how the fire started and whether officials could have given residents more warning once it grew.</content>
+    <link href="https://www.wsj.com/articles/officials-search-for-remains-of-maui-victimsand-answers-for-how-the-wildfire-turned-so-deadly-9db67b14" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
