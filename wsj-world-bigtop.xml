@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-13T17:08:32Z</updated>
+  <updated>2023-08-13T18:11:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-08-13:/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4</id>
     <content type="html">The center of Lahaina remained barricaded and firefighters worked to extinguish flare-ups among the smoldering embers of the wildfire.</content>
     <link href="https://www.wsj.com/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Slog Prompts Focus on Next Year&#39;s Fight</title>
-    <updated>2023-08-13T12:33:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-13:/articles/ukraines-slog-prompts-focus-on-next-years-fight-d638cdf7</id>
-    <content type="html">With big gains elusive this year, planners are considering how training and new equipment might tip the battlefield balance in the spring.</content>
-    <link href="https://www.wsj.com/articles/ukraines-slog-prompts-focus-on-next-years-fight-d638cdf7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
