@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-13T09:09:18Z</updated>
+  <updated>2023-08-13T10:10:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Could Scientist Find Drug to Treat His Own Disease?</title>
+    <updated>2023-08-13T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-13:/articles/he-was-a-scientist-could-he-find-a-drug-to-treat-his-own-disease-c6839236</id>
+    <content type="html">How a researcher’s 12-year journey to a new Bristol-Myers psoriasis medicine became personal: “You have hopes and daydreams almost in some ways.”</content>
+    <link href="https://www.wsj.com/articles/he-was-a-scientist-could-he-find-a-drug-to-treat-his-own-disease-c6839236" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Maui Blaze Kills at Least 89, Highest Wildfire Death Toll in Over 100 Years</title>
     <updated>2023-08-13T04:07:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-08-13:/articles/san-francisco-crime-downtown-doom-loop-e5fcd7ba</id>
     <content type="html">The city is racing to come up with solutions for its downtown, hollowed out by a tech exodus and struggling with homelessness and street crime</content>
     <link href="https://www.wsj.com/articles/san-francisco-crime-downtown-doom-loop-e5fcd7ba" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Migrant Crossings on the Rise Again at U.S. Border</title>
-    <updated>2023-08-12T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-12:/articles/migrant-crossings-on-the-rise-again-at-u-s-border-fca03da2</id>
-    <content type="html">Authorities say human smugglers are guiding migrants to some of the hottest and most isolated stretches of the Arizona desert as temperatures soar.</content>
-    <link href="https://www.wsj.com/articles/migrant-crossings-on-the-rise-again-at-u-s-border-fca03da2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
