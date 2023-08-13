@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-13T00:51:08Z</updated>
+  <updated>2023-08-13T01:44:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Can San Francisco Save Itself From the Doom Loop?</title>
+    <updated>2023-08-13T00:47:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-13:/articles/san-francisco-crime-downtown-doom-loop-e5fcd7ba</id>
+    <content type="html">The city is racing to come up with solutions for its downtown, hollowed out by a tech exodus and struggling with homelessness and street crime</content>
+    <link href="https://www.wsj.com/articles/san-francisco-crime-downtown-doom-loop-e5fcd7ba" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>As Maui Fires Leave at Least 80 Dead, Some Residents Return</title>
     <updated>2023-08-12T20:36:00Z</updated>
@@ -18,30 +26,6 @@
     <id>tag:www.wsj.com,2023-08-12:/articles/migrant-crossings-on-the-rise-again-at-u-s-border-fca03da2</id>
     <content type="html">Authorities say human smugglers are guiding migrants to some of the hottest and most isolated stretches of the Arizona desert as temperatures soar.</content>
     <link href="https://www.wsj.com/articles/migrant-crossings-on-the-rise-again-at-u-s-border-fca03da2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why Are the Maui Wildfires So Devastating?</title>
-    <updated>2023-08-12T13:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-12:/articles/why-maui-wildfires-hawaii-devastating-84651f12</id>
-    <content type="html">Dry conditions, low humidity and high winds helped fuel the blazes.</content>
-    <link href="https://www.wsj.com/articles/why-maui-wildfires-hawaii-devastating-84651f12" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Cold War Mission Pays Off 65 Years Later</title>
-    <updated>2023-08-12T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-12:/articles/a-cold-war-mission-pays-off-65-years-later-3215f174</id>
-    <content type="html">Two Navy sailors were surprised when their once top secret work to lay acoustic cables in the ocean suddenly became front-page news in the Titan submersible search.</content>
-    <link href="https://www.wsj.com/articles/a-cold-war-mission-pays-off-65-years-later-3215f174" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>18 Years at Guantanamo Without Charge. Hundreds of Paintings.</title>
-    <updated>2023-08-12T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-12:/articles/540-days-at-cia-black-sites-18-years-at-guantanamo-without-charge-hundreds-of-paintings-now-out-in-the-world-4f121799</id>
-    <content type="html">Ahmed Rabbani, released in February after being locked up for two decades as part of the U.S. war on terror, made art depicting life and torture in detention.</content>
-    <link href="https://www.wsj.com/articles/540-days-at-cia-black-sites-18-years-at-guantanamo-without-charge-hundreds-of-paintings-now-out-in-the-world-4f121799" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
