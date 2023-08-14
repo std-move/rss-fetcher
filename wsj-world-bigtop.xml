@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-14T12:20:45Z</updated>
+  <updated>2023-08-14T13:13:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Canada Tests the Limits of Its Liberal Immigration Strategy</title>
+    <updated>2023-08-14T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-14:/articles/canada-tests-the-limits-of-its-liberal-immigration-strategy-bc61e0de</id>
+    <content type="html">The country’s intake of newcomers is rising rapidly and straining housing, healthcare and transportation.</content>
+    <link href="https://www.wsj.com/articles/canada-tests-the-limits-of-its-liberal-immigration-strategy-bc61e0de" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ozempic Settles the Obesity Debate: It&#39;s Biology Over Willpower</title>
     <updated>2023-08-14T09:30:00Z</updated>
     <id>tag:www.wsj.com,2023-08-14:/articles/weight-loss-drugs-obesity-e4bb2173</id>
     <content type="html">Weight-loss drugs affect the brain in ways that help researchers understand how the body regulates weight.</content>
     <link href="https://www.wsj.com/articles/weight-loss-drugs-obesity-e4bb2173" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why Are the Maui Wildfires So Devastating?</title>
-    <updated>2023-08-14T08:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-14:/articles/why-maui-wildfires-hawaii-devastating-84651f12</id>
-    <content type="html">Dry conditions, low humidity and high winds helped fuel the blazes.</content>
-    <link href="https://www.wsj.com/articles/why-maui-wildfires-hawaii-devastating-84651f12" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
