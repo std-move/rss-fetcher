@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-14T13:13:05Z</updated>
+  <updated>2023-08-14T14:10:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Musk vs. Zuckerberg Fight May Never Happen, but Italian Cities Are Still Jostling to Host It</title>
+    <updated>2023-08-14T13:43:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-14:/articles/musk-vs-zuckerberg-fight-may-never-happen-but-italian-cities-are-still-jostling-to-host-it-36957867</id>
+    <content type="html">Cities home to famous archaeological venues are jockeying to be the stage for an event that would bring massive global publicity.</content>
+    <link href="https://www.wsj.com/articles/musk-vs-zuckerberg-fight-may-never-happen-but-italian-cities-are-still-jostling-to-host-it-36957867" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Canada Tests the Limits of Its Liberal Immigration Strategy</title>
     <updated>2023-08-14T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-08-14:/articles/canada-tests-the-limits-of-its-liberal-immigration-strategy-bc61e0de</id>
     <content type="html">The country’s intake of newcomers is rising rapidly and straining housing, healthcare and transportation.</content>
     <link href="https://www.wsj.com/articles/canada-tests-the-limits-of-its-liberal-immigration-strategy-bc61e0de" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ozempic Settles the Obesity Debate: It&#39;s Biology Over Willpower</title>
-    <updated>2023-08-14T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-14:/articles/weight-loss-drugs-obesity-e4bb2173</id>
-    <content type="html">Weight-loss drugs affect the brain in ways that help researchers understand how the body regulates weight.</content>
-    <link href="https://www.wsj.com/articles/weight-loss-drugs-obesity-e4bb2173" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
