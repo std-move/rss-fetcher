@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-14T11:08:37Z</updated>
+  <updated>2023-08-14T12:20:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2023-08-14:/articles/why-maui-wildfires-hawaii-devastating-84651f12</id>
     <content type="html">Dry conditions, low humidity and high winds helped fuel the blazes.</content>
     <link href="https://www.wsj.com/articles/why-maui-wildfires-hawaii-devastating-84651f12" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Maui Undertakes Its Own Wildfire Relief Efforts: &#39;We&#39;re Not Going Anywhere&#39;</title>
-    <updated>2023-08-14T08:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-14:/articles/maui-undertakes-its-own-wildfire-relief-efforts-were-not-going-anywhere-6b61414e</id>
-    <content type="html">Our reporter spent days on the island. Here’s what she saw.</content>
-    <link href="https://www.wsj.com/articles/maui-undertakes-its-own-wildfire-relief-efforts-were-not-going-anywhere-6b61414e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Officials Search for Remains of Maui Victims---and Answers for How the Wildfire Turned So Deadly</title>
-    <updated>2023-08-14T08:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-14:/articles/officials-search-for-remains-of-maui-victimsand-answers-for-how-the-wildfire-turned-so-deadly-9db67b14</id>
-    <content type="html">Forthcoming investigations are likely to surround how the fire started and whether officials could have given residents more warning once it grew.</content>
-    <link href="https://www.wsj.com/articles/officials-search-for-remains-of-maui-victimsand-answers-for-how-the-wildfire-turned-so-deadly-9db67b14" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
