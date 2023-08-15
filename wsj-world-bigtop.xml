@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-15T09:10:26Z</updated>
+  <updated>2023-08-15T10:11:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-08-15:/articles/why-maui-wildfires-hawaii-devastating-84651f12</id>
     <content type="html">Dry conditions, low humidity and high winds helped fuel the blazes.</content>
     <link href="https://www.wsj.com/articles/why-maui-wildfires-hawaii-devastating-84651f12" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Donald Trump Indicted in Georgia Over Effort to Overturn Election Results</title>
-    <updated>2023-08-15T05:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-15:/articles/donald-trump-indicted-georgia-election-interference-case-64deb461</id>
-    <content type="html">The charges brought by Fulton County’s district attorney mark the fourth criminal case against the former president.</content>
-    <link href="https://www.wsj.com/articles/donald-trump-indicted-georgia-election-interference-case-64deb461" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
