@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-16T06:13:46Z</updated>
+  <updated>2023-08-16T07:10:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>U.S. Is Turning Away From Its Biggest Scientific Partner at a Precarious Time</title>
-    <updated>2023-08-16T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-16:/articles/the-u-s-is-turning-away-from-its-biggest-scientific-partner-at-a-precarious-time-9fb9adaa</id>
-    <content type="html">Severing collaborations with China amid security concerns could undermine American progress in critical areas, some scientists are warning.</content>
-    <link href="https://www.wsj.com/articles/the-u-s-is-turning-away-from-its-biggest-scientific-partner-at-a-precarious-time-9fb9adaa" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
