@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-17T02:13:59Z</updated>
+  <updated>2023-08-17T03:10:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Hawaiian Electric Knew of Wildfire Threat, but Waited Years to Act</title>
-    <updated>2023-08-16T22:57:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-16:/articles/wildfire-risk-maui-hawaiian-electric-7beed21e</id>
-    <content type="html">Four years ago, the utility said it needed to do more to prevent its power lines from emitting sparks. It made little progress, focusing on a shift to clean energy.</content>
-    <link href="https://www.wsj.com/articles/wildfire-risk-maui-hawaiian-electric-7beed21e" rel="alternate"></link>
+    <title>Russia&#39;s War-Torn Economy Hits Its Speed Limit</title>
+    <updated>2023-08-17T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-17:/articles/russias-war-torn-economy-hits-its-speed-limit-3c807f26</id>
+    <content type="html">Economists see this week’s currency gyrations not as the beginning of a financial crisis but rather as a symptom of the Kremlin’s sclerotic economic prospects.</content>
+    <link href="https://www.wsj.com/articles/russias-war-torn-economy-hits-its-speed-limit-3c807f26" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ecuador&#39;s Newest Candidate Also Fears for His Life</title>
+    <updated>2023-08-17T02:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-17:/articles/ecuadors-newest-candidate-also-fears-for-his-life-e433482c</id>
+    <content type="html">In an interview, Christian Zurita, who replaced assassinated candidate Fernando Villavicencio in the race for president, said he wears a bulletproof vest and has sent his family into hiding.</content>
+    <link href="https://www.wsj.com/articles/ecuadors-newest-candidate-also-fears-for-his-life-e433482c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
