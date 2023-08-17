@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-17T13:12:12Z</updated>
+  <updated>2023-08-17T14:09:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Water Cannons and Lasers: South China Sea Standoff Around World War II-Era Ship Heats Up</title>
+    <updated>2023-08-17T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-17:/articles/water-cannons-and-lasers-south-china-sea-standoff-around-world-war-ii-era-ship-heats-up-6d24d8d0</id>
+    <content type="html">To assert its claim to a reef, the Philippines ran BRP Sierra Madre aground 2½ decades ago and keeps a few marines garrisoned there. China objects.</content>
+    <link href="https://www.wsj.com/articles/water-cannons-and-lasers-south-china-sea-standoff-around-world-war-ii-era-ship-heats-up-6d24d8d0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Brazil Pins Hopes on Vaccine to Fight Crack Epidemic</title>
+    <updated>2023-08-17T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-17:/articles/brazil-pins-hopes-on-vaccine-to-fight-crack-epidemic-e6f93b7f</id>
+    <content type="html">The world’s second-largest consumer of cocaine bets on a long-shot bid to develop a commercially viable vaccine to treat drug addiction.</content>
+    <link href="https://www.wsj.com/articles/brazil-pins-hopes-on-vaccine-to-fight-crack-epidemic-e6f93b7f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Latin American Central Banks Take Lead in Cutting Rates as Inflation Cools</title>
     <updated>2023-08-17T13:00:00Z</updated>
@@ -18,14 +34,6 @@
     <id>tag:www.wsj.com,2023-08-17:/articles/why-maui-wildfires-hawaii-devastating-84651f12</id>
     <content type="html">Dry conditions, low humidity and high winds helped fuel the blazes.</content>
     <link href="https://www.wsj.com/articles/why-maui-wildfires-hawaii-devastating-84651f12" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Curious Case of Mark Meadows, Told Through Two Indictments</title>
-    <updated>2023-08-17T11:39:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-17:/articles/the-curious-case-of-mark-meadows-told-through-two-indictments-d50ed19</id>
-    <content type="html">Meadows is seeking to move the charges in Georgia to federal court claiming he was working in his official capacity.</content>
-    <link href="https://www.wsj.com/articles/the-curious-case-of-mark-meadows-told-through-two-indictments-d50ed19" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
