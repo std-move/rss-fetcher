@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-18T11:08:35Z</updated>
+  <updated>2023-08-18T12:19:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Tokyo Looks to the Sun to Power New Homes</title>
-    <updated>2023-08-18T04:17:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-18:/articles/tokyo-hopes-rooftop-solar-mandate-will-help-it-get-through-hot-summers-1087c554</id>
-    <content type="html">The policy in one of the world’s largest cities is a test case for whether solar power makes sense on urban rooftops.</content>
-    <link href="https://www.wsj.com/articles/tokyo-hopes-rooftop-solar-mandate-will-help-it-get-through-hot-summers-1087c554" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
