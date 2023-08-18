@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-18T03:10:51Z</updated>
+  <updated>2023-08-18T04:12:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Ghost Fleet Helping Russia Evade Sanctions and Pursue Its War in Ukraine</title>
-    <updated>2023-08-18T03:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-18:/articles/the-ghost-fleet-helping-russia-evade-sanctions-and-pursue-its-war-in-ukraine-19e77a0c</id>
-    <content type="html">Turkish companies have bought dozens of tankers that ship Russian oil, allowing Moscow to evade Western sanctions.</content>
-    <link href="https://www.wsj.com/articles/the-ghost-fleet-helping-russia-evade-sanctions-and-pursue-its-war-in-ukraine-19e77a0c" rel="alternate"></link>
+    <title>What&#39;s Holding Back India&#39;s Economic Ambitions?</title>
+    <updated>2023-08-18T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-18:/articles/india-economy-women-work-labor-46bfb0f0</id>
+    <content type="html">Women often pile into the labor force as countries develop, fueling economic growth. In India, just 24% of women are working or looking for work.</content>
+    <link href="https://www.wsj.com/articles/india-economy-women-work-labor-46bfb0f0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Jared Kushner&#39;s Deal-Making Career Off to Sluggish Start</title>
-    <updated>2023-08-18T03:00:00Z</updated>
+    <updated>2023-08-18T04:00:00Z</updated>
     <id>tag:www.wsj.com,2023-08-18:/articles/jared-kushners-deal-making-career-off-to-sluggish-start-d245fea8</id>
     <content type="html">Donald Trump’s son-in-law has drawn scrutiny after his firm attracted billions in investments from Gulf nations.</content>
     <link href="https://www.wsj.com/articles/jared-kushners-deal-making-career-off-to-sluggish-start-d245fea8" rel="alternate"></link>
