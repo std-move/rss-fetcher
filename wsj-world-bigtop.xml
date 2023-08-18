@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-18T13:12:38Z</updated>
+  <updated>2023-08-18T14:09:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Ghost Fleet Helping Russia Evade Sanctions</title>
+    <updated>2023-08-18T13:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-18:/articles/the-ghost-fleet-helping-russia-evade-sanctions-and-pursue-its-war-in-ukraine-19e77a0c</id>
+    <content type="html">Turkish companies have bought dozens of tankers that ship Russian oil, playing a critical role in Moscow’s efforts to fund its war in Ukraine.</content>
+    <link href="https://www.wsj.com/articles/the-ghost-fleet-helping-russia-evade-sanctions-and-pursue-its-war-in-ukraine-19e77a0c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
