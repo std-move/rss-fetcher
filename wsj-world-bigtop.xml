@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-19T12:17:50Z</updated>
+  <updated>2023-08-19T13:11:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China&#39;s Fertility Rate Dropped Sharply, Study Shows</title>
-    <updated>2023-08-19T04:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-19:/articles/chinas-fertility-rate-dropped-sharply-study-shows-e97e647f</id>
-    <content type="html">A Chinese media report gave rare insight into the country’s demographic crisis since Beijing stopped publishing fertility-rate data.</content>
-    <link href="https://www.wsj.com/articles/chinas-fertility-rate-dropped-sharply-study-shows-e97e647f" rel="alternate"></link>
+    <title>Climate Change Is Coming for a Chesapeake Bay Island. Is It Worth Saving?</title>
+    <updated>2023-08-19T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-19:/articles/climate-change-is-coming-for-a-chesapeake-bay-island-is-it-worth-saving-561d58b5</id>
+    <content type="html">Small, low-lying communities such as Tangier Island face uncertainty over whether lawmakers will act to protect their homes.</content>
+    <link href="https://www.wsj.com/articles/climate-change-is-coming-for-a-chesapeake-bay-island-is-it-worth-saving-561d58b5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
