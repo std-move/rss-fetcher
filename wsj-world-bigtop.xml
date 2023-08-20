@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-20T22:08:57Z</updated>
+  <updated>2023-08-20T23:09:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Tropical Storm Hilary Makes Landfall in Mexico, Threatening Southern California</title>
-    <updated>2023-08-20T20:57:00Z</updated>
+    <updated>2023-08-20T22:59:00Z</updated>
     <id>tag:www.wsj.com,2023-08-20:/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae</id>
-    <content type="html">Hilary is on a track that forecasters say is likely to bring drenching rains beyond California into Nevada and even as far north as Boise, Idaho, over the next two days.</content>
+    <content type="html">Hilary is on a track that forecasters say is likely to bring drenching rains beyond California into Nevada and even as far north as Boise, Idaho, over the next two days. As rains started to pelt the region, a number of earthquakes between 2.8 and 5.1 magnitude occurred near Ojai, Calif.</content>
     <link href="https://www.wsj.com/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-08-20:/articles/guatemalan-front-runner-calls-for-democratic-renewal-f51facb0</id>
     <content type="html">Candidate Bernardo Arévalo vows to promote social justice and boost investment in education and healthcare if he wins on Sunday.</content>
     <link href="https://www.wsj.com/articles/guatemalan-front-runner-calls-for-democratic-renewal-f51facb0" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tropical Storm Hilary Poses Unusual Threat to Southern California</title>
-    <updated>2023-08-20T15:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-20:/articles/hurricane-hilary-path-storm-1854677d</id>
-    <content type="html">The area, unaccustomed to tropical storms, is bracing for heavy rains and high winds.</content>
-    <link href="https://www.wsj.com/articles/hurricane-hilary-path-storm-1854677d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
