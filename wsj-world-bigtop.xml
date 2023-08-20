@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-20T20:10:01Z</updated>
+  <updated>2023-08-20T21:08:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Tropical Storm Hilary Makes Landfall in Mexico, Threatening Southern California</title>
-    <updated>2023-08-20T19:42:00Z</updated>
+    <updated>2023-08-20T20:57:00Z</updated>
     <id>tag:www.wsj.com,2023-08-20:/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae</id>
     <content type="html">Hilary is on a track that forecasters say is likely to bring drenching rains beyond California into Nevada and even as far north as Boise, Idaho, over the next two days.</content>
     <link href="https://www.wsj.com/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae" rel="alternate"></link>
