@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-20T13:10:57Z</updated>
+  <updated>2023-08-20T14:08:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How Private-Equity Deal Making Unfolded in the First Half of 2023 in Four Charts</title>
-    <updated>2023-08-20T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-20:/articles/how-private-equity-deal-making-unfolded-in-the-first-half-of-2023-in-four-charts-d50e0ae2</id>
-    <content type="html">Private-equity deal and exit activity slowed in the first half, but the slowdown was uneven across transaction types.</content>
-    <link href="https://www.wsj.com/articles/how-private-equity-deal-making-unfolded-in-the-first-half-of-2023-in-four-charts-d50e0ae2" rel="alternate"></link>
+    <title>Guatemalan Front-Runner Calls for Democratic Renewal</title>
+    <updated>2023-08-20T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-20:/articles/guatemalan-front-runner-calls-for-democratic-renewal-f51facb0</id>
+    <content type="html">Candidate Bernardo Arévalo vows to promote social justice and boost investment in education and healthcare if he wins on Sunday.</content>
+    <link href="https://www.wsj.com/articles/guatemalan-front-runner-calls-for-democratic-renewal-f51facb0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -21,19 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>China&#39;s 40-Year Boom Is Over. What Comes Next?</title>
-    <updated>2023-08-20T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-20:/articles/china-economy-debt-slowdown-recession-622a3be4</id>
-    <content type="html">The economic model that took the country from poverty to great-power status seems broken, and everywhere are signs of distress.</content>
-    <link href="https://www.wsj.com/articles/china-economy-debt-slowdown-recession-622a3be4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why Russia&#39;s War in Ukraine Could Run for Years</title>
-    <updated>2023-08-20T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-20:/articles/why-russias-war-in-ukraine-could-run-for-years-383f0bde</id>
-    <content type="html">From Moscow to Washington, a lack of clear and achievable strategic goals points to a long conflict.</content>
-    <link href="https://www.wsj.com/articles/why-russias-war-in-ukraine-could-run-for-years-383f0bde" rel="alternate"></link>
+    <title>How Private-Equity Deal Making Unfolded in the First Half of 2023 in Four Charts</title>
+    <updated>2023-08-20T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-20:/articles/how-private-equity-deal-making-unfolded-in-the-first-half-of-2023-in-four-charts-d50e0ae2</id>
+    <content type="html">Private-equity deal and exit activity slowed in the first half, but the slowdown was uneven across transaction types.</content>
+    <link href="https://www.wsj.com/articles/how-private-equity-deal-making-unfolded-in-the-first-half-of-2023-in-four-charts-d50e0ae2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
