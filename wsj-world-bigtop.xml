@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-20T02:14:25Z</updated>
+  <updated>2023-08-20T03:10:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-08-19:/articles/hurricane-hilary-path-storm-1854677d</id>
     <content type="html">The area, unaccustomed to tropical storms, is bracing for heavy rains and high winds.</content>
     <link href="https://www.wsj.com/articles/hurricane-hilary-path-storm-1854677d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Climate Change Is Coming for a Chesapeake Bay Island. Is It Worth Saving?</title>
-    <updated>2023-08-19T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-19:/articles/climate-change-is-coming-for-a-chesapeake-bay-island-is-it-worth-saving-561d58b5</id>
-    <content type="html">Small, low-lying communities such as Tangier Island face uncertainty over whether lawmakers will act to protect their homes.</content>
-    <link href="https://www.wsj.com/articles/climate-change-is-coming-for-a-chesapeake-bay-island-is-it-worth-saving-561d58b5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
