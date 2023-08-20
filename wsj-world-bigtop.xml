@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-20T04:12:14Z</updated>
+  <updated>2023-08-20T05:09:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>China&#39;s 40-Year Boom Is Over. What Comes Next?</title>
-    <updated>2023-08-20T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-20:/articles/china-economy-debt-slowdown-recession-622a3be4</id>
-    <content type="html">The economic model that took the country from poverty to great-power status seems broken, and everywhere are signs of distress.</content>
-    <link href="https://www.wsj.com/articles/china-economy-debt-slowdown-recession-622a3be4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Why Russia&#39;s War in Ukraine Could Run for Years</title>
     <updated>2023-08-20T04:01:00Z</updated>
     <id>tag:www.wsj.com,2023-08-20:/articles/why-russias-war-in-ukraine-could-run-for-years-383f0bde</id>
     <content type="html">From Moscow to Washington, a lack of clear and achievable strategic goals points to a long conflict.</content>
     <link href="https://www.wsj.com/articles/why-russias-war-in-ukraine-could-run-for-years-383f0bde" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>China&#39;s 40-Year Boom Is Over. What Comes Next?</title>
+    <updated>2023-08-20T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-20:/articles/china-economy-debt-slowdown-recession-622a3be4</id>
+    <content type="html">The economic model that took the country from poverty to great-power status seems broken, and everywhere are signs of distress.</content>
+    <link href="https://www.wsj.com/articles/china-economy-debt-slowdown-recession-622a3be4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
