@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-21T02:15:02Z</updated>
+  <updated>2023-08-21T03:11:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Leftist Lawyer and Businessman Headed to Runoff in Ecuador Election</title>
-    <updated>2023-08-21T02:04:00Z</updated>
+    <updated>2023-08-21T02:51:00Z</updated>
     <id>tag:www.wsj.com,2023-08-21:/articles/ecuador-votes-sunday-for-new-president-after-candidate-gunned-down-5c84e8c2</id>
     <content type="html">Luisa González takes the most votes among eight candidates, followed by the 35-year-old son of a banana mogul. Analysts say he could marshal support to win runoff in October.</content>
     <link href="https://www.wsj.com/articles/ecuador-votes-sunday-for-new-president-after-candidate-gunned-down-5c84e8c2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Tropical Storm Hilary Makes Landfall in Southern California</title>
-    <updated>2023-08-21T00:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-21:/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae</id>
-    <content type="html">Southern California was hit with rain, wind and even a series of earthquakes Sunday as the first tropical storm in nearly a century roared in, knocking out power, flooding streets and prompting at least one water rescue.</content>
-    <link href="https://www.wsj.com/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
