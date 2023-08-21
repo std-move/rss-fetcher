@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-20T23:09:47Z</updated>
+  <updated>2023-08-21T00:48:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Tropical Storm Hilary Makes Landfall in Mexico, Threatening Southern California</title>
-    <updated>2023-08-20T22:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-20:/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae</id>
-    <content type="html">Hilary is on a track that forecasters say is likely to bring drenching rains beyond California into Nevada and even as far north as Boise, Idaho, over the next two days. As rains started to pelt the region, a number of earthquakes between 2.8 and 5.1 magnitude occurred near Ojai, Calif.</content>
+    <title>Tropical Storm Hilary Makes Landfall in Southern California</title>
+    <updated>2023-08-21T00:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-21:/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae</id>
+    <content type="html">Southern California was hit with rain, wind and even a series of earthquakes Sunday as the first tropical storm in nearly a century roared in, knocking out power, flooding streets and prompting at least one water rescue.</content>
     <link href="https://www.wsj.com/articles/tropical-storm-hilary-makes-landfall-in-mexico-threatening-southern-california-30d14eae" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
