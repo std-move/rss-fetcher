@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-23T15:10:44Z</updated>
+  <updated>2023-08-23T16:13:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How Children Stranded for 15 Hours in a Dangling Cable Car Were Rescued</title>
+    <updated>2023-08-23T15:58:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-23:/articles/how-children-stranded-for-15-hours-in-a-dangling-cable-car-were-rescued-e416cd9a</id>
+    <content type="html">The successful operation was carried out by helicopters and then a high-wire rescue by hand .</content>
+    <link href="https://www.wsj.com/articles/how-children-stranded-for-15-hours-in-a-dangling-cable-car-were-rescued-e416cd9a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Jersey Shore Towns Try to Curb Unruly Teens With Curfews</title>
     <updated>2023-08-23T15:00:00Z</updated>
