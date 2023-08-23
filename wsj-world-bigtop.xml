@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-23T07:10:01Z</updated>
+  <updated>2023-08-23T08:13:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Disappointment, Fear Cloud Zimbabwe Election</title>
+    <updated>2023-08-23T07:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-23:/articles/life-was-better-under-mugabe-disappointment-fear-cloud-zimbabwe-election-8ac63d5f</id>
+    <content type="html">Zimbabweans cast their ballots in an election clouded by years of dizzyingly high inflation as well as intimidation from a ruling party that has been in power for more than four decades.</content>
+    <link href="https://www.wsj.com/articles/life-was-better-under-mugabe-disappointment-fear-cloud-zimbabwe-election-8ac63d5f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Reset: A Slow and Bloody Advance on Foot</title>
     <updated>2023-08-23T04:01:00Z</updated>
