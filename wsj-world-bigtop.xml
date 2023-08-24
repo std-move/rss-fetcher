@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-24T22:10:01Z</updated>
+  <updated>2023-08-24T23:10:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Donald Trump Shakes Up Legal Team Ahead of Surrender at Fulton County Jail</title>
-    <updated>2023-08-24T21:08:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-24:/articles/donald-trump-to-turn-himself-in-at-fulton-county-jail-in-georgia-aa43b825</id>
-    <content type="html">The former president hired a prominent Georgia criminal-defense attorney, hours before he was to turn himself in to local authorities on charges he sought to subvert the 2020 election.</content>
-    <link href="https://www.wsj.com/articles/donald-trump-to-turn-himself-in-at-fulton-county-jail-in-georgia-aa43b825" rel="alternate"></link>
+    <title>Trump Allies Learn the Art of the Mug Shot, One Flag Pin and Lipstick at a Time</title>
+    <updated>2023-08-24T22:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-24:/articles/trump-allies-learn-the-art-of-the-mug-shot-one-flag-pin-and-lipstick-at-a-time-b5e45ad</id>
+    <content type="html">The defendants in the Georgia election-subversion case might be sending messages in their photos.</content>
+    <link href="https://www.wsj.com/articles/trump-allies-learn-the-art-of-the-mug-shot-one-flag-pin-and-lipstick-at-a-time-b5e45ad" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
