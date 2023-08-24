@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-24T15:11:19Z</updated>
+  <updated>2023-08-24T16:14:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>&#39;No Hose, No Gun&#39;: Police Alternatives for Mental-Health Crises FallShort</title>
+    <updated>2023-08-24T15:13:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-24:/articles/police-mental-health-units-911-responses-f80d4369</id>
+    <content type="html">New units designed to avoid violent and often deadly encounters lack both funding and institutional support.</content>
+    <link href="https://www.wsj.com/articles/police-mental-health-units-911-responses-f80d4369" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
