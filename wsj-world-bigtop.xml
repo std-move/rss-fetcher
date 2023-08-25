@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-25T11:08:42Z</updated>
+  <updated>2023-08-25T12:20:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Prigozhin Built a Russian Empire in Africa. Can It Survive Him?</title>
+    <updated>2023-08-25T11:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-25:/articles/prigozhin-built-an-empire-in-africa-can-it-survive-him-b566755c</id>
+    <content type="html">The loss of the group’s top leadership could disrupt a key part of the Kremlin’s efforts to project power and raise resources in the face of Western sanctions.</content>
+    <link href="https://www.wsj.com/articles/prigozhin-built-an-empire-in-africa-can-it-survive-him-b566755c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
