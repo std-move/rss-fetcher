@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-25T21:09:07Z</updated>
+  <updated>2023-08-25T22:10:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Everybody Knew the Invasive Grass of Maui Posed a Deadly Fire Threat, But Few Acted</title>
-    <updated>2023-08-25T20:42:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-25:/articles/maui-fire-invasive-grass-cf6dbca2</id>
-    <content type="html">Warnings went unheeded about the abandoned plantations above Lahaina; buildup of vegetation fueled ‘catastrophic’ spread that killed at least 115 on Hawaiian island.</content>
-    <link href="https://www.wsj.com/articles/maui-fire-invasive-grass-cf6dbca2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
