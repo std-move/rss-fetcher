@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-25T19:08:34Z</updated>
+  <updated>2023-08-25T20:11:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-08-25:/articles/trump-mugshot-merch-63197bd0</id>
     <content type="html">The former president’s campaign and independent sellers are printing his glowering booking photo on coffee mugs, T-shirts and bumper stickers</content>
     <link href="https://www.wsj.com/articles/trump-mugshot-merch-63197bd0" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Putin Uses Payback Politics to Keep Russia Under His Control</title>
-    <updated>2023-08-25T17:19:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-25:/articles/how-putin-uses-payback-politics-to-keep-russia-under-his-control-8d9bd7f6</id>
-    <content type="html">The Russian leader has a long history of striking back against his critics and rivals. Many of them are now dead or behind bars.</content>
-    <link href="https://www.wsj.com/articles/how-putin-uses-payback-politics-to-keep-russia-under-his-control-8d9bd7f6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
