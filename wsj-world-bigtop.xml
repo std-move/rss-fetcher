@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-25T01:44:11Z</updated>
+  <updated>2023-08-25T02:16:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Donald Trump Mug Shot Released After Former President Surrenders in Georgia</title>
-    <updated>2023-08-25T01:37:00Z</updated>
+    <updated>2023-08-25T02:05:00Z</updated>
     <id>tag:www.wsj.com,2023-08-25:/articles/donald-trump-to-turn-himself-in-at-fulton-county-jail-in-georgia-aa43b825</id>
     <content type="html">The former president surrendered to Georgia authorities to answer charges that he operated a criminal enterprise that sought to overturn Joe Biden’s 2020 electoral victory in the state.</content>
     <link href="https://www.wsj.com/articles/donald-trump-to-turn-himself-in-at-fulton-county-jail-in-georgia-aa43b825" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Trump Allies Learn the Art of the Mug Shot, One Flag Pin and Lipstick at a Time</title>
-    <updated>2023-08-25T00:28:00Z</updated>
+    <title>Trump and His Allies Learn the Art of the Mug Shot, One Flag Pin and Scowl at a Time</title>
+    <updated>2023-08-25T02:00:00Z</updated>
     <id>tag:www.wsj.com,2023-08-25:/articles/trump-allies-learn-the-art-of-the-mug-shot-one-flag-pin-and-lipstick-at-a-time-b5e45ad</id>
     <content type="html">The defendants in the Georgia election-subversion case might be sending messages in their photos.</content>
     <link href="https://www.wsj.com/articles/trump-allies-learn-the-art-of-the-mug-shot-one-flag-pin-and-lipstick-at-a-time-b5e45ad" rel="alternate"></link>
