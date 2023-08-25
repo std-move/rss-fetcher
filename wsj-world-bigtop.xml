@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-25T13:13:04Z</updated>
+  <updated>2023-08-25T14:09:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Largest Hunger Strike in Bahrain&#39;s History Fuels Unrest</title>
+    <updated>2023-08-25T13:49:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-25:/articles/largest-hunger-strike-in-bahrains-history-fuels-unrest-3f586da2</id>
+    <content type="html">The prison protest is catalyzing rare street demonstrations and raising concerns in Washington about stability in a key Persian Gulf ally.</content>
+    <link href="https://www.wsj.com/articles/largest-hunger-strike-in-bahrains-history-fuels-unrest-3f586da2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Prigozhin Built a Russian Empire in Africa. Can It Survive Him?</title>
     <updated>2023-08-25T11:11:00Z</updated>
