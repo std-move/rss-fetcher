@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-26T14:08:39Z</updated>
+  <updated>2023-08-26T15:09:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Protests Turn Focus to Women&#39;s Rights Amid Religious Parties&#39; Rise</title>
+    <updated>2023-08-26T14:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-26:/articles/israel-protests-turn-focus-to-womens-rights-amid-religious-parties-rise-bc1e186e</id>
+    <content type="html">The story of teenage girls scolded for their clothing and told to sit at the back of a public bus has galvanized the monthslong demonstrations.</content>
+    <link href="https://www.wsj.com/articles/israel-protests-turn-focus-to-womens-rights-amid-religious-parties-rise-bc1e186e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Farmers Count the Cost of Grain Deal&#39;s Collapse</title>
     <updated>2023-08-26T12:37:00Z</updated>
