@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-26T12:18:11Z</updated>
+  <updated>2023-08-26T13:11:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Farmers Count the Cost of Grain Deal&#39;s Collapse</title>
-    <updated>2023-08-26T11:00:00Z</updated>
+    <updated>2023-08-26T12:37:00Z</updated>
     <id>tag:www.wsj.com,2023-08-26:/articles/the-market-is-dead-ukraines-farmers-count-the-cost-of-grain-deals-collapse-379e648d</id>
     <content type="html">Russia’s exit from the Black Sea export agreement and its attacks on Ukrainian ports have led to lower income and higher costs in Ukraine’s agriculture industry.</content>
     <link href="https://www.wsj.com/articles/the-market-is-dead-ukraines-farmers-count-the-cost-of-grain-deals-collapse-379e648d" rel="alternate"></link>
