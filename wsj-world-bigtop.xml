@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-27T20:10:19Z</updated>
+  <updated>2023-08-27T21:08:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>A Sperm Donor Chases a Role in the Lives of the 96 Children He Fathered</title>
-    <updated>2023-08-27T13:53:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-27:/articles/sperm-donor-family-children-146617c8</id>
-    <content type="html">Discovering the identity of a donor opens up complicated questions about boundaries, responsibilities and sometimes ambivalent relationships.</content>
-    <link href="https://www.wsj.com/articles/sperm-donor-family-children-146617c8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
