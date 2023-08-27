@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-27T09:09:27Z</updated>
+  <updated>2023-08-27T10:10:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-08-27:/articles/communist-party-priorities-complicate-plans-to-revive-chinas-economy-84a156d7</id>
     <content type="html">Ideology is driving Beijing’s economic policy to a degree not seen since the opening to the West nearly half a century ago.</content>
     <link href="https://www.wsj.com/articles/communist-party-priorities-complicate-plans-to-revive-chinas-economy-84a156d7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>After Lahaina Fire, Finding and Identifying Victims Proves Arduous</title>
-    <updated>2023-08-26T16:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-26:/articles/after-lahaina-fire-finding-and-identifying-victims-proves-arduous-43e2ea32</id>
-    <content type="html">Hundreds are still missing, and some remains might never be located or identified.</content>
-    <link href="https://www.wsj.com/articles/after-lahaina-fire-finding-and-identifying-victims-proves-arduous-43e2ea32" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
