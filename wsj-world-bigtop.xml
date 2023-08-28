@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-28T15:11:24Z</updated>
+  <updated>2023-08-28T16:13:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Black Lung Resurgence Prompts New Mining Rules</title>
-    <updated>2023-08-28T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-28:/articles/black-lung-resurgence-prompts-new-mining-rules-8e4c1629</id>
-    <content type="html">Officials seek to stem an alarming rise in Central Appalachia, where one in five miners has the disease.</content>
-    <link href="https://www.wsj.com/articles/black-lung-resurgence-prompts-new-mining-rules-8e4c1629" rel="alternate"></link>
+    <title>Russia Turns to Little-Known Shipping Firms to Secure Drones</title>
+    <updated>2023-08-28T15:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-28:/articles/russia-turns-to-little-known-shipping-companies-to-secure-drone-supply-chain-c510011d</id>
+    <content type="html">Russia is adapting to Western sanctions on its military supply chain by turning to a netherworld of shipping and logistics companies to bring in more armed drones from Iran.</content>
+    <link href="https://www.wsj.com/articles/russia-turns-to-little-known-shipping-companies-to-secure-drone-supply-chain-c510011d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
