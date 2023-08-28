@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-28T12:21:25Z</updated>
+  <updated>2023-08-28T13:13:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Black Lung Resurgence Prompts New Mining Rules</title>
+    <updated>2023-08-28T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-28:/articles/black-lung-resurgence-prompts-new-mining-rules-8e4c1629</id>
+    <content type="html">Officials seek to stem an alarming rise in Central Appalachia, where one in five miners has the disease.</content>
+    <link href="https://www.wsj.com/articles/black-lung-resurgence-prompts-new-mining-rules-8e4c1629" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Cancer Runs in Families. Too Few Get Tested.</title>
     <updated>2023-08-28T11:26:00Z</updated>
