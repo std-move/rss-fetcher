@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-29T06:14:35Z</updated>
+  <updated>2023-08-29T07:10:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>&#39;If They Recognize Me, They Will Kill Me.&#39; The Grinding Terror of an Afghan Interpreter Who Helped the U.S.</title>
-    <updated>2023-08-29T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-29:/articles/taliban-hunts-afghan-interpreter-aiding-u-s-19b75695</id>
-    <content type="html">Ahmad Jawed wonders which will come first—approval for a U.S. visa or capture by Taliban forces hunting people like him.</content>
-    <link href="https://www.wsj.com/articles/taliban-hunts-afghan-interpreter-aiding-u-s-19b75695" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Germany Is Losing Its Mojo. Finding It Again Won&#39;t Be Easy.</title>
-    <updated>2023-08-29T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-29:/articles/germany-is-losing-its-mojo-finding-it-again-wont-be-easy-c4b46761</id>
-    <content type="html">Europe’s biggest economy is sliding into stagnation, and its fractured political class is struggling to find answers to long-term headaches and short-term crises.</content>
-    <link href="https://www.wsj.com/articles/germany-is-losing-its-mojo-finding-it-again-wont-be-easy-c4b46761" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Manufacturers Leaving China Find a Home With Indian Startups</title>
-    <updated>2023-08-29T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-29:/articles/manufacturers-leaving-china-find-a-home-with-indian-startups-7e942e9b</id>
-    <content type="html">India is looking to build up its factory base, and venture-capital investors are noticing.</content>
-    <link href="https://www.wsj.com/articles/manufacturers-leaving-china-find-a-home-with-indian-startups-7e942e9b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
