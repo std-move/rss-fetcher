@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-29T18:13:45Z</updated>
+  <updated>2023-08-29T19:08:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In New Step Toward Israel Deal, Saudi Arabia Offers to Resume Palestinian Authority Funding</title>
+    <updated>2023-08-29T18:52:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-29:/articles/in-new-step-toward-israel-deal-saudi-arabia-offers-to-resume-palestinian-authority-funding-9e2dcc5</id>
+    <content type="html">Riyadh wants the Palestinians to crack down on militants and curb violence.</content>
+    <link href="https://www.wsj.com/articles/in-new-step-toward-israel-deal-saudi-arabia-offers-to-resume-palestinian-authority-funding-9e2dcc5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
