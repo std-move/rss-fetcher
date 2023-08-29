@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-29T02:46:31Z</updated>
+  <updated>2023-08-29T03:12:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Manufacturers Leaving China Find a Home With Indian Startups</title>
+    <updated>2023-08-29T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-29:/articles/manufacturers-leaving-china-find-a-home-with-indian-startups-7e942e9b</id>
+    <content type="html">India is looking to build up its factory base, and venture-capital investors ae noticing.</content>
+    <link href="https://www.wsj.com/articles/manufacturers-leaving-china-find-a-home-with-indian-startups-7e942e9b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Germany Is Losing Its Mojo. Finding It Again Won&#39;t Be Easy.</title>
+    <updated>2023-08-29T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-29:/articles/germany-is-losing-its-mojo-finding-it-again-wont-be-easy-c4b46761</id>
+    <content type="html">Europe’s biggest economy is sliding into stagnation, and its fractured political class is struggling to find answers to long-term headaches and short-term crises.</content>
+    <link href="https://www.wsj.com/articles/germany-is-losing-its-mojo-finding-it-again-wont-be-easy-c4b46761" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
