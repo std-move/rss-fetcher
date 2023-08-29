@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-29T04:12:44Z</updated>
+  <updated>2023-08-29T05:10:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>&#39;If They Recognize Me, They Will Me.&#39; The Grinding Terror of an Afghan Interpreter Who Helped the U.S.</title>
+    <title>&#39;If They Recognize Me, They Will Kill Me.&#39; The Grinding Terror of an Afghan Interpreter Who Helped the U.S.</title>
     <updated>2023-08-29T04:01:00Z</updated>
     <id>tag:www.wsj.com,2023-08-29:/articles/taliban-hunts-afghan-interpreter-aiding-u-s-19b75695</id>
     <content type="html">Ahmad Jawed wonders which will come first—approval for a U.S. visa or capture by Taliban forces hunting people like him.</content>
