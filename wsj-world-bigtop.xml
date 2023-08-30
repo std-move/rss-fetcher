@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-30T09:10:51Z</updated>
+  <updated>2023-08-30T10:11:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How Jeffrey Epstein Tried to Tap In to Trump&#39;s Circle</title>
+    <updated>2023-08-30T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-30:/articles/jeffrey-epstein-trump-associates-ab19d1f0</id>
+    <content type="html">Before the 2016 election, the convicted sex offender invited Trump campaign backers Peter Thiel and Thomas Barrack to meetings with a Russian diplomat</content>
+    <link href="https://www.wsj.com/articles/jeffrey-epstein-trump-associates-ab19d1f0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
