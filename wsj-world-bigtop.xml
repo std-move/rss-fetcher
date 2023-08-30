@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-30T12:20:44Z</updated>
+  <updated>2023-08-30T13:13:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Idalia&#39;s Damage Tied to How Fast It Intensifies</title>
+    <updated>2023-08-30T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-30:/articles/idalias-damage-tied-to-how-fast-it-intensifies-7a9f4271</id>
+    <content type="html">Storms that intensify rapidly are among the most damaging.</content>
+    <link href="https://www.wsj.com/articles/idalias-damage-tied-to-how-fast-it-intensifies-7a9f4271" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Prigozhin&#39;s Life on the Run: Wagner Chief Used Jets to Evade Tracking for Years</title>
+    <updated>2023-08-30T12:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-30:/articles/prigozhin-wagner-jets-evade-tracking-61ba91e7</id>
+    <content type="html">Mercenary leader moved around Russia, blocked surveillance and eluded sanctions until assassination in plane crash.</content>
+    <link href="https://www.wsj.com/articles/prigozhin-wagner-jets-evade-tracking-61ba91e7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Chicago Is Spending $3.8 Billion to Fight Flooding. It Might Not Be Enough.</title>
     <updated>2023-08-30T12:00:00Z</updated>
