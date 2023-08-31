@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-31T11:09:08Z</updated>
+  <updated>2023-08-31T12:20:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>In Spain, an Unwanted Kiss Propels a Feminist Wave</title>
-    <updated>2023-08-31T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-31:/articles/in-spain-an-unwanted-kiss-propels-a-feminist-wave-e041d214</id>
-    <content type="html">To many women, the sexist gestures of Spanish soccer chief Luis Rubiales feel all too familiar.</content>
-    <link href="https://www.wsj.com/articles/in-spain-an-unwanted-kiss-propels-a-feminist-wave-e041d214" rel="alternate"></link>
+    <title>Ukrainian Counteroffensive Pierces Main Russian Defensive Line in Southeast</title>
+    <updated>2023-08-31T11:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-31:/articles/ukrainian-counteroffensive-pierces-main-russian-defensive-line-in-southeast-9441e204</id>
+    <content type="html">After three months of grinding advances in the Western-backed operation, Kyiv has accelerated advances along its main line of attack.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-counteroffensive-pierces-main-russian-defensive-line-in-southeast-9441e204" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
