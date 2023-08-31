@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-31T10:11:24Z</updated>
+  <updated>2023-08-31T11:09:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-08-31:/articles/in-spain-an-unwanted-kiss-propels-a-feminist-wave-e041d214</id>
     <content type="html">To many women, the sexist gestures of Spanish soccer chief Luis Rubiales feel all too familiar.</content>
     <link href="https://www.wsj.com/articles/in-spain-an-unwanted-kiss-propels-a-feminist-wave-e041d214" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Think It&#39;s Hot Out? Try Getting in a Food Truck</title>
-    <updated>2023-08-31T09:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-08-31:/articles/think-its-hot-out-try-getting-in-a-food-truck-e05de25f</id>
-    <content type="html">Long stretches of unusually hot days have broiled the U.S. Inside a food truck, it’s even worse, operators say.</content>
-    <link href="https://www.wsj.com/articles/think-its-hot-out-try-getting-in-a-food-truck-e05de25f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
