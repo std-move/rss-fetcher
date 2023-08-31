@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-08-31T22:09:50Z</updated>
+  <updated>2023-08-31T23:10:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Cedar Key, an Imperiled &#39;Old Florida&#39; Town, Looks to Rebuild</title>
+    <updated>2023-08-31T22:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-08-31:/articles/cedar-key-an-imperiled-old-florida-town-looks-to-rebuild-f2c4e3cf</id>
+    <content type="html">Idalia devastated the distinctive island community on the Gulf Coast.</content>
+    <link href="https://www.wsj.com/articles/cedar-key-an-imperiled-old-florida-town-looks-to-rebuild-f2c4e3cf" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
