@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-01T10:11:26Z</updated>
+  <updated>2023-09-01T11:09:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israeli Protesters Grapple With Disagreements Over Stopping Judicial Overhaul</title>
+    <updated>2023-09-01T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-01:/articles/israeli-protest-movement-grapples-with-disagreements-over-stopping-judicial-overhaul-76b6d986</id>
+    <content type="html">The divisions underscore the challenge that protest organizers face to sustain a mass movement that has sent hundreds of thousands of Israelis into the streets for 35 straight weeks.</content>
+    <link href="https://www.wsj.com/articles/israeli-protest-movement-grapples-with-disagreements-over-stopping-judicial-overhaul-76b6d986" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine Fights to Widen Its Puncture of Russian Front Lines</title>
+    <updated>2023-09-01T10:23:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-01:/articles/ukraine-fights-to-widen-its-puncture-of-russian-front-lines-141459a6</id>
+    <content type="html">Expanding the small southeastern breach could put critical Russian logistics lines within reach of Ukrainian artillery.</content>
+    <link href="https://www.wsj.com/articles/ukraine-fights-to-widen-its-puncture-of-russian-front-lines-141459a6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Immigration Courts Mired in Yearslong Backlog: &#39;I Just Want a Resolution&#39;</title>
     <updated>2023-09-01T09:30:00Z</updated>
