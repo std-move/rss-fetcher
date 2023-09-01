@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-01T14:09:57Z</updated>
+  <updated>2023-09-01T15:11:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-09-01:/articles/china-typhoon-saola-storm-48d982de</id>
     <content type="html">Hong Kong meteorologists issued their highest storm alert—the first level-10 typhoon in five years.</content>
     <link href="https://www.wsj.com/articles/china-typhoon-saola-storm-48d982de" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>To Pay for Weight Loss Drugs, Some Take Second Jobs, Ring Up Credit Card Debts</title>
-    <updated>2023-09-01T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-01:/articles/ozempic-mounjaro-weight-loss-drug-cost-32fc3555</id>
-    <content type="html">Some people are paying more than $10,000 a year out-of-pocket for Ozempic and Mounjaro.</content>
-    <link href="https://www.wsj.com/articles/ozempic-mounjaro-weight-loss-drug-cost-32fc3555" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
