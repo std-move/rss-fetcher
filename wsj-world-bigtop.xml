@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-02T03:10:35Z</updated>
+  <updated>2023-09-02T04:12:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Young Japanese Find It Pays---Double---to Work Abroad</title>
-    <updated>2023-09-02T03:00:00Z</updated>
+    <updated>2023-09-02T04:03:00Z</updated>
     <id>tag:www.wsj.com,2023-09-02:/articles/young-japanese-find-it-paysdoubleto-work-abroad-a5b48fb1</id>
     <content type="html">The wage gap widens with wealthiest nations as the yen falls, driving some to weigh emigration.</content>
     <link href="https://www.wsj.com/articles/young-japanese-find-it-paysdoubleto-work-abroad-a5b48fb1" rel="alternate"></link>
