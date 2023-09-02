@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-02T09:09:33Z</updated>
+  <updated>2023-09-02T10:10:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>This Part of Ukraine&#39;s Counteroffensive Is Pressing Forward, With Little Western Help</title>
+    <updated>2023-09-02T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-02:/articles/this-part-of-ukraines-counteroffensive-is-pressing-forward-with-little-western-help-d794135c</id>
+    <content type="html">Ukraine has retaken a handful of villages in the eastern Donetsk region, but the West is questioning Kyiv’s decision to attack on multiple axes.</content>
+    <link href="https://www.wsj.com/articles/this-part-of-ukraines-counteroffensive-is-pressing-forward-with-little-western-help-d794135c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Were the People in Trump&#39;s Ear After the 2020 Election Criminals or Just Lawyers?</title>
     <updated>2023-09-02T09:00:00Z</updated>
