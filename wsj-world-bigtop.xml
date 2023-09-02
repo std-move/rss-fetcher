@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-02T19:07:52Z</updated>
+  <updated>2023-09-02T20:10:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Bill Richardson, Former New Mexico Governor and U.N. Ambassador, Dies at 75</title>
+    <updated>2023-09-02T19:58:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-02:/articles/bill-richardson-former-new-mexico-governor-and-u-n-ambassador-dies-at-75-2dbb54c</id>
+    <content type="html">The Democrat also served as energy secretary for Bill Clinton and had aspired to be the country’s first Hispanic president.</content>
+    <link href="https://www.wsj.com/articles/bill-richardson-former-new-mexico-governor-and-u-n-ambassador-dies-at-75-2dbb54c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>A Montana Town Faces a Homelessness Problem Similar to San Francisco and L.A.</title>
     <updated>2023-09-02T13:00:00Z</updated>
@@ -42,14 +50,6 @@
     <id>tag:www.wsj.com,2023-09-02:/articles/were-the-people-in-trumps-ear-after-the-2020-election-criminals-or-just-lawyers-d0240e9b</id>
     <content type="html">The Georgia racketeering case rides largely on the line between advice and actions that allegedly furthered a criminal conspiracy.</content>
     <link href="https://www.wsj.com/articles/were-the-people-in-trumps-ear-after-the-2020-election-criminals-or-just-lawyers-d0240e9b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Lashed by Typhoon Rivaling Idalia</title>
-    <updated>2023-09-02T05:48:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-02:/articles/china-typhoon-saola-storm-48d982de</id>
-    <content type="html">Hong Kong meteorologists issued their highest storm alert—the first level-10 typhoon in five years.</content>
-    <link href="https://www.wsj.com/articles/china-typhoon-saola-storm-48d982de" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
