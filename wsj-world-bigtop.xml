@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-02T11:08:02Z</updated>
+  <updated>2023-09-02T12:18:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Who Are the Names in Jeffrey Epstein&#39;s Calendar?</title>
+    <updated>2023-09-02T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-02:/articles/jeffrey-epstein-calendar-names-ec88e7a0</id>
+    <content type="html">A WSJ investigation reveals meetings with politicians and executives and the kinds of favors Epstein did for them.</content>
+    <link href="https://www.wsj.com/articles/jeffrey-epstein-calendar-names-ec88e7a0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>This Part of Ukraine&#39;s Counteroffensive Is Pressing Forward, With Little Western Help</title>
     <updated>2023-09-02T09:30:00Z</updated>
