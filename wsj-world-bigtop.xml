@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-02T21:09:29Z</updated>
+  <updated>2023-09-02T22:09:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Bill Richardson, Former New Mexico Governor and U.N. Ambassador, Dies at 75</title>
-    <updated>2023-09-02T19:58:00Z</updated>
+    <updated>2023-09-02T21:36:00Z</updated>
     <id>tag:www.wsj.com,2023-09-02:/articles/bill-richardson-former-new-mexico-governor-and-u-n-ambassador-dies-at-75-2dbb54c</id>
     <content type="html">The Democrat also served as energy secretary for Bill Clinton and had aspired to be the country’s first Hispanic president.</content>
     <link href="https://www.wsj.com/articles/bill-richardson-former-new-mexico-governor-and-u-n-ambassador-dies-at-75-2dbb54c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Montana Town Faces a Homelessness Problem Similar to San Francisco and L.A.</title>
-    <updated>2023-09-02T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-02:/articles/a-montana-town-faces-a-homelessness-problem-similar-to-san-francisco-and-l-a-eba26824</id>
-    <content type="html">Missoula’s parks are full of people in tents. but moving them is hampered by a court ruling that has frustrated many leaders in the American West.</content>
-    <link href="https://www.wsj.com/articles/a-montana-town-faces-a-homelessness-problem-similar-to-san-francisco-and-l-a-eba26824" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,6 +18,14 @@
     <id>tag:www.wsj.com,2023-09-02:/articles/in-new-moon-race-russian-crash-shows-the-only-u-s-rival-is-china-422b3db2</id>
     <content type="html">Like the scramble to plant boots on the moon in the 1960s, the race to establish a base there is a contest between the world’s superpowers.</content>
     <link href="https://www.wsj.com/articles/in-new-moon-race-russian-crash-shows-the-only-u-s-rival-is-china-422b3db2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>A Montana Town Faces a Homelessness Problem Similar to San Francisco and L.A.</title>
+    <updated>2023-09-02T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-02:/articles/a-montana-town-faces-a-homelessness-problem-similar-to-san-francisco-and-l-a-eba26824</id>
+    <content type="html">Missoula’s parks are full of people in tents. but moving them is hampered by a court ruling that has frustrated many leaders in the American West.</content>
+    <link href="https://www.wsj.com/articles/a-montana-town-faces-a-homelessness-problem-similar-to-san-francisco-and-l-a-eba26824" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
