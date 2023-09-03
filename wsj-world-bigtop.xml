@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-03T22:09:17Z</updated>
+  <updated>2023-09-03T23:10:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Escapist Utopia Gets Real: Burning Man Revelers Stuck in Mud</title>
+    <updated>2023-09-03T22:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-03:/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b</id>
+    <content type="html">Heavy rains trapped tech titans, artists and other free spirits who had flocked to this Nevada desert playa for the annual Burning Man festival. They are accustomed to weathering withering heat and dust storms. But this year, they wound up wallowing in the muck.</content>
+    <link href="https://www.wsj.com/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>After Taming Rebels, Ethiopia&#39;s Leader Faces New Threat</title>
     <updated>2023-09-03T12:30:00Z</updated>
