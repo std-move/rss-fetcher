@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-04T20:10:38Z</updated>
+  <updated>2023-09-04T22:09:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Escapist Utopia Gets Real: Burning Man Revelers Stuck in Mud</title>
-    <updated>2023-09-04T19:41:00Z</updated>
+    <updated>2023-09-04T21:42:00Z</updated>
     <id>tag:www.wsj.com,2023-09-04:/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b</id>
     <content type="html">Heavy rains trapped tech titans, artists and other free spirits who had flocked to this Nevada desert playa for the annual festival.</content>
     <link href="https://www.wsj.com/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Deadly Fire Exposes Freedom&#39;s Failed Promise in South Africa</title>
+    <updated>2023-09-04T20:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-04:/articles/deadly-fire-exposes-freedoms-failed-promise-in-south-africas-city-of-gold-b6a9f1f3</id>
+    <content type="html">At least 77 people died in the fire in downtown Johannesburg in the early hours of Thursday morning, all of them Black and among the poorest in the sprawling metropolis christened the City of Gold by its white founders a century and a half ago.</content>
+    <link href="https://www.wsj.com/articles/deadly-fire-exposes-freedoms-failed-promise-in-south-africas-city-of-gold-b6a9f1f3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
