@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-04T19:08:30Z</updated>
+  <updated>2023-09-04T20:10:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>When Screening for Prostate Cancer Comes Too Late</title>
-    <updated>2023-09-04T12:41:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-04:/articles/when-screening-for-prostate-cancer-comes-too-late-1e364678</id>
-    <content type="html">Late-stage diagnoses have risen and a decline in deaths has stalled.</content>
-    <link href="https://www.wsj.com/articles/when-screening-for-prostate-cancer-comes-too-late-1e364678" rel="alternate"></link>
+    <title>Escapist Utopia Gets Real: Burning Man Revelers Stuck in Mud</title>
+    <updated>2023-09-04T19:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-04:/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b</id>
+    <content type="html">Heavy rains trapped tech titans, artists and other free spirits who had flocked to this Nevada desert playa for the annual festival.</content>
+    <link href="https://www.wsj.com/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
