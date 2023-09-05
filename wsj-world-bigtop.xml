@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-05T03:11:30Z</updated>
+  <updated>2023-09-05T05:10:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Thousands Leave Burning Man After Weekend Mired in Mud</title>
-    <updated>2023-09-05T01:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-05:/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b</id>
-    <content type="html">Heavy rains trapped tech titans, artists and other free spirits who had flocked to this Nevada desert playa for the annual festival.</content>
-    <link href="https://www.wsj.com/articles/escapist-utopia-gets-real-burning-man-revelers-stuck-in-mud-4dee63b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
