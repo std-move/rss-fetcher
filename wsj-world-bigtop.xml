@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-05T18:13:33Z</updated>
+  <updated>2023-09-05T19:08:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Texas&#39; &#39;Floating Border Wall&#39; Fails to Deter Migrants</title>
+    <updated>2023-09-05T18:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-05:/articles/texas-floating-border-wall-fails-to-deter-migrants-75ebfcae</id>
+    <content type="html">More asylum seekers are wading across the shallow waters of the Rio Grande and skirting the 1,000-foot long chain of buoys along the U.S.-Mexico border.</content>
+    <link href="https://www.wsj.com/articles/texas-floating-border-wall-fails-to-deter-migrants-75ebfcae" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Manhattan Prosecutors Seize Roman Bust From Massachusetts Museum</title>
     <updated>2023-09-05T17:59:00Z</updated>
     <id>tag:www.wsj.com,2023-09-05:/articles/manhattan-prosecutors-seize-roman-bust-from-massachusetts-museum-in-smuggling-investigation-27b6a286</id>
     <content type="html">The artwork was likely stolen from a shrine in what is now southwest Turkey, authorities say.</content>
     <link href="https://www.wsj.com/articles/manhattan-prosecutors-seize-roman-bust-from-massachusetts-museum-in-smuggling-investigation-27b6a286" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Texas&#39; &#39;Floating Border Wall&#39; Fails to Deter Migrants</title>
-    <updated>2023-09-05T16:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-05:/articles/texas-floating-border-wall-fails-to-deter-migrants-75ebfcae</id>
-    <content type="html">More asylum seekers are wading across the shallow waters of the Rio Grande and skirting the 1,000-foot long chain of buoys along the U.S.-Mexico border.</content>
-    <link href="https://www.wsj.com/articles/texas-floating-border-wall-fails-to-deter-migrants-75ebfcae" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
