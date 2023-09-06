@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-06T03:11:22Z</updated>
+  <updated>2023-09-06T04:13:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Once Inoculated by Its Nazi Past, Germany Is Becoming a Far-Right Stronghold</title>
+    <updated>2023-09-06T04:05:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-06:/articles/once-inoculated-by-its-nazi-past-germany-is-becoming-a-far-right-stronghold-7f278664</id>
+    <content type="html">Support for the pro-Russia, anti-immigration Alternative for Germany party has reached records as more voters lose faith in mainstream politics.</content>
+    <link href="https://www.wsj.com/articles/once-inoculated-by-its-nazi-past-germany-is-becoming-a-far-right-stronghold-7f278664" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
