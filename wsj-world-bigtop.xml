@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-08T16:13:40Z</updated>
+  <updated>2023-09-08T17:09:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>King Charles III Proves Unexpectedly Popular During First Year of Reign</title>
-    <updated>2023-09-08T14:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-08:/articles/king-charles-iii-proves-unexpectedly-popular-during-first-year-of-reign-b6c20819</id>
-    <content type="html">Prince Harry’s criticisms of the royal family haven’t dented a king praised for his low-key approach.</content>
-    <link href="https://www.wsj.com/articles/king-charles-iii-proves-unexpectedly-popular-during-first-year-of-reign-b6c20819" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
