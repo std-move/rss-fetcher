@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-09T20:10:10Z</updated>
+  <updated>2023-09-09T21:08:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Morocco Earthquake Kills More Than 1,300</title>
+    <updated>2023-09-09T20:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-09:/articles/morocco-earthquake-kills-at-least-296-a431d3f9</id>
+    <content type="html">A powerful earthquake struck Morocco, setting off a scramble to rescue trapped survivors in a North African country that is a popular tourist destination.</content>
+    <link href="https://www.wsj.com/articles/morocco-earthquake-kills-at-least-296-a431d3f9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Covid-19 Rises Again, and Masks Are Back on the Table</title>
     <updated>2023-09-09T16:30:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-09-09:/articles/hotter-summers-kill-thousands-in-a-europe-with-scant-air-conditioning-9c8ab5d8</id>
     <content type="html">Climate change is warming Europe twice as fast as the global average, leaving vulnerable populations at risk of deadly complications when temperatures climb.</content>
     <link href="https://www.wsj.com/articles/hotter-summers-kill-thousands-in-a-europe-with-scant-air-conditioning-9c8ab5d8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Morocco Earthquake Kills More Than 1,000</title>
-    <updated>2023-09-09T15:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-09:/articles/morocco-earthquake-kills-at-least-296-a431d3f9</id>
-    <content type="html">A powerful earthquake struck Morocco, setting off a scramble to rescue trapped survivors in a North African country that is a popular tourist destination.</content>
-    <link href="https://www.wsj.com/articles/morocco-earthquake-kills-at-least-296-a431d3f9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
