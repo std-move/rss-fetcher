@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-10T14:09:05Z</updated>
+  <updated>2023-09-10T15:09:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fifty Years On, U.S.-Backed Coup in Chile Stirs Divisions</title>
+    <updated>2023-09-10T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-10:/articles/fifty-years-on-u-s-backed-coup-in-chile-stirs-divisions-e0217b6f</id>
+    <content type="html">The legacy of late Marxist President Salvador Allende continues to stir divisions and controversy as the country’s current leftist president is struggling to advance an ambitious social agenda.</content>
+    <link href="https://www.wsj.com/articles/fifty-years-on-u-s-backed-coup-in-chile-stirs-divisions-e0217b6f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
