@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-10T02:19:02Z</updated>
+  <updated>2023-09-10T03:10:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>World&#39;s Top School Systems Try to Ease Pressure on Students</title>
+    <updated>2023-09-10T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-10:/articles/worlds-top-school-systems-try-to-ease-pressure-on-students-a6154973</id>
+    <content type="html">The world’s most competitive school systems, known for their hard-driving approach and top-notch academic results, are easing up.</content>
+    <link href="https://www.wsj.com/articles/worlds-top-school-systems-try-to-ease-pressure-on-students-a6154973" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Covid-19 Rises Again, and Masks Are Back on the Table</title>
     <updated>2023-09-09T16:30:00Z</updated>
