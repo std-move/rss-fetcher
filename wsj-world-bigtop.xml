@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-10T09:09:35Z</updated>
+  <updated>2023-09-10T10:10:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>World&#39;s Top School Systems Try to Ease Pressure on Students</title>
-    <updated>2023-09-10T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-10:/articles/worlds-top-school-systems-try-to-ease-pressure-on-students-a6154973</id>
-    <content type="html">The world’s most competitive school systems, known for their hard-driving approach and top-notch academic results, are easing up.</content>
-    <link href="https://www.wsj.com/articles/worlds-top-school-systems-try-to-ease-pressure-on-students-a6154973" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Putin Wants His Hit Man Back</title>
     <updated>2023-09-10T04:01:00Z</updated>
@@ -21,19 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Covid-19 Rises Again, and Masks Are Back on the Table</title>
-    <updated>2023-09-09T16:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-09:/articles/covid-2023-mask-mandates-school-business-cd45872</id>
-    <content type="html">The rise in Covid-19 is a reminder that the virus retains power to disrupt learning and work.</content>
-    <link href="https://www.wsj.com/articles/covid-2023-mask-mandates-school-business-cd45872" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hotter Summers Kill Thousands in a Europe With Scant Air Conditioning</title>
-    <updated>2023-09-09T16:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-09:/articles/hotter-summers-kill-thousands-in-a-europe-with-scant-air-conditioning-9c8ab5d8</id>
-    <content type="html">Climate change is warming Europe twice as fast as the global average, leaving vulnerable populations at risk of deadly complications when temperatures climb.</content>
-    <link href="https://www.wsj.com/articles/hotter-summers-kill-thousands-in-a-europe-with-scant-air-conditioning-9c8ab5d8" rel="alternate"></link>
+    <title>World&#39;s Top School Systems Try to Ease Pressure on Students</title>
+    <updated>2023-09-10T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-10:/articles/worlds-top-school-systems-try-to-ease-pressure-on-students-a6154973</id>
+    <content type="html">The world’s most competitive school systems, known for their hard-driving approach and top-notch academic results, are easing up.</content>
+    <link href="https://www.wsj.com/articles/worlds-top-school-systems-try-to-ease-pressure-on-students-a6154973" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
