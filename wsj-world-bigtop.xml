@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-11T02:17:54Z</updated>
+  <updated>2023-09-11T03:11:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Three Roadblocks Keeping Ukraine Mired in War</title>
+    <updated>2023-09-11T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-11:/articles/the-three-roadblocks-keeping-ukraine-mired-in-war-a6580c07</id>
+    <content type="html">Slow gains on the battlefield, a cautious West and Putin’s record of breaking deals contribute to a deadlock that Kyiv fears plays in Russia’s favor.</content>
+    <link href="https://www.wsj.com/articles/the-three-roadblocks-keeping-ukraine-mired-in-war-a6580c07" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>India Spends Big on What It Needs Most to Catch Up to China</title>
+    <updated>2023-09-11T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-11:/articles/india-spends-big-on-what-it-needs-most-to-catch-up-to-china-198c28b4</id>
+    <content type="html">The country is building fast in an effort to address gaps in its infrastructure that have long held back its economy.</content>
+    <link href="https://www.wsj.com/articles/india-spends-big-on-what-it-needs-most-to-catch-up-to-china-198c28b4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
