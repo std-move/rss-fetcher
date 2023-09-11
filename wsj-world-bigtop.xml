@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-11T15:11:31Z</updated>
+  <updated>2023-09-11T16:14:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-09-11:/articles/morocco-earthquake-death-toll-damage-12d6279f</id>
     <content type="html">Thousands of Moroccans who survived a powerful earthquake have been left without shelter and are desperate for food, water and other aid.</content>
     <link href="https://www.wsj.com/articles/morocco-earthquake-death-toll-damage-12d6279f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Fraudulent Sober Homes Exploited Native Americans, Say Authorities</title>
-    <updated>2023-09-11T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-11:/articles/fraudulent-sober-homes-exploited-native-americans-say-authorities-511330b7</id>
-    <content type="html">Investigators claim operators in Arizona used a Medicaid loophole while allowing tribal members to drink and use drugs.</content>
-    <link href="https://www.wsj.com/articles/fraudulent-sober-homes-exploited-native-americans-say-authorities-511330b7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
