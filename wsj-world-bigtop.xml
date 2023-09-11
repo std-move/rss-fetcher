@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-11T13:14:32Z</updated>
+  <updated>2023-09-11T14:10:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Earthquake-Hit Moroccans Grow Desperate as Aid Faces Hurdles</title>
+    <updated>2023-09-11T13:49:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-11:/articles/morocco-earthquake-death-toll-damage-12d6279f</id>
+    <content type="html">Thousands of Moroccans who survived a powerful earthquake have been left without shelter and are desperate for food, water and other aid.</content>
+    <link href="https://www.wsj.com/articles/morocco-earthquake-death-toll-damage-12d6279f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Fraudulent Sober Homes Exploited Native Americans, Say Authorities</title>
     <updated>2023-09-11T13:00:00Z</updated>
