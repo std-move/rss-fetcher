@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-11T12:21:32Z</updated>
+  <updated>2023-09-11T13:14:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine&#39;s Drone Army Takes Bites Out of Bigger Opponent</title>
-    <updated>2023-09-11T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-11:/articles/ukraines-drone-army-takes-bites-out-of-bigger-opponent-1ee9120e</id>
-    <content type="html">Kyiv has established dedicated units to launch remotely piloted attacks that are charting the future of combat.</content>
-    <link href="https://www.wsj.com/articles/ukraines-drone-army-takes-bites-out-of-bigger-opponent-1ee9120e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Earthquake-Hit Moroccans Grow Desperate as Aid Faces Hurdles</title>
-    <updated>2023-09-11T10:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-11:/articles/earthquake-hit-moroccans-grow-desperate-as-aid-faces-hurdles-12d6279f</id>
-    <content type="html">Thousands of Moroccans who survived a powerful earthquake have been left without shelter and are desperate for food, water and other aid.</content>
-    <link href="https://www.wsj.com/articles/earthquake-hit-moroccans-grow-desperate-as-aid-faces-hurdles-12d6279f" rel="alternate"></link>
+    <title>Fraudulent Sober Homes Exploited Native Americans, Say Authorities</title>
+    <updated>2023-09-11T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-11:/articles/fraudulent-sober-homes-exploited-native-americans-say-authorities-511330b7</id>
+    <content type="html">Investigators claim operators in Arizona used a Medicaid loophole while allowing tribal members to drink and use drugs.</content>
+    <link href="https://www.wsj.com/articles/fraudulent-sober-homes-exploited-native-americans-say-authorities-511330b7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
