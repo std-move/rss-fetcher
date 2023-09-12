@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-12T15:11:39Z</updated>
+  <updated>2023-09-12T16:13:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-09-12:/articles/hopes-of-rescuing-morocco-earthquake-survivors-dwindle-as-death-toll-nears-2-900-f60776eb</id>
     <content type="html">Survivors tried to gather enough food, water and shelter with the help of mostly private donations, after authorities here accepted aid from only a handful of countries.</content>
     <link href="https://www.wsj.com/articles/hopes-of-rescuing-morocco-earthquake-survivors-dwindle-as-death-toll-nears-2-900-f60776eb" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China&#39;s Cash-Strapped Local Governments Use Police to Raise Revenue</title>
-    <updated>2023-09-12T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-12:/articles/chinas-local-governments-are-so-cash-strapped-they-use-police-to-raise-revenue-30c4fcaf</id>
-    <content type="html">Local authorities are imposing larger fines and seizing assets to help boost their coffers. In some cases, police have gone after alleged offenders hundreds of miles away.</content>
-    <link href="https://www.wsj.com/articles/chinas-local-governments-are-so-cash-strapped-they-use-police-to-raise-revenue-30c4fcaf" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Why More Baby Boomers Are Sliding Into Homelessness</title>
-    <updated>2023-09-12T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-12:/articles/why-more-baby-boomers-are-homeless-2d2b913b</id>
-    <content type="html">The aging of America means more old people on fixed incomes are overwhelmed by the high cost of housing and other financial shocks; ‘not seen since the Great Depression.’</content>
-    <link href="https://www.wsj.com/articles/why-more-baby-boomers-are-homeless-2d2b913b" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
