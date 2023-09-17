@@ -94,7 +94,7 @@ func processArticle(item *gofeed.Item, myItems *[]*feeds.Item) error {
 	if err != nil {
 		return fmt.Errorf("%v [%v]: %w", "error reading", ampLink, err)
 	}
-	if !bytes.Contains(body, []byte("class=\"bigTop-hero")) {
+	if !bytes.Contains(body, []byte("class=\"bigTop-hero")) && !bytes.Contains(body, []byte("\"bigtopheroid\"")) {
 		log.Print("not a bigTop article [", ampLink, "]", "\n")
 		return nil
 	}
