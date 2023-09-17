@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-17T12:18:47Z</updated>
+  <updated>2023-09-17T13:11:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Wisconsin Abortion Clinics Prepare to Resume Appointments</title>
+    <updated>2023-09-17T12:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-17:/articles/wisconsin-abortion-clinics-prepare-to-resume-appointments-ed5a753e</id>
+    <content type="html">Planned Parenthood of Wisconsin is set to offer abortion services again in Milwaukee and Madison, while litigation continues over a previously dormant 1849 state law banning most abortions.</content>
+    <link href="https://www.wsj.com/articles/wisconsin-abortion-clinics-prepare-to-resume-appointments-ed5a753e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>New Orleans Fights &#39;Terrorism&#39; on Streets With AI Spycraft</title>
     <updated>2023-09-17T09:30:00Z</updated>
