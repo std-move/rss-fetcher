@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-17T09:23:47Z</updated>
+  <updated>2023-09-17T09:32:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Next Battlefield Foe: Bad Weather</title>
+    <updated>2023-09-17T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-17:/articles/ukraines-next-battlefield-foe-bad-weather-212a5f94</id>
+    <content type="html">Drenching rain and icy cold could impede Kyiv’s chance of exploiting an eventual breakthrough.</content>
+    <link href="https://www.wsj.com/articles/ukraines-next-battlefield-foe-bad-weather-212a5f94" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Lee, Now a Post-Tropical Cyclone, Makes Landfall Saturday</title>
     <updated>2023-09-16T21:34:00Z</updated>
