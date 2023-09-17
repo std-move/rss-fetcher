@@ -20,7 +20,7 @@ var client = http.Client{
 	Timeout: 15 * time.Second,
 }
 
-const USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+const USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0"
 
 func main() {
 	parser := gofeed.NewParser()
@@ -48,7 +48,8 @@ func main() {
 	if err = serializeFeed(myFeed, "public/wsj-world-bigtop.xml"); err != nil {
 		log.Fatal("failed to serialize my feed: ", err, "\n")
 	}
-	log.Print("Successfully updated feed, article count [", len(myFeed.Items), "] out of [", len(origFeed.Items), "]", "\n")
+	log.Print("Successfully updated feed, article count [",
+		len(myFeed.Items), "] out of [", len(origFeed.Items), "]", "\n")
 }
 
 func processArticle(item *gofeed.Item, myItems *[]*feeds.Item) error {
@@ -94,7 +95,9 @@ func processArticle(item *gofeed.Item, myItems *[]*feeds.Item) error {
 	if err != nil {
 		return fmt.Errorf("%v [%v]: %w", "error reading", ampLink, err)
 	}
-	if !bytes.Contains(body, []byte("class=\"bigTop-hero")) && !bytes.Contains(body, []byte("\"bigtopheroid\"")) {
+	if !bytes.Contains(body, []byte("class=\"bigTop-hero")) &&
+		!bytes.Contains(body, []byte("\"bigtopheroid\"")) &&
+		!bytes.Contains(body, []byte("\"inset_type\":\"bigtophero\"")) {
 		log.Print("not a bigTop article [", ampLink, "]", "\n")
 		return nil
 	}
