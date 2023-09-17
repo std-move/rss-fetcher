@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-17T13:11:19Z</updated>
+  <updated>2023-09-17T14:08:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Brazil&#39;s Big Cats Under Threat From Wind Farms</title>
+    <updated>2023-09-17T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-17:/articles/brazils-big-cats-under-threat-from-wind-farms-1e7494f3</id>
+    <content type="html">Jaguars and pumas face extinction in Brazil’s northeast as the fast-growing wind power industry frightens them off their land.</content>
+    <link href="https://www.wsj.com/articles/brazils-big-cats-under-threat-from-wind-farms-1e7494f3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Wisconsin Abortion Clinics Prepare to Resume Appointments</title>
     <updated>2023-09-17T12:30:00Z</updated>
     <id>tag:www.wsj.com,2023-09-17:/articles/wisconsin-abortion-clinics-prepare-to-resume-appointments-ed5a753e</id>
     <content type="html">Planned Parenthood of Wisconsin is set to offer abortion services again in Milwaukee and Madison, while litigation continues over a previously dormant 1849 state law banning most abortions.</content>
     <link href="https://www.wsj.com/articles/wisconsin-abortion-clinics-prepare-to-resume-appointments-ed5a753e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>New Orleans Fights &#39;Terrorism&#39; on Streets With AI Spycraft</title>
-    <updated>2023-09-17T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-17:/articles/new-orleans-da-fights-terrorism-on-streets-with-ai-spycraft-87f74055</id>
-    <content type="html">Prosecutors work with former intelligence officers and artificial-intelligence tools to gather and analyze open-source evidence.</content>
-    <link href="https://www.wsj.com/articles/new-orleans-da-fights-terrorism-on-streets-with-ai-spycraft-87f74055" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Next Battlefield Foe: Bad Weather</title>
-    <updated>2023-09-17T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-17:/articles/ukraines-next-battlefield-foe-bad-weather-212a5f94</id>
-    <content type="html">Drenching rain and icy cold could impede Kyiv’s chance of exploiting an eventual breakthrough.</content>
-    <link href="https://www.wsj.com/articles/ukraines-next-battlefield-foe-bad-weather-212a5f94" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
