@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-17T09:32:52Z</updated>
+  <updated>2023-09-17T10:10:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>New Orleans Fights &#39;Terrorism&#39; on Streets With AI Spycraft</title>
+    <updated>2023-09-17T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-17:/articles/new-orleans-da-fights-terrorism-on-streets-with-ai-spycraft-87f74055</id>
+    <content type="html">Prosecutors work with former intelligence officers and artificial-intelligence tools to gather and analyze open-source evidence.</content>
+    <link href="https://www.wsj.com/articles/new-orleans-da-fights-terrorism-on-streets-with-ai-spycraft-87f74055" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine&#39;s Next Battlefield Foe: Bad Weather</title>
     <updated>2023-09-17T04:01:00Z</updated>
