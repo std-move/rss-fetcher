@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-22.04
     timeout-minutes: 30
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: actions/setup-go@v4
       with:
-        go-version: '^1.17.2' # The Go version to download (if necessary) and use.
+        go-version: '^1.21' # The Go version to download (if necessary) and use.
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
     - run: go run main.go || go run main.go || go run main.go
