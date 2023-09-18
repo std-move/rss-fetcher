@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-18T00:50:48Z</updated>
+  <updated>2023-09-18T01:45:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>These Workers Toiling in 120-Degree Heat Are on Front Lines of Climate Change</title>
+    <updated>2023-09-18T01:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-18:/articles/these-workers-toiling-in-120-degree-heat-are-on-front-lines-of-climate-change-d1e6eab1</id>
+    <content type="html">In the region warming up faster than anywhere else on the planet, migrant workers describe blistering conditions affecting their health.</content>
+    <link href="https://www.wsj.com/articles/these-workers-toiling-in-120-degree-heat-are-on-front-lines-of-climate-change-d1e6eab1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
