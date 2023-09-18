@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-18T21:09:29Z</updated>
+  <updated>2023-09-18T22:10:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Hypersonic Missiles Are Game-Changers, and America Doesn&#39;t Have Them</title>
+    <updated>2023-09-18T21:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-18:/articles/hypersonic-missiles-america-military-behind-936a3128</id>
+    <content type="html">The U.S. military is pouring resources into the superfast weapons but has struggled to develop them. China and Russia are far ahead.</content>
+    <link href="https://www.wsj.com/articles/hypersonic-missiles-america-military-behind-936a3128" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
