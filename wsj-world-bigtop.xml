@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-19T09:11:15Z</updated>
+  <updated>2023-09-19T10:12:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Libya Protests Turn Violent as Flood Survivors Demand Accountability</title>
+    <updated>2023-09-19T10:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-19:/articles/libya-protests-turn-violent-as-flood-survivors-demand-accountability-713b1d80</id>
+    <content type="html">People gathered to demand government accountability, while others marched up to the house of the mayor and started a fire.</content>
+    <link href="https://www.wsj.com/articles/libya-protests-turn-violent-as-flood-survivors-demand-accountability-713b1d80" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
