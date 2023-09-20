@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-20T06:14:37Z</updated>
+  <updated>2023-09-20T07:10:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukrainian Tactics Put Russia on the Defensive in the Black Sea</title>
+    <updated>2023-09-20T06:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-20:/articles/ukrainian-tactics-put-russia-on-the-defensive-in-the-black-sea-4d3f492d</id>
+    <content type="html">Using innovative attacks, Ukraine has eroded Russia’s formidable naval advantage and is starting to reopen ports.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-tactics-put-russia-on-the-defensive-in-the-black-sea-4d3f492d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
