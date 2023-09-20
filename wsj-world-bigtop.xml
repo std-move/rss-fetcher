@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-20T20:11:39Z</updated>
+  <updated>2023-09-20T21:09:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Your Expired At-Home Covid-19 Tests May Still Work</title>
+    <updated>2023-09-20T20:53:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-20:/articles/at-home-covid-19-tests-expiration-date-11656712335</id>
+    <content type="html">The FDA has been extending expiration dates for some Covid tests, giving them a longer shelf life.</content>
+    <link href="https://www.wsj.com/articles/at-home-covid-19-tests-expiration-date-11656712335" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
