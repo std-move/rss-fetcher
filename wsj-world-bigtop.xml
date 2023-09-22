@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-22T09:11:09Z</updated>
+  <updated>2023-09-22T10:12:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Survivors in Flood-Ravaged Libya Wonder if They Will Ever Have a Home Again</title>
-    <updated>2023-09-22T04:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-22:/articles/survivors-in-flood-ravaged-libya-wonder-if-they-will-ever-have-a-home-again-dfd573c9</id>
-    <content type="html">More than 43,000 people have been displaced after their homes were damaged or destroyed.</content>
-    <link href="https://www.wsj.com/articles/survivors-in-flood-ravaged-libya-wonder-if-they-will-ever-have-a-home-again-dfd573c9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
