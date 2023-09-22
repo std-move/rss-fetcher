@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-22T03:11:09Z</updated>
+  <updated>2023-09-22T04:13:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Venice Fights to Save Itself From Tourists</title>
-    <updated>2023-09-22T03:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-22:/articles/venice-fights-to-save-itself-from-tourists-ccdaea9e</id>
-    <content type="html">Venice has long struggled with the impact of mass tourism, but residents say the city has reached a tipping point, accelerated by a boom in European and U.S. tourism.</content>
-    <link href="https://www.wsj.com/articles/venice-fights-to-save-itself-from-tourists-ccdaea9e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Survivors in Flood-Ravaged Libya Wonder if They Will Ever Have a Home Again</title>
-    <updated>2023-09-22T03:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-22:/articles/survivors-in-flood-ravaged-libya-wonder-if-they-will-ever-have-a-home-again-dfd573c9</id>
-    <content type="html">More than 43,000 people have been displaced after their homes were damaged or destroyed.</content>
-    <link href="https://www.wsj.com/articles/survivors-in-flood-ravaged-libya-wonder-if-they-will-ever-have-a-home-again-dfd573c9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Elusive Figure Running Wagner&#39;s Embattled Empire of Gold and Diamonds</title>
-    <updated>2023-09-22T02:58:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-22:/articles/wagner-africa-sytii-prigozhin-gold-12a45769</id>
-    <content type="html">Following Prigozhin’s death, business school grad Dmitry Sytii is working to preserve the group’s multibillion-dollar African operations.</content>
-    <link href="https://www.wsj.com/articles/wagner-africa-sytii-prigozhin-gold-12a45769" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
