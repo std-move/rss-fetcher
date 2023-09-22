@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-22T00:50:58Z</updated>
+  <updated>2023-09-22T01:45:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Elusive Figure Running Wagner&#39;s Embattled Empire of Gold and Diamonds</title>
+    <updated>2023-09-22T01:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-22:/articles/wagner-africa-sytii-prigozhin-gold-12a45769</id>
+    <content type="html">Following Prigozhin’s death, business school grad Dmitry Sytii is working to preserve the group’s multibillion-dollar African operations.</content>
+    <link href="https://www.wsj.com/articles/wagner-africa-sytii-prigozhin-gold-12a45769" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
