@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-22T14:10:14Z</updated>
+  <updated>2023-09-22T15:11:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Survivors in Flood-Ravaged Libya Wonder if They Will Ever Have a Home Again</title>
-    <updated>2023-09-22T12:47:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-22:/articles/survivors-in-flood-ravaged-libya-wonder-if-they-will-ever-have-a-home-again-dfd573c9</id>
-    <content type="html">More than 43,000 people have been displaced after their homes were damaged or destroyed.</content>
-    <link href="https://www.wsj.com/articles/survivors-in-flood-ravaged-libya-wonder-if-they-will-ever-have-a-home-again-dfd573c9" rel="alternate"></link>
+    <title>Europeans Love Green Policies---Until the Bill Comes Due</title>
+    <updated>2023-09-22T14:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-22:/articles/europeans-love-green-policiesuntil-the-bill-comes-due-8a9ef662</id>
+    <content type="html">For years, Europe has been at the forefront of the drive to reach net zero emissions by 2050. Voters overwhelmingly say they like the idea, but the truth appears to be more complicated.</content>
+    <link href="https://www.wsj.com/articles/europeans-love-green-policiesuntil-the-bill-comes-due-8a9ef662" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
