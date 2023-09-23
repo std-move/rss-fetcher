@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-23T14:08:50Z</updated>
+  <updated>2023-09-23T15:09:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,19 +13,19 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>As It Rebuilds From Floods, Vermont Plans for More Disasters</title>
-    <updated>2023-09-23T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-23:/articles/as-it-rebuilds-from-floods-vermont-plans-for-more-disasters-d32fe6be</id>
-    <content type="html">Most water-damaged businesses in the state capital of Montpelier remain closed after a July deluge.</content>
-    <link href="https://www.wsj.com/articles/as-it-rebuilds-from-floods-vermont-plans-for-more-disasters-d32fe6be" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Slow-Boil Refugee Crisis Takes Toll Even in Germany</title>
     <updated>2023-09-23T13:00:00Z</updated>
     <id>tag:www.wsj.com,2023-09-23:/articles/slow-boil-refugee-crisis-takes-its-toll-even-in-germany-dfdadaae</id>
     <content type="html">The country received 322,000 asylum requests last year, second only to the much larger U.S., and is struggling to cope.</content>
     <link href="https://www.wsj.com/articles/slow-boil-refugee-crisis-takes-its-toll-even-in-germany-dfdadaae" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>As It Rebuilds From Floods, Vermont Plans for More Disasters</title>
+    <updated>2023-09-23T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-23:/articles/as-it-rebuilds-from-floods-vermont-plans-for-more-disasters-d32fe6be</id>
+    <content type="html">Most water-damaged businesses in the state capital of Montpelier remain closed after a July deluge.</content>
+    <link href="https://www.wsj.com/articles/as-it-rebuilds-from-floods-vermont-plans-for-more-disasters-d32fe6be" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
