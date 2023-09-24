@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-24T16:12:52Z</updated>
+  <updated>2023-09-24T17:08:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-09-24:/articles/maui-fire-hawaiian-electric-power-lines-1eaef7cf</id>
     <content type="html">The utility regularly fell behind on plans to replace tens of thousands of utility poles at risk of failure and spent millions less on upgrades than it planned, a Wall Street Journal review of regulatory records found.</content>
     <link href="https://www.wsj.com/articles/maui-fire-hawaiian-electric-power-lines-1eaef7cf" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>What&#39;s Behind the Latest Migrant Surge? For Many, Impatience With a Government App</title>
-    <updated>2023-09-24T13:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-24:/articles/migrants-texas-us-asylum-laws-3ff360df</id>
-    <content type="html">CBP One is supposed to set up appointments for asylum screening, but demand means a monthslong wait.</content>
-    <link href="https://www.wsj.com/articles/migrants-texas-us-asylum-laws-3ff360df" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
