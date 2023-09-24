@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-24T11:08:23Z</updated>
+  <updated>2023-09-24T12:19:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Zelensky&#39;s Blunt Talk Wins Support but Also Irks Friends</title>
+    <updated>2023-09-24T11:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-24:/articles/zelenskys-blunt-talk-wins-support-but-also-irks-friends-1c8c2553</id>
+    <content type="html">Ukraine’s president, a novice politician, has defied expectations with his diplomatic savvy, though he has repeatedly overstepped.</content>
+    <link href="https://www.wsj.com/articles/zelenskys-blunt-talk-wins-support-but-also-irks-friends-1c8c2553" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia&#39;s Army Learns From Its Mistakes in Ukraine</title>
     <updated>2023-09-24T04:04:00Z</updated>
