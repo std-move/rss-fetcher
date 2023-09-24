@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-24T02:18:41Z</updated>
+  <updated>2023-09-24T03:10:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Russia&#39;s Army Learns From Its Mistakes in Ukraine</title>
+    <updated>2023-09-24T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-24:/articles/russias-army-learns-from-its-mistakes-in-ukraine-a6b2eb4</id>
+    <content type="html">Early in the war, the West was shocked at Russia’s poor performance. But Moscow has fixed many errors and adapted on the battlefield.</content>
+    <link href="https://www.wsj.com/articles/russias-army-learns-from-its-mistakes-in-ukraine-a6b2eb4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Children Fed on Grass, No Medication for Rape Victims: Aid to African Crises Cut Back as Needs Soar</title>
     <updated>2023-09-23T14:00:00Z</updated>
     <id>tag:www.wsj.com,2023-09-23:/articles/children-fed-on-grass-no-medication-for-rape-victims-aid-to-african-crises-cut-back-as-needs-soar-d2de51a8</id>
     <content type="html">Aid groups in Africa face the biggest funding shortfalls in decades amid new humanitarian emergencies, price increases and the Ukraine war.</content>
     <link href="https://www.wsj.com/articles/children-fed-on-grass-no-medication-for-rape-victims-aid-to-african-crises-cut-back-as-needs-soar-d2de51a8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Slow-Boil Refugee Crisis Takes Toll Even in Germany</title>
-    <updated>2023-09-23T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-23:/articles/slow-boil-refugee-crisis-takes-its-toll-even-in-germany-dfdadaae</id>
-    <content type="html">The country received 322,000 asylum requests last year, second only to the much larger U.S., and is struggling to cope.</content>
-    <link href="https://www.wsj.com/articles/slow-boil-refugee-crisis-takes-its-toll-even-in-germany-dfdadaae" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As It Rebuilds From Floods, Vermont Plans for More Disasters</title>
-    <updated>2023-09-23T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-23:/articles/as-it-rebuilds-from-floods-vermont-plans-for-more-disasters-d32fe6be</id>
-    <content type="html">Most water-damaged businesses in the state capital of Montpelier remain closed after a July deluge.</content>
-    <link href="https://www.wsj.com/articles/as-it-rebuilds-from-floods-vermont-plans-for-more-disasters-d32fe6be" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
