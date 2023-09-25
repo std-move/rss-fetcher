@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-25T13:14:44Z</updated>
+  <updated>2023-09-25T14:10:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Will Work Permits Fix New York&#39;s Migrant Crisis?</title>
-    <updated>2023-09-25T11:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-25:/articles/new-york-work-permits-venezuelan-migrants-e41d633</id>
-    <content type="html">Biden’s move to grant work authorization to Venezuelans only addresses part of the problem of overrun cities—and could lure more migrants to come.</content>
-    <link href="https://www.wsj.com/articles/new-york-work-permits-venezuelan-migrants-e41d633" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
