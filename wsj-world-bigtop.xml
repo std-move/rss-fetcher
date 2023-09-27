@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-27T09:11:17Z</updated>
+  <updated>2023-09-27T10:12:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>China Has Second Thoughts About Controlling Prices in Its Massive Housing Market</title>
-    <updated>2023-09-27T04:56:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-27:/articles/china-has-second-thoughts-about-controlling-prices-in-its-multi-trillion-dollar-housing-market-f0a06012</id>
-    <content type="html">China is starting to loosen pricing rules in its housing market—with unpredictable consequences.</content>
-    <link href="https://www.wsj.com/articles/china-has-second-thoughts-about-controlling-prices-in-its-multi-trillion-dollar-housing-market-f0a06012" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Libya Floods Wiped Out Entire Family Trees</title>
-    <updated>2023-09-27T04:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-27:/articles/libya-floods-wiped-out-entire-family-trees-cb5432ff</id>
-    <content type="html">Clans in the port city of Derna that can trace their bloodlines back centuries lost scores of relatives in the catastrophe.</content>
-    <link href="https://www.wsj.com/articles/libya-floods-wiped-out-entire-family-trees-cb5432ff" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
