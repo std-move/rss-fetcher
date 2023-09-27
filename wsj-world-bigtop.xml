@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-27T10:12:05Z</updated>
+  <updated>2023-09-27T11:09:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fight to Save Troy Birth Center Tests New York Law</title>
+    <updated>2023-09-27T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-27:/articles/fight-to-save-a-new-york-birth-center-tests-state-law-9cd5be3b</id>
+    <content type="html">As maternity wards close across the U.S., some states are weighing the impact on underserved people before approving health-facility changes.</content>
+    <link href="https://www.wsj.com/articles/fight-to-save-a-new-york-birth-center-tests-state-law-9cd5be3b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
