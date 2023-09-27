@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-27T16:14:33Z</updated>
+  <updated>2023-09-27T17:10:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Intense Storms, Insurance Crisis Force Residents of a Louisiana Community to Consider Leaving</title>
-    <updated>2023-09-27T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-27:/articles/intense-storms-insurance-crisis-force-residents-of-a-louisiana-community-to-consider-leaving-fc7ffc1e</id>
-    <content type="html">St. John the Baptist Parish, west of New Orleans, has taken a pounding in recent years from extreme weather, hurting home values and sending insurance premiums sharply higher.</content>
-    <link href="https://www.wsj.com/articles/intense-storms-insurance-crisis-force-residents-of-a-louisiana-community-to-consider-leaving-fc7ffc1e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
