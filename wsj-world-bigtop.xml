@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-28T14:11:02Z</updated>
+  <updated>2023-09-28T15:11:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>&#39;I&#39;m Alive but I Feel Dead&#39;: Inside an Exodus Decades in the Making</title>
+    <updated>2023-09-28T14:40:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-28:/articles/nagorno-karabakh-ceases-to-exist-as-azerbaijan-dissolves-separatist-regions-government-cb663ab5</id>
+    <content type="html">Russia, distracted by the war in Ukraine, stood aside as Azerbaijan seized control of the long-disputed Nagorno-Karabakh region.</content>
+    <link href="https://www.wsj.com/articles/nagorno-karabakh-ceases-to-exist-as-azerbaijan-dissolves-separatist-regions-government-cb663ab5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>$67 Billion of Rare Minerals Is Buried Under One of the World&#39;s Biggest Carbon Sinks</title>
     <updated>2023-09-28T14:04:00Z</updated>
     <id>tag:www.wsj.com,2023-09-28:/articles/minerals-nickel-batteries-canada-climate-carbon-376f11fd</id>
     <content type="html">A fight is brewing in Canada about how, or whether, to dig out materials essential for EV batteries that lie deep beneath vast peat bogs</content>
     <link href="https://www.wsj.com/articles/minerals-nickel-batteries-canada-climate-carbon-376f11fd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#39;I&#39;m Alive but I Feel Dead&#39;: Inside an Exodus Decades in the Making</title>
-    <updated>2023-09-28T13:16:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-28:/articles/nagorno-karabakh-ceases-to-exist-as-azerbaijan-dissolves-separatist-regions-government-cb663ab5</id>
-    <content type="html">Russia, distracted by the war in Ukraine, stood aside as Azerbaijan seized control of the long-disputed Nagorno-Karabakh region.</content>
-    <link href="https://www.wsj.com/articles/nagorno-karabakh-ceases-to-exist-as-azerbaijan-dissolves-separatist-regions-government-cb663ab5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
