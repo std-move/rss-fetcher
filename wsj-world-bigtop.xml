@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-28T03:11:17Z</updated>
+  <updated>2023-09-28T04:13:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>How the Technological Revolution in Ukraine Is Reshaping Modern Warfare</title>
-    <updated>2023-09-28T03:00:00Z</updated>
+    <updated>2023-09-28T04:09:00Z</updated>
     <id>tag:www.wsj.com,2023-09-28:/articles/drones-everywhere-how-the-technological-revolution-on-ukraine-battlefields-is-reshaping-modern-warfare-bf5d531b</id>
     <content type="html">New systems are eliminating surprises and making it harder to gain ground in armored assaults.</content>
     <link href="https://www.wsj.com/articles/drones-everywhere-how-the-technological-revolution-on-ukraine-battlefields-is-reshaping-modern-warfare-bf5d531b" rel="alternate"></link>
@@ -14,18 +14,10 @@
   </entry>
   <entry>
     <title>India&#39;s Spy Agency Adopted New Playbook Before Accusation in Canada Killing</title>
-    <updated>2023-09-28T03:00:00Z</updated>
+    <updated>2023-09-28T04:09:00Z</updated>
     <id>tag:www.wsj.com,2023-09-28:/articles/indias-spy-agency-adopted-new-playbook-before-accusation-in-canada-killing-be9f392c</id>
     <content type="html">The foreign intelligence arm at the center of the Canadian government’s allegations has been expanding its covert operations in the West.</content>
     <link href="https://www.wsj.com/articles/indias-spy-agency-adopted-new-playbook-before-accusation-in-canada-killing-be9f392c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Thousands of Migrants Are Being Dropped Off on San Diego Streets</title>
-    <updated>2023-09-28T01:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-28:/articles/thousands-of-migrants-are-being-dropped-off-on-san-diegos-streets-59021d50</id>
-    <content type="html">Local officials have declared a humanitarian crisis as shelters are reaching capacity.</content>
-    <link href="https://www.wsj.com/articles/thousands-of-migrants-are-being-dropped-off-on-san-diegos-streets-59021d50" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
