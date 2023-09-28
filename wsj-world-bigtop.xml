@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-28T19:08:40Z</updated>
+  <updated>2023-09-28T20:10:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>&#39;I&#39;m Alive but I Feel Dead&#39;: Inside an Exodus Decades in the Making</title>
-    <updated>2023-09-28T17:43:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-28:/articles/nagorno-karabakh-ceases-to-exist-as-azerbaijan-dissolves-separatist-regions-government-cb663ab5</id>
-    <content type="html">Russia, distracted by the war in Ukraine, stood aside as Azerbaijan seized control of the long-disputed Nagorno-Karabakh region.</content>
-    <link href="https://www.wsj.com/articles/nagorno-karabakh-ceases-to-exist-as-azerbaijan-dissolves-separatist-regions-government-cb663ab5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
