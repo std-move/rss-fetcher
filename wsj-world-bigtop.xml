@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-28T10:11:44Z</updated>
+  <updated>2023-09-28T11:09:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>These Employers Took On Healthcare Costs, and the Fight Got Nasty</title>
-    <updated>2023-09-28T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-28:/articles/these-employers-took-on-healthcare-costs-and-the-fight-got-nasty-54674114</id>
-    <content type="html">An Indiana group’s bruising battle for legislation to limit hospital fees is spurring employer groups in other states to follow suit.</content>
-    <link href="https://www.wsj.com/articles/these-employers-took-on-healthcare-costs-and-the-fight-got-nasty-54674114" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
