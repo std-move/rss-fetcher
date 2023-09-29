@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-29T03:11:14Z</updated>
+  <updated>2023-09-29T04:13:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Poland&#39;s Culture Wars Snare Oscar-Nominated Director Agnieszka Holland</title>
-    <updated>2023-09-29T03:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-29:/articles/polands-culture-wars-snare-oscar-nominated-director-agnieszka-holland-df88aaf1</id>
-    <content type="html">As parliamentary elections in mid-October near, government leaders say a movie about a recent refugee crisis tarnishes the country.</content>
-    <link href="https://www.wsj.com/articles/polands-culture-wars-snare-oscar-nominated-director-agnieszka-holland-df88aaf1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
