@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-29T14:09:03Z</updated>
+  <updated>2023-09-29T15:11:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Dianne Feinstein, Longest Serving California Senator, Dies at 90</title>
-    <updated>2023-09-29T13:24:00Z</updated>
+    <updated>2023-09-29T14:41:00Z</updated>
     <id>tag:www.wsj.com,2023-09-29:/articles/dianne-feinstein-longtime-california-senator-dies-at-90-22f01eab</id>
     <content type="html">The Democrat blazed a trail for women in California politics and challenged the CIA’s detention and interrogation program.</content>
     <link href="https://www.wsj.com/articles/dianne-feinstein-longtime-california-senator-dies-at-90-22f01eab" rel="alternate"></link>
