@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-29T16:14:01Z</updated>
+  <updated>2023-09-29T17:09:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Dianne Feinstein, California Senator Who Blazed a Trail for Women, Dies at 90</title>
+    <updated>2023-09-29T17:04:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-29:/articles/dianne-feinstein-longtime-california-senator-dies-at-90-22f01eab</id>
+    <content type="html">The Democrat drove passage of the assault-weapons ban and challenged the CIA’s detention and interrogation program.</content>
+    <link href="https://www.wsj.com/articles/dianne-feinstein-longtime-california-senator-dies-at-90-22f01eab" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>New York Streets and Subways Flood as Heavy Rain Pounds Region</title>
+    <updated>2023-09-29T16:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-09-29:/articles/new-york-streets-and-subways-flood-as-heavy-rain-pounds-region-197bbe80</id>
+    <content type="html">Gov. Kathy Hochul declared a state of emergency for New York City, Long Island and the Hudson Valley.</content>
+    <link href="https://www.wsj.com/articles/new-york-streets-and-subways-flood-as-heavy-rain-pounds-region-197bbe80" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
