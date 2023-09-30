@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-09-30T12:18:57Z</updated>
+  <updated>2023-09-30T13:11:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>In Poland&#39;s &#39;J-Town,&#39; Soldiers Move Arms to Ukraine as Russian Spies Try to Stop Them</title>
-    <updated>2023-09-30T04:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-30:/articles/in-polands-j-town-soldiers-move-arms-to-ukraine-as-russian-spies-try-to-stop-them-1ec71497</id>
-    <content type="html">A major logistics hub for the war is humming despite espionage and a diplomatic dispute between Warsaw and Kyiv.</content>
-    <link href="https://www.wsj.com/articles/in-polands-j-town-soldiers-move-arms-to-ukraine-as-russian-spies-try-to-stop-them-1ec71497" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
