@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-01T12:19:31Z</updated>
+  <updated>2023-10-01T13:11:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Flush With Cash, Amtrak Embarks on Ambitious Makeover</title>
+    <updated>2023-10-01T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-01:/articles/amtrak-train-makeover-60d5c487</id>
+    <content type="html">The railroad sees station upgrades as key to doubling ridership by 2040.</content>
+    <link href="https://www.wsj.com/articles/amtrak-train-makeover-60d5c487" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Children Are Dying in Ill-Prepared Emergency Rooms Across America</title>
     <updated>2023-10-01T09:30:00Z</updated>
