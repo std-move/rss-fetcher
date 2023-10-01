@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-01T08:12:49Z</updated>
+  <updated>2023-10-01T09:09:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>In U.S. Fights Over Ukraine Aid, Allies Fear Deeper Global Harm</title>
-    <updated>2023-10-01T04:07:00Z</updated>
+    <updated>2023-10-01T09:03:00Z</updated>
     <id>tag:www.wsj.com,2023-10-01:/articles/in-u-s-fights-over-ukraine-aid-allies-fear-deeper-global-harm-d54ea330</id>
     <content type="html">Washington has led the response to Russia, but domestic political spats are raising worries about U.S. commitment.</content>
     <link href="https://www.wsj.com/articles/in-u-s-fights-over-ukraine-aid-allies-fear-deeper-global-harm-d54ea330" rel="alternate"></link>
