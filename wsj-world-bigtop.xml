@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-01T09:09:49Z</updated>
+  <updated>2023-10-01T10:10:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Children Are Dying in Ill-Prepared Emergency Rooms Across America</title>
+    <updated>2023-10-01T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-01:/articles/hospitals-emergency-rooms-cost-childrens-lives-d6c9fc23</id>
+    <content type="html">Hospitals and regulators have done little to ensure E.R.s are ready to treat children in emergencies, while researchers prove taking basic steps can save lives.</content>
+    <link href="https://www.wsj.com/articles/hospitals-emergency-rooms-cost-childrens-lives-d6c9fc23" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In U.S. Fights Over Ukraine Aid, Allies Fear Deeper Global Harm</title>
     <updated>2023-10-01T09:03:00Z</updated>
     <id>tag:www.wsj.com,2023-10-01:/articles/in-u-s-fights-over-ukraine-aid-allies-fear-deeper-global-harm-d54ea330</id>
     <content type="html">Washington has led the response to Russia, but domestic political spats are raising worries about U.S. commitment.</content>
     <link href="https://www.wsj.com/articles/in-u-s-fights-over-ukraine-aid-allies-fear-deeper-global-harm-d54ea330" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Seeks to Calm Tensions in Balkans</title>
-    <updated>2023-09-30T17:43:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-30:/articles/u-s-seeks-to-calm-tensions-in-balkans-d63173f5</id>
-    <content type="html">NATO boosted its presence in the area following a fierce battle between Serbian gunmen and Kosovo police, the worst violence in years in the region.</content>
-    <link href="https://www.wsj.com/articles/u-s-seeks-to-calm-tensions-in-balkans-d63173f5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A New Nimbyism Blocks Carbon Pipelines</title>
-    <updated>2023-09-30T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-09-30:/articles/a-new-nimbyism-blocks-carbon-pipelines-bb7b8b56</id>
-    <content type="html">Projects for burying carbon emissions are under pressure in the Midwest, spelling challenges ahead for a massive infrastructure buildup.</content>
-    <link href="https://www.wsj.com/articles/a-new-nimbyism-blocks-carbon-pipelines-bb7b8b56" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
