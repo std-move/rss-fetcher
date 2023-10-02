@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-02T21:10:16Z</updated>
+  <updated>2023-10-02T22:10:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.N. to Vote on Kenyan-Led Force to Bring Control to Haiti</title>
-    <updated>2023-10-02T19:16:00Z</updated>
+    <title>U.N. Agrees to Deploy Kenyan-Led Force to Bring Control to Haiti</title>
+    <updated>2023-10-02T21:14:00Z</updated>
     <id>tag:www.wsj.com,2023-10-02:/articles/u-n-to-vote-on-kenyan-led-force-to-bring-control-to-haiti-d701c050</id>
-    <content type="html">The U.N. Security Council is expected to vote on whether to approve the deployment of an armed multinational force led by Kenya to help Haiti’s beleaguered police.</content>
+    <content type="html">The U.N. Security Council approved the deployment of an armed multinational force led by Kenya to help Haiti’s beleaguered police.</content>
     <link href="https://www.wsj.com/articles/u-n-to-vote-on-kenyan-led-force-to-bring-control-to-haiti-d701c050" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
