@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-03T19:09:11Z</updated>
+  <updated>2023-10-03T20:11:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Funding Cutoff Threatens Ukraine&#39;s Economic Stability</title>
+    <updated>2023-10-03T19:22:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-03:/articles/u-s-funding-cutoff-threatens-ukraines-economic-stability-82716679</id>
+    <content type="html">The U.S. funding system for Ukrainian salaries and Kyiv government expenditures is expected to run out in the next month absent a fresh infusion of money from Congress.</content>
+    <link href="https://www.wsj.com/articles/u-s-funding-cutoff-threatens-ukraines-economic-stability-82716679" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
