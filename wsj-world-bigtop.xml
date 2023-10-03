@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-03T02:18:28Z</updated>
+  <updated>2023-10-03T03:11:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.N. Agrees to Deploy Kenyan-Led Force to Bring Control to Haiti</title>
-    <updated>2023-10-02T23:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-02:/articles/u-n-to-vote-on-kenyan-led-force-to-bring-control-to-haiti-d701c050</id>
-    <content type="html">The U.N. Security Council approved the deployment of an armed multinational force led by Kenya to help Haiti’s beleaguered police.</content>
-    <link href="https://www.wsj.com/articles/u-n-to-vote-on-kenyan-led-force-to-bring-control-to-haiti-d701c050" rel="alternate"></link>
+    <title>Inside Ukraine&#39;s Fight to Retake Bakhmut: &#39;The Ground Was Covered in Bodies&#39;</title>
+    <updated>2023-10-03T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-03:/articles/ukraine-russia-war-bakhmut-cb5f7dc</id>
+    <content type="html">A soldiers’ ground-level view of the costly battle—against a much larger Russian force—for a tiny village outside the ruined city.</content>
+    <link href="https://www.wsj.com/articles/ukraine-russia-war-bakhmut-cb5f7dc" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
