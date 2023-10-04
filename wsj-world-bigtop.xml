@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-04T19:09:11Z</updated>
+  <updated>2023-10-04T20:11:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Russia Withdraws Black Sea Fleet Vessels From Crimea Base After Attacks</title>
-    <updated>2023-10-04T18:36:00Z</updated>
+    <updated>2023-10-04T19:05:00Z</updated>
     <id>tag:www.wsj.com,2023-10-04:/articles/russia-withdraws-black-sea-fleet-vessels-from-crimea-base-after-ukrainian-attacks-51d6d4f5</id>
     <content type="html">The withdrawal is a potent acknowledgment of how Ukrainian missile and drone strikes are challenging Moscow’s hold on the peninsula.</content>
     <link href="https://www.wsj.com/articles/russia-withdraws-black-sea-fleet-vessels-from-crimea-base-after-ukrainian-attacks-51d6d4f5" rel="alternate"></link>
