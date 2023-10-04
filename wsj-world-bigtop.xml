@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-04T18:14:48Z</updated>
+  <updated>2023-10-04T19:09:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>After Shunning Scientist, University of Pennsylvania Celebrates Her Nobel Prize</title>
-    <updated>2023-10-04T17:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-04:/articles/after-shunning-scientist-university-of-pennsylvania-celebrates-her-nobel-prize-96157321</id>
-    <content type="html">The school once demoted Katalin Karikó and cut her pay but has made millions of dollars from patenting her work.</content>
-    <link href="https://www.wsj.com/articles/after-shunning-scientist-university-of-pennsylvania-celebrates-her-nobel-prize-96157321" rel="alternate"></link>
+    <title>Russia Withdraws Black Sea Fleet Vessels From Crimea Base After Attacks</title>
+    <updated>2023-10-04T18:36:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-04:/articles/russia-withdraws-black-sea-fleet-vessels-from-crimea-base-after-ukrainian-attacks-51d6d4f5</id>
+    <content type="html">The withdrawal is a potent acknowledgment of how Ukrainian missile and drone strikes are challenging Moscow’s hold on the peninsula.</content>
+    <link href="https://www.wsj.com/articles/russia-withdraws-black-sea-fleet-vessels-from-crimea-base-after-ukrainian-attacks-51d6d4f5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
