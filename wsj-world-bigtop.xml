@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-06T14:11:01Z</updated>
+  <updated>2023-10-06T15:11:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Effort to Protect New Orleans&#39;s Drinking Water</title>
+    <updated>2023-10-06T14:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-06:/articles/the-frantic-race-to-protect-new-orleanss-drinking-water-4093a90d</id>
+    <content type="html">Salty water from the Gulf of Mexico is creeping up the Mississippi River, but projections have improved.</content>
+    <link href="https://www.wsj.com/articles/the-frantic-race-to-protect-new-orleanss-drinking-water-4093a90d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Bidens&#39; Dog Commander Joins a Long List of Naughty White House Pets</title>
     <updated>2023-10-06T14:01:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-10-06:/articles/putin-redirects-russias-economy-to-war-production-1e14265f</id>
     <content type="html">The effort is a bid to outlast the West, which is struggling to supply weapons and ammunition to Ukraine.</content>
     <link href="https://www.wsj.com/articles/putin-redirects-russias-economy-to-war-production-1e14265f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Effort to Protect New Orleans&#39;s Drinking Water</title>
-    <updated>2023-10-06T12:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-06:/articles/the-frantic-race-to-protect-new-orleanss-drinking-water-4093a90d</id>
-    <content type="html">Salty water from the Gulf of Mexico is creeping up the Mississippi River, but projections have improved.</content>
-    <link href="https://www.wsj.com/articles/the-frantic-race-to-protect-new-orleanss-drinking-water-4093a90d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
