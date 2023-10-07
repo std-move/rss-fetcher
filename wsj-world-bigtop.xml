@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-07T13:11:11Z</updated>
+  <updated>2023-10-07T14:08:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Declares War on Hamas After Surprise Assault From Gaza</title>
-    <updated>2023-10-07T12:53:00Z</updated>
+    <updated>2023-10-07T14:02:00Z</updated>
     <id>tag:www.wsj.com,2023-10-07:/articles/barrage-of-rockets-fired-at-israel-from-gaza-strip-d5b2f05f</id>
     <content type="html">Hamas fired thousands of rockets as far north as Tel Aviv and sent fighters into southern cities near the border.</content>
     <link href="https://www.wsj.com/articles/barrage-of-rockets-fired-at-israel-from-gaza-strip-d5b2f05f" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-10-07:/articles/lawyer-shortage-rural-america-ecde9df6</id>
     <content type="html">More people are forgoing lawyers in state civil courts. Some can’t afford one, have had bad experiences with them or prefer to rely on advice and tools posted online.</content>
     <link href="https://www.wsj.com/articles/lawyer-shortage-rural-america-ecde9df6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Liberated Areas Struggle as Land Mines, Worker Shortages Hamper Recovery</title>
-    <updated>2023-10-07T04:16:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-07:/articles/ukraines-liberated-areas-struggle-as-land-mines-worker-shortages-hamper-recovery-d24fc907</id>
-    <content type="html">Economic woes in Ukraine’s east threaten lasting damage for the country.</content>
-    <link href="https://www.wsj.com/articles/ukraines-liberated-areas-struggle-as-land-mines-worker-shortages-hamper-recovery-d24fc907" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
