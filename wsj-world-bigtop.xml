@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-07T04:12:52Z</updated>
+  <updated>2023-10-07T05:09:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Ukraine&#39;s Liberated Areas Struggle as Land Mines, Worker Shortages Hamper Recovery</title>
-    <updated>2023-10-07T03:00:00Z</updated>
+    <updated>2023-10-07T04:16:00Z</updated>
     <id>tag:www.wsj.com,2023-10-07:/articles/ukraines-liberated-areas-struggle-as-land-mines-worker-shortages-hamper-recovery-d24fc907</id>
     <content type="html">Economic woes in Ukraine’s east threaten lasting damage for the country.</content>
     <link href="https://www.wsj.com/articles/ukraines-liberated-areas-struggle-as-land-mines-worker-shortages-hamper-recovery-d24fc907" rel="alternate"></link>
