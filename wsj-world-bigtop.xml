@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-08T12:19:26Z</updated>
+  <updated>2023-10-08T13:11:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Bombs Gaza, Struggles to Expel Hamas Intruders</title>
+    <updated>2023-10-08T12:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-08:/articles/israel-strikes-hamas-and-hezbollah-sites-hunts-intruders-in-the-south-f8f40203</id>
+    <content type="html">The death toll since the start of the fighting jumped to more than 500 Israelis and at least 313 Palestinians.</content>
+    <link href="https://www.wsj.com/articles/israel-strikes-hamas-and-hezbollah-sites-hunts-intruders-in-the-south-f8f40203" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Meatpacking Plant Closures Cut Deep for Small-Town Economies</title>
     <updated>2023-10-08T12:00:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-10-08:/articles/donald-trump-trial-new-york-fraud-ae68650</id>
     <content type="html">Friends of the former president say the case is the one that hits closest to his business and self-image.</content>
     <link href="https://www.wsj.com/articles/donald-trump-trial-new-york-fraud-ae68650" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Strikes Hamas and Hezbollah Sites, Hunts Intruders in the South</title>
-    <updated>2023-10-08T08:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-08:/articles/israel-strikes-hamas-and-hezbollah-sites-hunts-intruders-in-the-south-f8f40203</id>
-    <content type="html">Artillery exchanges between Israel and Hezbollah militants in Lebanon raised the specter of a second front as soldiers engaged in gunbattles with Hamas fighters who had invaded from Gaza.</content>
-    <link href="https://www.wsj.com/articles/israel-strikes-hamas-and-hezbollah-sites-hunts-intruders-in-the-south-f8f40203" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
