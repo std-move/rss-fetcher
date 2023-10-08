@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-08T19:08:12Z</updated>
+  <updated>2023-10-08T20:10:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Struggles to Expel Hamas Intruders and Secure Border</title>
-    <updated>2023-10-08T18:22:00Z</updated>
+    <updated>2023-10-08T20:02:00Z</updated>
     <id>tag:www.wsj.com,2023-10-08:/articles/israel-strikes-hamas-and-hezbollah-sites-hunts-intruders-in-the-south-f8f40203</id>
-    <content type="html">Firefights raged a day after militants poured into Israel, which hit back with airstrikes.</content>
+    <content type="html">More than 1,100 dead in total as firefights raged a day after militants poured into Israel.</content>
     <link href="https://www.wsj.com/articles/israel-strikes-hamas-and-hezbollah-sites-hunts-intruders-in-the-south-f8f40203" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-10-08:/articles/a-divided-west-maui-reopens-to-tourists-youre-visiting-a-really-really-fragile-place-f7ede006</id>
     <content type="html">Hawaii leaders want to slowly welcome visitors crucial to the economy, but some local officials and residents say it is too soon.</content>
     <link href="https://www.wsj.com/articles/a-divided-west-maui-reopens-to-tourists-youre-visiting-a-really-really-fragile-place-f7ede006" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Melting Glaciers Raise Risk of Deadly Himalayan Floods</title>
-    <updated>2023-10-08T14:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-08:/articles/melting-glaciers-raise-risk-of-deadly-himalayan-floods-b7b594c4</id>
-    <content type="html">Scientists studying lakes in India’s Himalayan regions warned in 2021 that one in particular posed a danger to the nearby population. That warning proved prophetic last week.</content>
-    <link href="https://www.wsj.com/articles/melting-glaciers-raise-risk-of-deadly-himalayan-floods-b7b594c4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
