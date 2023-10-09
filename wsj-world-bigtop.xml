@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-09T22:09:57Z</updated>
+  <updated>2023-10-09T23:10:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Launches Barrage of Attacks on Gaza</title>
-    <updated>2023-10-09T20:39:00Z</updated>
+    <updated>2023-10-09T22:58:00Z</updated>
     <id>tag:www.wsj.com,2023-10-09:/articles/israels-military-says-it-has-regained-control-of-southern-towns-from-hamas-289fa65a</id>
     <content type="html">Hamas threatens to execute hostages in response to Israeli bombardment of civilians.</content>
     <link href="https://www.wsj.com/articles/israels-military-says-it-has-regained-control-of-southern-towns-from-hamas-289fa65a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel&#39;s Hostage Crisis Deepens With Execution Threat</title>
-    <updated>2023-10-09T19:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-09:/articles/israels-hostage-crisis-execution-threat-9f2c0191</id>
-    <content type="html">Palestinian group Hamas captured more than 100 prisoners during assault in southern Israel, complicating Tel Aviv’s military retaliation.</content>
-    <link href="https://www.wsj.com/articles/israels-hostage-crisis-execution-threat-9f2c0191" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
