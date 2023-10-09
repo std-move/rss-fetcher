@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-09T18:14:20Z</updated>
+  <updated>2023-10-09T19:08:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Launches Barrage of Attacks on Gaza</title>
-    <updated>2023-10-09T17:26:00Z</updated>
+    <updated>2023-10-09T18:37:00Z</updated>
     <id>tag:www.wsj.com,2023-10-09:/articles/israels-military-says-it-has-regained-control-of-southern-towns-from-hamas-289fa65a</id>
-    <content type="html">The Israeli military retook control of towns in the country’s south from Hamas, as the war between Israeli forces and Islamist militants backed by Iran entered its third day.</content>
+    <content type="html">Hamas threatens to execute hostages in response to Israeli bombardment of civilians.</content>
     <link href="https://www.wsj.com/articles/israels-military-says-it-has-regained-control-of-southern-towns-from-hamas-289fa65a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
