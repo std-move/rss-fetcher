@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-09T16:14:54Z</updated>
+  <updated>2023-10-09T17:10:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-10-09:/articles/israels-military-says-it-has-regained-control-of-southern-towns-from-hamas-289fa65a</id>
     <content type="html">The Israeli military retook control of towns in the country’s south from Hamas, as the war between Israeli forces and Islamist militants backed by Iran entered its third day.</content>
     <link href="https://www.wsj.com/articles/israels-military-says-it-has-regained-control-of-southern-towns-from-hamas-289fa65a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Mexican Leader Stumbles on His Sweeping Agenda</title>
-    <updated>2023-10-09T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-09:/articles/mexicos-president-stumbles-on-his-sweeping-agenda-489c200e</id>
-    <content type="html">Andrés Manuel López Obrador’s legacy is more modest than was initially expected, less than a year before he leaves office.</content>
-    <link href="https://www.wsj.com/articles/mexicos-president-stumbles-on-his-sweeping-agenda-489c200e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
