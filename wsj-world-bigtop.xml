@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-10T21:10:28Z</updated>
+  <updated>2023-10-10T22:10:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israel Sought to Contain Hamas for Years. Now It Faces a Potentially Costly Fight to Eliminate It</title>
+    <title>Israel Sought to Contain Hamas for Years. Now It Faces a Potentially Costly Fight to Eliminate It.</title>
     <updated>2023-10-10T21:00:00Z</updated>
     <id>tag:www.wsj.com,2023-10-10:/articles/israel-sought-to-contain-hamas-for-years-now-it-faces-a-potentially-costly-fight-to-eliminate-it-aee9f211</id>
     <content type="html">Israel is preparing an operation intended either to decisively end Hamas’s hold on Gaza or gut the group’s military capabilities entirely.</content>
