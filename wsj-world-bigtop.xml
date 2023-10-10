@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-10T13:14:40Z</updated>
+  <updated>2023-10-10T14:10:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Readies for All-Out War in Gaza</title>
-    <updated>2023-10-10T10:22:00Z</updated>
+    <title>Israel Readies for Ground War in Gaza</title>
+    <updated>2023-10-10T13:37:00Z</updated>
     <id>tag:www.wsj.com,2023-10-10:/articles/israel-readies-for-all-out-war-in-gaza-ef1899c3</id>
-    <content type="html">Airstrikes pound the enclave while Hamas threatens to execute hostages.</content>
+    <content type="html">The Israeli military massed forces for a ground invasion of Gaza as Israeli officials warned of a lengthy and destructive war, amid fears in the Middle East of a broader regional conflict.</content>
     <link href="https://www.wsj.com/articles/israel-readies-for-all-out-war-in-gaza-ef1899c3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
