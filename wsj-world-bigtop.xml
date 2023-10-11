@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-11T14:11:29Z</updated>
+  <updated>2023-10-11T15:10:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,7 +13,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israel Turns Massacre Site Into Staging Ground for Gaza Invasion.</title>
+    <title>Scene of Massacre Becomes Staging Ground for Israel&#39;s Invasion of Gaza. &#39;I Am Looking for Revenge.&#39;</title>
     <updated>2023-10-11T13:07:00Z</updated>
     <id>tag:www.wsj.com,2023-10-11:/articles/at-kibbutz-where-hamas-killed-dozens-israeli-troops-gather-to-respond-40f9c3f8</id>
     <content type="html">A small farming community near the Gaza Strip was the scene of one of the deadliest attacks by Hamas militants. Now it is a staging ground for Israel’s counterstrike.</content>
