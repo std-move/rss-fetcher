@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-12T21:09:02Z</updated>
+  <updated>2023-10-12T22:10:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Aims to Dismantle Hamas as Blinken Tries to Prevent Wider War</title>
+    <updated>2023-10-12T21:43:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-12:/articles/israel-aims-to-dismantle-hamas-as-blinken-tries-to-prevent-wider-war-55a434f1</id>
+    <content type="html">Secretary of State Antony Blinken urged Israel to avoid civilian casualties amid growing fears of a wider regional conflict as Israel pounded Gaza with airstrikes.</content>
+    <link href="https://www.wsj.com/articles/israel-aims-to-dismantle-hamas-as-blinken-tries-to-prevent-wider-war-55a434f1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hamas Militants Had Detailed Maps of Israeli Towns, Military Bases and Infiltration Routes</title>
+    <updated>2023-10-12T21:14:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-12:/articles/hamas-militants-had-detailed-maps-of-israeli-towns-military-bases-and-infiltration-routes-7fa62b05</id>
+    <content type="html">Documents found on Hamas militants show the scale of planning behind deadly attack.</content>
+    <link href="https://www.wsj.com/articles/hamas-militants-had-detailed-maps-of-israeli-towns-military-bases-and-infiltration-routes-7fa62b05" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
