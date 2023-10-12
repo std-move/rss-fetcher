@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-12T13:14:41Z</updated>
+  <updated>2023-10-12T14:10:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>At Israel-Lebanon Border, Fears Grow of a Second Front</title>
-    <updated>2023-10-12T11:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-12:/articles/at-israel-lebanon-border-fears-grow-of-a-second-battlefront-cda25139</id>
-    <content type="html">A conflict with powerful Hezbollah militants would stretch Israel’s army and its air defenses.</content>
-    <link href="https://www.wsj.com/articles/at-israel-lebanon-border-fears-grow-of-a-second-battlefront-cda25139" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Aims to Dismantle Hamas as Blinken Tries to Prevent Wider War</title>
-    <updated>2023-10-12T11:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-12:/articles/israel-aims-to-dismantle-hamas-as-blinken-tries-to-prevent-wider-war-55a434f1</id>
-    <content type="html">Israeli forces pounded Gaza with airstrikes they said were targeting the military and political leadership of Hamas.</content>
-    <link href="https://www.wsj.com/articles/israel-aims-to-dismantle-hamas-as-blinken-tries-to-prevent-wider-war-55a434f1" rel="alternate"></link>
+    <title>Hamas Invasion Rewrites the Rules in the Middle East</title>
+    <updated>2023-10-12T13:45:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-12:/articles/hamas-invasion-rewrites-rules-in-middle-east-1aeabbd4</id>
+    <content type="html">The risk of wider war grows as the U.S., Israel and its enemies respond to the attack.</content>
+    <link href="https://www.wsj.com/articles/hamas-invasion-rewrites-rules-in-middle-east-1aeabbd4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
