@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-12T12:21:53Z</updated>
+  <updated>2023-10-12T13:14:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>At Israel-Lebanon Border, Fears Grow of a Second Battlefront</title>
+    <title>At Israel-Lebanon Border, Fears Grow of a Second Front</title>
     <updated>2023-10-12T11:22:00Z</updated>
     <id>tag:www.wsj.com,2023-10-12:/articles/at-israel-lebanon-border-fears-grow-of-a-second-battlefront-cda25139</id>
     <content type="html">A conflict with powerful Hezbollah militants would stretch Israel’s army and its air defenses.</content>
