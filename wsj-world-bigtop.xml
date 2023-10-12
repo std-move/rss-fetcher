@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-11T23:10:49Z</updated>
+  <updated>2023-10-12T00:49:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>As Israel Strikes Gaza, Fears of Humanitarian Disaster Mount</title>
-    <updated>2023-10-11T22:17:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-11:/articles/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3</id>
+    <updated>2023-10-12T00:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-12:/articles/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3</id>
     <content type="html">More than a quarter-million Gazans fled their homes and some tried to escape the strip for Egypt as Israeli forces launched new rounds of airstrikes.</content>
     <link href="https://www.wsj.com/articles/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Blaming Israel for Attacks Sparks Backlash Across U.S.</title>
-    <updated>2023-10-11T21:57:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-11:/articles/israel-hamas-attack-us-backlash-ff5f25e8</id>
-    <content type="html">As debates span colleges, politics and workplaces, critics of the nation dodge reputational and professional damage.</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-attack-us-backlash-ff5f25e8" rel="alternate"></link>
+    <title>Hamas Invasion Rewrites the Rules in the Middle East</title>
+    <updated>2023-10-11T23:43:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-11:/articles/hamas-invasion-rewrites-rules-in-middle-east-1aeabbd4</id>
+    <content type="html">The risk of wider war grows as the U.S., Israel and its enemies respond to the attack.</content>
+    <link href="https://www.wsj.com/articles/hamas-invasion-rewrites-rules-in-middle-east-1aeabbd4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
