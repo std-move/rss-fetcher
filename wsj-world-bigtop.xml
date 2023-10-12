@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-12T01:43:29Z</updated>
+  <updated>2023-10-12T02:16:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>As Israel Strikes Gaza, Fears of Humanitarian Disaster Mount</title>
-    <updated>2023-10-12T01:04:00Z</updated>
+    <updated>2023-10-12T01:42:00Z</updated>
     <id>tag:www.wsj.com,2023-10-12:/articles/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3</id>
     <content type="html">More than a quarter-million Gazans fled their homes and some tried to escape the strip for Egypt as Israeli forces launched new rounds of airstrikes.</content>
     <link href="https://www.wsj.com/articles/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3" rel="alternate"></link>
