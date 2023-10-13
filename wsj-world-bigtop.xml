@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T18:14:43Z</updated>
+  <updated>2023-10-13T19:08:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ukraine, Partners Fight to Avoid Stalemate as Headwinds Grow</title>
-    <updated>2023-10-13T17:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-13:/articles/ukraine-alliespush-to-avoid-stalemate-as-headwinds-grow-db0a7f24</id>
-    <content type="html">Concerns about the slow pace of Ukraine’s advances this year have been accentuated by doubts over the durability of Western aid.</content>
-    <link href="https://www.wsj.com/articles/ukraine-alliespush-to-avoid-stalemate-as-headwinds-grow-db0a7f24" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Muslims Across Middle East Rally in Support of Palestinians</title>
-    <updated>2023-10-13T17:35:00Z</updated>
+    <updated>2023-10-13T18:46:00Z</updated>
     <id>tag:www.wsj.com,2023-10-13:/articles/muslims-across-middle-east-rally-in-support-of-palestinians-e4ca1291</id>
     <content type="html">Demonstrators from Lebanon to Iran expressed solidarity with Gaza and anger at Israel in a region at risk of a widening war.</content>
     <link href="https://www.wsj.com/articles/muslims-across-middle-east-rally-in-support-of-palestinians-e4ca1291" rel="alternate"></link>
@@ -22,10 +14,18 @@
   </entry>
   <entry>
     <title>Gaza Residents Brace for Israeli Offensive After Evacuation Demand</title>
-    <updated>2023-10-13T17:23:00Z</updated>
+    <updated>2023-10-13T18:21:00Z</updated>
     <id>tag:www.wsj.com,2023-10-13:/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947</id>
     <content type="html">Residents of Gaza were bracing for a more powerful assault by the Israeli military, which on Friday demanded a mass evacuation of some of the territory’s most densely populated neighborhoods.</content>
     <link href="https://www.wsj.com/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine, Partners Fight to Avoid Stalemate as Headwinds Grow</title>
+    <updated>2023-10-13T17:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/ukraine-alliespush-to-avoid-stalemate-as-headwinds-grow-db0a7f24</id>
+    <content type="html">Concerns about the slow pace of Ukraine’s advances this year have been accentuated by doubts over the durability of Western aid.</content>
+    <link href="https://www.wsj.com/articles/ukraine-alliespush-to-avoid-stalemate-as-headwinds-grow-db0a7f24" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
