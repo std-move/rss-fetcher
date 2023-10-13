@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T05:10:48Z</updated>
+  <updated>2023-10-13T06:15:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Urges 1.1 Million Civilians to Evacuate Northern Gaza</title>
-    <updated>2023-10-13T05:01:00Z</updated>
+    <updated>2023-10-13T05:21:00Z</updated>
     <id>tag:www.wsj.com,2023-10-13:/articles/israel-aims-to-dismantle-hamas-as-blinken-tries-to-prevent-wider-war-55a434f1</id>
     <content type="html">The U.N. asks the Israeli military to reconsider the order, warning of devastating humanitarian consequences.</content>
     <link href="https://www.wsj.com/articles/israel-aims-to-dismantle-hamas-as-blinken-tries-to-prevent-wider-war-55a434f1" rel="alternate"></link>
