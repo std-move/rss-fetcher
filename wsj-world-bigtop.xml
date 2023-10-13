@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T22:10:08Z</updated>
+  <updated>2023-10-13T23:10:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-10-13:/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947</id>
     <content type="html">Residents of Gaza were bracing for a more powerful assault by the Israeli military, which on Friday demanded a mass evacuation of some of the territory’s most densely populated neighborhoods.</content>
     <link href="https://www.wsj.com/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In Israel, Tradition Requires 10 to Attend a Funeral. Hundreds Came.</title>
-    <updated>2023-10-13T21:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-13:/articles/in-israel-tradition-requires-10-to-attend-a-funeral-hundreds-came-d09d4fa1</id>
-    <content type="html">Thousands of people have attended funerals of people they never knew over the past few days.</content>
-    <link href="https://www.wsj.com/articles/in-israel-tradition-requires-10-to-attend-a-funeral-hundreds-came-d09d4fa1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
