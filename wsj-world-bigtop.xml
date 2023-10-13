@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T09:11:14Z</updated>
+  <updated>2023-10-13T10:12:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.N. Urges Israel to Rescind Gaza Evacuation Order</title>
+    <updated>2023-10-13T09:53:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947</id>
+    <content type="html">Israel is asking more than one million civilians to leave the enclave’s north to avoid getting caught up in its offensive against militant group Hamas.</content>
+    <link href="https://www.wsj.com/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Ukraine, Partners Fight to Avoid Stalemate as Headwinds Grow</title>
+    <updated>2023-10-13T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/ukraine-alliespush-to-avoid-stalemate-as-headwinds-grow-db0a7f24</id>
+    <content type="html">Concerns about the slow pace of Ukraine’s advances this year have been accentuated by doubts over the durability of Western aid.</content>
+    <link href="https://www.wsj.com/articles/ukraine-alliespush-to-avoid-stalemate-as-headwinds-grow-db0a7f24" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>These Machines Save the Sickest Patients. When to Turn Them Off Is Tricky.</title>
+    <updated>2023-10-13T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/ecmo-machine-treatment-patients-7c98688f</id>
+    <content type="html">Patients have spent 600 days on machines some people come to rely on.</content>
+    <link href="https://www.wsj.com/articles/ecmo-machine-treatment-patients-7c98688f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>For Palestinians Trapped in Gaza, There Is No Way Out</title>
     <updated>2023-10-13T08:09:00Z</updated>
