@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T20:12:05Z</updated>
+  <updated>2023-10-13T21:09:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Muslims Across Middle East Rally in Support of Palestinians</title>
-    <updated>2023-10-13T18:46:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-13:/articles/muslims-across-middle-east-rally-in-support-of-palestinians-e4ca1291</id>
-    <content type="html">Demonstrators from Lebanon to Iran expressed solidarity with Gaza and anger at Israel in a region at risk of a widening war.</content>
-    <link href="https://www.wsj.com/articles/muslims-across-middle-east-rally-in-support-of-palestinians-e4ca1291" rel="alternate"></link>
+    <title>In Israel, Tradition Requires 10 to Attend a Funeral. Hundreds Came.</title>
+    <updated>2023-10-13T21:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/in-israel-tradition-requires-10-to-attend-a-funeral-hundreds-came-d09d4fa1</id>
+    <content type="html">Thousands of people have attended funerals of people they never knew over the past few days.</content>
+    <link href="https://www.wsj.com/articles/in-israel-tradition-requires-10-to-attend-a-funeral-hundreds-came-d09d4fa1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gaza Residents Brace for Israeli Offensive After Evacuation Demand</title>
+    <updated>2023-10-13T20:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947</id>
+    <content type="html">Residents of Gaza were bracing for a more powerful assault by the Israeli military, which on Friday demanded a mass evacuation of some of the territory’s most densely populated neighborhoods.</content>
+    <link href="https://www.wsj.com/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Inside Gaza, People Desperately Seek Safety</title>
+    <updated>2023-10-13T20:20:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/inside-gaza-people-desperately-seek-safety-c84414d7</id>
+    <content type="html">An evacuation warning from the Israeli military sowed panic in the sealed-off Palestinian enclave.</content>
+    <link href="https://www.wsj.com/articles/inside-gaza-people-desperately-seek-safety-c84414d7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
