@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T08:15:03Z</updated>
+  <updated>2023-10-13T09:11:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>For Palestinians Trapped in Gaza, There Is No Way Out</title>
+    <updated>2023-10-13T08:09:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/for-palestinians-trapped-in-gaza-there-is-no-way-out-52ec0f62</id>
+    <content type="html">Palestinians and foreign nationals in the Gaza Strip are trying to flee to safety ahead of an anticipated Israeli ground invasion but are finding there is nowhere to run.</content>
+    <link href="https://www.wsj.com/articles/for-palestinians-trapped-in-gaza-there-is-no-way-out-52ec0f62" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel Tells 1.1 Million Civilians to Evacuate Northern Gaza</title>
     <updated>2023-10-13T08:02:00Z</updated>
