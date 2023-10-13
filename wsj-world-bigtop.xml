@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T14:10:38Z</updated>
+  <updated>2023-10-13T15:11:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Crypto Exchange Moving Money for Criminal Gangs, Rich Russians and a Hamas-Linked Terror Group</title>
-    <updated>2023-10-13T13:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-13:/articles/garantex-russian-crypto-hamas-crime-sanctions-a3648357</id>
-    <content type="html">Garantex’s international pipeline helps defy Treasury sanctions by channeling rubles to crypto to dollars. Customers line up with bags of cash.</content>
-    <link href="https://www.wsj.com/articles/garantex-russian-crypto-hamas-crime-sanctions-a3648357" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>U.N. Urges Israel to Rescind Gaza Evacuation Order</title>
-    <updated>2023-10-13T13:30:00Z</updated>
+    <updated>2023-10-13T14:27:00Z</updated>
     <id>tag:www.wsj.com,2023-10-13:/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947</id>
     <content type="html">Humanitarian groups warned that the relocation of more than a million people to the enclave’s south would be devastating for civilians.</content>
     <link href="https://www.wsj.com/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>&#39;I Will Do What&#39;s Necessary&#39;: Israeli Reservists Journey from U.S. to Fight Hamas</title>
-    <updated>2023-10-13T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-13:/articles/israel-hamas-war-american-reservists-df7f25c2</id>
-    <content type="html">Israel calls up hundreds of thousands of reservists to Middle East after attack</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-war-american-reservists-df7f25c2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
