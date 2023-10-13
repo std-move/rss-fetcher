@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T15:11:45Z</updated>
+  <updated>2023-10-13T16:14:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>U.N. Urges Israel to Rescind Gaza Evacuation Order</title>
-    <updated>2023-10-13T14:27:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-13:/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947</id>
-    <content type="html">Humanitarian groups warned that the relocation of more than a million people to the enclave’s south would be devastating for civilians.</content>
-    <link href="https://www.wsj.com/articles/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
