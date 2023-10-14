@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-14T10:10:25Z</updated>
+  <updated>2023-10-14T11:08:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Americans Send Help to Israel, Including Supplies That Range From Baby Formula to Tactical Gear</title>
+    <updated>2023-10-14T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-14:/articles/americans-send-help-to-israel-including-supplies-that-range-from-baby-formula-to-tactical-gear-f264749a</id>
+    <content type="html">Americans are raising millions of dollars and organizing grassroots campaigns to provide flights, medical supplies and other aid to Israel, while efforts to get aid to civilians trapped inside Gaza are being stymied by Israel’s blockade.</content>
+    <link href="https://www.wsj.com/articles/americans-send-help-to-israel-including-supplies-that-range-from-baby-formula-to-tactical-gear-f264749a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>U.S., Egypt Reach Deal to Evacuate Americans From Gaza</title>
+    <updated>2023-10-14T10:39:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-14:/articles/u-s-egypt-reach-deal-to-evacuate-americans-from-gaza-41b32db6</id>
+    <content type="html">It wasn’t clear whether Hamas, which controls Gaza, would allow foreigners to move to the border crossing.</content>
+    <link href="https://www.wsj.com/articles/u-s-egypt-reach-deal-to-evacuate-americans-from-gaza-41b32db6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
