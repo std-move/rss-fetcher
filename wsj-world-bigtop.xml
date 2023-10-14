@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-14T15:09:50Z</updated>
+  <updated>2023-10-14T16:13:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>U.S. Makes Diplomatic Push to Evacuate Americans From Gaza</title>
-    <updated>2023-10-14T13:56:00Z</updated>
+    <title>U.S. Push to Evacuate Americans from Gaza Falters Amid Egyptian Demands</title>
+    <updated>2023-10-14T15:48:00Z</updated>
     <id>tag:www.wsj.com,2023-10-14:/articles/u-s-egypt-reach-deal-to-evacuate-americans-from-gaza-41b32db6</id>
-    <content type="html">A deal between U.S., Egyptian and Israeli officials offered hope of safe passage, as Israel said Palestinians could safely travel southward for a few hours from northern Gaza.</content>
+    <content type="html">Egypt wants a deal for aid to enter Gaza before allowing foreigners to exit, officials said. Meanwhile, Palestinians are offered temporary travel corridor.</content>
     <link href="https://www.wsj.com/articles/u-s-egypt-reach-deal-to-evacuate-americans-from-gaza-41b32db6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
