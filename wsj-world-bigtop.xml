@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-13T23:10:35Z</updated>
+  <updated>2023-10-14T00:49:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Jews Fear Rising Threats: &#39;We&#39;ve Seen This Film&#39;</title>
+    <updated>2023-10-13T23:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-13:/articles/jews-fear-rising-threats-weve-seen-this-film-43670e20</id>
+    <content type="html">The Hamas attack has left Jewish communities around the world on edge as they confront rising vitriol, threats and violence.</content>
+    <link href="https://www.wsj.com/articles/jews-fear-rising-threats-weve-seen-this-film-43670e20" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Gaza Residents Brace for Israeli Offensive After Evacuation Demand</title>
     <updated>2023-10-13T21:58:00Z</updated>
