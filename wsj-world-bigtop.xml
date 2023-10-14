@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-14T20:10:36Z</updated>
+  <updated>2023-10-14T21:08:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Presses Arab Leaders to Help Prevent Escalation</title>
+    <updated>2023-10-14T20:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-14:/articles/u-s-seeks-to-isolate-hamas-as-it-works-with-qatar-egypt-on-hostages-evacuees-7640dcad</id>
+    <content type="html">Making rounds of regional capitals, Secretary of State Antony Blinken asked officials to isolate Hamas and deter Hezbollah from violence.</content>
+    <link href="https://www.wsj.com/articles/u-s-seeks-to-isolate-hamas-as-it-works-with-qatar-egypt-on-hostages-evacuees-7640dcad" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Push to Evacuate Americans from Gaza Falters Amid Egyptian Demands</title>
     <updated>2023-10-14T19:56:00Z</updated>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2023-10-14:/articles/israel-aims-to-destroy-hamas-what-comes-next-for-gaza-is-unclear-90962ed2</id>
     <content type="html">Israel is preparing a ground invasion of the Gaza Strip to destroy Hamas. But it hasn’t offered any indication of what could happen next.</content>
     <link href="https://www.wsj.com/articles/israel-aims-to-destroy-hamas-what-comes-next-for-gaza-is-unclear-90962ed2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Seeks to Isolate Hamas as it Works With Qatar, Egypt on Hostages, Evacuees</title>
-    <updated>2023-10-14T18:16:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-14:/articles/u-s-seeks-to-isolate-hamas-as-it-works-with-qatar-egypt-on-hostages-evacuees-7640dcad</id>
-    <content type="html">Secretary of State Antony Blinken has sought to encourage Arab nations to set aside distrust of Israel to isolate Hamas.</content>
-    <link href="https://www.wsj.com/articles/u-s-seeks-to-isolate-hamas-as-it-works-with-qatar-egypt-on-hostages-evacuees-7640dcad" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
