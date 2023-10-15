@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-15T22:09:32Z</updated>
+  <updated>2023-10-15T23:10:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Clashes Intensify as Israel Prepares Gaza Invasion</title>
+    <updated>2023-10-15T22:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-15:/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a</id>
+    <content type="html">Israeli jets carried out attacks against Lebanon-based militants, which include Iranian ally Hezbollah, after they launched at least six strikes against Israeli territory.</content>
+    <link href="https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Egypt Weighs Letting In Palestinians From Gaza</title>
+    <updated>2023-10-15T22:29:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-15:/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f</id>
+    <content type="html">Cairo is coming under intense pressure to allow refugees to cross the border and escape an Israeli bombing campaign and expected ground invasion.</content>
+    <link href="https://www.wsj.com/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Poland&#39;s Vote Provides Donald Tusk With Path Back to Power</title>
     <updated>2023-10-15T21:33:00Z</updated>
@@ -18,14 +34,6 @@
     <id>tag:www.wsj.com,2023-10-15:/articles/israel-hamas-hostage-crisis-ea26e3d7</id>
     <content type="html">Qatar and Turkey position themselves as key intermediaries; Hamas militants “ditched their mobile phones and it was impossible to reach any of them.”</content>
     <link href="https://www.wsj.com/articles/israel-hamas-hostage-crisis-ea26e3d7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Egypt Weighs Letting In Foreigners and Palestinians From Gaza</title>
-    <updated>2023-10-15T19:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-15:/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f</id>
-    <content type="html">Cairo is is coming under intense pressure to allow refugees to cross the border and escape an Israeli bombing campaign and expected ground invasion.</content>
-    <link href="https://www.wsj.com/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
