@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-15T00:54:51Z</updated>
+  <updated>2023-10-15T01:52:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Desperate to Flee Africa, Migrants Accidentally Stow Away on Ships to Brazil</title>
+    <updated>2023-10-15T01:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-15:/articles/desperate-to-flee-africa-migrants-accidentally-stow-away-on-ships-to-brazil-f1b5fd53</id>
+    <content type="html">African arrivals are tricked to believe they were headed for the U.S. or Europe.</content>
+    <link href="https://www.wsj.com/articles/desperate-to-flee-africa-migrants-accidentally-stow-away-on-ships-to-brazil-f1b5fd53" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Push to Evacuate Americans From Gaza Falters Amid Egyptian Demands</title>
     <updated>2023-10-14T23:50:00Z</updated>
