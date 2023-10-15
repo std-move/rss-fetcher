@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-15T15:09:49Z</updated>
+  <updated>2023-10-15T16:12:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Poles Are Voting in What Could Be Europe&#39;s Biggest Election This Year</title>
+    <updated>2023-10-15T15:38:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-15:/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9</id>
+    <content type="html">Support for Ukraine has emerged as a core campaign issue, with an upstart party driving the debate to the right.</content>
+    <link href="https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Races to Expand Michigan Locksand Secure the Supply Chain</title>
     <updated>2023-10-15T14:47:00Z</updated>
