@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-15T19:08:13Z</updated>
+  <updated>2023-10-15T20:10:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Egypt Weighs Letting in Foreigners and Palestinians From Gaza</title>
+    <title>Egypt Weighs Letting In Foreigners and Palestinians From Gaza</title>
     <updated>2023-10-15T19:01:00Z</updated>
     <id>tag:www.wsj.com,2023-10-15:/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f</id>
+    <content type="html">Cairo is is coming under intense pressure to allow refugees to cross the border and escape an Israeli bombing campaign and expected ground invasion.</content>
     <link href="https://www.wsj.com/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -25,14 +26,6 @@
     <id>tag:www.wsj.com,2023-10-15:/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9</id>
     <content type="html">Support for Ukraine has emerged as a core campaign issue, with an upstart party driving the debate to the right.</content>
     <link href="https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Races to Expand Michigan Locksand Secure the Supply Chain</title>
-    <updated>2023-10-15T14:47:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-15:/articles/u-s-races-to-expand-michigan-locksand-secure-the-supply-chain-1a13bcca</id>
-    <content type="html">The upgrade has taken on greater urgency because of the economic impact of disrupted supply chains during the Covid-19 pandemic.</content>
-    <link href="https://www.wsj.com/articles/u-s-races-to-expand-michigan-locksand-secure-the-supply-chain-1a13bcca" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
