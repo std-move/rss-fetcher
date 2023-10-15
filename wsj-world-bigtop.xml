@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-15T20:10:57Z</updated>
+  <updated>2023-10-15T21:08:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-10-15:/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f</id>
     <content type="html">Cairo is is coming under intense pressure to allow refugees to cross the border and escape an Israeli bombing campaign and expected ground invasion.</content>
     <link href="https://www.wsj.com/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Clashes Intensify Along Israel&#39;s Northern Border as It Prepares Gaza Invasion</title>
-    <updated>2023-10-15T16:47:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-15:/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a</id>
-    <content type="html">Israeli jets carried out attacks against Lebanon-based militants, which include Iranian ally Hezbollah, after they launched at least six strikes against Israeli territory.</content>
-    <link href="https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Poles Are Voting in What Could Be Europe&#39;s Biggest Election This Year</title>
-    <updated>2023-10-15T15:38:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-15:/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9</id>
-    <content type="html">Support for Ukraine has emerged as a core campaign issue, with an upstart party driving the debate to the right.</content>
-    <link href="https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
