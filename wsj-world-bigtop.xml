@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-15T11:08:45Z</updated>
+  <updated>2023-10-15T12:19:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Airstrikes Kill Key Hamas Leader as Gaza Humanitarian Crisis Grows</title>
-    <updated>2023-10-15T09:41:00Z</updated>
+    <updated>2023-10-15T11:50:00Z</updated>
     <id>tag:www.wsj.com,2023-10-15:/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a</id>
-    <content type="html">Two million people are forced to drink dirty water as treatment plans run out of fuel and Israel prepares for a ground offensive.</content>
+    <content type="html">Two million people are forced to drink dirty water as treatment plants run out of fuel and Israel prepares for a ground offensive.</content>
     <link href="https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-10-15:/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9</id>
     <content type="html">Support for Ukraine has emerged as a core campaign issue, with an upstart party driving the debate to the right.</content>
     <link href="https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Desperate to Flee Africa, Migrants Accidentally Stow Away on Ships to Brazil</title>
-    <updated>2023-10-15T01:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-15:/articles/desperate-to-flee-africa-migrants-accidentally-stow-away-on-ships-to-brazil-f1b5fd53</id>
-    <content type="html">African arrivals are tricked to believe they were headed for the U.S. or Europe.</content>
-    <link href="https://www.wsj.com/articles/desperate-to-flee-africa-migrants-accidentally-stow-away-on-ships-to-brazil-f1b5fd53" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
