@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-15T09:09:41Z</updated>
+  <updated>2023-10-15T10:11:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Airstrikes Kill Key Hamas Leader as Gaza Humanitarian Crisis Grows</title>
+    <updated>2023-10-15T09:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-15:/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a</id>
+    <content type="html">Two million people are forced to drink dirty water as treatment plans run out of fuel and Israel prepares for a ground offensive.</content>
+    <link href="https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Poles Are Voting in What Could Be Europe&#39;s Biggest Election This Year</title>
     <updated>2023-10-15T06:41:00Z</updated>
@@ -18,46 +26,6 @@
     <id>tag:www.wsj.com,2023-10-15:/articles/desperate-to-flee-africa-migrants-accidentally-stow-away-on-ships-to-brazil-f1b5fd53</id>
     <content type="html">African arrivals are tricked to believe they were headed for the U.S. or Europe.</content>
     <link href="https://www.wsj.com/articles/desperate-to-flee-africa-migrants-accidentally-stow-away-on-ships-to-brazil-f1b5fd53" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Push to Evacuate Americans From Gaza Falters Amid Egyptian Demands</title>
-    <updated>2023-10-14T23:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-14:/articles/u-s-egypt-reach-deal-to-evacuate-americans-from-gaza-41b32db6</id>
-    <content type="html">Egypt wants a deal for aid to Gaza before allowing foreigners to exit, officials say. Meanwhile, Palestinians are offered temporary travel corridor to southern Gaza.</content>
-    <link href="https://www.wsj.com/articles/u-s-egypt-reach-deal-to-evacuate-americans-from-gaza-41b32db6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Presses Arab Leaders to Help Prevent Escalation</title>
-    <updated>2023-10-14T21:21:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-14:/articles/u-s-seeks-to-isolate-hamas-as-it-works-with-qatar-egypt-on-hostages-evacuees-7640dcad</id>
-    <content type="html">Making rounds of regional capitals, Secretary of State Antony Blinken asked officials to isolate Hamas and deter Hezbollah from violence.</content>
-    <link href="https://www.wsj.com/articles/u-s-seeks-to-isolate-hamas-as-it-works-with-qatar-egypt-on-hostages-evacuees-7640dcad" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Fighters&#39; Orders: &#39;Kill as Many People as Possible&#39;</title>
-    <updated>2023-10-14T19:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-14:/articles/hamas-fighters-orders-kill-as-many-people-as-possible-2a6abff8</id>
-    <content type="html">Documents found on dead militants after last weekend’s assault on Israel indicate massacres were a central objective.</content>
-    <link href="https://www.wsj.com/articles/hamas-fighters-orders-kill-as-many-people-as-possible-2a6abff8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Aims to Destroy Hamas. What Comes Next for Gaza Is Unclear.</title>
-    <updated>2023-10-14T18:29:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-14:/articles/israel-aims-to-destroy-hamas-what-comes-next-for-gaza-is-unclear-90962ed2</id>
-    <content type="html">Israel is preparing a ground invasion of the Gaza Strip to destroy Hamas. But it hasn’t offered any indication of what could happen after that.</content>
-    <link href="https://www.wsj.com/articles/israel-aims-to-destroy-hamas-what-comes-next-for-gaza-is-unclear-90962ed2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Inside Gaza, People Desperately Seek Safety</title>
-    <updated>2023-10-14T17:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-14:/articles/inside-gaza-people-desperately-seek-safety-c84414d7</id>
-    <content type="html">An evacuation warning from the Israeli military sowed panic in the sealed-off Palestinian enclave.</content>
-    <link href="https://www.wsj.com/articles/inside-gaza-people-desperately-seek-safety-c84414d7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
