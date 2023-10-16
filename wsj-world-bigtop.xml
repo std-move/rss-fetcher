@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T10:12:34Z</updated>
+  <updated>2023-10-16T11:09:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How the Israel-Hamas War Is Tilting the Global Power Balance</title>
+    <updated>2023-10-16T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-16:/articles/how-the-israel-hamas-war-is-tilting-the-global-power-balance-in-favor-of-russia-china-6fe4710a</id>
+    <content type="html">The war is stretching American and European resources while relieving pressure on Russia and providing new opportunities to China.</content>
+    <link href="https://www.wsj.com/articles/how-the-israel-hamas-war-is-tilting-the-global-power-balance-in-favor-of-russia-china-6fe4710a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Clashes Intensify as Israel Prepares Gaza Invasion</title>
     <updated>2023-10-16T08:01:00Z</updated>
     <id>tag:www.wsj.com,2023-10-16:/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a</id>
     <content type="html">Israeli jets carried out attacks against Lebanon-based militants, which include Iranian ally Hezbollah, after they launched at least six strikes against Israeli territory.</content>
     <link href="https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Polish Election Upends Right-Wing Ruling Party</title>
-    <updated>2023-10-16T07:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9</id>
-    <content type="html">The result provides a path back to power for Donald Tusk, who has promised to maintain aid to Kyiv, after the ruling party took a more hostile approach to backing Ukraine indefinitely.</content>
-    <link href="https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
