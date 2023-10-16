@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T06:15:36Z</updated>
+  <updated>2023-10-16T07:11:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Poland&#39;s Vote Provides Donald Tusk With Path Back to Power</title>
+    <updated>2023-10-16T07:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-16:/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9</id>
+    <content type="html">The ruling Law and Justice Party veered right to tap Ukraine fatigue, but failed to win enough votes to form a government.</content>
+    <link href="https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
