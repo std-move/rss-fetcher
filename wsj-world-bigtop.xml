@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T09:12:24Z</updated>
+  <updated>2023-10-16T10:12:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,10 +13,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Poland&#39;s Vote Provides Donald Tusk With Path Back to Power</title>
+    <title>Polish Election Upends Right-Wing Ruling Party</title>
     <updated>2023-10-16T07:02:00Z</updated>
     <id>tag:www.wsj.com,2023-10-16:/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9</id>
-    <content type="html">The ruling Law and Justice Party veered right to tap Ukraine fatigue, but failed to win enough votes to form a government.</content>
+    <content type="html">The result provides a path back to power for Donald Tusk, who has promised to maintain aid to Kyiv, after the ruling party took a more hostile approach to backing Ukraine indefinitely.</content>
     <link href="https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
