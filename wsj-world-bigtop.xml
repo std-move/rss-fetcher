@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T03:11:56Z</updated>
+  <updated>2023-10-16T04:13:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Ecuador Elects Heir to Banana Fortune Amid Skyrocketing Drug-Fueled Violence</title>
-    <updated>2023-10-16T01:53:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/ecuador-votes-in-a-presidential-runoff-as-drug-war-violence-soars-b58854ec</id>
-    <content type="html">Businessman Daniel Noboa pledges to promote trade and fight crime in a country plagued with skyrocketing homicides.</content>
-    <link href="https://www.wsj.com/articles/ecuador-votes-in-a-presidential-runoff-as-drug-war-violence-soars-b58854ec" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Big Mistakes People Make in Medicare---And How to Avoid Them</title>
-    <updated>2023-10-16T01:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/medicare-advantage-enrollment-risks-923e7952</id>
-    <content type="html">Seniors choosing Medicare plans can fall into traps leaving them with higher costs or fewer doctors than they expected. ‘I was so stupid.’</content>
-    <link href="https://www.wsj.com/articles/medicare-advantage-enrollment-risks-923e7952" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Clashes Intensify as Israel Prepares Gaza Invasion</title>
-    <updated>2023-10-16T00:26:00Z</updated>
+    <updated>2023-10-16T03:34:00Z</updated>
     <id>tag:www.wsj.com,2023-10-16:/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a</id>
     <content type="html">Israeli jets carried out attacks against Lebanon-based militants, which include Iranian ally Hezbollah, after they launched at least six strikes against Israeli territory.</content>
     <link href="https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a" rel="alternate"></link>
