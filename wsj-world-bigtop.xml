@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T20:12:44Z</updated>
+  <updated>2023-10-16T21:10:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Gaza Strip: What to Know, Maps and History</title>
-    <updated>2023-10-16T18:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/gaza-strip-history-israel-hamas-1ede727d</id>
-    <content type="html">Israel is preparing for a full-scale invasion of the Gaza Strip, but how was the enclave created and how did Hamas gain control?</content>
-    <link href="https://www.wsj.com/articles/gaza-strip-history-israel-hamas-1ede727d" rel="alternate"></link>
+    <title>&#39;I&#39;m Not a Diplomat…I&#39;m a Mom.&#39; The American Parents Thrust Into the Israeli Hostage Crisis</title>
+    <updated>2023-10-16T20:23:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-16:/articles/hostage-israel-american-parents-gaza-779e86d1</id>
+    <content type="html">When U.S.-born Hersh Goldberg-Polin was taken captive by Hamas attackers at a music festival in Israel, his parents launched a desperate quest for information and help.</content>
+    <link href="https://www.wsj.com/articles/hostage-israel-american-parents-gaza-779e86d1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Bereaved Israelis Emerge From Mourning Into an Uncertain World</title>
-    <updated>2023-10-16T16:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/bereaved-israelis-emerge-from-mourning-into-an-uncertain-world-ee1d5277</id>
-    <content type="html">Hundreds of Jewish families are now emerging from seven days of mourning, unsure of what kind of world they return to.</content>
-    <link href="https://www.wsj.com/articles/bereaved-israelis-emerge-from-mourning-into-an-uncertain-world-ee1d5277" rel="alternate"></link>
+    <title>U.S. Push for Gaza Border Opening Stalls as Humanitarian Plight Worsens</title>
+    <updated>2023-10-16T20:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-16:/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122</id>
+    <content type="html">The U.S. is struggling to get Americans out of the Palestinian enclave and humanitarian aid into it as Israel’s ground offensive looms.</content>
+    <link href="https://www.wsj.com/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
