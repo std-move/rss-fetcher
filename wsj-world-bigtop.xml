@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T15:11:47Z</updated>
+  <updated>2023-10-16T16:14:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Push for Gaza Border Opening Stumbles as Humanitarian Plight Worsens</title>
+    <updated>2023-10-16T15:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-16:/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122</id>
+    <content type="html">The U.S. is working to get Americans out of the Palestinian enclave and humanitarian aid into it as Israel’s ground offensive looms.</content>
+    <link href="https://www.wsj.com/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Barred From Office by Maduro, This Venezuelan Politician Thinks She Can Still Beat Him</title>
     <updated>2023-10-16T14:59:00Z</updated>
     <id>tag:www.wsj.com,2023-10-16:/articles/venezuelan-presidential-hopeful-fights-for-free-elections-2d8dfefd</id>
-    <content type="html">Opposition politician Maria Corina Machado wants to challenge the country’s authoritarian president, Nicolás Maduro, at the ballot box. The effort may be hopeless.</content>
+    <content type="html">Opposition politician María Corina Machado wants to challenge the country’s authoritarian president, Nicolás Maduro, at the ballot box. The effort may be hopeless.</content>
     <link href="https://www.wsj.com/articles/venezuelan-presidential-hopeful-fights-for-free-elections-2d8dfefd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Push for Gaza Border Opening Stumbles as Humanitarian Plight Worsens</title>
-    <updated>2023-10-16T14:48:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122</id>
-    <content type="html">The U.S. is working to get Americans out of the Palestinian enclave and humanitarian aid into it as Israel’s ground offensive looms.</content>
-    <link href="https://www.wsj.com/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
