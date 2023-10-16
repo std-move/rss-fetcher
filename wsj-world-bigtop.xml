@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T11:09:35Z</updated>
+  <updated>2023-10-16T12:22:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Push for Gaza Border Opening Stumbles as Humanitarian Plight Worsens</title>
+    <updated>2023-10-16T11:17:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-16:/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122</id>
+    <content type="html">The U.S. is working to get Americans out of the Palestinian enclave and humanitarian aid into it as Israel’s ground offensive looms.</content>
+    <link href="https://www.wsj.com/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How the Israel-Hamas War Is Tilting the Global Power Balance</title>
     <updated>2023-10-16T11:00:00Z</updated>
     <id>tag:www.wsj.com,2023-10-16:/articles/how-the-israel-hamas-war-is-tilting-the-global-power-balance-in-favor-of-russia-china-6fe4710a</id>
     <content type="html">The war is stretching American and European resources while relieving pressure on Russia and providing new opportunities to China.</content>
     <link href="https://www.wsj.com/articles/how-the-israel-hamas-war-is-tilting-the-global-power-balance-in-favor-of-russia-china-6fe4710a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Clashes Intensify as Israel Prepares Gaza Invasion</title>
-    <updated>2023-10-16T08:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a</id>
-    <content type="html">Israeli jets carried out attacks against Lebanon-based militants, which include Iranian ally Hezbollah, after they launched at least six strikes against Israeli territory.</content>
-    <link href="https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
