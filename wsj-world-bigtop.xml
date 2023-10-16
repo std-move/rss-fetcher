@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T19:09:12Z</updated>
+  <updated>2023-10-16T20:12:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-10-16:/articles/bereaved-israelis-emerge-from-mourning-into-an-uncertain-world-ee1d5277</id>
     <content type="html">Hundreds of Jewish families are now emerging from seven days of mourning, unsure of what kind of world they return to.</content>
     <link href="https://www.wsj.com/articles/bereaved-israelis-emerge-from-mourning-into-an-uncertain-world-ee1d5277" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Barred From Office by Maduro, This Venezuelan Politician Thinks She Can Still Beat Him</title>
-    <updated>2023-10-16T16:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-16:/articles/venezuelan-presidential-hopeful-fights-for-free-elections-2d8dfefd</id>
-    <content type="html">Opposition politician María Corina Machado wants to challenge the country’s authoritarian president, Nicolás Maduro, at the ballot box. The effort may be hopeless.</content>
-    <link href="https://www.wsj.com/articles/venezuelan-presidential-hopeful-fights-for-free-elections-2d8dfefd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
