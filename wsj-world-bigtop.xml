@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-16T00:52:27Z</updated>
+  <updated>2023-10-16T01:50:44Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Big Mistakes People Make in Medicare---And How to Avoid Them</title>
+    <updated>2023-10-16T01:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-16:/articles/medicare-advantage-enrollment-risks-923e7952</id>
+    <content type="html">Seniors choosing Medicare plans can fall into traps leaving them with higher costs or fewer doctors than they expected. ‘I was so stupid.’</content>
+    <link href="https://www.wsj.com/articles/medicare-advantage-enrollment-risks-923e7952" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Clashes Intensify as Israel Prepares Gaza Invasion</title>
     <updated>2023-10-16T00:26:00Z</updated>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2023-10-15:/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f</id>
     <content type="html">Cairo is coming under intense pressure to allow refugees to cross the border and escape an Israeli bombing campaign and expected ground invasion.</content>
     <link href="https://www.wsj.com/articles/egypt-weighs-letting-in-foreigners-and-palestinians-from-gaza-7df43a5f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dozens of Countries Scramble to Identify More Than 150 Citizens Held Hostage in Gaza</title>
-    <updated>2023-10-15T21:11:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-15:/articles/israel-hamas-hostage-crisis-ea26e3d7</id>
-    <content type="html">Qatar and Turkey position themselves as key intermediaries; Hamas militants “ditched their mobile phones and it was impossible to reach any of them.”</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-hostage-crisis-ea26e3d7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
