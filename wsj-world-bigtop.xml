@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-17T08:14:48Z</updated>
+  <updated>2023-10-17T09:11:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Attacks 200 Targets in Gaza Ahead of Biden Visit</title>
+    <updated>2023-10-17T08:33:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-17:/articles/israel-attacks-200-targets-in-gaza-ahead-of-biden-visit-cd6889d6</id>
+    <content type="html">The Israeli military said it hit Hamas’s operational headquarters, while diplomatic efforts intensified to let aid into the enclave and allow foreigners out of it.</content>
+    <link href="https://www.wsj.com/articles/israel-attacks-200-targets-in-gaza-ahead-of-biden-visit-cd6889d6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Biden to Visit Israel as U.S. Push for Border Opening Stalls</title>
     <updated>2023-10-17T04:19:00Z</updated>
     <id>tag:www.wsj.com,2023-10-17:/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122</id>
     <content type="html">The U.S. is struggling to get Americans out of the Palestinian enclave and humanitarian aid into it as Israel’s ground offensive looms.</content>
     <link href="https://www.wsj.com/articles/u-s-push-for-gaza-border-opening-stumbles-as-humanitarian-plight-worsens-b825d122" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Families in Gaza Fear for Their Lives Even After Fleeing South</title>
-    <updated>2023-10-17T04:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-17:/articles/families-in-gaza-fear-for-their-lives-even-after-fleeing-to-the-south-1e221d5a</id>
-    <content type="html">More than half a million people have left the northern part of the Gaza Strip, fearful of an Israeli ground invasion.</content>
-    <link href="https://www.wsj.com/articles/families-in-gaza-fear-for-their-lives-even-after-fleeing-to-the-south-1e221d5a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
