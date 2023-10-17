@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-17T20:12:04Z</updated>
+  <updated>2023-10-17T21:10:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israeli Airstrike on Gaza Hospital Kills More Than 500, Palestinian Officials Say</title>
-    <updated>2023-10-17T19:13:00Z</updated>
+    <title>Strike on Gaza Hospital Kills More Than 500, Palestinian Officials Say</title>
+    <updated>2023-10-17T20:56:00Z</updated>
     <id>tag:www.wsj.com,2023-10-17:/articles/israel-attacks-200-targets-in-gaza-ahead-of-biden-visit-cd6889d6</id>
     <content type="html">The deadly blast comes hours before President Biden is scheduled to arrive in Israel in a show of support.</content>
     <link href="https://www.wsj.com/articles/israel-attacks-200-targets-in-gaza-ahead-of-biden-visit-cd6889d6" rel="alternate"></link>
