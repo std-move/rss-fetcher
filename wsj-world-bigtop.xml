@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-18T14:10:44Z</updated>
+  <updated>2023-10-18T15:11:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Signals Intelligence Shows Gaza Militants Behind Hospital Blast</title>
+    <updated>2023-10-18T15:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-18:/articles/israel-tries-to-back-up-claims-it-didnt-attack-gaza-hospital-a8cc3405</id>
+    <content type="html">The U.S. has collected signals intelligence showing that the explosion at the hospital compound in Gaza was caused by the militant group Palestine Islamic Jihad, U.S. officials said, buttressing Israel’s contention that it wasn’t responsible for the blast.</content>
+    <link href="https://www.wsj.com/articles/israel-tries-to-back-up-claims-it-didnt-attack-gaza-hospital-a8cc3405" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
