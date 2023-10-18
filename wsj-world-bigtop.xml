@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-18T10:12:04Z</updated>
+  <updated>2023-10-18T11:09:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Lays Out Case It Didn&#39;t Attack Gaza Hospital</title>
+    <updated>2023-10-18T10:15:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-18:/articles/israel-tries-to-back-up-claims-it-didnt-attack-gaza-hospital-a8cc3405</id>
+    <content type="html">Israel offered what it said was proof that it wasn’t responsible for the deadly explosion, an incident that has caused widespread outrage in the Middle East and complicated a visit to Israel by President Biden.</content>
+    <link href="https://www.wsj.com/articles/israel-tries-to-back-up-claims-it-didnt-attack-gaza-hospital-a8cc3405" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
