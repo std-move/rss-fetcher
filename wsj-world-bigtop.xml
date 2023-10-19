@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-19T12:22:00Z</updated>
+  <updated>2023-10-19T13:14:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Airstrikes, Commandos and a Siege: How the Israeli Military Is Preparing Gaza for an Invasion</title>
+    <updated>2023-10-19T12:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-19:/articles/airstrikes-commandos-and-a-siege-how-the-israeli-military-is-preparing-gaza-for-an-invasion-399a0a9c</id>
+    <content type="html">Israel is targeting Hamas’s leaders and its tunnels and has laid siege to northern Gaza, seeking to weaken Hamas before a ground invasion.</content>
+    <link href="https://www.wsj.com/articles/airstrikes-commandos-and-a-siege-how-the-israeli-military-is-preparing-gaza-for-an-invasion-399a0a9c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Wild-Haired Former Rocker Promises to Remake Argentina if Elected President</title>
     <updated>2023-10-19T12:07:00Z</updated>
