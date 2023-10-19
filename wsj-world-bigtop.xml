@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-19T14:10:49Z</updated>
+  <updated>2023-10-19T15:11:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2023-10-19:/articles/weight-loss-drugs-obesity-treatment-cc3d752c</id>
     <content type="html">Doctors are using new strategies to determine who should get the drugs and for how long.</content>
     <link href="https://www.wsj.com/articles/weight-loss-drugs-obesity-treatment-cc3d752c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Airstrikes, Commandos and a Siege: How the Israeli Military Is Preparing Gaza for an Invasion</title>
-    <updated>2023-10-19T12:27:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-19:/articles/airstrikes-commandos-and-a-siege-how-the-israeli-military-is-preparing-gaza-for-an-invasion-399a0a9c</id>
-    <content type="html">Israel is targeting Hamas’s leaders and its tunnels and has laid siege to northern Gaza, seeking to weaken Hamas before a ground invasion.</content>
-    <link href="https://www.wsj.com/articles/airstrikes-commandos-and-a-siege-how-the-israeli-military-is-preparing-gaza-for-an-invasion-399a0a9c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Wild-Haired Former Rocker Promises to Remake Argentina if Elected President</title>
-    <updated>2023-10-19T12:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-19:/articles/wild-haired-ex-rocker-promises-to-remake-argentina-if-elected-president-19d11e7a</id>
-    <content type="html">Javier Milei says he will permanently sideline establishment politicians from “the political caste” he blames for high inflation.</content>
-    <link href="https://www.wsj.com/articles/wild-haired-ex-rocker-promises-to-remake-argentina-if-elected-president-19d11e7a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
