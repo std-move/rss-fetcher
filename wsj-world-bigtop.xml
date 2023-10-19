@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-19T15:11:41Z</updated>
+  <updated>2023-10-19T16:14:47Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How the West---and Israel Itself---Inadvertently Funded Hamas</title>
+    <updated>2023-10-19T15:09:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-19:/articles/hamas-gaza-humanitarian-aid-diverted-cf356c48</id>
+    <content type="html">Islamist organization diverted humanitarian assistance and levied taxes after blockade of Gaza was eased.</content>
+    <link href="https://www.wsj.com/articles/hamas-gaza-humanitarian-aid-diverted-cf356c48" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.N., World Leaders Push to Get Gaza Aid Flowing After Biden Pledge</title>
     <updated>2023-10-19T13:37:00Z</updated>
     <id>tag:www.wsj.com,2023-10-19:/articles/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b</id>
     <content type="html">Millions of Palestinians are trying to flee deadly Israeli airstrikes and struggling to find food, water and fuel during a near-total siege.</content>
     <link href="https://www.wsj.com/articles/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Weight-Loss Drugs Are Rewriting the Playbook for Treating Obesity</title>
-    <updated>2023-10-19T13:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-19:/articles/weight-loss-drugs-obesity-treatment-cc3d752c</id>
-    <content type="html">Doctors are using new strategies to determine who should get the drugs and for how long.</content>
-    <link href="https://www.wsj.com/articles/weight-loss-drugs-obesity-treatment-cc3d752c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
