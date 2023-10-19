@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-19T17:10:01Z</updated>
+  <updated>2023-10-19T18:14:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Airstrikes, Commandos and a Siege: How the Israeli Military Is Preparing Gaza for an Invasion</title>
-    <updated>2023-10-19T16:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-19:/articles/airstrikes-commandos-and-a-siege-how-the-israeli-military-is-preparing-gaza-for-an-invasion-399a0a9c</id>
-    <content type="html">Israel is targeting Hamas’s leaders and its tunnels and has laid siege to northern Gaza, seeking to weaken Hamas before a ground invasion.</content>
-    <link href="https://www.wsj.com/articles/airstrikes-commandos-and-a-siege-how-the-israeli-military-is-preparing-gaza-for-an-invasion-399a0a9c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>U.N., World Leaders Push to Get Gaza Aid Flowing After Biden Pledge</title>
-    <updated>2023-10-19T16:23:00Z</updated>
+    <updated>2023-10-19T17:58:00Z</updated>
     <id>tag:www.wsj.com,2023-10-19:/articles/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b</id>
     <content type="html">Millions of Palestinians are trying to flee deadly Israeli airstrikes and struggling to find food, water and fuel during a near-total siege.</content>
     <link href="https://www.wsj.com/articles/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b" rel="alternate"></link>
