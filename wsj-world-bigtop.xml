@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-20T08:14:08Z</updated>
+  <updated>2023-10-20T09:11:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Chaotic Urban Hellscape That Awaits Israel in a Gaza Invasion</title>
+    <updated>2023-10-20T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-20:/articles/israel-gaza-invasion-urban-warfare-4d1052b6</id>
+    <content type="html">Snipers, tunnels and rubble would make for an unpredictable and claustrophobic battlefield; ‘spooky and weird’</content>
+    <link href="https://www.wsj.com/articles/israel-gaza-invasion-urban-warfare-4d1052b6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
