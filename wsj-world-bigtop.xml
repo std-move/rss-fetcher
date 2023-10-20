@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-20T09:11:01Z</updated>
+  <updated>2023-10-20T10:12:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Chaotic Urban Hellscape That Awaits Israel in a Gaza Invasion</title>
-    <updated>2023-10-20T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-20:/articles/israel-gaza-invasion-urban-warfare-4d1052b6</id>
-    <content type="html">Snipers, tunnels and rubble would make for an unpredictable and claustrophobic battlefield; ‘spooky and weird’</content>
-    <link href="https://www.wsj.com/articles/israel-gaza-invasion-urban-warfare-4d1052b6" rel="alternate"></link>
+    <title>Ukraine Targets Russia&#39;s Big Guns to Blast a Path Forward</title>
+    <updated>2023-10-20T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-20:/articles/ukraine-targets-russias-big-guns-to-blast-a-path-forward-c4ff9e22</id>
+    <content type="html">Ukraine has honed its systems for finding and destroying Russian artillery. But Russia is also adapting.</content>
+    <link href="https://www.wsj.com/articles/ukraine-targets-russias-big-guns-to-blast-a-path-forward-c4ff9e22" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
