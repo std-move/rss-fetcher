@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-21T17:09:04Z</updated>
+  <updated>2023-10-21T18:13:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Gaza Receives First Aid Trucks Since Hamas Attack</title>
-    <updated>2023-10-21T14:39:00Z</updated>
+    <updated>2023-10-21T17:18:00Z</updated>
     <id>tag:www.wsj.com,2023-10-21:/articles/gaza-receives-first-aid-trucks-since-hamas-attack-as-egypt-border-opens-briefly-d8830643</id>
     <content type="html">A convoy carrying medical supplies and some food entered before Egypt closed the border again. Humanitarian agencies said the deliveries fall far short of Palestinians’ needs.</content>
     <link href="https://www.wsj.com/articles/gaza-receives-first-aid-trucks-since-hamas-attack-as-egypt-border-opens-briefly-d8830643" rel="alternate"></link>
