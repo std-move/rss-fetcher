@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-22T12:19:01Z</updated>
+  <updated>2023-10-22T13:11:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Intensifies Gaza Bombing, Targets West Bank Militants With Airstrike</title>
+    <updated>2023-10-22T12:48:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-22:/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1</id>
+    <content type="html">Aid began to flow into Gaza, but falls far short of what is needed to support the enclave’s more than two million residents, humanitarian agencies warned.</content>
+    <link href="https://www.wsj.com/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Northern Israel Prepares for Possible War With Hezbollah</title>
+    <updated>2023-10-22T12:39:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-22:/articles/northern-israel-prepares-for-possible-war-with-hezbollah-524b5f32</id>
+    <content type="html">The prospect of a destructive regional war hinges on whether clashes with Hezbollah on the border with Lebanon can be contained.</content>
+    <link href="https://www.wsj.com/articles/northern-israel-prepares-for-possible-war-with-hezbollah-524b5f32" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Americans Back Israel but Are Wary of Getting Pulled Into Conflict</title>
     <updated>2023-10-22T12:00:00Z</updated>
     <id>tag:www.wsj.com,2023-10-22:/articles/americans-back-israel-but-are-wary-of-getting-pulled-into-conflict-wsj-ipsos-poll-finds-3abce44b</id>
     <content type="html">A WSJ-Ipsos poll finds more people in the U.S. sympathize with Israelis than with the Palestinian people, although younger Americans are more divided.</content>
     <link href="https://www.wsj.com/articles/americans-back-israel-but-are-wary-of-getting-pulled-into-conflict-wsj-ipsos-poll-finds-3abce44b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Intensifies Gaza Bombing, Targets West Bank Militants With Airstrike</title>
-    <updated>2023-10-22T10:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-22:/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1</id>
-    <content type="html">Aid began to flow into Gaza, but falls far short of what is needed to support the enclave’s more than two million residents, humanitarian agencies warned.</content>
-    <link href="https://www.wsj.com/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -42,14 +50,6 @@
     <id>tag:www.wsj.com,2023-10-22:/articles/ukraines-slow-advance-challenges-kyiv-allies-e107ca25</id>
     <content type="html">The country’s counteroffensive hasn’t achieved a breakthrough, and global attention is shifting to the conflict in the Middle East.</content>
     <link href="https://www.wsj.com/articles/ukraines-slow-advance-challenges-kyiv-allies-e107ca25" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gaza Receives First Aid Trucks Since Hamas Attack</title>
-    <updated>2023-10-22T04:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-22:/articles/gaza-receives-first-aid-trucks-since-hamas-attack-as-egypt-border-opens-briefly-d8830643</id>
-    <content type="html">A convoy carrying medical supplies and some food entered before Egypt closed the border again. Humanitarian agencies said the deliveries fall far short of Palestinians’ needs.</content>
-    <link href="https://www.wsj.com/articles/gaza-receives-first-aid-trucks-since-hamas-attack-as-egypt-border-opens-briefly-d8830643" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
