@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-22T09:09:52Z</updated>
+  <updated>2023-10-22T10:10:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Companies Clash Over Billions of Dollars in Hydrogen Tax Breaks</title>
+    <updated>2023-10-22T09:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-22:/articles/hydrogen-tax-breaks-company-fights-a571db76</id>
+    <content type="html">Big energy producers and environmental groups are trying to influence the rules governing a new clean-energy industry.</content>
+    <link href="https://www.wsj.com/articles/hydrogen-tax-breaks-company-fights-a571db76" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Taking Gaza Would Be Possible, Sieges From Recent Conflicts Show---but at a Terrible Cost</title>
     <updated>2023-10-22T04:09:00Z</updated>
