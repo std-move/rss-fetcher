@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-22T10:10:48Z</updated>
+  <updated>2023-10-22T11:08:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Intensifies Gaza Bombing, Targets West Bank Militants With Airstrike</title>
+    <updated>2023-10-22T10:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-22:/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1</id>
+    <content type="html">Aid began to flow into Gaza, but falls far short of what is needed to support the enclave’s more than two million residents, humanitarian agencies warned.</content>
+    <link href="https://www.wsj.com/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Companies Clash Over Billions of Dollars in Hydrogen Tax Breaks</title>
     <updated>2023-10-22T09:30:00Z</updated>
