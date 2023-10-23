@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-23T02:19:24Z</updated>
+  <updated>2023-10-23T03:11:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Intensifies Bombing, Prepares for Gaza Ground Operation</title>
-    <updated>2023-10-22T23:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-22:/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1</id>
-    <content type="html">One Israeli soldier was killed and three others were wounded during a raid inside Gaza, the military said.</content>
-    <link href="https://www.wsj.com/articles/israel-intensifies-gaza-bombing-targets-west-bank-militants-with-airstrike-79660cf1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel&#39;s Dilemma: How Hostage Talks Could Bog Down Military Plans</title>
-    <updated>2023-10-22T20:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-22:/articles/israels-dilemma-how-hostage-talks-could-bog-down-military-plans-46e1dbf6</id>
-    <content type="html">Prime Minister Benjamin Netanyahu’s cabinet faces many crosscutting decisions on the future of the war with Hamas.</content>
-    <link href="https://www.wsj.com/articles/israels-dilemma-how-hostage-talks-could-bog-down-military-plans-46e1dbf6" rel="alternate"></link>
+    <title>Intrepid Investors Look for Bargains in Ukraine---Bomb Shelter Required</title>
+    <updated>2023-10-23T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-23:/articles/intrepid-investors-look-for-bargains-in-ukraine-bomb-shelter-required-66d3058a</id>
+    <content type="html">The battered country is luring investments with the chance to help in the war against Russia and score assets on the cheap.</content>
+    <link href="https://www.wsj.com/articles/intrepid-investors-look-for-bargains-in-ukraine-bomb-shelter-required-66d3058a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
