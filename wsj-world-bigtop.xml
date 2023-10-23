@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-23T19:09:18Z</updated>
+  <updated>2023-10-23T20:10:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Steps Up Gaza Bombing as Biden Urges It to Protect Civilians</title>
-    <updated>2023-10-23T17:54:00Z</updated>
+    <updated>2023-10-23T19:54:00Z</updated>
     <id>tag:www.wsj.com,2023-10-23:/articles/israel-steps-up-gaza-bombing-as-biden-urges-it-to-protect-civilians-ef41c63a</id>
-    <content type="html">Israel struck more than 300 targets in the enclave over the past day, as President Biden and other Western leaders expressed support for Israel while urging it to protect civilians.</content>
+    <content type="html">Israel struck more than 300 targets in the enclave over the past day, as President Biden and other Western leaders expressed support for Israel while urging it to protect civilians and Hamas freed two more hostages amid talks on a broader deal.</content>
     <link href="https://www.wsj.com/articles/israel-steps-up-gaza-bombing-as-biden-urges-it-to-protect-civilians-ef41c63a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hamas Sets Free Two More Hostages but Talks Held Up Over Release of Larger Group</title>
+    <updated>2023-10-23T19:21:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-23:/articles/talks-to-release-hostages-held-up-over-hamas-demand-for-fuel-fcc29267</id>
+    <content type="html">Hamas released two more civilian hostages, but negotiations over a possible release of a group of 50 captives stumbled over the militant group’s demand that Israel allow fuel deliveries into Gaza, according to officials familiar with the talks.</content>
+    <link href="https://www.wsj.com/articles/talks-to-release-hostages-held-up-over-hamas-demand-for-fuel-fcc29267" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
