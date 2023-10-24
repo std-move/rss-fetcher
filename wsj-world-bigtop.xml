@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-24T06:15:19Z</updated>
+  <updated>2023-10-24T07:11:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The Corporate Retreat From Hong Kong Is Accelerating</title>
-    <updated>2023-10-24T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-24:/articles/hong-kong-china-corporate-headquarters-retreat-10454a9a</id>
-    <content type="html">The commercial hub’s ties to mainland China, which global companies once considered an asset, have become a liability.</content>
-    <link href="https://www.wsj.com/articles/hong-kong-china-corporate-headquarters-retreat-10454a9a" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>As Israel&#39;s Government Reels From Attacks, Volunteers Step In</title>
-    <updated>2023-10-24T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-24:/articles/as-israels-government-reels-from-attack-volunteers-step-in-bfe583ee</id>
-    <content type="html">From finding homes for displaced families to rescuing lost dogs, Israel’s civil society has stepped into the breach left by a government reeling from the attacks.</content>
-    <link href="https://www.wsj.com/articles/as-israels-government-reels-from-attack-volunteers-step-in-bfe583ee" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
