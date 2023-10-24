@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-24T21:10:17Z</updated>
+  <updated>2023-10-24T22:10:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Gaza Aid Efforts Near Collapse, Hospitals Close as Israeli Strikes Intensify</title>
-    <updated>2023-10-24T20:38:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-24:/articles/world-leaders-press-israel-to-minimize-civilian-casualties-in-gaza-a65476b5</id>
-    <content type="html">The United Nations Relief and Works Agency, the largest provider of humanitarian support in Gaza, said it would be forced to cease operations by Wednesday night if it doesn’t receive fuel, putting aid for the strip at risk amid intensifying Israeli airstrikes.</content>
-    <link href="https://www.wsj.com/articles/world-leaders-press-israel-to-minimize-civilian-casualties-in-gaza-a65476b5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
