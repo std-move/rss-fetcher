@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-24T14:08:50Z</updated>
+  <updated>2023-10-24T15:12:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>World Leaders Press Israel to Minimize Civilian Casualties in Gaza</title>
+    <title>Macron Is Latest World Leader to Support for Israel, but Adds Note of Caution</title>
     <updated>2023-10-24T13:36:00Z</updated>
     <id>tag:www.wsj.com,2023-10-24:/articles/world-leaders-press-israel-to-minimize-civilian-casualties-in-gaza-a65476b5</id>
     <content type="html">French President Emmanuel Macron traveled to Israel in a show of support as world leaders urge Israel to rethink how it goes about achieving its war objectives.</content>
