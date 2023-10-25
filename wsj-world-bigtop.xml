@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-25T11:09:10Z</updated>
+  <updated>2023-10-25T12:20:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How One Hospital Made Its ER Safer for Kids</title>
+    <updated>2023-10-25T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-25:/articles/how-one-hospital-made-its-er-safer-for-kids-884307c</id>
+    <content type="html">Grand River Health’s emergency room improved its readiness to take care of children by color-coding its equipment and training staff</content>
+    <link href="https://www.wsj.com/articles/how-one-hospital-made-its-er-safer-for-kids-884307c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
