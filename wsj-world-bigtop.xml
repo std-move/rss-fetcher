@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-25T03:11:43Z</updated>
+  <updated>2023-10-25T04:13:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Gaza Aid Efforts Near Collapse, Hospitals Close as Israeli Strikes Intensify</title>
-    <updated>2023-10-25T01:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-25:/articles/world-leaders-press-israel-to-minimize-civilian-casualties-in-gaza-a65476b5</id>
-    <content type="html">The United Nations Relief and Works Agency, the largest provider of humanitarian support in Gaza, said it would be forced to cease operations by Wednesday night if it doesn’t receive fuel, putting aid for the strip at risk amid intensifying Israeli airstrikes.</content>
-    <link href="https://www.wsj.com/articles/world-leaders-press-israel-to-minimize-civilian-casualties-in-gaza-a65476b5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
-    <updated>2023-10-24T22:57:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-24:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <title>Weapons Flood Israel&#39;s West Bank, Fueling Fears of New War Front</title>
+    <updated>2023-10-25T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-25:/articles/iran-weapons-west-bank-israel-war-8bf12d1f</id>
+    <content type="html">Iran and its allies operate a smuggling network that crosses hundreds of miles and at least four borders as part of an effort to broaden Palestinian military capabilities beyond Hamas.</content>
+    <link href="https://www.wsj.com/articles/iran-weapons-west-bank-israel-war-8bf12d1f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
