@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-25T06:14:59Z</updated>
+  <updated>2023-10-25T07:10:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Weapons Flood Israel&#39;s West Bank, Fueling Fears of New War Front</title>
-    <updated>2023-10-25T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-25:/articles/iran-weapons-west-bank-israel-war-8bf12d1f</id>
-    <content type="html">Iran and its allies operate a smuggling network that crosses hundreds of miles and at least four borders as part of an effort to broaden Palestinian military capabilities beyond Hamas.</content>
-    <link href="https://www.wsj.com/articles/iran-weapons-west-bank-israel-war-8bf12d1f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
