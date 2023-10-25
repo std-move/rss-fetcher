@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-25T18:13:44Z</updated>
+  <updated>2023-10-25T19:08:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Hamas Fighters Trained in Iran Before Oct. 7 Attacks</title>
-    <updated>2023-10-25T16:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-25:/articles/hamas-fighters-trained-in-iran-before-oct-7-attacks-e2a8dbb9</id>
-    <content type="html">Roughly 500 Palestinian militants got specialized combat instruction at Iranian facilities as recently as September.</content>
-    <link href="https://www.wsj.com/articles/hamas-fighters-trained-in-iran-before-oct-7-attacks-e2a8dbb9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Agrees to U.S. Request to Delay Invasion of Gaza</title>
-    <updated>2023-10-25T16:41:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-25:/articles/israel-battles-on-multiple-fronts-as-conflict-risks-spreading-a5e537ec</id>
-    <content type="html">The Pentagon is rushing to deploy nearly a dozen air-defense systems to the region to bolster protection of U.S. troops from missiles and rockets.</content>
-    <link href="https://www.wsj.com/articles/israel-battles-on-multiple-fronts-as-conflict-risks-spreading-a5e537ec" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
