@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-25T14:10:33Z</updated>
+  <updated>2023-10-25T15:11:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Behind Hamas&#39;s Piecemeal Hostage Strategy</title>
+    <updated>2023-10-25T14:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-25:/articles/behind-hamass-piecemeal-hostage-strategy-ff60fa97</id>
+    <content type="html">The militant group has freed four hostages but is seeking to extract more concessions from the Israelis for the release of others.</content>
+    <link href="https://www.wsj.com/articles/behind-hamass-piecemeal-hostage-strategy-ff60fa97" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Armenia Seeks Western Support as Relations With Russia Deteriorate</title>
+    <updated>2023-10-25T14:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-25:/articles/armenia-seeks-western-support-as-relations-with-russia-deteriorate-cadce421</id>
+    <content type="html">As fears of another war grow, Armenia purchases French air defenses and says Russia failed to abide by its obligations as an ally.</content>
+    <link href="https://www.wsj.com/articles/armenia-seeks-western-support-as-relations-with-russia-deteriorate-cadce421" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Anchorage Scrambles to Get Growing Homeless Population Indoors Before Winter</title>
     <updated>2023-10-25T14:00:00Z</updated>
     <id>tag:www.wsj.com,2023-10-25:/articles/anchorage-alaska-homeless-winter-18dc73c5</id>
     <content type="html">Homelessness is up 60% in Alaska’s largest city, which is offering free one-way tickets to the Lower 48 states.</content>
     <link href="https://www.wsj.com/articles/anchorage-alaska-homeless-winter-18dc73c5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Battles on Multiple Fronts as Conflict Risks Spreading</title>
-    <updated>2023-10-25T12:37:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-25:/articles/israel-battles-on-multiple-fronts-as-conflict-risks-spreading-a5e537ec</id>
-    <content type="html">Israeli forces battled on four fronts in a fresh sign that the war with Hamas was slowly expanding to Iran-backed forces around the region.</content>
-    <link href="https://www.wsj.com/articles/israel-battles-on-multiple-fronts-as-conflict-risks-spreading-a5e537ec" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How One Hospital Made Its ER Safer for Kids</title>
-    <updated>2023-10-25T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-25:/articles/how-one-hospital-made-its-er-safer-for-kids-884307c</id>
-    <content type="html">Grand River Health’s emergency room improved its readiness to take care of children by color-coding its equipment and training staff</content>
-    <link href="https://www.wsj.com/articles/how-one-hospital-made-its-er-safer-for-kids-884307c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
