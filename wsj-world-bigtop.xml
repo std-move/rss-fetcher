@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-26T12:21:15Z</updated>
+  <updated>2023-10-26T13:13:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How to Enroll in Medicare Plans for 2024: Answers to Your Questions</title>
+    <updated>2023-10-26T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-26:/articles/enroll-medicare-2024-3a9e704d</id>
+    <content type="html">Whether you should choose traditional or Advantage—and other tips.</content>
+    <link href="https://www.wsj.com/articles/enroll-medicare-2024-3a9e704d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Mexico Begins Rescue Work After Hurricane Otis Devastates Acapulco</title>
     <updated>2023-10-26T12:19:00Z</updated>
