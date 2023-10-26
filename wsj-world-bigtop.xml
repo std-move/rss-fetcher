@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-26T15:11:20Z</updated>
+  <updated>2023-10-26T16:14:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,22 +18,6 @@
     <id>tag:www.wsj.com,2023-10-26:/articles/mexico-begins-rescue-work-after-hurricane-otis-devastates-acapulco-3d61299b</id>
     <content type="html">The Category 5 storm left at least 27 people dead and four missing amid widespread flooding and damage.</content>
     <link href="https://www.wsj.com/articles/mexico-begins-rescue-work-after-hurricane-otis-devastates-acapulco-3d61299b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Smuggling Migrants Toward the U.S. Is a Booming Business</title>
-    <updated>2023-10-26T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-26:/articles/immigration-crisis-migrant-smuggling-darien-gap-cfb40940</id>
-    <content type="html">Services to help people cross borders in Latin America have thrived on demand. “We don’t see ourselves as traffickers.”</content>
-    <link href="https://www.wsj.com/articles/immigration-crisis-migrant-smuggling-darien-gap-cfb40940" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israeli Tanks Carry Out Biggest Raid Inside Gaza Since Oct. 7 Attacks</title>
-    <updated>2023-10-26T13:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-26:/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a</id>
-    <content type="html">The military said the raid was part of preparations for “the next stages of fighting.”</content>
-    <link href="https://www.wsj.com/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
