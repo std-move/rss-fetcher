@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-26T17:10:19Z</updated>
+  <updated>2023-10-26T18:13:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Weighs Advantages, Disadvantages of Gaza Ground War</title>
-    <updated>2023-10-26T16:42:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-26:/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a</id>
-    <content type="html">A full-scale invasion threatens to pose more danger for hostages, while a delay risks demoralizing troops massed at border.</content>
-    <link href="https://www.wsj.com/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a" rel="alternate"></link>
+    <title>Manhunt Under Way After Deadly Shootings in Maine</title>
+    <updated>2023-10-26T16:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-26:/articles/manhunt-under-way-after-deadly-mass-shootings-in-maine-5410ec55</id>
+    <content type="html">At least 18 people were killed, Maine Gov. Janet Mills said. Hundreds of police officers are searching for a man identified as a suspect.</content>
+    <link href="https://www.wsj.com/articles/manhunt-under-way-after-deadly-mass-shootings-in-maine-5410ec55" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
