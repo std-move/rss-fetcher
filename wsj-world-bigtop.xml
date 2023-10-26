@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-26T11:09:00Z</updated>
+  <updated>2023-10-26T12:21:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Mexico Begins Rescue Work After Hurricane Otis Devastates Acapulco</title>
+    <updated>2023-10-26T12:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-26:/articles/mexico-begins-rescue-work-after-hurricane-otis-devastates-acapulco-3d61299b</id>
+    <content type="html">The most powerful hurricane to hit Mexico’s Pacific coast cut off land access, ripped into buildings and disrupted communications, isolating the popular beach resort. </content>
+    <link href="https://www.wsj.com/articles/mexico-begins-rescue-work-after-hurricane-otis-devastates-acapulco-3d61299b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Israeli Tanks Carry Out Biggest Raid Inside Gaza Since Oct. 7 Attacks</title>
-    <updated>2023-10-26T10:02:00Z</updated>
+    <updated>2023-10-26T12:07:00Z</updated>
     <id>tag:www.wsj.com,2023-10-26:/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a</id>
     <content type="html">The military said the raid was part of preparations for “the next stages of fighting.”</content>
     <link href="https://www.wsj.com/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a" rel="alternate"></link>
