@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-26T21:09:43Z</updated>
+  <updated>2023-10-26T22:10:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Manhunt Drags On After Maine Shootings Leave 18 Dead</title>
-    <updated>2023-10-26T20:56:00Z</updated>
+    <updated>2023-10-26T22:02:00Z</updated>
     <id>tag:www.wsj.com,2023-10-26:/articles/manhunt-under-way-after-deadly-mass-shootings-in-maine-5410ec55</id>
     <content type="html">The state’s governor said 13 more were injured in the two shootings in Lewiston, at a restaurant and bowling alley.</content>
     <link href="https://www.wsj.com/articles/manhunt-under-way-after-deadly-mass-shootings-in-maine-5410ec55" rel="alternate"></link>
@@ -14,9 +14,9 @@
   </entry>
   <entry>
     <title>Western Allies Urge Caution as Israel Moves Closer to Ground Invasion</title>
-    <updated>2023-10-26T20:51:00Z</updated>
+    <updated>2023-10-26T21:19:00Z</updated>
     <id>tag:www.wsj.com,2023-10-26:/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a</id>
-    <content type="html">Planned action could endanger hostages, cause more deaths, but a delay risks demoralizing troops massed at border.</content>
+    <content type="html">Planned action could endanger hostages and cause more deaths, but a delay risks demoralizing troops massed at border.</content>
     <link href="https://www.wsj.com/articles/israeli-tanks-carry-out-biggest-raid-inside-gaza-since-oct-7-attacks-60eb042a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
