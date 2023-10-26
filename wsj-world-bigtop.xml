@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-26T00:50:10Z</updated>
+  <updated>2023-10-26T01:43:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Agrees to U.S. Request to Delay Invasion of Gaza</title>
+    <updated>2023-10-26T01:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-26:/articles/israel-battles-on-multiple-fronts-as-conflict-risks-spreading-a5e537ec</id>
+    <content type="html">The Pentagon is rushing to deploy nearly a dozen air-defense systems to the region to bolster protection of U.S. troops from missiles and rockets.</content>
+    <link href="https://www.wsj.com/articles/israel-battles-on-multiple-fronts-as-conflict-risks-spreading-a5e537ec" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
