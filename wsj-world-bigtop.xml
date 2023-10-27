@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-27T02:17:22Z</updated>
+  <updated>2023-10-27T03:11:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Gaza Hospitals, Shelters Cut Back on Services as Fuel Runs Short</title>
+    <updated>2023-10-27T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-27:/articles/gaza-hospitals-shelters-cut-back-on-services-as-fuel-runs-short-051d8fd2</id>
+    <content type="html">Israeli officials say Hamas has enough fuel but isn’t distributing it to Palestinian civilians.</content>
+    <link href="https://www.wsj.com/articles/gaza-hospitals-shelters-cut-back-on-services-as-fuel-runs-short-051d8fd2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Manhunt Drags On After Maine Shootings Leave 18 Dead</title>
     <updated>2023-10-27T00:24:00Z</updated>
     <id>tag:www.wsj.com,2023-10-27:/articles/manhunt-under-way-after-deadly-mass-shootings-in-maine-5410ec55</id>
     <content type="html">The state’s governor said 13 more were injured in the two shootings in Lewiston, at a restaurant and a bowling alley.</content>
     <link href="https://www.wsj.com/articles/manhunt-under-way-after-deadly-mass-shootings-in-maine-5410ec55" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Maine Shooting Suspect Robert Card Heard Voices, Received Mental-Health Care Before Massacre</title>
-    <updated>2023-10-26T22:35:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-26:/articles/maine-shooting-suspect-received-mental-health-care-over-summer-heard-voices-abee7e87</id>
-    <content type="html">The suspect in the shootings Wednesday that killed 18 in Maine received inpatient psychiatric care this past summer, according to his sister-in-law.</content>
-    <link href="https://www.wsj.com/articles/maine-shooting-suspect-received-mental-health-care-over-summer-heard-voices-abee7e87" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
