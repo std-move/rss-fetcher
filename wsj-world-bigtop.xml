@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-27T04:13:21Z</updated>
+  <updated>2023-10-27T05:10:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Gaza Hospitals, Shelters Cut Back on Services as Fuel Runs Short</title>
+    <updated>2023-10-27T04:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-27:/articles/gaza-hospitals-shelters-cut-back-on-services-as-fuel-runs-short-051d8fd2</id>
+    <content type="html">Israeli officials say Hamas has enough fuel but isn’t distributing it to Palestinian civilians.</content>
+    <link href="https://www.wsj.com/articles/gaza-hospitals-shelters-cut-back-on-services-as-fuel-runs-short-051d8fd2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
