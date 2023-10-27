@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-27T14:09:59Z</updated>
+  <updated>2023-10-27T15:10:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>U.S. Strikes Syrian Militias as Israel Makes Fresh Incursion Into Gaza</title>
-    <updated>2023-10-27T13:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-27:/articles/u-s-strikes-syrian-militias-as-israel-makes-fresh-incursion-into-gaza-6ac97a1f</id>
-    <content type="html">The U.S. strikes were the first American response to what officials said were a number of attacks against U.S. personnel and facilities in Iraq and Syria by Iranian-backed militias.</content>
-    <link href="https://www.wsj.com/articles/u-s-strikes-syrian-militias-as-israel-makes-fresh-incursion-into-gaza-6ac97a1f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Manhunt for Shooting Suspect Turns Maine&#39;s Second Largest City Into Ghost Town</title>
-    <updated>2023-10-27T12:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-27:/articles/lewiston-maine-shooting-ghost-town-b9e89bb4</id>
-    <content type="html">Even the 7-Eleven closed amid shelter-in-place orders. The sole named suspect is still at large.</content>
-    <link href="https://www.wsj.com/articles/lewiston-maine-shooting-ghost-town-b9e89bb4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
