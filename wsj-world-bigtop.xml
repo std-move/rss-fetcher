@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-27T21:09:12Z</updated>
+  <updated>2023-10-27T22:10:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Maine Manhunt Enters Third Day as Authorities Search River</title>
+    <updated>2023-10-27T21:47:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-27:/articles/maine-shooting-manhunt-third-day-a335220d</id>
+    <content type="html">The suspect, Robert Card, remains at large after 18 people were killed in Lewiston.</content>
+    <link href="https://www.wsj.com/articles/maine-shooting-manhunt-third-day-a335220d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Manhunt for Shooting Suspect Turns Maine&#39;s Second-Largest City Into Ghost Town</title>
+    <updated>2023-10-27T21:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-27:/articles/lewiston-maine-shooting-ghost-town-b9e89bb4</id>
+    <content type="html">Even the 7-Eleven closed amid shelter-in-place orders. The sole named suspect is still at large.</content>
+    <link href="https://www.wsj.com/articles/lewiston-maine-shooting-ghost-town-b9e89bb4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
     <updated>2023-10-27T20:46:00Z</updated>
@@ -18,14 +34,6 @@
     <id>tag:www.wsj.com,2023-10-27:/articles/u-s-strikes-syrian-militias-as-israel-makes-fresh-incursion-into-gaza-6ac97a1f</id>
     <content type="html">The Israeli army said it was expanding its ground operations in the Gaza Strip in its largest operation yet ahead of an invasion intended to end 16 years of Hamas rule, while the strip came under a nearly complete communications blackout.</content>
     <link href="https://www.wsj.com/articles/u-s-strikes-syrian-militias-as-israel-makes-fresh-incursion-into-gaza-6ac97a1f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Maine Manhunt Enters Third Day as Authorities Search River</title>
-    <updated>2023-10-27T20:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-27:/articles/maine-shooting-manhunt-third-day-a335220d</id>
-    <content type="html">The suspect, Robert Card, remains at large after 18 people were killed in Lewiston.</content>
-    <link href="https://www.wsj.com/articles/maine-shooting-manhunt-third-day-a335220d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
