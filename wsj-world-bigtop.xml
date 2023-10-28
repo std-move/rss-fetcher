@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-28T11:08:22Z</updated>
+  <updated>2023-10-28T12:18:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Says It Has Killed One of the Planners of Oct. 7 Attack</title>
+    <title>Americans Stuck in Gaza. &#39;Are We U.S. Citizens or Not?&#39;</title>
+    <updated>2023-10-28T11:50:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-28:/articles/americans-stuck-in-gaza-are-we-u-s-citizens-or-not-ffdb4ee9</id>
+    <content type="html">Ramped up Israeli bombing is jeopardizing efforts to evacuate the hundreds of American citizens stranded in Gaza.</content>
+    <link href="https://www.wsj.com/articles/americans-stuck-in-gaza-are-we-u-s-citizens-or-not-ffdb4ee9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israel Says It Has Killed a Planner of Oct. 7 Attack</title>
     <updated>2023-10-28T10:29:00Z</updated>
     <id>tag:www.wsj.com,2023-10-28:/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758</id>
-    <content type="html">After an intense wave of overnight strikes in Gaza Strip, Israel says its ground forces continued to fight Hamas.</content>
+    <content type="html">Israel’s military said its ground forces continued to fight inside Gaza after an intense wave of airstrikes and ground raids.</content>
     <link href="https://www.wsj.com/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
