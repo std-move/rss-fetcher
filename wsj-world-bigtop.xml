@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-28T20:10:22Z</updated>
+  <updated>2023-10-28T21:08:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Faces Pressure on Casualties, Hostages in Gaza as It Pursues Hamas</title>
-    <updated>2023-10-28T17:34:00Z</updated>
+    <title>Netanyahu Announces Second Phase of Gaza Operations</title>
+    <updated>2023-10-28T20:15:00Z</updated>
     <id>tag:www.wsj.com,2023-10-28:/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758</id>
-    <content type="html">Airstrikes and ground raids, which have effectively cut off all communications in the enclave, have deepened fears about the high cost borne by civilians in Gaza.</content>
+    <content type="html">In his first pubic remarks since Israel expanded its ground operations in Gaza, where all communications have been essentially cut off, the prime minister called the conflict “our second War of Independence.”</content>
     <link href="https://www.wsj.com/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
