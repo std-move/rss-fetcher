@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-27T23:10:09Z</updated>
+  <updated>2023-10-28T00:49:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israeli Army Expands Ground Operations as U.S. Pushes for Pause</title>
-    <updated>2023-10-27T22:29:00Z</updated>
+    <updated>2023-10-27T23:41:00Z</updated>
     <id>tag:www.wsj.com,2023-10-27:/articles/u-s-strikes-syrian-militias-as-israel-makes-fresh-incursion-into-gaza-6ac97a1f</id>
     <content type="html">Israel said it was increasing ground raids and hitting Gaza with intense airstrikes, while Washington called for a temporary halt in the fighting to allow for hostage releases.</content>
     <link href="https://www.wsj.com/articles/u-s-strikes-syrian-militias-as-israel-makes-fresh-incursion-into-gaza-6ac97a1f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Maine Shooting Victims Include High School Freshman, Couple in Their 70s</title>
+    <updated>2023-10-27T23:20:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-27:/articles/maine-shooting-manhunt-third-day-a335220d</id>
+    <content type="html">The suspect remained at large. Authorities lifted a shelter-in-place order for Lewiston, where the rampage occurred, and neighboring towns.</content>
+    <link href="https://www.wsj.com/articles/maine-shooting-manhunt-third-day-a335220d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-10-27:/articles/lewiston-maine-shooting-ghost-town-b9e89bb4</id>
     <content type="html">Even the 7-Eleven closed amid shelter-in-place orders. The sole named suspect is still at large.</content>
     <link href="https://www.wsj.com/articles/lewiston-maine-shooting-ghost-town-b9e89bb4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Maine Manhunt Enters Third Day as Authorities Search River</title>
-    <updated>2023-10-27T21:47:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-27:/articles/maine-shooting-manhunt-third-day-a335220d</id>
-    <content type="html">The suspect, Robert Card, remains at large after 18 people were killed in Lewiston.</content>
-    <link href="https://www.wsj.com/articles/maine-shooting-manhunt-third-day-a335220d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
