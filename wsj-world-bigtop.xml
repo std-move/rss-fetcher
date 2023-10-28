@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-28T22:09:26Z</updated>
+  <updated>2023-10-28T23:10:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
-    <updated>2023-10-28T21:52:00Z</updated>
+    <updated>2023-10-28T22:17:00Z</updated>
     <id>tag:www.wsj.com,2023-10-28:/articles/hamas-hostages-israel-gaza-41432124</id>
     <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
     <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
@@ -14,18 +14,10 @@
   </entry>
   <entry>
     <title>Netanyahu Announces Second Phase of Gaza Operations</title>
-    <updated>2023-10-28T20:15:00Z</updated>
+    <updated>2023-10-28T22:05:00Z</updated>
     <id>tag:www.wsj.com,2023-10-28:/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758</id>
     <content type="html">Prime minister calls conflict with Hamas its ’second War of Independence,” as Israel’s expanded ground operations in Gaza effectively cut all communications in the enclave.</content>
     <link href="https://www.wsj.com/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Palestinian Death Statistics Remain a Subject of Controversy</title>
-    <updated>2023-10-28T13:47:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-28:/articles/palestinian-death-statistics-doubted-by-the-u-s-remain-a-subject-of-controversy-90ead302</id>
-    <content type="html">Three weeks into Israel’s massive bombing campaign in the Gaza Strip, the exact scope of Palestinian casualties has become yet another controversy after President Biden questioned statistics published by the Hamas-run Gaza health authorities.</content>
-    <link href="https://www.wsj.com/articles/palestinian-death-statistics-doubted-by-the-u-s-remain-a-subject-of-controversy-90ead302" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
