@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-28T13:11:17Z</updated>
+  <updated>2023-10-28T14:08:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Palestinian Death Statistics Remain a Subject of Controversy</title>
+    <updated>2023-10-28T13:47:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-28:/articles/palestinian-death-statistics-doubted-by-the-u-s-remain-a-subject-of-controversy-90ead302</id>
+    <content type="html">Three weeks into Israel’s massive bombing campaign in the Gaza Strip, the exact scope of Palestinian casualties has become yet another controversy after President Biden questioned statistics published by the Hamas-run Gaza health authorities.</content>
+    <link href="https://www.wsj.com/articles/palestinian-death-statistics-doubted-by-the-u-s-remain-a-subject-of-controversy-90ead302" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel Says It Has Killed a Planner of Oct. 7 Attack</title>
     <updated>2023-10-28T12:40:00Z</updated>
