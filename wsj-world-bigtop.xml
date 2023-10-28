@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-28T10:10:20Z</updated>
+  <updated>2023-10-28T11:08:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Says It Has Killed One of the Planners of Oct. 7 Attack</title>
+    <updated>2023-10-28T10:29:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-28:/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758</id>
+    <content type="html">After an intense wave of overnight strikes in Gaza Strip, Israel says its ground forces continued to fight Hamas.</content>
+    <link href="https://www.wsj.com/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
