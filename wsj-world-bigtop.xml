@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-29T11:08:20Z</updated>
+  <updated>2023-10-29T12:19:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
-    <updated>2023-10-28T22:17:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-28:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <title>Israeli Ground Operation Pushes Deeper Into Gaza</title>
+    <updated>2023-10-29T11:58:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-29:/articles/israeli-ground-operation-pushes-deeper-into-gaza-a22739e6</id>
+    <content type="html">Israeli soldiers suffered injuries in clashes inside the strip , while thousands of people trapped in the territory raided United Nations food warehouses.</content>
+    <link href="https://www.wsj.com/articles/israeli-ground-operation-pushes-deeper-into-gaza-a22739e6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
