@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-29T23:10:13Z</updated>
+  <updated>2023-10-30T00:51:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israeli Ground Operation Pushes Deeper Into Gaza</title>
+    <updated>2023-10-29T23:53:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-29:/articles/israeli-ground-operation-pushes-deeper-into-gaza-a22739e6</id>
+    <content type="html">Under pressure from U.S., Israel restores communications to the strip.</content>
+    <link href="https://www.wsj.com/articles/israeli-ground-operation-pushes-deeper-into-gaza-a22739e6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>&#39;Friends&#39; Star Matthew Perry Dies at 54</title>
     <updated>2023-10-29T21:40:00Z</updated>
     <id>tag:www.wsj.com,2023-10-29:/articles/friends-star-matthew-perry-dies-at-54-1e7d5716</id>
     <content type="html">The actor shot to fame as Chandler Bing on the popular ’90s sitcom.</content>
     <link href="https://www.wsj.com/articles/friends-star-matthew-perry-dies-at-54-1e7d5716" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israeli Ground Operation Pushes Deeper Into Gaza</title>
-    <updated>2023-10-29T19:43:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-29:/articles/israeli-ground-operation-pushes-deeper-into-gaza-a22739e6</id>
-    <content type="html">Under pressure from U.S., Israel restores communications to the strip.</content>
-    <link href="https://www.wsj.com/articles/israeli-ground-operation-pushes-deeper-into-gaza-a22739e6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
