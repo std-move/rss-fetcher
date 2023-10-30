@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-30T06:15:00Z</updated>
+  <updated>2023-10-30T07:10:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Netanyahu Fights for His Political Survival</title>
-    <updated>2023-10-30T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-30:/articles/netanyahu-israel-gaza-war-political-survival-809a165d</id>
-    <content type="html">In the face of a devastating intelligence failure, a hostage crisis and the launch of a brutal, grinding war, Israel’s Prime Minister Benjamin Netanyahu struggles to rally the public to his side</content>
-    <link href="https://www.wsj.com/articles/netanyahu-israel-gaza-war-political-survival-809a165d" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
