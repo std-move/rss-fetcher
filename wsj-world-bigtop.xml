@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-30T20:11:41Z</updated>
+  <updated>2023-10-30T21:08:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Hospitals in Gaza Get Closer to Front Line in Israel&#39;s Battle to Root Out Hamas</title>
+    <updated>2023-10-30T20:06:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-30:/articles/hospitals-in-gaza-get-closer-to-front-line-in-israels-battle-to-root-out-hamas-c210091f</id>
+    <content type="html">Israel seeks to clear northern Gaza’s healthcare facilities, which are crammed with wounded and those seeking shelter from bombing.</content>
+    <link href="https://www.wsj.com/articles/hospitals-in-gaza-get-closer-to-front-line-in-israels-battle-to-root-out-hamas-c210091f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israeli Forces Make Major Advance Toward Gaza City</title>
     <updated>2023-10-30T19:54:00Z</updated>
