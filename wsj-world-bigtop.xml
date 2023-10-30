@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-30T11:09:22Z</updated>
+  <updated>2023-10-30T12:21:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,6 +10,14 @@
     <id>tag:www.wsj.com,2023-10-30:/articles/crumbling-train-bridges-are-everywhere-heres-how-one-city-got-a-railroad-to-fix-them-41f287ba</id>
     <content type="html">An independent inspection and letters from lawmakers helped Binghamton, N.Y., push Norfolk Southern to upgrade infrastructure.</content>
     <link href="https://www.wsj.com/articles/crumbling-train-bridges-are-everywhere-heres-how-one-city-got-a-railroad-to-fix-them-41f287ba" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israeli Forces Make Major Advance Toward Gaza City</title>
+    <updated>2023-10-30T10:51:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-30:/articles/israel-makes-major-advance-toward-gaza-city-2339a2b6</id>
+    <content type="html">Israeli tanks and infantry pushed into the outskirts of Gaza City and blocked one of the main roads connecting the northern part of the strip to the south, witnesses said.</content>
+    <link href="https://www.wsj.com/articles/israel-makes-major-advance-toward-gaza-city-2339a2b6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
