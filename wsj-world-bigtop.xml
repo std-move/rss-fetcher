@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-30T00:51:58Z</updated>
+  <updated>2023-10-30T01:49:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>If Some Cold Medicines Don&#39;t Work, What Should You Take for a Stuffy Nose?</title>
+    <updated>2023-10-30T01:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-30:/articles/congestion-relief-cold-and-flu-alternatives-04727330</id>
+    <content type="html">With FDA advisers determining that phenylephrine is ineffective, doctors and pharmacists recommend alternatives for congestion relief.</content>
+    <link href="https://www.wsj.com/articles/congestion-relief-cold-and-flu-alternatives-04727330" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israeli Ground Operation Pushes Deeper Into Gaza</title>
     <updated>2023-10-29T23:53:00Z</updated>
