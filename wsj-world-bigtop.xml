@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-31T21:08:58Z</updated>
+  <updated>2023-10-31T22:10:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Dozens Killed in Israeli Airstrikes in North Gaza</title>
-    <updated>2023-10-31T20:09:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-31:/articles/israel-hits-hamas-tunnels-as-ground-offensive-intensifies-09572f24</id>
-    <content type="html">The strikes hit a densely populated area north of Gaza City. The Israeli military said it was targeting Hamas infrastructure and militants, including a commander.</content>
-    <link href="https://www.wsj.com/articles/israel-hits-hamas-tunnels-as-ground-offensive-intensifies-09572f24" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Dire Warnings About Maine Gunman Didn&#39;t Stop His Rampage</title>
-    <updated>2023-10-31T19:55:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-31:/articles/maine-shooting-robert-card-warnings-3673548e</id>
-    <content type="html">Last week’s massacre illustrates how many blind spots remain in the legal and mental health systems.</content>
-    <link href="https://www.wsj.com/articles/maine-shooting-robert-card-warnings-3673548e" rel="alternate"></link>
+    <title>Hunger Spreads in Gaza as Israel Tightens Blockade</title>
+    <updated>2023-10-31T21:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-31:/articles/hunger-spreads-in-gaza-as-israel-tightens-blockade-bd767e2a</id>
+    <content type="html">Bakeries are shutting down and essential food supplies are running out due to Israel’s siege of the enclave following Hamas’s deadly Oct. 7 attack.</content>
+    <link href="https://www.wsj.com/articles/hunger-spreads-in-gaza-as-israel-tightens-blockade-bd767e2a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
