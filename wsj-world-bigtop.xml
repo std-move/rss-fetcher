@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-10-31T14:10:36Z</updated>
+  <updated>2023-10-31T15:11:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Hits Hamas Tunnels as Ground Offensive Intensifies</title>
+    <updated>2023-10-31T14:49:00Z</updated>
+    <id>tag:www.wsj.com,2023-10-31:/articles/israel-hits-hamas-tunnels-as-ground-offensive-intensifies-09572f24</id>
+    <content type="html">The Israeli military said it struck around 300 targets in Gaza over the past day. It also hit part of the vast network of tunnels used by Hamas to move its people and equipment.</content>
+    <link href="https://www.wsj.com/articles/israel-hits-hamas-tunnels-as-ground-offensive-intensifies-09572f24" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
     <updated>2023-10-31T11:21:00Z</updated>
     <id>tag:www.wsj.com,2023-10-31:/articles/hamas-hostages-israel-gaza-41432124</id>
     <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
     <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Hits Hamas Tunnels as Ground Offensive Intensifies</title>
-    <updated>2023-10-31T11:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-10-31:/articles/israel-hits-hamas-tunnels-as-ground-offensive-intensifies-09572f24</id>
-    <content type="html">The Israeli military said it struck around 300 targets in Gaza over the past day. It also hit part of the vast network of tunnels used by Hamas to move its people and equipment.</content>
-    <link href="https://www.wsj.com/articles/israel-hits-hamas-tunnels-as-ground-offensive-intensifies-09572f24" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
