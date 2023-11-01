@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-01T22:09:57Z</updated>
+  <updated>2023-11-01T23:11:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Foreign Nationals Start to Leave Gaza at Egyptian Border</title>
-    <updated>2023-11-01T21:58:00Z</updated>
+    <updated>2023-11-01T22:59:00Z</updated>
     <id>tag:www.wsj.com,2023-11-01:/articles/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab</id>
     <content type="html">More than 100 people, including wounded Palestinians and some Americans, crossed into Egypt from the Rafah border, Egyptian and U.S. officials say.</content>
     <link href="https://www.wsj.com/articles/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israel&#39;s New Calculus: Strike Hamas at All Costs</title>
+    <updated>2023-11-01T22:13:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-01:/articles/israels-new-calculus-strike-hamas-at-all-costs-b6b3196f</id>
+    <content type="html">The Israeli strike on the Jabalia neighborhood is the latest in a broader, more aggressive war against Hamas.</content>
+    <link href="https://www.wsj.com/articles/israels-new-calculus-strike-hamas-at-all-costs-b6b3196f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
