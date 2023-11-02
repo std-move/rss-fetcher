@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T14:10:35Z</updated>
+  <updated>2023-11-02T15:11:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>From Taxi Driver to Trump Case: Colorful New York Judge Is in the Spotlight</title>
+    <updated>2023-11-02T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/from-taxi-driver-to-trump-case-colorful-new-york-judge-is-in-the-spotlight-3faee14f</id>
+    <content type="html">Arthur Engoron, who played in a rock band and is promoting a screenplay, is deciding a civil-fraud case against the former president.</content>
+    <link href="https://www.wsj.com/articles/from-taxi-driver-to-trump-case-colorful-new-york-judge-is-in-the-spotlight-3faee14f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israeli Forces Encircle Gaza City as Americans Prepare to Leave Strip</title>
     <updated>2023-11-02T12:38:00Z</updated>
