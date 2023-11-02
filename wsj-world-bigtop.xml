@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T18:14:10Z</updated>
+  <updated>2023-11-02T19:08:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-11-02:/articles/u-s-seeks-help-from-arab-states-to-plan-gaza-governance-after-war-25310460</id>
     <content type="html">U.S. Secretary of State Antony Blinken and his deputies are speaking with Arab states about plans for governing Gaza after Israel ends military operations there.</content>
     <link href="https://www.wsj.com/articles/u-s-seeks-help-from-arab-states-to-plan-gaza-governance-after-war-25310460" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Americans Endure Anxious Wait to Leave Gaza as Israeli Forces Tighten Grip</title>
-    <updated>2023-11-02T17:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-02:/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c</id>
-    <content type="html">The U.N. says Israel’s military operation has largely severed Gaza City from the rest of the enclave, trapping hundreds of thousands.</content>
-    <link href="https://www.wsj.com/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
