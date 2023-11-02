@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T09:10:57Z</updated>
+  <updated>2023-11-02T10:11:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China Cremates Former Premier Whose Death Hovers Over Xi Jinping</title>
+    <title>China Mourns Former Premier Whose Death Hovers Over Xi Jinping</title>
     <updated>2023-11-02T08:04:00Z</updated>
     <id>tag:www.wsj.com,2023-11-02:/articles/china-cremates-former-premier-whose-death-hovers-over-xi-jinping-abb3e1cb</id>
     <content type="html">Passing of Li Keqiang has sparked an outpouring of grief that some have used as an avenue to criticize Xi’s hard-line rule.</content>
     <link href="https://www.wsj.com/articles/china-cremates-former-premier-whose-death-hovers-over-xi-jinping-abb3e1cb" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Foreign Nationals Start to Leave Gaza at Egyptian Border</title>
-    <updated>2023-11-02T06:17:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-02:/articles/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab</id>
-    <content type="html">More than 400 people, including wounded Palestinians and some Americans, crossed into Egypt from the Rafah border, Egyptian and U.S. officials say.</content>
-    <link href="https://www.wsj.com/articles/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>In West Bank, Israeli Settlers Step Up Attacks Against Palestinians</title>
-    <updated>2023-11-02T04:03:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-02:/articles/in-west-bank-israeli-settlers-step-up-attacks-against-palestinians-8104fcf4</id>
-    <content type="html">A series of shootings that left six dead and two communities divided is part of a spasm of violence.</content>
-    <link href="https://www.wsj.com/articles/in-west-bank-israeli-settlers-step-up-attacks-against-palestinians-8104fcf4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
