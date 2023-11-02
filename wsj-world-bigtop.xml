@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T17:10:28Z</updated>
+  <updated>2023-11-02T18:14:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>U.S. Seeks Help From Arab States to Plan Gaza Governance After War</title>
-    <updated>2023-11-02T15:11:00Z</updated>
+    <updated>2023-11-02T17:59:00Z</updated>
     <id>tag:www.wsj.com,2023-11-02:/articles/u-s-seeks-help-from-arab-states-to-plan-gaza-governance-after-war-25310460</id>
-    <content type="html">While some see a role for Qatar, Washington and its partners are struggling to enlist volunteers.</content>
+    <content type="html">U.S. Secretary of State Antony Blinken and his deputies are speaking with Arab states about plans for governing Gaza after Israel ends military operations there.</content>
     <link href="https://www.wsj.com/articles/u-s-seeks-help-from-arab-states-to-plan-gaza-governance-after-war-25310460" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israeli Forces Move to Cut Gaza in Two, Isolating the North</title>
-    <updated>2023-11-02T14:36:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-02:/articles/israeli-forces-move-to-cut-gaza-in-two-isolating-the-north-0bdf8c2c</id>
-    <content type="html">Troops moved closer to the center of Gaza City, backed by airstrikes and some gunfire from warships offshore.</content>
-    <link href="https://www.wsj.com/articles/israeli-forces-move-to-cut-gaza-in-two-isolating-the-north-0bdf8c2c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pakistan Begins Deporting Afghans Who Fled Taliban</title>
-    <updated>2023-11-02T14:18:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-02:/articles/pakistan-begins-deporting-afghans-who-fled-taliban-085b5842</id>
-    <content type="html">Pakistan started rounding up tens of thousands of undocumented Afghans for deportation back to the country they fled, prompting fears that some awaiting resettlement to the U.S. could be swept up. </content>
-    <link href="https://www.wsj.com/articles/pakistan-begins-deporting-afghans-who-fled-taliban-085b5842" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
-    <updated>2023-11-02T14:16:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-02:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <title>Americans Endure Anxious Wait to Leave Gaza as Israeli Forces Tighten Grip</title>
+    <updated>2023-11-02T17:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c</id>
+    <content type="html">The U.N. says Israel’s military operation has largely severed Gaza City from the rest of the enclave, trapping hundreds of thousands.</content>
+    <link href="https://www.wsj.com/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
