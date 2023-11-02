@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T06:14:37Z</updated>
+  <updated>2023-11-02T07:11:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Foreign Nationals Start to Leave Gaza at Egyptian Border</title>
+    <updated>2023-11-02T06:17:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab</id>
+    <content type="html">More than 400 people, including wounded Palestinians and some Americans, crossed into Egypt from the Rafah border, Egyptian and U.S. officials say.</content>
+    <link href="https://www.wsj.com/articles/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In West Bank, Israeli Settlers Step Up Attacks Against Palestinians</title>
     <updated>2023-11-02T04:03:00Z</updated>
