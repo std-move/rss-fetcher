@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T03:11:48Z</updated>
+  <updated>2023-11-02T04:13:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In West Bank, Israeli Settlers Step Up Attacks Against Palestinians</title>
+    <updated>2023-11-02T04:03:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/in-west-bank-israeli-settlers-step-up-attacks-against-palestinians-8104fcf4</id>
+    <content type="html">A series of shootings that left six dead and two communities divided is part of a spasm of violence.</content>
+    <link href="https://www.wsj.com/articles/in-west-bank-israeli-settlers-step-up-attacks-against-palestinians-8104fcf4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Italy&#39;s Rumbling Supervolcano Has Half a Million Residents on Edge</title>
+    <updated>2023-11-02T04:03:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/italys-rumbling-supervolcano-has-half-a-million-residents-on-edge-6a1472af</id>
+    <content type="html">Campi Flegrei, not far from ill-fated Pompeii, has had 2,500 earthquakes in the past three months, a sign of volcanic activity deep underground.</content>
+    <link href="https://www.wsj.com/articles/italys-rumbling-supervolcano-has-half-a-million-residents-on-edge-6a1472af" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
