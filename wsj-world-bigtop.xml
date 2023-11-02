@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T11:09:23Z</updated>
+  <updated>2023-11-02T12:21:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Americans Set to Leave Gaza as Israeli Forces Tighten Grip</title>
-    <updated>2023-11-02T10:27:00Z</updated>
+    <title>Israeli Forces Encircle Gaza City as Americans Prepare to Leave Strip</title>
+    <updated>2023-11-02T12:07:00Z</updated>
     <id>tag:www.wsj.com,2023-11-02:/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c</id>
-    <content type="html">The U.N. says Israel’s military operation has largely severed Gaza City from the rest of the enclave, trapping hundreds of thousands.</content>
+    <content type="html">The U.N. says Israel’s military operation has largely severed the city from the rest of the enclave, trapping hundreds of thousands.</content>
     <link href="https://www.wsj.com/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Mourns Former Premier Whose Death Hovers Over Xi Jinping</title>
-    <updated>2023-11-02T08:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-02:/articles/china-cremates-former-premier-whose-death-hovers-over-xi-jinping-abb3e1cb</id>
-    <content type="html">Passing of Li Keqiang has sparked an outpouring of grief that some have used as an avenue to criticize Xi’s hard-line rule.</content>
-    <link href="https://www.wsj.com/articles/china-cremates-former-premier-whose-death-hovers-over-xi-jinping-abb3e1cb" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
