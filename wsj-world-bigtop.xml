@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T20:11:35Z</updated>
+  <updated>2023-11-02T21:09:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israeli Forces Cut Gaza in Two, Isolating North of Besieged Enclave</title>
+    <updated>2023-11-02T20:38:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/israeli-forces-move-to-cut-gaza-in-two-isolating-the-north-0bdf8c2c</id>
+    <content type="html">Troops encircled Gaza City, backed by airstrikes and some gunfire from warships offshore.</content>
+    <link href="https://www.wsj.com/articles/israeli-forces-move-to-cut-gaza-in-two-isolating-the-north-0bdf8c2c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
+    <updated>2023-11-02T20:34:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/hamas-hostages-israel-gaza-41432124</id>
+    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
