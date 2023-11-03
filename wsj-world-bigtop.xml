@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-02T23:11:27Z</updated>
+  <updated>2023-11-03T00:51:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Sam Bankman-Fried Is Convicted of Fraud in FTX Collapse</title>
+    <updated>2023-11-03T00:35:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-03:/articles/verdict-sam-bankman-fried-trial-ftx-guilty-4a54dbfe</id>
+    <content type="html">A New York federal jury found the FTX founder guilty of stealing billions of dollars from the crypto exchange’s customers.</content>
+    <link href="https://www.wsj.com/articles/verdict-sam-bankman-fried-trial-ftx-guilty-4a54dbfe" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Blinken Hopes to Ease Humanitarian Crisis in Mideast Visit</title>
+    <updated>2023-11-02T23:47:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-02:/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c</id>
+    <content type="html">Biden administration has been calling for a pause in fighting that would allow aid to flow into Gaza.</content>
+    <link href="https://www.wsj.com/articles/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
