@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-03T09:11:17Z</updated>
+  <updated>2023-11-03T10:12:06Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-11-03:/articles/pakistan-begins-deporting-afghans-who-fled-taliban-085b5842</id>
     <content type="html">Pakistan started rounding up tens of thousands of undocumented Afghans for deportation back to the country they fled, prompting fears that some awaiting resettlement to the U.S. could be swept up. </content>
     <link href="https://www.wsj.com/articles/pakistan-begins-deporting-afghans-who-fled-taliban-085b5842" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel&#39;s Quest to Identify Every Victim of Hamas Leaves Scientists Exhausted, Traumatized</title>
-    <updated>2023-11-03T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-03:/articles/israel-morgue-identify-victims-hamas-507f1f80</id>
-    <content type="html">Forensic specialists have come from around the world to work with the remains of those killed in the Oct. 7 massacre; “it doesn’t stop.”</content>
-    <link href="https://www.wsj.com/articles/israel-morgue-identify-victims-hamas-507f1f80" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
