@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-03T22:10:03Z</updated>
+  <updated>2023-11-03T23:11:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Netanyahu Rejects Calls for a Temporary Israeli Cease-Fire in Gaza</title>
-    <updated>2023-11-03T20:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-03:/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195</id>
-    <content type="html">Israel’s prime minister rejected pressure for a pause in Israel’s strikes on Hamas after Secretary of State Antony Blinken urged more actions to protect civilians in Gaza.</content>
-    <link href="https://www.wsj.com/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
