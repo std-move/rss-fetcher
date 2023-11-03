@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-03T16:14:45Z</updated>
+  <updated>2023-11-03T17:10:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Netanyahu Rejects Calls for a Temporary Ceasefire in Gaza</title>
-    <updated>2023-11-03T15:35:00Z</updated>
+    <title>Inside Jeffrey Epstein&#39;s Circle</title>
+    <updated>2023-11-03T16:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-03:/articles/inside-jeffrey-epsteins-circle-7ae25452</id>
+    <content type="html">Key articles from The Wall Street Journal’s investigation into the disgraced financier.</content>
+    <link href="https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Netanyahu Rejects Calls for a Temporary Israeli Ceasefire in Gaza</title>
+    <updated>2023-11-03T16:13:00Z</updated>
     <id>tag:www.wsj.com,2023-11-03:/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195</id>
-    <content type="html">The U.S. and other countries propose a pause in Israeli retaliatory attacks on Hamas to allow more relief for civilians.</content>
+    <content type="html">Hezbollah’s chief says his militants will raise military pressure on Israel, as the U.S. and other countries push for a pause.</content>
     <link href="https://www.wsj.com/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
