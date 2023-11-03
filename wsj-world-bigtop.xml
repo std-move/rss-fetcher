@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-03T11:09:33Z</updated>
+  <updated>2023-11-03T12:21:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Pakistan Begins Deporting Afghans Who Fled Taliban</title>
-    <updated>2023-11-03T09:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-03:/articles/pakistan-begins-deporting-afghans-who-fled-taliban-085b5842</id>
-    <content type="html">Pakistan started rounding up tens of thousands of undocumented Afghans for deportation back to the country they fled, prompting fears that some awaiting resettlement to the U.S. could be swept up. </content>
-    <link href="https://www.wsj.com/articles/pakistan-begins-deporting-afghans-who-fled-taliban-085b5842" rel="alternate"></link>
+    <title>Israel Faces Growing International Pressure to Pause Gaza Strikes</title>
+    <updated>2023-11-03T11:51:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-03:/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195</id>
+    <content type="html">U.S. Secretary of State Antony Blinken, returning to Israel, is expected to propose a break in fighting to allow more humanitarian relief.</content>
+    <link href="https://www.wsj.com/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
