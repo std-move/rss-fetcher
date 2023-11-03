@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-03T13:14:27Z</updated>
+  <updated>2023-11-03T14:10:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Blinken Meets With Israeli Leaders as Pressure Grows for Gaza Cease-Fire</title>
-    <updated>2023-11-03T12:35:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-03:/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195</id>
-    <content type="html">A growing number of countries are pushing for pause in Israeli attacks to allow more humanitarian relief.</content>
-    <link href="https://www.wsj.com/articles/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
