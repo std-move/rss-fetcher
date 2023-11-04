@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-04T16:13:09Z</updated>
+  <updated>2023-11-04T17:09:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>It&#39;s the End of Daylight-Saving Time: What to Know</title>
+    <updated>2023-11-04T16:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-04:/articles/daylight-saving-time-is-ending-what-to-know-51b8f278</id>
+    <content type="html">Americans will gain an hour this weekend as clocks fall back.</content>
+    <link href="https://www.wsj.com/articles/daylight-saving-time-is-ending-what-to-know-51b8f278" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Antony Blinken Presses Mideast Leaders For Humanitarian Pause</title>
-    <updated>2023-11-04T16:08:00Z</updated>
+    <updated>2023-11-04T16:28:00Z</updated>
     <id>tag:www.wsj.com,2023-11-04:/articles/israel-says-corridor-is-opening-for-northern-gazans-to-flee-south-a40e4822</id>
     <content type="html">Israel’s military says it will allow passage to southern Gaza for three hours.</content>
     <link href="https://www.wsj.com/articles/israel-says-corridor-is-opening-for-northern-gazans-to-flee-south-a40e4822" rel="alternate"></link>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-11-04:/articles/u-s-and-israel-split-over-gaza-goals-muddying-wars-endgame-9055c329</id>
     <content type="html">President Biden and Israeli Prime Minister Benjamin Netanyahu have different long-term aims for the region’s future.</content>
     <link href="https://www.wsj.com/articles/u-s-and-israel-split-over-gaza-goals-muddying-wars-endgame-9055c329" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>It&#39;s the End of Daylight-Saving Time: What to Know</title>
-    <updated>2023-11-04T12:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-04:/articles/daylight-saving-time-is-ending-what-to-know-51b8f278</id>
-    <content type="html">Americans will gain an hour this weekend as clocks fall back.</content>
-    <link href="https://www.wsj.com/articles/daylight-saving-time-is-ending-what-to-know-51b8f278" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
