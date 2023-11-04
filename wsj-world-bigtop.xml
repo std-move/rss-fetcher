@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-04T19:08:23Z</updated>
+  <updated>2023-11-04T20:10:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-11-04:/articles/daylight-saving-time-is-ending-what-to-know-51b8f278</id>
     <content type="html">Americans will gain an hour this weekend as clocks fall back.</content>
     <link href="https://www.wsj.com/articles/daylight-saving-time-is-ending-what-to-know-51b8f278" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Antony Blinken Presses For Humanitarian Pause During Mideast Tour</title>
-    <updated>2023-11-04T16:28:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-04:/articles/israel-says-corridor-is-opening-for-northern-gazans-to-flee-south-a40e4822</id>
-    <content type="html">Israel’s military says it will allow passage to southern Gaza for three hours.</content>
-    <link href="https://www.wsj.com/articles/israel-says-corridor-is-opening-for-northern-gazans-to-flee-south-a40e4822" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
