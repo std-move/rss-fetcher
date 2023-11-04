@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-04T13:11:36Z</updated>
+  <updated>2023-11-04T14:09:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -34,14 +34,6 @@
     <id>tag:www.wsj.com,2023-11-04:/articles/gaza-becomes-a-death-trap-for-children-as-israeli-strikes-intensify-ed07c8e6</id>
     <content type="html">About 40% of those killed by Israeli strikes so far have been under 18, according to Hamas-controlled Gaza health authorities.</content>
     <link href="https://www.wsj.com/articles/gaza-becomes-a-death-trap-for-children-as-israeli-strikes-intensify-ed07c8e6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Migrants Are Flocking to the U.S. From All Over</title>
-    <updated>2023-11-04T09:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-04:/articles/migrants-are-flocking-to-the-u-s-from-all-over-the-globe-46077c09</id>
-    <content type="html">U.S. and Mexican authorities report a surge in apprehensions of people from Asia and Africa as human smugglers widen their reach.</content>
-    <link href="https://www.wsj.com/articles/migrants-are-flocking-to-the-u-s-from-all-over-the-globe-46077c09" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
