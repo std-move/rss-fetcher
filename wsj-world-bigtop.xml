@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-04T11:08:54Z</updated>
+  <updated>2023-11-04T12:19:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Says Corridor Opening for Northern Gazans to Flee South</title>
+    <updated>2023-11-04T12:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-04:/articles/israel-says-corridor-is-opening-for-northern-gazans-to-flee-south-a40e4822</id>
+    <content type="html">The three-hour window follows calls from the U.S. for a ‘humanitarian pause’ in the conflict, which the United Nations said has brought its operations in Gaza to the brink of collapse.</content>
+    <link href="https://www.wsj.com/articles/israel-says-corridor-is-opening-for-northern-gazans-to-flee-south-a40e4822" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>It&#39;s the End of Daylight-Saving Time: What to Know</title>
+    <updated>2023-11-04T12:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-04:/articles/daylight-saving-time-is-ending-what-to-know-51b8f278</id>
+    <content type="html">Americans will gain an hour this weekend as clocks fall back.</content>
+    <link href="https://www.wsj.com/articles/daylight-saving-time-is-ending-what-to-know-51b8f278" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Gaza Becomes a Death Trap for Children</title>
+    <updated>2023-11-04T11:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-04:/articles/gaza-becomes-a-death-trap-for-children-as-israeli-strikes-intensify-ed07c8e6</id>
+    <content type="html">About 40% of those killed by Israeli strikes so far have been under 18, according to Hamas-controlled Gaza health authorities.</content>
+    <link href="https://www.wsj.com/articles/gaza-becomes-a-death-trap-for-children-as-israeli-strikes-intensify-ed07c8e6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Migrants Are Flocking to the U.S. From All Over</title>
     <updated>2023-11-04T09:30:00Z</updated>
     <id>tag:www.wsj.com,2023-11-04:/articles/migrants-are-flocking-to-the-u-s-from-all-over-the-globe-46077c09</id>
     <content type="html">U.S. and Mexican authorities report a surge in apprehensions of people from Asia and Africa as human smugglers widen their reach.</content>
     <link href="https://www.wsj.com/articles/migrants-are-flocking-to-the-u-s-from-all-over-the-globe-46077c09" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Has Deadlier Weapons Than the Last Time Israel Invaded Gaza</title>
-    <updated>2023-11-04T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-04:/articles/hamas-weapons-israel-invasion-gaza-aff4247d</id>
-    <content type="html">Militant group returned in force with drones, homegrown missiles and fortified tunnels; “they are armed to the teeth.”</content>
-    <link href="https://www.wsj.com/articles/hamas-weapons-israel-invasion-gaza-aff4247d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
