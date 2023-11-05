@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-05T11:08:30Z</updated>
+  <updated>2023-11-05T12:19:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2023-11-05:/articles/china-unleashes-crackdown-on-pig-butchering-it-isnt-what-you-think-d623ada3</id>
     <content type="html">Beijing is pursuing scam mills that operate out of secretive, dystopian compounds and swindle people worldwide.</content>
     <link href="https://www.wsj.com/articles/china-unleashes-crackdown-on-pig-butchering-it-isnt-what-you-think-d623ada3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>It&#39;s the End of Daylight-Saving Time: What to Know</title>
-    <updated>2023-11-04T22:10:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-04:/articles/daylight-saving-time-is-ending-what-to-know-51b8f278</id>
-    <content type="html">Americans will gain an hour this weekend as clocks fall back.</content>
-    <link href="https://www.wsj.com/articles/daylight-saving-time-is-ending-what-to-know-51b8f278" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
