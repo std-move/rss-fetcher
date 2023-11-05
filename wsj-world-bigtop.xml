@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-05T09:10:00Z</updated>
+  <updated>2023-11-05T10:10:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>A Deadly Strike on a Ukrainian Village Was an Inside Job. Who Tipped Off the Russians?</title>
-    <updated>2023-11-05T04:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-05:/articles/betrayal-strikes-heart-of-ukrainian-village-97cadea2</id>
-    <content type="html">A missile attack on a cafe wiped out a fifth of the residents and raised suspicions it was initiated by neighbors who backed the Russian invasion.</content>
-    <link href="https://www.wsj.com/articles/betrayal-strikes-heart-of-ukrainian-village-97cadea2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Israel Steps Up West Bank Arrests in Wake of Hamas Attacks</title>
     <updated>2023-11-05T04:01:00Z</updated>
     <id>tag:www.wsj.com,2023-11-05:/articles/israel-steps-up-arrests-in-the-west-bank-in-wake-of-hamas-attacks-1d7f5c92</id>
     <content type="html">Drone attacks and aerial assaults are being employed more frequently in the occupied Palestinian territory.</content>
     <link href="https://www.wsj.com/articles/israel-steps-up-arrests-in-the-west-bank-in-wake-of-hamas-attacks-1d7f5c92" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>A Deadly Strike on a Ukrainian Village Was an Inside Job. Who Tipped Off the Russians?</title>
+    <updated>2023-11-05T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-05:/articles/betrayal-strikes-heart-of-ukrainian-village-97cadea2</id>
+    <content type="html">A missile attack on a cafe wiped out a fifth of the residents and raised suspicions it was initiated by neighbors who backed the Russian invasion.</content>
+    <link href="https://www.wsj.com/articles/betrayal-strikes-heart-of-ukrainian-village-97cadea2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
