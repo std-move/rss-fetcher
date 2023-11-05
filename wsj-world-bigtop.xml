@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-05T17:09:10Z</updated>
+  <updated>2023-11-05T18:12:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Blinken Assures Palestinians of Aid Amid Israel-Hamas War</title>
-    <updated>2023-11-05T16:37:00Z</updated>
+    <updated>2023-11-05T17:37:00Z</updated>
     <id>tag:www.wsj.com,2023-11-05:/articles/blinken-seeks-to-balance-aid-for-palestinian-civilians-against-israeli-self-defense-b2c442ec</id>
     <content type="html">In a visit to the West Bank, he met with the Palestinian Authority leader, who called for an immediate cease-fire in Israel’s bombardment of Gaza.</content>
     <link href="https://www.wsj.com/articles/blinken-seeks-to-balance-aid-for-palestinian-civilians-against-israeli-self-defense-b2c442ec" rel="alternate"></link>
