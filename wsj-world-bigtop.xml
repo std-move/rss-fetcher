@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-06T02:22:58Z</updated>
+  <updated>2023-11-06T03:12:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Arab Citizens of Israel Say They Face Growing Backlash</title>
+    <updated>2023-11-06T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-06:/articles/arab-citizens-of-israel-say-they-face-growing-backlash-4984fd60</id>
+    <content type="html">Israel’s Arab population says it is being found guilty by association, even while counting its members among victims of Hamas’s assault.</content>
+    <link href="https://www.wsj.com/articles/arab-citizens-of-israel-say-they-face-growing-backlash-4984fd60" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Blinken Rushes to Reassure Anxious Arab Allies in Surprise Trips to West Bank, Iraq</title>
     <updated>2023-11-05T22:52:00Z</updated>
