@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-06T04:13:48Z</updated>
+  <updated>2023-11-06T05:11:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China Tries to Lure Its Unemployed Youth to the Countryside</title>
+    <updated>2023-11-06T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-06:/articles/china-youth-unemployed-xi-mao-countryside-075bbd46</id>
+    <content type="html">Communist Party seeks to deploy hundreds of thousands to rural communities, aiming to keep young people busy while city jobs are scarce</content>
+    <link href="https://www.wsj.com/articles/china-youth-unemployed-xi-mao-countryside-075bbd46" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Workers Who Make Your Clothes Want Higher Pay. Who Should Pony Up?</title>
     <updated>2023-11-06T04:00:00Z</updated>
     <id>tag:www.wsj.com,2023-11-06:/articles/the-workers-who-make-your-clothes-want-higher-pay-who-should-pony-up-0a585dcc</id>
     <content type="html">The armies of people who make clothes for Western brands are protesting for better wages, adding pressure to the era of ultracheap clothes on which many companies rely.</content>
     <link href="https://www.wsj.com/articles/the-workers-who-make-your-clothes-want-higher-pay-who-should-pony-up-0a585dcc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Arab Citizens of Israel Say They Face Growing Backlash</title>
-    <updated>2023-11-06T03:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-06:/articles/arab-citizens-of-israel-say-they-face-growing-backlash-4984fd60</id>
-    <content type="html">Israel’s Arab population says it is being found guilty by association, even while counting its members among victims of Hamas’s assault.</content>
-    <link href="https://www.wsj.com/articles/arab-citizens-of-israel-say-they-face-growing-backlash-4984fd60" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
