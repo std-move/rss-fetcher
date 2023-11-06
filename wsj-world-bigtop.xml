@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-06T06:15:13Z</updated>
+  <updated>2023-11-06T07:10:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -16,7 +16,7 @@
     <title>China Tries to Lure Its Unemployed Youth to the Countryside</title>
     <updated>2023-11-06T05:01:00Z</updated>
     <id>tag:www.wsj.com,2023-11-06:/articles/china-youth-unemployed-xi-mao-countryside-075bbd46</id>
-    <content type="html">Communist Party seeks to deploy hundreds of thousands to rural communities, aiming to keep young people busy while city jobs are scarce</content>
+    <content type="html">The Communist Party seeks to deploy hundreds of thousands to rural communities, aiming to keep young people busy while city jobs are scarce.</content>
     <link href="https://www.wsj.com/articles/china-youth-unemployed-xi-mao-countryside-075bbd46" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
