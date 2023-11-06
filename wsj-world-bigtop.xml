@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-06T17:10:07Z</updated>
+  <updated>2023-11-06T18:14:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-11-06:/articles/hamas-hostages-israel-gaza-41432124</id>
     <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
     <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Argentina&#39;s Next President Will Face an Economy in Crisis</title>
-    <updated>2023-11-06T15:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-06:/articles/argentinas-next-president-will-face-an-economy-in-crisis-35e2e15f</id>
-    <content type="html">As Argentines prepare to choose a new president later this month, the once-prosperous nation is grappling with its most debilitating economic crisis in a generation.</content>
-    <link href="https://www.wsj.com/articles/argentinas-next-president-will-face-an-economy-in-crisis-35e2e15f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
