@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-06T03:12:02Z</updated>
+  <updated>2023-11-06T04:13:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Workers Who Make Your Clothes Want Higher Pay. Who Should Pony Up?</title>
+    <updated>2023-11-06T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-06:/articles/the-workers-who-make-your-clothes-want-higher-pay-who-should-pony-up-0a585dcc</id>
+    <content type="html">The armies of people who make clothes for Western brands are protesting for better wages, adding pressure to the era of ultracheap clothes on which many companies rely.</content>
+    <link href="https://www.wsj.com/articles/the-workers-who-make-your-clothes-want-higher-pay-who-should-pony-up-0a585dcc" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Arab Citizens of Israel Say They Face Growing Backlash</title>
     <updated>2023-11-06T03:00:00Z</updated>
     <id>tag:www.wsj.com,2023-11-06:/articles/arab-citizens-of-israel-say-they-face-growing-backlash-4984fd60</id>
     <content type="html">Israel’s Arab population says it is being found guilty by association, even while counting its members among victims of Hamas’s assault.</content>
     <link href="https://www.wsj.com/articles/arab-citizens-of-israel-say-they-face-growing-backlash-4984fd60" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Blinken Rushes to Reassure Anxious Arab Allies in Surprise Trips to West Bank, Iraq</title>
-    <updated>2023-11-05T22:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-05:/articles/blinken-seeks-to-balance-aid-for-palestinian-civilians-against-israeli-self-defense-b2c442ec</id>
-    <content type="html">The U.S. secretary’s whirlwind regional tour comes at a complex and combustible moment for the Middle East.</content>
-    <link href="https://www.wsj.com/articles/blinken-seeks-to-balance-aid-for-palestinian-civilians-against-israeli-self-defense-b2c442ec" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
