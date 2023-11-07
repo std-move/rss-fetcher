@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-07T15:11:31Z</updated>
+  <updated>2023-11-07T16:14:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israeli Siege Leaves Gaza Without Clean Water</title>
+    <updated>2023-11-07T15:54:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-07:/articles/israeli-siege-leaves-gaza-without-clean-water-causing-disease-41e2ab73</id>
+    <content type="html">The situation is particularly dire in northern Gaza, the focus of military activity, where safe drinking water is no longer available.</content>
+    <link href="https://www.wsj.com/articles/israeli-siege-leaves-gaza-without-clean-water-causing-disease-41e2ab73" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
