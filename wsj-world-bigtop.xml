@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-07T03:11:33Z</updated>
+  <updated>2023-11-07T04:13:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>For Israelis Living at Gaza&#39;s Edge, Fear Pervades Daily Life</title>
+    <updated>2023-11-07T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-07:/articles/for-israelis-living-at-gazas-edge-fear-pervades-daily-life-f6c69a75</id>
+    <content type="html">Many residents of the towns that Hamas attacked on Oct. 7 now sleep in bomb shelters, avoid leaving their homes and have sent family members away.</content>
+    <link href="https://www.wsj.com/articles/for-israelis-living-at-gazas-edge-fear-pervades-daily-life-f6c69a75" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Harrowing Work of Burying Ukraine&#39;s War Dead</title>
+    <updated>2023-11-07T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-07:/articles/the-harrowing-work-of-burying-ukraines-war-dead-29d0b0ec</id>
+    <content type="html">The people who deliver dead soldiers from where they fall to where they will lie are resilient and determined despite the physical and psychological burden</content>
+    <link href="https://www.wsj.com/articles/the-harrowing-work-of-burying-ukraines-war-dead-29d0b0ec" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
