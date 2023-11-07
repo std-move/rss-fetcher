@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-06T23:10:50Z</updated>
+  <updated>2023-11-07T00:52:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Israel Deepens Push Into Gaza City</title>
-    <updated>2023-11-06T22:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-06:/articles/israeli-military-poised-for-battle-for-gaza-city-755f3702</id>
-    <content type="html">Israel pushed further into Gaza City, sending troops into an urban Hamas stronghold that is still packed with civilians after one of the most intense bombing barrages of the monthlong war.</content>
-    <link href="https://www.wsj.com/articles/israeli-military-poised-for-battle-for-gaza-city-755f3702" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
