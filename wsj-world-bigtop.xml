@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-08T16:14:42Z</updated>
+  <updated>2023-11-08T17:10:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,14 +26,6 @@
     <id>tag:www.wsj.com,2023-11-08:/articles/children-mental-health-hospitals-treatment-cfb6c797</id>
     <content type="html">Rising cases and long waits for treatment have desperate families turning to emergency departments for help. “We’re the place of last resort to mop up after the system has failed.”</content>
     <link href="https://www.wsj.com/articles/children-mental-health-hospitals-treatment-cfb6c797" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Delays in Acela Upgrade Have Cost Amtrak $140 Million…and Counting</title>
-    <updated>2023-11-08T14:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-08:/articles/delays-in-acela-upgrade-have-cost-amtrak-140-millionand-counting-902f09d8</id>
-    <content type="html">The railroad is missing out on revenue while spending millions of dollars to keep older trains in service.</content>
-    <link href="https://www.wsj.com/articles/delays-in-acela-upgrade-have-cost-amtrak-140-millionand-counting-902f09d8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
