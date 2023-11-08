@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-08T15:12:01Z</updated>
+  <updated>2023-11-08T16:14:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>India&#39;s Capital Hunkers Down for Annual Airpocalypse</title>
+    <updated>2023-11-08T15:44:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-08:/articles/indias-capital-hunkers-down-for-annual-airpocalypse-1b7b5643</id>
+    <content type="html">New Delhi’s residents are used to a blanket of smog that blots out the sky but residents are reeling more than usual this year.</content>
+    <link href="https://www.wsj.com/articles/indias-capital-hunkers-down-for-annual-airpocalypse-1b7b5643" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
+    <updated>2023-11-08T15:08:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-08:/articles/hamas-hostages-israel-gaza-41432124</id>
+    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Children in Mental-Health Crisis Surge Into Hospital E.R.s</title>
     <updated>2023-11-08T15:02:00Z</updated>
@@ -18,14 +34,6 @@
     <id>tag:www.wsj.com,2023-11-08:/articles/delays-in-acela-upgrade-have-cost-amtrak-140-millionand-counting-902f09d8</id>
     <content type="html">The railroad is missing out on revenue while spending millions of dollars to keep older trains in service.</content>
     <link href="https://www.wsj.com/articles/delays-in-acela-upgrade-have-cost-amtrak-140-millionand-counting-902f09d8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Palestinians Flee Northern Gaza as Israel Tightens Siege</title>
-    <updated>2023-11-08T13:27:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-08:/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9</id>
-    <content type="html">The United Nations says the exodus of civilians from besieged northern Gaza is accelerating amid concerns about forced displacement.</content>
-    <link href="https://www.wsj.com/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
