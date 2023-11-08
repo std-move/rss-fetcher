@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-08T10:11:48Z</updated>
+  <updated>2023-11-08T11:09:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Uruguay Reflects Latin American Drift From U.S., Turn to China</title>
+    <updated>2023-11-08T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-08:/articles/uruguay-reflects-latin-american-drift-from-u-s-turn-to-china-e4e3c8da</id>
+    <content type="html">Having tried and failed to get a free-trade deal with the U.S., Uruguay is now negotiating one with Beijing amid a Chinese charm offensive, reflecting similar situations across the region.</content>
+    <link href="https://www.wsj.com/articles/uruguay-reflects-latin-american-drift-from-u-s-turn-to-china-e4e3c8da" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Same Drug, Two Prices: Why The Higher Price Prevails</title>
+    <updated>2023-11-08T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-08:/articles/same-drug-two-prices-why-the-higher-price-prevails-d24038c8</id>
+    <content type="html">Patients are paying hundreds of dollars more for a prescription than they would have to if their health plan chose to cover a lower-priced twin.</content>
+    <link href="https://www.wsj.com/articles/same-drug-two-prices-why-the-higher-price-prevails-d24038c8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
