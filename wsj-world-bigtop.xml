@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-08T05:10:39Z</updated>
+  <updated>2023-11-08T06:14:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>China and Russia Claim Moral High Ground Over Palestinian Deaths</title>
-    <updated>2023-11-08T04:00:00Z</updated>
+    <updated>2023-11-08T05:52:00Z</updated>
     <id>tag:www.wsj.com,2023-11-08:/articles/china-and-russia-claim-moral-high-ground-over-palestinian-deaths-4ee351a5</id>
     <content type="html">The bloody war in Gaza is enabling the two repressive autocracies to harness a wave of sympathy for the Palestinians and to position themselves as champions of humanitarian values and peace.</content>
     <link href="https://www.wsj.com/articles/china-and-russia-claim-moral-high-ground-over-palestinian-deaths-4ee351a5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Pushes Back on Israel&#39;s Security Plan in Gaza After War</title>
-    <updated>2023-11-08T00:10:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-08:/articles/netanyahu-says-israel-will-control-gaza-security-indefinitely-5979ac93</id>
-    <content type="html">Israel says it intends to retain security control of Gaza for an indefinite period once its war with Hamas ends, prompting U.S. officials to stress their opposition to a reoccupation of the enclave.</content>
-    <link href="https://www.wsj.com/articles/netanyahu-says-israel-will-control-gaza-security-indefinitely-5979ac93" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
