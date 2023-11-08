@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-08T13:13:44Z</updated>
+  <updated>2023-11-08T14:10:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Palestinians Flee Northern Gaza as Israel Tightens Siege</title>
+    <updated>2023-11-08T13:27:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-08:/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9</id>
+    <content type="html">The United Nations says the exodus of civilians from besieged northern Gaza is accelerating amid concerns about forced displacement.</content>
+    <link href="https://www.wsj.com/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Russia Turns to Longtime Arms Customers to Boost War Arsenal</title>
     <updated>2023-11-08T12:40:00Z</updated>
     <id>tag:www.wsj.com,2023-11-08:/articles/russia-turns-to-longtime-arms-customers-to-boost-war-arsenal-5111bac4</id>
     <content type="html">As it seeks to replenish the huge quantity of arms being used in Ukraine, Russia has sought to retrieve crucial helicopter engines from Egypt, Brazil, Pakistan and Belarus.</content>
     <link href="https://www.wsj.com/articles/russia-turns-to-longtime-arms-customers-to-boost-war-arsenal-5111bac4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Palestinians Flee Northern Gaza as Israel Tightens Siege</title>
-    <updated>2023-11-08T11:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-08:/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9</id>
-    <content type="html">The United Nations says the exodus of civilians from besieged northern Gaza is accelerating amid concerns about forced displacement.</content>
-    <link href="https://www.wsj.com/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
