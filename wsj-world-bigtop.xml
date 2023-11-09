@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-09T14:10:16Z</updated>
+  <updated>2023-11-09T15:11:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Country That Is Helping Tens of Thousands of Migrants Head to the U.S.</title>
+    <updated>2023-11-09T15:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-09:/articles/the-country-that-is-helping-tens-of-thousands-of-migrants-head-to-the-u-s-afb838af</id>
+    <content type="html">Nicaragua’s open-border policy for U.S.-bound asylum seekers is providing a bridge for Haitians, Cubans and Africans to reach the southern border with Mexico.</content>
+    <link href="https://www.wsj.com/articles/the-country-that-is-helping-tens-of-thousands-of-migrants-head-to-the-u-s-afb838af" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>In Texas, Key Opposition to School Vouchers Is Rural and Red</title>
     <updated>2023-11-09T14:00:00Z</updated>
     <id>tag:www.wsj.com,2023-11-09:/articles/in-texas-key-opposition-to-school-vouchers-is-rural-and-red-bad31985</id>
     <content type="html">Republican Gov. Greg Abbott has called for another special legislative session after a school-choice bill failed to pass—again.</content>
     <link href="https://www.wsj.com/articles/in-texas-key-opposition-to-school-vouchers-is-rural-and-red-bad31985" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israeli Forces Advance Toward Heart of Gaza City as Humanitarian Crisis Deepens</title>
-    <updated>2023-11-09T12:09:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-09:/articles/israeli-forces-advance-toward-heart-of-gaza-city-as-humanitarian-crisis-deepens-a3332c6f</id>
-    <content type="html">Israeli troops were advancing toward the heart of Gaza City, engaging in heavy gunbattles and ratcheting up pressure on neighborhoods that have become a refuge for tens of thousands of Palestinians.</content>
-    <link href="https://www.wsj.com/articles/israeli-forces-advance-toward-heart-of-gaza-city-as-humanitarian-crisis-deepens-a3332c6f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
