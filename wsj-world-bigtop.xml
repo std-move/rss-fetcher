@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-09T13:13:31Z</updated>
+  <updated>2023-11-09T14:10:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>In Texas, Key Opposition to School Vouchers Is Rural and Red</title>
+    <updated>2023-11-09T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-09:/articles/in-texas-key-opposition-to-school-vouchers-is-rural-and-red-bad31985</id>
+    <content type="html">Republican Gov. Greg Abbott has called for another special legislative session after a school-choice bill failed to pass—again.</content>
+    <link href="https://www.wsj.com/articles/in-texas-key-opposition-to-school-vouchers-is-rural-and-red-bad31985" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israeli Forces Advance Toward Heart of Gaza City as Humanitarian Crisis Deepens</title>
     <updated>2023-11-09T12:09:00Z</updated>
