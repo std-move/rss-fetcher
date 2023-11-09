@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-09T20:11:51Z</updated>
+  <updated>2023-11-09T21:09:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israeli Forces Advance Toward Heart of Gaza City as Humanitarian Crisis Deepens</title>
-    <updated>2023-11-09T19:12:00Z</updated>
+    <title>Israeli Forces Fight Close to Gaza City&#39;s Largest Hospital</title>
+    <updated>2023-11-09T20:57:00Z</updated>
     <id>tag:www.wsj.com,2023-11-09:/articles/israeli-forces-advance-toward-heart-of-gaza-city-as-humanitarian-crisis-deepens-a3332c6f</id>
-    <content type="html">Israeli troops advanced toward the heart of Gaza City, conducting gunbattles in urban neighborhoods where tens of thousands of Palestinians were sheltering with the eyes of the world looking on.</content>
+    <content type="html">The Israeli military is pushing into an area near Gaza City’s biggest hospital, while Israeli officials said 80,000 residents traveled south Thursday, the largest movement so far in the five days since the humanitarian corridor has been opened.</content>
     <link href="https://www.wsj.com/articles/israeli-forces-advance-toward-heart-of-gaza-city-as-humanitarian-crisis-deepens-a3332c6f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
