@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-09T04:13:26Z</updated>
+  <updated>2023-11-09T05:10:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Surge and Swarm: How China&#39;s Ships Control the South China Sea</title>
-    <updated>2023-11-09T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-09:/articles/surge-and-swarm-how-chinas-ships-control-the-south-china-sea-ac8fa61c</id>
-    <content type="html">The Wall Street Journal breaks down a recent encounter to show how Beijing uses its overwhelming numbers against rivals.</content>
-    <link href="https://www.wsj.com/articles/surge-and-swarm-how-chinas-ships-control-the-south-china-sea-ac8fa61c" rel="alternate"></link>
+    <title>The Land Where Inflation Is Good News</title>
+    <updated>2023-11-09T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-09:/articles/japan-inflation-end-deflation-japanification-2851e3a3</id>
+    <content type="html">Food and energy price increases triggered by the pandemic and the Ukraine war are helping end the long, bleak era of Japanification.</content>
+    <link href="https://www.wsj.com/articles/japan-inflation-end-deflation-japanification-2851e3a3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
