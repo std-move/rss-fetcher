@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-08T23:11:10Z</updated>
+  <updated>2023-11-09T00:52:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Palestinians Flee Northern Gaza as Israel Tightens Siege</title>
-    <updated>2023-11-08T22:40:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-08:/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9</id>
-    <content type="html">The United Nations says the exodus of civilians from besieged northern Gaza is accelerating amid concerns about forced displacement.</content>
-    <link href="https://www.wsj.com/articles/palestinians-flee-northern-gaza-as-israel-tightens-siege-51f602e9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
