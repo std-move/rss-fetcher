@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T19:08:56Z</updated>
+  <updated>2023-11-10T20:11:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Races to Root Out Hamas as Calls for Gaza Cease-Fire Mount</title>
+    <updated>2023-11-10T20:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-10:/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1</id>
+    <content type="html">Israeli forces face a series of difficult decisions as they hunt for Hamas leaders and fighters.</content>
+    <link href="https://www.wsj.com/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
     <updated>2023-11-10T18:25:00Z</updated>
