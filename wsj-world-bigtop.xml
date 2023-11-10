@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T20:11:37Z</updated>
+  <updated>2023-11-10T21:09:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-11-10:/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1</id>
     <content type="html">Israeli forces face a series of difficult decisions as they hunt for Hamas leaders and fighters.</content>
     <link href="https://www.wsj.com/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What to Know.</title>
-    <updated>2023-11-10T18:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-10:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>At the Center of the Israel-Hamas War, an Advancing Army Confronts a Humanitarian Crisis</title>
-    <updated>2023-11-10T18:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-10:/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21</id>
-    <content type="html">Gaza’s Al-Shifa Hospital was sheltering masses of Palestinians when an explosion hit.</content>
-    <link href="https://www.wsj.com/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
