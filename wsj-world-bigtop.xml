@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T22:10:13Z</updated>
+  <updated>2023-11-10T23:10:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Races to Root Out Hamas as Calls for Gaza Cease-Fire Mount</title>
+    <updated>2023-11-10T23:07:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-10:/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1</id>
+    <content type="html">Israeli forces face a series of difficult decisions as they hunt for Hamas leaders and fighters.</content>
+    <link href="https://www.wsj.com/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>At the Center of the Israel-Hamas War, an Advancing Army Confronts a Humanitarian Crisis</title>
+    <updated>2023-11-10T22:45:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-10:/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21</id>
+    <content type="html">Gaza’s Al-Shifa Hospital was sheltering masses of Palestinians when an explosion hit.</content>
+    <link href="https://www.wsj.com/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
