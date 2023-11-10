@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T00:52:00Z</updated>
+  <updated>2023-11-10T01:50:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Loneliness Isn&#39;t Just Bad for Your Health---It&#39;s Deadly</title>
+    <updated>2023-11-10T01:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-10:/articles/loneliness-social-isolation-death-577009bb</id>
+    <content type="html">People who report often feeling lonely or being socially isolated are at an increased risk of death from any cause, new research suggests.</content>
+    <link href="https://www.wsj.com/articles/loneliness-social-isolation-death-577009bb" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel Says 80,000 People Left Northern Gaza Thursday</title>
     <updated>2023-11-10T00:22:00Z</updated>
