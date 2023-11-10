@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T03:11:52Z</updated>
+  <updated>2023-11-10T04:13:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China Is Making Too Much Stuff---and Other Countries Are Worried</title>
+    <updated>2023-11-10T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-10:/articles/china-is-making-too-much-stuffand-other-countries-are-worried-f949cd27</id>
+    <content type="html">The country’s factories, lacking customers, are pushing exports harder, raising new trade tensions.</content>
+    <link href="https://www.wsj.com/articles/china-is-making-too-much-stuffand-other-countries-are-worried-f949cd27" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Loneliness Isn&#39;t Just Bad for Your Health---It&#39;s Deadly</title>
     <updated>2023-11-10T01:00:00Z</updated>
     <id>tag:www.wsj.com,2023-11-10:/articles/loneliness-social-isolation-death-577009bb</id>
     <content type="html">People who report often feeling lonely or being socially isolated are at an increased risk of death from any cause, new research suggests.</content>
     <link href="https://www.wsj.com/articles/loneliness-social-isolation-death-577009bb" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Says 80,000 People Left Northern Gaza Thursday</title>
-    <updated>2023-11-10T00:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-10:/articles/israeli-forces-advance-toward-heart-of-gaza-city-as-humanitarian-crisis-deepens-a3332c6f</id>
-    <content type="html">Israeli troops advanced toward the heart of Gaza City, while Israeli officials said 80,000 residents traveled south Thursday, the largest movement so far in the five days since the humanitarian corridor was opened.</content>
-    <link href="https://www.wsj.com/articles/israeli-forces-advance-toward-heart-of-gaza-city-as-humanitarian-crisis-deepens-a3332c6f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
