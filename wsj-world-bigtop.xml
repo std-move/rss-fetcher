@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T04:13:08Z</updated>
+  <updated>2023-11-10T05:10:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>China Is Making Too Much Stuff---and Other Countries Are Worried</title>
-    <updated>2023-11-10T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-10:/articles/china-is-making-too-much-stuffand-other-countries-are-worried-f949cd27</id>
-    <content type="html">The country’s factories, lacking customers, are pushing exports harder, raising new trade tensions.</content>
-    <link href="https://www.wsj.com/articles/china-is-making-too-much-stuffand-other-countries-are-worried-f949cd27" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Loneliness Isn&#39;t Just Bad for Your Health---It&#39;s Deadly</title>
-    <updated>2023-11-10T01:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-10:/articles/loneliness-social-isolation-death-577009bb</id>
-    <content type="html">People who report often feeling lonely or being socially isolated are at an increased risk of death from any cause, new research suggests.</content>
-    <link href="https://www.wsj.com/articles/loneliness-social-isolation-death-577009bb" rel="alternate"></link>
+    <title>&#39;They Have Nowhere to Go&#39;: A Gaza Hospital Braces for Fighting</title>
+    <updated>2023-11-10T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-10:/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21</id>
+    <content type="html">Masses of Palestinians have taken shelter at Al-Shifa Hospital—but Israeli allegations that Hamas has operations there have staff worried about an attack.</content>
+    <link href="https://www.wsj.com/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
