@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T14:10:21Z</updated>
+  <updated>2023-11-10T15:11:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Races to Root Out Hamas as Calls for Gaza Cease-Fire Mount</title>
-    <updated>2023-11-10T12:28:00Z</updated>
+    <updated>2023-11-10T14:39:00Z</updated>
     <id>tag:www.wsj.com,2023-11-10:/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1</id>
     <content type="html">Israeli forces face a series of difficult decisions as they hunt for Hamas leaders and fighters.</content>
     <link href="https://www.wsj.com/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1" rel="alternate"></link>
