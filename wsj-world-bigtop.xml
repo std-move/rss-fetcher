@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-10T05:10:43Z</updated>
+  <updated>2023-11-10T06:14:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China Is Making Too Much Stuff---and Other Countries Are Worried</title>
+    <updated>2023-11-10T05:11:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-10:/articles/china-is-making-too-much-stuffand-other-countries-are-worried-f949cd27</id>
+    <content type="html">The country’s factories lack customers and are pushing exports harder, raising trade tensions.</content>
+    <link href="https://www.wsj.com/articles/china-is-making-too-much-stuffand-other-countries-are-worried-f949cd27" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>&#39;They Have Nowhere to Go&#39;: A Gaza Hospital Braces for Fighting</title>
     <updated>2023-11-10T05:01:00Z</updated>
