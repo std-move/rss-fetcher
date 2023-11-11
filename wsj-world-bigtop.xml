@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-11T13:11:40Z</updated>
+  <updated>2023-11-11T14:08:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Gaza&#39;s Al-Shifa Hospital Crippled as Israeli Forces Move Closer</title>
-    <updated>2023-11-11T11:55:00Z</updated>
+    <updated>2023-11-11T13:49:00Z</updated>
     <id>tag:www.wsj.com,2023-11-11:/articles/gazas-al-shifa-hospital-crippled-as-power-runs-out-and-israeli-forces-move-closer-11eec6fe</id>
     <content type="html">Hospital officials said doctors were using scant remaining medical supplies as the facility largely operated without electricity and water ran desperately low.</content>
     <link href="https://www.wsj.com/articles/gazas-al-shifa-hospital-crippled-as-power-runs-out-and-israeli-forces-move-closer-11eec6fe" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The Militia at the Center of the Darfur Genocide Kills Hundreds in Sudan</title>
+    <updated>2023-11-11T13:20:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-11:/articles/the-militia-at-the-center-of-the-darfur-genocide-kills-hundreds-in-sudan-b367b9ed</id>
+    <content type="html">A paramilitary group that grew from the infamous Janjaweed militia has been blamed for the killing of about 800 people, mostly boys and men, in a Darfur refugee camp.</content>
+    <link href="https://www.wsj.com/articles/the-militia-at-the-center-of-the-darfur-genocide-kills-hundreds-in-sudan-b367b9ed" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -26,14 +34,6 @@
     <id>tag:www.wsj.com,2023-11-11:/articles/as-chinese-tastes-change-farmers-everywhere-rip-up-and-replant-d258d6ea</id>
     <content type="html">The windfall is transforming entire regions, but some are starting to worry: What if China stops buying?</content>
     <link href="https://www.wsj.com/articles/as-chinese-tastes-change-farmers-everywhere-rip-up-and-replant-d258d6ea" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>A Foreign Student Saved His Friends From Hamas. Then He Vanished.</title>
-    <updated>2023-11-11T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-11:/articles/student-hero-hamas-attack-hostage-4faf9616</id>
-    <content type="html">Newly arrived from Nepal, Bipin Joshi suddenly found himself in a war zone. He threw a grenade out of harm’s way. His country is desperate to get him back.</content>
-    <link href="https://www.wsj.com/articles/student-hero-hamas-attack-hostage-4faf9616" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
