@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-11T03:14:12Z</updated>
+  <updated>2023-11-11T04:13:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As Chinese Tastes Change, Farmers Everywhere Rip Up and Replant</title>
+    <updated>2023-11-11T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-11:/articles/as-chinese-tastes-change-farmers-everywhere-rip-up-and-replant-d258d6ea</id>
+    <content type="html">The windfall is transforming entire regions, but some are starting to worry: What if China stops buying?</content>
+    <link href="https://www.wsj.com/articles/as-chinese-tastes-change-farmers-everywhere-rip-up-and-replant-d258d6ea" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>India, China Fight for Influence Over Tiny Archipelago Nation</title>
+    <updated>2023-11-11T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-11:/articles/india-china-fight-for-influence-over-tiny-archipelago-nation-e7dca8ca</id>
+    <content type="html">The fierce rivalry between the Asian powers is on display in the Maldives, better known for its white sand beaches and crystal clear waters than as a strategic military outpost.</content>
+    <link href="https://www.wsj.com/articles/india-china-fight-for-influence-over-tiny-archipelago-nation-e7dca8ca" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel Races to Root Out Hamas as Calls for Gaza Cease-Fire Mount</title>
     <updated>2023-11-11T01:44:00Z</updated>
     <id>tag:www.wsj.com,2023-11-11:/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1</id>
     <content type="html">Israeli forces face a series of difficult decisions as they hunt for Hamas leaders and fighters.</content>
     <link href="https://www.wsj.com/articles/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>At the Center of the Israel-Hamas War, an Advancing Army Confronts a Humanitarian Crisis</title>
-    <updated>2023-11-10T22:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-10:/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21</id>
-    <content type="html">Gaza’s Al-Shifa Hospital was sheltering masses of Palestinians when an explosion hit.</content>
-    <link href="https://www.wsj.com/articles/israel-gaza-al-shifa-hospital-hamas-ca06fd21" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
