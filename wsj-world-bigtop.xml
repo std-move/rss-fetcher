@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-11T21:09:00Z</updated>
+  <updated>2023-11-11T22:09:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Gaza&#39;s Al-Shifa Hospital Crippled as Israeli Forces Move Closer</title>
-    <updated>2023-11-11T19:32:00Z</updated>
+    <updated>2023-11-11T21:24:00Z</updated>
     <id>tag:www.wsj.com,2023-11-11:/articles/gazas-al-shifa-hospital-crippled-as-power-runs-out-and-israeli-forces-move-closer-11eec6fe</id>
-    <content type="html">Hospital officials said doctors were using scant remaining medical supplies as the facility largely operated without electricity and water ran desperately low.</content>
+    <content type="html">Thousands remain in the complex that has become a focus of Israeli invasion.</content>
     <link href="https://www.wsj.com/articles/gazas-al-shifa-hospital-crippled-as-power-runs-out-and-israeli-forces-move-closer-11eec6fe" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
