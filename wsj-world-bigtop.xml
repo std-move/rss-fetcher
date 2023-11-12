@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-12T11:08:48Z</updated>
+  <updated>2023-11-12T12:19:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Coastal State Where Home Insurance Is Relatively Affordable</title>
+    <updated>2023-11-12T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-12:/articles/the-coastal-state-where-home-insurance-is-relatively-affordable-0271a2e8</id>
+    <content type="html">Homeowners in Alabama have a stable market thanks in part to the way some homes are built there.</content>
+    <link href="https://www.wsj.com/articles/the-coastal-state-where-home-insurance-is-relatively-affordable-0271a2e8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>What It Took to Get Biden and Xi to the Table</title>
+    <updated>2023-11-12T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-12:/articles/what-it-took-to-get-biden-and-xi-to-the-table-b7a899c9</id>
+    <content type="html">The path to a U.S.-China summit was strewn with gamesmanship.</content>
+    <link href="https://www.wsj.com/articles/what-it-took-to-get-biden-and-xi-to-the-table-b7a899c9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukraine War Slips Toward Violent Stalemate</title>
     <updated>2023-11-12T10:30:00Z</updated>
