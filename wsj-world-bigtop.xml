@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-12T09:10:10Z</updated>
+  <updated>2023-11-12T10:10:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -34,14 +34,6 @@
     <id>tag:www.wsj.com,2023-11-11:/articles/ordinary-russians-feel-wrath-of-putins-repression-2fa04ab4</id>
     <content type="html">The Kremlin’s crackdown on opposition to the war in Ukraine is targeting thousands of everyday citizens in addition to well-known politicians, activists and journalists.</content>
     <link href="https://www.wsj.com/articles/ordinary-russians-feel-wrath-of-putins-repression-2fa04ab4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Militia at the Center of the Darfur Genocide Kills Hundreds in Sudan</title>
-    <updated>2023-11-11T13:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-11:/articles/the-militia-at-the-center-of-the-darfur-genocide-kills-hundreds-in-sudan-b367b9ed</id>
-    <content type="html">A paramilitary group that grew from the infamous Janjaweed militia has been blamed for the killing of about 800 people, mostly boys and men, in a Darfur refugee camp.</content>
-    <link href="https://www.wsj.com/articles/the-militia-at-the-center-of-the-darfur-genocide-kills-hundreds-in-sudan-b367b9ed" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
