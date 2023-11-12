@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-12T14:10:50Z</updated>
+  <updated>2023-11-12T15:10:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Stricken Gaza Hospital Reports Deaths of Newborns as Israel, Hamas Clash Nearby</title>
+    <updated>2023-11-12T14:19:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-12:/articles/stricken-gaza-hospital-reports-deaths-of-newborns-as-israel-hamas-clash-nearby-561afe5b</id>
+    <content type="html">Intense street battles took place around the enclave’s biggest hospital, leaving the facility with dwindling supplies as the power went out.</content>
+    <link href="https://www.wsj.com/articles/stricken-gaza-hospital-reports-deaths-of-newborns-as-israel-hamas-clash-nearby-561afe5b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>What It Took to Get Biden and Xi to the Table</title>
     <updated>2023-11-12T12:00:00Z</updated>
@@ -26,22 +34,6 @@
     <id>tag:www.wsj.com,2023-11-12:/articles/ukraine-war-slips-toward-violent-stalemate-59a6f8e5</id>
     <content type="html">Ukrainian and Russian offensives are struggling for a major breakthrough against strong defensive lines.</content>
     <link href="https://www.wsj.com/articles/ukraine-war-slips-toward-violent-stalemate-59a6f8e5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Needed a New Way to Get Money From Iran. It Turned to Crypto.</title>
-    <updated>2023-11-12T05:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-12:/articles/hamas-needed-a-new-way-to-get-money-from-iran-it-turned-to-crypto-739619aa</id>
-    <content type="html">The pivot to digital currencies helped Hamas receive large sums from Iran in the two years preceding the Oct. 7 attacks on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-needed-a-new-way-to-get-money-from-iran-it-turned-to-crypto-739619aa" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Oregon Decriminalized Hard Drugs. It Isn&#39;t Working.</title>
-    <updated>2023-11-12T02:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-12:/articles/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476</id>
-    <content type="html">A majority of voters now want to undo a pioneering change as public drug use has become rampant.</content>
-    <link href="https://www.wsj.com/articles/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
