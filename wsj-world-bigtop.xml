@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-13T04:13:37Z</updated>
+  <updated>2023-11-13T05:11:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Israel Pushing for Hamas to Surrender Stricken Al-Shifa Hospital</title>
-    <updated>2023-11-13T01:31:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-13:/articles/stricken-gaza-hospital-reports-deaths-of-newborns-as-israel-hamas-clash-nearby-561afe5b</id>
-    <content type="html">Intense street battles around the enclave’s biggest hospital are leaving the facility with dwindling supplies and a power outage.</content>
-    <link href="https://www.wsj.com/articles/stricken-gaza-hospital-reports-deaths-of-newborns-as-israel-hamas-clash-nearby-561afe5b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
