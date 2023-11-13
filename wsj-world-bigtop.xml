@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-13T22:10:35Z</updated>
+  <updated>2023-11-13T23:11:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israeli Forces Reach Gate of Gaza&#39;s Largest Hospital</title>
+    <updated>2023-11-13T22:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-13:/articles/israel-warns-of-wider-war-as-it-presses-on-in-gaza-65e8bef8</id>
+    <content type="html">Israel says Hamas conceals a major center of operations at Al-Shifa Hospital, where medical staff reported deteriorating conditions inside because of a lack of supplies and electricity.</content>
+    <link href="https://www.wsj.com/articles/israel-warns-of-wider-war-as-it-presses-on-in-gaza-65e8bef8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Strip Clubs, Lewd Photos and a Boozy Hotel: The Toxic Atmosphere at Bank Regulator FDIC</title>
+    <updated>2023-11-13T22:14:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-13:/articles/fdic-toxic-atmosphere-strip-clubs-lewd-photos-boozy-hotel-12c89da7</id>
+    <content type="html">Employees say sexual harassment and misogyny pervade the federal agency tasked with ensuring the stability of the nation’s banks, driving women to leave.</content>
+    <link href="https://www.wsj.com/articles/fdic-toxic-atmosphere-strip-clubs-lewd-photos-boozy-hotel-12c89da7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
