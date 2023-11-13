@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-13T18:14:10Z</updated>
+  <updated>2023-11-13T19:09:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel, U.S. Warn of Wider War as Clashes Escalate</title>
     <updated>2023-11-13T18:02:00Z</updated>
     <id>tag:www.wsj.com,2023-11-13:/articles/israel-warns-of-wider-war-as-it-presses-on-in-gaza-65e8bef8</id>
-    <content type="html">The two countries have warned about the prospects of a wider war in the Middle East, as Hezbollah and the Israeli military clash and other Iran-backed militias in Syria and Iraq strike Americans.</content>
+    <content type="html">The two countries have warned about the prospects of a wider war in the Middle East, as Hezbollah and the Israeli military clash and other Iran-backed militias in Syria and Iraq strike American troops.</content>
     <link href="https://www.wsj.com/articles/israel-warns-of-wider-war-as-it-presses-on-in-gaza-65e8bef8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine Braces for Another Winter of Missile Attacks, Blackouts</title>
-    <updated>2023-11-13T15:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-13:/articles/ukraine-braces-for-another-winter-of-missile-attacks-blackouts-bd4555fa</id>
-    <content type="html">The impending barrage is contributing to a darkening mood after Kyiv’s counteroffensive failed to achieve a major breakthrough.</content>
-    <link href="https://www.wsj.com/articles/ukraine-braces-for-another-winter-of-missile-attacks-blackouts-bd4555fa" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
