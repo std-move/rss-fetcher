@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-14T12:21:16Z</updated>
+  <updated>2023-11-14T13:14:31Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Dominates Battlefield With Technological Advantage Over Hamas</title>
+    <updated>2023-11-14T12:46:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-14:/articles/israel-dominates-battlefield-with-technological-advantage-over-hamas-e697b470</id>
+    <content type="html">Israel’s command and control center allows it to move around troops, weapons and surveillance aircraft like pawns on a chessboard.</content>
+    <link href="https://www.wsj.com/articles/israel-dominates-battlefield-with-technological-advantage-over-hamas-e697b470" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
