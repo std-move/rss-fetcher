@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-15T18:14:35Z</updated>
+  <updated>2023-11-15T19:09:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israeli Troops Raid Main Gaza Hospital in Search of Militants and Hostages</title>
-    <updated>2023-11-15T16:22:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-15:/articles/israel-hamas-war-gaza-al-shifa-hospital-8121c9c7</id>
-    <content type="html">Israel said it found weapons and other evidence that militants had been operating inside the Al-Shifa hospital compound, a claim that Hamas has disputed.</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-war-gaza-al-shifa-hospital-8121c9c7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>U.S. Presses for Gaza Hostages&#39; Release as Fears Grow Over Their Safety</title>
-    <updated>2023-11-15T16:03:00Z</updated>
+    <updated>2023-11-15T19:03:00Z</updated>
     <id>tag:www.wsj.com,2023-11-15:/articles/u-s-presses-for-gaza-hostages-release-as-fears-grow-over-their-safety-9a92af06</id>
     <content type="html">The regional visit is part of the Biden administration’s efforts to prevent Israel’s conflict with Hamas from spiraling into a regional war.</content>
     <link href="https://www.wsj.com/articles/u-s-presses-for-gaza-hostages-release-as-fears-grow-over-their-safety-9a92af06" rel="alternate"></link>
