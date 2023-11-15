@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-15T13:15:15Z</updated>
+  <updated>2023-11-15T14:10:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The U.N. Is Central to Life in Gaza. Now Its Mission There Is Collapsing.</title>
-    <updated>2023-11-15T12:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-15:/articles/a-mission-to-save-gaza-from-a-humanitarian-crisis-is-unraveling-a1e0583d</id>
-    <content type="html">As fighting rages between Israel and Hamas, an agency said its functions would ”start gradually collapsing” as ambulances, sewage and sanitation systems shut down.</content>
-    <link href="https://www.wsj.com/articles/a-mission-to-save-gaza-from-a-humanitarian-crisis-is-unraveling-a1e0583d" rel="alternate"></link>
+    <title>Israeli Troops Raid Main Gaza Hospital in Search of Militants and Hostages</title>
+    <updated>2023-11-15T13:24:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-15:/articles/israeli-troops-come-under-fire-as-they-raid-main-gaza-hospital-8121c9c7</id>
+    <content type="html">Israeli soldiers moved into Gaza’s largest hospital, Al-Shifa, on Wednesday, searching buildings and questioning Palestinians sheltering there, witnesses said.</content>
+    <link href="https://www.wsj.com/articles/israeli-troops-come-under-fire-as-they-raid-main-gaza-hospital-8121c9c7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
