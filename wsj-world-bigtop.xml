@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-15T10:13:12Z</updated>
+  <updated>2023-11-15T11:10:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Ukraine Seeks to Reignite Counteroffensive With Daring River Crossings</title>
-    <updated>2023-11-15T05:12:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-15:/articles/ukraine-seeks-to-reignite-counteroffensive-with-daring-river-crossings-07e68b97</id>
-    <content type="html">Ukrainian toeholds across the Dnipro River in the south are a rare bright spot amid glum military news in recent months.</content>
-    <link href="https://www.wsj.com/articles/ukraine-seeks-to-reignite-counteroffensive-with-daring-river-crossings-07e68b97" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>North Korean Escapee Who Begged on the Streets Chases K-Pop Stardom</title>
-    <updated>2023-11-15T05:10:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-15:/articles/north-korean-escapee-who-begged-on-the-streets-chases-k-pop-stardom-bc344958</id>
-    <content type="html">Music from the SB Boyz draws inspiration from hardships felt not in the Kim Jong Un regime but South Korea.</content>
-    <link href="https://www.wsj.com/articles/north-korean-escapee-who-begged-on-the-streets-chases-k-pop-stardom-bc344958" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
