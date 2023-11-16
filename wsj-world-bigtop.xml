@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-16T17:10:28Z</updated>
+  <updated>2023-11-16T18:14:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Doctors, FDA Fight Over Giving Probiotics to Premature Babies</title>
-    <updated>2023-11-16T16:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-16:/articles/the-rift-over-giving-probiotics-to-the-tiniest-patients-c56b2514</id>
-    <content type="html">The FDA cracked down on use of the products in premature babies. Doctors say they have lost a key tool for preventing a deadly gut disease.</content>
-    <link href="https://www.wsj.com/articles/the-rift-over-giving-probiotics-to-the-tiniest-patients-c56b2514" rel="alternate"></link>
+    <title>FDIC Chair, Known for Temper, Ignored Bad Behavior in Workplace</title>
+    <updated>2023-11-16T17:41:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-16:/articles/fdic-chairman-martin-gruenberg-workplace-harassment-5cae85bc</id>
+    <content type="html">Martin Gruenberg set a tone that left alleged harassment and discrimination unpunished at the bank regulator. After a WSJ investigation, he came under scrutiny at congressional hearings.</content>
+    <link href="https://www.wsj.com/articles/fdic-chairman-martin-gruenberg-workplace-harassment-5cae85bc" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
