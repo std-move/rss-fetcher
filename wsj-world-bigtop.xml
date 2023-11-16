@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-16T02:25:00Z</updated>
+  <updated>2023-11-16T03:12:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Says It Found Evidence of Hamas Activity at Gaza Hospital</title>
+    <updated>2023-11-16T03:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-16:/articles/israel-hamas-war-gaza-al-shifa-hospital-8121c9c7</id>
+    <content type="html">Israel released footage that it said proved the Al-Shifa Hospital compound was being used by Hamas militants, in an episode that carries high stakes for both sides of the war.</content>
+    <link href="https://www.wsj.com/articles/israel-hamas-war-gaza-al-shifa-hospital-8121c9c7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>FDIC Chair, Known for Temper, Ignored Bad Behavior in Workplace</title>
+    <updated>2023-11-16T02:29:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-16:/articles/fdic-chairman-martin-gruenberg-workplace-harassment-5cae85bc</id>
+    <content type="html">Martin Gruenberg set a tone that left alleged harassment and discrimination unpunished at the bank regulator. After a WSJ investigation, he came under scrutiny at congressional hearings.</content>
+    <link href="https://www.wsj.com/articles/fdic-chairman-martin-gruenberg-workplace-harassment-5cae85bc" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
