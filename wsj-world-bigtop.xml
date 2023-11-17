@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-17T07:10:42Z</updated>
+  <updated>2023-11-17T08:14:51Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-11-17:/articles/as-u-s-wavers-on-ukraine-aid-europe-steps-up-baeec294</id>
     <content type="html">EU powers are increasingly helping Kyiv hold the line against Russia as the war slips toward stalemate.</content>
     <link href="https://www.wsj.com/articles/as-u-s-wavers-on-ukraine-aid-europe-steps-up-baeec294" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel&#39;s Generation Z Flung From Innocence Into War</title>
-    <updated>2023-11-17T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-17:/articles/israel-gen-z-goes-to-war-e9cc0ae3</id>
-    <content type="html">Friends who grew up in a comfortable Tel Aviv suburb had talked for months about the music festival where everything changed.</content>
-    <link href="https://www.wsj.com/articles/israel-gen-z-goes-to-war-e9cc0ae3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
