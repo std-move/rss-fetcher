@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-17T20:12:36Z</updated>
+  <updated>2023-11-17T21:10:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel to Allow Limited Delivery of Fuel Into Gaza</title>
-    <updated>2023-11-17T20:06:00Z</updated>
+    <updated>2023-11-17T20:54:00Z</updated>
     <id>tag:www.wsj.com,2023-11-17:/articles/israel-says-it-is-close-to-dismantling-hamas-military-system-in-northern-gaza-4b339fcb</id>
     <content type="html">Israel said it would allow a limited fuel delivery to the enclave after supplies ran out and plunged Gaza into a communications blackout.</content>
     <link href="https://www.wsj.com/articles/israel-says-it-is-close-to-dismantling-hamas-military-system-in-northern-gaza-4b339fcb" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-11-17:/articles/israel-takes-fight-underground-to-hamass-vast-gaza-tunnel-network-2572b1d5</id>
     <content type="html">Israeli forces have taken control of much of northern Gaza—at least the parts that are above ground. Beneath the strip’s devastated urban landscape, Hamas still reigns.</content>
     <link href="https://www.wsj.com/articles/israel-takes-fight-underground-to-hamass-vast-gaza-tunnel-network-2572b1d5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
-    <updated>2023-11-17T17:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-17:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
