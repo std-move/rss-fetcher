@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-18T01:52:11Z</updated>
+  <updated>2023-11-18T02:22:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Israel to Allow Limited Delivery of Fuel Into Gaza</title>
-    <updated>2023-11-17T22:58:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-17:/articles/israel-says-it-is-close-to-dismantling-hamas-military-system-in-northern-gaza-4b339fcb</id>
-    <content type="html">Israel said it would allow a limited fuel delivery to the enclave after supplies ran out and plunged Gaza into a communications blackout.</content>
-    <link href="https://www.wsj.com/articles/israel-says-it-is-close-to-dismantling-hamas-military-system-in-northern-gaza-4b339fcb" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
