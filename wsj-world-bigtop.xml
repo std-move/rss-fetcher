@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-18T11:08:52Z</updated>
+  <updated>2023-11-18T12:19:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel-Hamas War Puts Palestinians Back on Arab World&#39;s Agenda</title>
-    <updated>2023-11-18T05:05:00Z</updated>
+    <updated>2023-11-18T12:01:00Z</updated>
     <id>tag:www.wsj.com,2023-11-18:/articles/israel-hamas-war-puts-palestinians-back-on-arab-worlds-agenda-82186d0c</id>
     <content type="html">Israel’s fierce response to Hamas’s cross-border assault has reinvigorated support for Palestinians in the Arab world and stirred popular anger—not just at Israel and the U.S., but also at Arab governments.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-war-puts-palestinians-back-on-arab-worlds-agenda-82186d0c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hundreds of Patients Evacuate Gaza&#39;s Largest Hospital as Israel Tightens Grip</title>
+    <updated>2023-11-18T11:22:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-18:/articles/hundreds-of-patients-evacuate-gazas-largest-hospital-as-israel-tightens-grip-989df07e</id>
+    <content type="html">At least 450 patients from Gaza City’s besieged Al-Shifa Hospital, some in wheelchairs, began moving toward the enclave’s south.</content>
+    <link href="https://www.wsj.com/articles/hundreds-of-patients-evacuate-gazas-largest-hospital-as-israel-tightens-grip-989df07e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
