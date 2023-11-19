@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-18T23:10:41Z</updated>
+  <updated>2023-11-19T00:57:38Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Hundreds of Palestinians Evacuate Gaza&#39;s Largest Hospital as Israel Tightens Control</title>
-    <updated>2023-11-18T20:15:00Z</updated>
+    <updated>2023-11-18T23:07:00Z</updated>
     <id>tag:www.wsj.com,2023-11-18:/articles/hundreds-of-patients-evacuate-gazas-largest-hospital-as-israel-tightens-grip-989df07e</id>
     <content type="html">At least 450 patients from Gaza City’s besieged Al-Shifa Hospital, some in wheelchairs, began moving toward the enclave’s south.</content>
     <link href="https://www.wsj.com/articles/hundreds-of-patients-evacuate-gazas-largest-hospital-as-israel-tightens-grip-989df07e" rel="alternate"></link>
