@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-19T09:10:16Z</updated>
+  <updated>2023-11-19T10:11:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Militants Take Cover Amid Elephants, Lions in West Africa&#39;s National Parks</title>
+    <updated>2023-11-19T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-19:/articles/militants-attack-from-africa-national-parks-2f6865cf</id>
+    <content type="html">The U.S. and its allies battle al Qaeda and Islamic State fighters at a bloody crossroads of wildlife, insurgency, geopolitics and military coups.</content>
+    <link href="https://www.wsj.com/articles/militants-attack-from-africa-national-parks-2f6865cf" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>How Starbucks Lost the Top Spot in China&#39;s Coffee Race</title>
     <updated>2023-11-19T05:01:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-11-19:/articles/for-postwar-gaza-differences-grow-over-palestinian-leadership-role-438a6b5f</id>
     <content type="html">The Palestinian Authority faces critics for problems in West Bank amid war with Israel.</content>
     <link href="https://www.wsj.com/articles/for-postwar-gaza-differences-grow-over-palestinian-leadership-role-438a6b5f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Militants Take Cover Amid Elephants, Lions in West Africa&#39;s National Parks</title>
-    <updated>2023-11-19T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-19:/articles/militants-attack-from-africa-national-parks-2f6865cf</id>
-    <content type="html">The U.S. and its allies battle al Qaeda and Islamic State fighters at a bloody crossroads of wildlife, insurgency, geopolitics and military coups.</content>
-    <link href="https://www.wsj.com/articles/militants-attack-from-africa-national-parks-2f6865cf" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
