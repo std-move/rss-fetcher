@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-19T03:11:50Z</updated>
+  <updated>2023-11-19T04:13:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>How Starbucks Lost the Top Spot in China&#39;s Coffee Race</title>
+    <updated>2023-11-19T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-19:/articles/how-starbucks-lost-the-top-spot-in-chinas-coffee-race-b6b36353</id>
+    <content type="html">Rival Luckin now leads Starbucks in the world’s second-most-populous nation.</content>
+    <link href="https://www.wsj.com/articles/how-starbucks-lost-the-top-spot-in-chinas-coffee-race-b6b36353" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>For Postwar Gaza, Differences Grow Over Palestinian Leadership Role</title>
+    <updated>2023-11-19T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-19:/articles/for-postwar-gaza-differences-grow-over-palestinian-leadership-role-438a6b5f</id>
+    <content type="html">The Palestinian Authority faces critics for problems in West Bank amid war with Israel.</content>
+    <link href="https://www.wsj.com/articles/for-postwar-gaza-differences-grow-over-palestinian-leadership-role-438a6b5f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Brazen Burglars Are Crashing Vehicles Into Stores</title>
     <updated>2023-11-19T02:00:00Z</updated>
