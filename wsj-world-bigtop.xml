@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-20T03:12:12Z</updated>
+  <updated>2023-11-20T04:14:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Shifts to Tougher Phase of Its Gaza War</title>
+    <updated>2023-11-20T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-20:/articles/israel-hamas-war-southern-gaza-invasion-d73bde94</id>
+    <content type="html">The Israeli military is preparing to take its hunt for Palestinian militants to the enclave’s crowded south, where Hamas will almost certainly prove to be a more determined adversary.</content>
+    <link href="https://www.wsj.com/articles/israel-hamas-war-southern-gaza-invasion-d73bde94" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Javier Milei Is Elected President of Argentina</title>
     <updated>2023-11-20T01:26:00Z</updated>
