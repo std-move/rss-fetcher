@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-20T15:12:43Z</updated>
+  <updated>2023-11-20T16:16:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israeli Military Encircles Another Gaza Hospital, Doctors Say</title>
-    <updated>2023-11-20T13:13:00Z</updated>
+    <updated>2023-11-20T16:01:00Z</updated>
     <id>tag:www.wsj.com,2023-11-20:/articles/israeli-military-encircles-another-gaza-hospital-doctors-say-3410dfe4</id>
     <content type="html">Patients and staff at Indonesia Hospital braced for Israeli troops to enter the complex after it was surrounded by tanks and artillery shelling hit the building.</content>
     <link href="https://www.wsj.com/articles/israeli-military-encircles-another-gaza-hospital-doctors-say-3410dfe4" rel="alternate"></link>
