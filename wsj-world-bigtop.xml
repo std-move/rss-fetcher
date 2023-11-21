@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-21T10:18:21Z</updated>
+  <updated>2023-11-21T11:10:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Tired Ukrainian Troops Fight to Hold Back Russian Soldiers: &#39;They Come Like Zombies&#39;</title>
-    <updated>2023-11-21T05:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-21:/articles/tired-ukrainian-troops-fight-to-hold-back-russian-offensive-they-come-like-zombies-9b4a31a1</id>
-    <content type="html">Russia is taking heavy casualties in the mud of eastern Ukraine as it presses to encircle the city of Avdiivka.</content>
-    <link href="https://www.wsj.com/articles/tired-ukrainian-troops-fight-to-hold-back-russian-offensive-they-come-like-zombies-9b4a31a1" rel="alternate"></link>
+    <title>Gaza Fighting Intensifies as Deal for HostagesTakes Shape</title>
+    <updated>2023-11-21T10:38:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-21:/articles/gaza-fighting-intensifies-as-deal-for-hostagestakes-shape-3ad7679d</id>
+    <content type="html">Israel and Hamas are moving toward an agreement that could see the release of some 50 hostages taken from Israel on Oct. 7.</content>
+    <link href="https://www.wsj.com/articles/gaza-fighting-intensifies-as-deal-for-hostagestakes-shape-3ad7679d" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israeli Military, Border Residents Press Netanyahu to Eliminate Hezbollah Threat</title>
-    <updated>2023-11-21T05:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-21:/articles/israeli-military-border-residents-press-netanyahu-to-eliminate-hezbollah-threat-73a2934f</id>
-    <content type="html">The prime minister is resisting demands to take action at the Lebanon border, while issuing warnings to the Iran-backed army.</content>
-    <link href="https://www.wsj.com/articles/israeli-military-border-residents-press-netanyahu-to-eliminate-hezbollah-threat-73a2934f" rel="alternate"></link>
+    <title>Foot Locker, Teamsters Show Their Drug-Benefit Managers the Door</title>
+    <updated>2023-11-21T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-21:/articles/foot-locker-teamsters-drop-pharmacy-benefit-managers-7251c81a</id>
+    <content type="html">Employers and unions say the PBMs are favoring costlier drugs over less expensive options and aren’t open about their rebates.</content>
+    <link href="https://www.wsj.com/articles/foot-locker-teamsters-drop-pharmacy-benefit-managers-7251c81a" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
