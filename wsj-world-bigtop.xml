@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-22T22:09:40Z</updated>
+  <updated>2023-11-22T23:11:30Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Inside Israel&#39;s Effort to Prove a Gaza Hospital Was a Hamas Command Center</title>
+    <updated>2023-11-22T22:56:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-22:/articles/inside-israels-campaign-to-prove-a-gaza-hospital-was-a-hamas-command-center-65e655ee</id>
+    <content type="html">The Israeli military has stepped up its efforts to prove that Gaza’s largest hospital was a Hamas command center, as the humanitarian fallout from the war heaps pressure on Israel.</content>
+    <link href="https://www.wsj.com/articles/inside-israels-campaign-to-prove-a-gaza-hospital-was-a-hamas-command-center-65e655ee" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israel&#39;s Hostage Deal With Hamas Is a Hard-Fought Diplomatic Win but Brings New Risks</title>
+    <updated>2023-11-22T22:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-22:/articles/israel-hamas-exchange-fire-ahead-of-release-of-hostages-pause-in-fighting-d7c25797</id>
+    <content type="html">A pause in fighting could allow the militant group to regroup in southern Gaza, where the civilian population has swelled.</content>
+    <link href="https://www.wsj.com/articles/israel-hamas-exchange-fire-ahead-of-release-of-hostages-pause-in-fighting-d7c25797" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
+    <updated>2023-11-22T22:40:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-22:/articles/hamas-hostages-israel-gaza-41432124</id>
+    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
