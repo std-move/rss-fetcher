@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-22T11:10:06Z</updated>
+  <updated>2023-11-22T12:22:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel, Hamas Exchange Fire Ahead of Release of Hostages, Pause in Fighting</title>
+    <updated>2023-11-22T11:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-22:/articles/israel-hamas-exchange-fire-ahead-of-release-of-hostages-pause-in-fighting-d7c25797</id>
+    <content type="html">Fighting continued ahead of the implementation of an agreed pause that is expected to start Thursday morning.</content>
+    <link href="https://www.wsj.com/articles/israel-hamas-exchange-fire-ahead-of-release-of-hostages-pause-in-fighting-d7c25797" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
