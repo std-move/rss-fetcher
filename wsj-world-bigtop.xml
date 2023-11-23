@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-23T18:14:05Z</updated>
+  <updated>2023-11-23T19:09:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel-Hamas Cease-Fire Hangs on 11th-Hour Talks Over Hostages</title>
-    <updated>2023-11-23T17:25:00Z</updated>
+    <updated>2023-11-23T18:40:00Z</updated>
     <id>tag:www.wsj.com,2023-11-23:/articles/israel-hamas-cease-fire-hangs-on-11th-hour-talks-over-hostages-400cbe54</id>
     <content type="html">Hamas failed to provide a list of the first batch of hostages it plans to set free, triggering a delay to the temporary pause in fighting.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-cease-fire-hangs-on-11th-hour-talks-over-hostages-400cbe54" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Tried Using Economic Ties to Bring Taiwan Closer. It Isn&#39;t Working.</title>
-    <updated>2023-11-23T14:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-23:/articles/china-tried-using-economic-ties-to-bring-taiwan-closer-it-isnt-working-8a7d63dc</id>
-    <content type="html">Taiwanese businesses are reducing the island’s dependence on China, angering Beijing as it sees its economic leverage ebb.</content>
-    <link href="https://www.wsj.com/articles/china-tried-using-economic-ties-to-bring-taiwan-closer-it-isnt-working-8a7d63dc" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
