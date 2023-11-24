@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-24T17:10:01Z</updated>
+  <updated>2023-11-24T18:13:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
+    <updated>2023-11-24T17:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-24:/articles/hamas-hostages-israel-gaza-41432124</id>
+    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hamas Releases First Group of Hostages in Cease-Fire Deal With Israel</title>
     <updated>2023-11-24T16:46:00Z</updated>
     <id>tag:www.wsj.com,2023-11-24:/articles/israel-hamas-cease-fire-holds-ahead-of-hostage-and-prisoner-swap-52d00413</id>
     <content type="html">The freeing of 25 hostages keeps a fragile truce on track.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-cease-fire-holds-ahead-of-hostage-and-prisoner-swap-52d00413" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
-    <updated>2023-11-24T15:50:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-24:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
