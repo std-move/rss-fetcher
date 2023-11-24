@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-24T01:51:15Z</updated>
+  <updated>2023-11-24T02:22:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-11-23:/articles/israel-hamas-cease-fire-hangs-on-11th-hour-talks-over-hostages-400cbe54</id>
     <content type="html">Hamas failed to provide a list of the first batch of hostages it plans to set free, triggering a delay to the temporary pause in fighting.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-cease-fire-hangs-on-11th-hour-talks-over-hostages-400cbe54" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Families of Hostages Held in Gaza Endure Agonizing Wait</title>
-    <updated>2023-11-23T20:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-23:/articles/families-of-hostages-held-in-gaza-endure-agonizing-wait-d04c033b</id>
-    <content type="html">For the families and friends of those abducted when Hamas attack Israel last month, the sudden prospect of being reunited with their loved ones or receiving news about them is stirring up emotions anew.</content>
-    <link href="https://www.wsj.com/articles/families-of-hostages-held-in-gaza-endure-agonizing-wait-d04c033b" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Inside the Secret Israel-Hamas Negotiations to Release 50 Hostages</title>
-    <updated>2023-11-23T19:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-23:/articles/inside-the-secret-israel-hamas-negotiations-to-release-50-hostages-5d54623b</id>
-    <content type="html">President Biden injected himself into one of the most complex hostage negotiations in modern history, a diplomatic frenzy that involved the heads of the CIA, Mossad, Egyptian intelligence officers and Hamas’s leader in Gaza.</content>
-    <link href="https://www.wsj.com/articles/inside-the-secret-israel-hamas-negotiations-to-release-50-hostages-5d54623b" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
