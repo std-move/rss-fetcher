@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-24T15:11:29Z</updated>
+  <updated>2023-11-24T16:14:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
+    <updated>2023-11-24T15:50:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-24:/articles/hamas-hostages-israel-gaza-41432124</id>
+    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Hamas Releases First Group of Hostages in Cease-Fire Deal With Israel</title>
-    <updated>2023-11-24T14:48:00Z</updated>
+    <updated>2023-11-24T15:29:00Z</updated>
     <id>tag:www.wsj.com,2023-11-24:/articles/israel-hamas-cease-fire-holds-ahead-of-hostage-and-prisoner-swap-52d00413</id>
     <content type="html">The freeing of 25 hostages keeps a fragile truce on track.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-cease-fire-holds-ahead-of-hostage-and-prisoner-swap-52d00413" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas&#39;s Cease-Fire Game Plan: Outlast Israel and Survive</title>
-    <updated>2023-11-24T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-24:/articles/hamass-cease-fire-game-plan-outlast-israel-and-survive-5942d2b2</id>
-    <content type="html">The question is whether Hamas can manipulate the hostage crisis to remain in power in Gaza or so its leadership can escape from the strip. </content>
-    <link href="https://www.wsj.com/articles/hamass-cease-fire-game-plan-outlast-israel-and-survive-5942d2b2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Refugees Settle Into Home in Upstate New York</title>
-    <updated>2023-11-24T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-24:/articles/otsego-county-new-york-refugees-c0b26be0</id>
-    <content type="html">A new program working with grassroots organizations to place refugees could reshape small cities.</content>
-    <link href="https://www.wsj.com/articles/otsego-county-new-york-refugees-c0b26be0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
