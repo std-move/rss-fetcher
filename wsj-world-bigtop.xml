@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-25T18:13:00Z</updated>
+  <updated>2023-11-25T19:08:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Release of Israeli hostages from Gaza on hold</title>
-    <updated>2023-11-25T17:54:00Z</updated>
+    <title>Release of Israeli Hostages From Gaza Delayed</title>
+    <updated>2023-11-25T18:25:00Z</updated>
     <id>tag:www.wsj.com,2023-11-25:/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab</id>
-    <content type="html">Hamas is refusing to hand over latest group of captives until Israel allows more aid into the enclave, Egyptian officials say.</content>
+    <content type="html">Mediators were working to resolve the impasse.</content>
     <link href="https://www.wsj.com/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
