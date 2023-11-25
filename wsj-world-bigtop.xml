@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-25T17:09:28Z</updated>
+  <updated>2023-11-25T18:13:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Palestinians Count Losses on Second Day of Gaza Cease-Fire</title>
-    <updated>2023-11-25T11:52:00Z</updated>
+    <title>Release of Israeli hostages from Gaza on hold</title>
+    <updated>2023-11-25T17:54:00Z</updated>
     <id>tag:www.wsj.com,2023-11-25:/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab</id>
-    <content type="html">More Hamas hostages and Palestinian prisoners are set to be exchanged on Saturday as part of the truce deal.</content>
+    <content type="html">Hamas is refusing to hand over latest group of captives until Israel allows more aid into the enclave, Egyptian officials say.</content>
     <link href="https://www.wsj.com/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Gaza Diplomacy Cements Qatar&#39;s Role as Mediator</title>
-    <updated>2023-11-25T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-25:/articles/gaza-diplomacy-cements-qatars-global-mediator-role-29e0ffb7</id>
-    <content type="html">The Persian Gulf state’s ties to militants and pariah countries are part of its strategy to stay secure and relevant.</content>
-    <link href="https://www.wsj.com/articles/gaza-diplomacy-cements-qatars-global-mediator-role-29e0ffb7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
