@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-26T12:19:34Z</updated>
+  <updated>2023-11-26T13:12:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Hamas Set to Free Third Group of Hostages as Negotiators Work to Extend Truce</title>
+    <updated>2023-11-26T13:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-26:/articles/hamas-set-to-free-third-group-of-hostages-as-negotiators-work-to-extend-truce-with-israel-26c555bc</id>
+    <content type="html">The group is expected to release 13 women and children, including two U.S. citizens, while Qatar and Egypt lead talks over a possible extension to the four-day cease-fire deal.</content>
+    <link href="https://www.wsj.com/articles/hamas-set-to-free-third-group-of-hostages-as-negotiators-work-to-extend-truce-with-israel-26c555bc" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Owners Keep Zombie Malls Alive Even When Towns Want to Pull the Plug</title>
     <updated>2023-11-26T10:30:00Z</updated>
