@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-26T00:56:51Z</updated>
+  <updated>2023-11-26T01:57:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Hamas Releases Hostages After Delay Over Aid Dispute</title>
-    <updated>2023-11-25T21:48:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-25:/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab</id>
+    <updated>2023-11-26T01:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-26:/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab</id>
     <content type="html">The Israeli hostages released were all women and children taken during the attack by Hamas militants on Oct. 7.</content>
     <link href="https://www.wsj.com/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab" rel="alternate"></link>
     <summary type="html"></summary>
