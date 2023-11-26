@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-26T10:11:18Z</updated>
+  <updated>2023-11-26T11:08:50Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Owners Keep Zombie Malls Alive Even When Towns Want to Pull the Plug</title>
+    <updated>2023-11-26T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-26:/articles/malls-real-estate-shopping-24c3d7fd</id>
+    <content type="html">Aging malls often take a long time to expire, but they can remain valuable assets</content>
+    <link href="https://www.wsj.com/articles/malls-real-estate-shopping-24c3d7fd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hamas Releases Hostages After Delay Over Aid Dispute</title>
     <updated>2023-11-26T06:44:00Z</updated>
