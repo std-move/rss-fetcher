@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-27T12:22:31Z</updated>
+  <updated>2023-11-27T13:15:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Putin Has Staked Russia&#39;s Resources on Victory in Ukraine. Can the West Match Him?</title>
-    <updated>2023-11-27T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-27:/articles/putin-has-staked-russias-resources-on-victory-in-ukraine-can-the-west-match-him-b5d7b5f2</id>
-    <content type="html">The Russian president seeks to turn his nation’s advantage in manpower and munitions into battlefield progress, while Western will and assistance for Kyiv are wavering.</content>
-    <link href="https://www.wsj.com/articles/putin-has-staked-russias-resources-on-victory-in-ukraine-can-the-west-match-him-b5d7b5f2" rel="alternate"></link>
+    <title>Talks to Extend Israel-Hamas Truce Go Down to the Wire</title>
+    <updated>2023-11-27T12:22:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-27:/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9</id>
+    <content type="html">Israel and Hamas mediators work to draft a fresh list of hostages to be freed in the final hours of the four-day truce.</content>
+    <link href="https://www.wsj.com/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
