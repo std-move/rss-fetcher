@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-27T22:09:42Z</updated>
+  <updated>2023-11-27T23:11:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel, Hamas Agree to Extend Truce by Two Days</title>
+    <updated>2023-11-27T22:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-27:/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9</id>
+    <content type="html">Israel and Hamas agreed to a two-day extension of their truce in Gaza to allow for the release of more Israeli hostages as part of a fragile agreement that has brought respite from seven weeks of war.</content>
+    <link href="https://www.wsj.com/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
     <updated>2023-11-27T20:51:00Z</updated>
     <id>tag:www.wsj.com,2023-11-27:/articles/hamas-hostages-israel-gaza-41432124</id>
     <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
     <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel, Hamas Agree to Extend Truce by Two Days</title>
-    <updated>2023-11-27T20:32:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-27:/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9</id>
-    <content type="html">Israel and Hamas agreed to a two-day extension of their truce in Gaza to allow for the release of more Israeli hostages as part of a fragile agreement that has brought respite from seven weeks of war.</content>
-    <link href="https://www.wsj.com/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
