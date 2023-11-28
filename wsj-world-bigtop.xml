@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-28T03:12:02Z</updated>
+  <updated>2023-11-28T04:14:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Gaza Is Falling Into &#39;Absolute Chaos,&#39; Aid Groups Say</title>
+    <updated>2023-11-28T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-28:/articles/gaza-is-falling-into-absolute-chaos-aid-groups-say-5d37e9bf</id>
+    <content type="html">Humanitarian groups and civilians say the aid convoys that entered during the cease-fire aren’t nearly enough to address the needs of the strip’s two million people.</content>
+    <link href="https://www.wsj.com/articles/gaza-is-falling-into-absolute-chaos-aid-groups-say-5d37e9bf" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel, Hamas Agree to Extend Truce by Two Days</title>
     <updated>2023-11-28T02:03:00Z</updated>
