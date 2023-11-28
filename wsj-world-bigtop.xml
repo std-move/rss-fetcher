@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-28T00:54:45Z</updated>
+  <updated>2023-11-28T01:55:10Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel, Hamas Agree to Extend Truce by Two Days</title>
-    <updated>2023-11-27T23:37:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-27:/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9</id>
+    <updated>2023-11-28T01:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-28:/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9</id>
     <content type="html">Israel and Hamas agreed to a two-day extension of their truce in Gaza to allow for the release of more Israeli hostages as part of a fragile agreement that has brought respite from seven weeks of war.</content>
     <link href="https://www.wsj.com/articles/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9" rel="alternate"></link>
     <summary type="html"></summary>
