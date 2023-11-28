@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-28T18:14:52Z</updated>
+  <updated>2023-11-28T19:09:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
-    <updated>2023-11-28T16:28:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-28:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Negotiators Press for Long-Term Israel-Hamas Truce</title>
-    <updated>2023-11-28T16:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-28:/articles/negotiators-press-to-extend-israel-hamas-truce-for-further-three-days-and-beyond-f0d372d1</id>
-    <content type="html">Such an agreement would likely require Israel and Hamas to make hard-to-swallow concessions, such as trading Israeli soldiers for potentially thousands of Palestinian prisoners.</content>
-    <link href="https://www.wsj.com/articles/negotiators-press-to-extend-israel-hamas-truce-for-further-three-days-and-beyond-f0d372d1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
