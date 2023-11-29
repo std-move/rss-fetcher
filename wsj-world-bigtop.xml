@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-28T23:11:23Z</updated>
+  <updated>2023-11-29T00:54:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Held Hostage by Hamas: How Two Girls Survived Captivity in Gaza</title>
+    <updated>2023-11-29T00:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-29:/articles/held-hostage-by-hamas-how-two-girls-survived-captivity-in-gaza-be9e1fbd</id>
+    <content type="html">Hila Rotem Shoshani and Emily Hand were released without Hila’s mother, who had cared for them during their detention.</content>
+    <link href="https://www.wsj.com/articles/held-hostage-by-hamas-how-two-girls-survived-captivity-in-gaza-be9e1fbd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Negotiators Press for Long Term Israel-Hamas Truce</title>
+    <updated>2023-11-28T23:49:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-28:/articles/negotiators-press-to-extend-israel-hamas-truce-for-further-three-days-and-beyond-f0d372d1</id>
+    <content type="html">Such an agreement would likely require Israel and Hamas to make hard-to-swallow concessions, such as trading Israeli soldiers for potentially thousands of Palestinian prisoners.</content>
+    <link href="https://www.wsj.com/articles/negotiators-press-to-extend-israel-hamas-truce-for-further-three-days-and-beyond-f0d372d1" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
