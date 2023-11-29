@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-29T21:10:07Z</updated>
+  <updated>2023-11-29T22:10:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>How El Chapo&#39;s Man in Chicago Became a Police Consultant</title>
-    <updated>2023-11-29T20:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-29:/articles/el-chapo-chicago-margarito-flores-8f9076a3</id>
-    <content type="html">Margarito Flores developed a U.S. delivery platform for drugs. Now he advises police officers on dismantling gangs that operate like criminal versions of Amazon.</content>
-    <link href="https://www.wsj.com/articles/el-chapo-chicago-margarito-flores-8f9076a3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
