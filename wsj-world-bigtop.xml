@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-29T12:21:59Z</updated>
+  <updated>2023-11-29T13:14:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Welcome to COP28, the U.N. Climate Conference Hosted by an Oil Giant</title>
-    <updated>2023-11-29T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-11-29:/articles/un-climate-conference-cop28-uae-4750c7e2</id>
-    <content type="html">The United Arab Emirates, site of the summit, is preparing to increase oil production.</content>
-    <link href="https://www.wsj.com/articles/un-climate-conference-cop28-uae-4750c7e2" rel="alternate"></link>
+    <title>Israeli Leaders Resist Calls for Longer Cease-Fire With Hamas</title>
+    <updated>2023-11-29T12:28:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-29:/articles/israeli-leaders-resist-calls-for-longer-cease-fire-with-hamas-07da12f7</id>
+    <content type="html">Prominent right-wing members of Israel’s government laid down a firm marker that talks brokered by the U.S., Egypt and Qatar were only about releasing hostages.</content>
+    <link href="https://www.wsj.com/articles/israeli-leaders-resist-calls-for-longer-cease-fire-with-hamas-07da12f7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
