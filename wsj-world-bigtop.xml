@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-30T05:11:13Z</updated>
+  <updated>2023-11-30T06:15:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel, Hamas Agree to Extend Truce by One Day</title>
+    <updated>2023-11-30T05:23:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-30:/articles/israeli-leaders-resist-calls-for-longer-cease-fire-with-hamas-07da12f7</id>
+    <content type="html">The deal comes after Hamas released a sixth group of hostages on Wednesday.</content>
+    <link href="https://www.wsj.com/articles/israeli-leaders-resist-calls-for-longer-cease-fire-with-hamas-07da12f7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israel Considers How to Remove Threat of Hamas Fighters in Gaza</title>
+    <updated>2023-11-30T05:13:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-30:/articles/israel-considers-how-to-remove-threat-of-hamas-fighters-in-gaza-062f01b4</id>
+    <content type="html">U.S. and Israeli officials, citing Beirut precedent, discuss the idea of exiling militants from the enclave.</content>
+    <link href="https://www.wsj.com/articles/israel-considers-how-to-remove-threat-of-hamas-fighters-in-gaza-062f01b4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>What&#39;s at Stake at COP28 in Dubai</title>
+    <updated>2023-11-30T05:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-30:/articles/whats-at-stake-at-cop28-in-dubai-4a51f763</id>
+    <content type="html">Negotiations are set to center on a stocktake of progress in reducing global warming, the future of fossil fuels, financing and a fund to pay for climate damage.</content>
+    <link href="https://www.wsj.com/articles/whats-at-stake-at-cop28-in-dubai-4a51f763" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
