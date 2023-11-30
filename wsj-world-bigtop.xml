@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-30T13:14:43Z</updated>
+  <updated>2023-11-30T14:10:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Clash Over Climate Tipping Points and Fossil Fuels&#39; Future at COP28</title>
+    <updated>2023-11-30T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-30:/articles/clash-over-climate-tipping-points-and-fossil-fuels-future-at-cop28-a3592771</id>
+    <content type="html">U.N. conference in Dubai kicks off as climate systems approach dangerous tipping points and 2023 marks hottest year on record.</content>
+    <link href="https://www.wsj.com/articles/clash-over-climate-tipping-points-and-fossil-fuels-future-at-cop28-a3592771" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
