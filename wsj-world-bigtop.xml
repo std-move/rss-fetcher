@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-30T18:14:52Z</updated>
+  <updated>2023-11-30T19:08:33Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Blinken Urges Israel to Extend Gaza Cease-Fire</title>
-    <updated>2023-11-30T16:33:00Z</updated>
+    <updated>2023-11-30T18:16:00Z</updated>
     <id>tag:www.wsj.com,2023-11-30:/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601</id>
     <content type="html">A one-day extension was announced early Thursday, but officials warn of an uphill battle to arrange an additional pause.</content>
     <link href="https://www.wsj.com/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601" rel="alternate"></link>
