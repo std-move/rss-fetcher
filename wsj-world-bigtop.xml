@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-30T14:10:58Z</updated>
+  <updated>2023-11-30T15:11:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>As New Zealand Reverses Its Smoking Ban, Other Countries Push Ahead</title>
+    <updated>2023-11-30T14:57:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-30:/articles/new-zealand-reverses-smoking-ban-other-countries-push-ahead-with-anti-smoking-laws-bdd21259</id>
+    <content type="html">There are a patchwork of smoking regulations around the world, from local restrictions to national bans on smoking in public places.</content>
+    <link href="https://www.wsj.com/articles/new-zealand-reverses-smoking-ban-other-countries-push-ahead-with-anti-smoking-laws-bdd21259" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Clash Over Climate Tipping Points and Fossil Fuels&#39; Future at COP28</title>
     <updated>2023-11-30T14:00:00Z</updated>
