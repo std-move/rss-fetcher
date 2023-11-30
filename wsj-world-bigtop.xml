@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-11-29T23:11:27Z</updated>
+  <updated>2023-11-30T00:54:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Hamas Releases 16 Hostages as Negotiators Push to Extend Truce</title>
+    <updated>2023-11-30T00:32:00Z</updated>
+    <id>tag:www.wsj.com,2023-11-30:/articles/israeli-leaders-resist-calls-for-longer-cease-fire-with-hamas-07da12f7</id>
+    <content type="html">Israeli leaders have come out strongly against a permanent cease-fire, in a demonstration of how the government is caught between Israelis’ conflicting desires to eradicate Hamas and bring home some 200 people captured on Oct. 7.</content>
+    <link href="https://www.wsj.com/articles/israeli-leaders-resist-calls-for-longer-cease-fire-with-hamas-07da12f7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
