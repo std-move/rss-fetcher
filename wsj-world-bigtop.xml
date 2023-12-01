@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-01T04:14:20Z</updated>
+  <updated>2023-12-01T05:11:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Israel Plans to Kill Hamas Leaders Around the World After War</title>
-    <updated>2023-12-01T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/israel-plans-to-kill-hamas-leaders-around-the-world-after-war-da88e6b9</id>
-    <content type="html">The nation’s top spy agencies intend to hunt down militants living in Lebanon, Turkey and Qatar.</content>
-    <link href="https://www.wsj.com/articles/israel-plans-to-kill-hamas-leaders-around-the-world-after-war-da88e6b9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
