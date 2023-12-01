@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-01T11:10:00Z</updated>
+  <updated>2023-12-01T12:21:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Resumes Combat Operations in Gaza as Cease-Fire Stalls</title>
-    <updated>2023-12-01T09:29:00Z</updated>
+    <updated>2023-12-01T11:12:00Z</updated>
     <id>tag:www.wsj.com,2023-12-01:/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601</id>
     <content type="html">In intense negotiations, Hamas didn’t provide a list of hostage names needed for the cease-fire extension.</content>
     <link href="https://www.wsj.com/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601" rel="alternate"></link>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-12-01:/articles/whats-at-stake-at-cop28-in-dubai-4a51f763</id>
     <content type="html">Negotiations are set to center on a review of progress in reducing global warming, the future of fossil fuels, financing and a fund to pay for climate damage.</content>
     <link href="https://www.wsj.com/articles/whats-at-stake-at-cop28-in-dubai-4a51f763" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Plans to Kill Hamas Leaders Around the World After War</title>
-    <updated>2023-12-01T05:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/israel-plans-to-kill-hamas-leaders-around-the-world-after-war-da88e6b9</id>
-    <content type="html">The nation’s top spy agencies intend to hunt down militants living in Lebanon, Turkey and Qatar.</content>
-    <link href="https://www.wsj.com/articles/israel-plans-to-kill-hamas-leaders-around-the-world-after-war-da88e6b9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
