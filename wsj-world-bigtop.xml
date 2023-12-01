@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-01T13:15:06Z</updated>
+  <updated>2023-12-01T14:10:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Mediators Try to Revive Israel-Hamas Cease-Fire as Fighting Resumes</title>
-    <updated>2023-12-01T12:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83</id>
-    <content type="html">Negotiators scrambled to reinstate a truce between Israel and Hama as both sides resumed fighting.</content>
-    <link href="https://www.wsj.com/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83" rel="alternate"></link>
+    <title>To Combat Climate Change, Builders Create Greener---and Tougher---Homes</title>
+    <updated>2023-12-01T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-01:/articles/to-combat-climate-change-builders-create-greenerand-tougherhomes-2cf0a675</id>
+    <content type="html">Demand grows for energy-efficient, hurricane-resistant construction as storms become stronger.</content>
+    <link href="https://www.wsj.com/articles/to-combat-climate-change-builders-create-greenerand-tougherhomes-2cf0a675" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -21,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israel Resumes Combat Operations in Gaza as Cease-Fire Stalls</title>
-    <updated>2023-12-01T11:12:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601</id>
-    <content type="html">In intense negotiations, Hamas didn’t provide a list of hostage names needed for the cease-fire extension.</content>
-    <link href="https://www.wsj.com/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601" rel="alternate"></link>
+    <title>Mediators Try to Revive Israel-Hamas Cease-Fire as Fighting Resumes</title>
+    <updated>2023-12-01T12:59:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-01:/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83</id>
+    <content type="html">Negotiators scrambled to reinstate a truce between Israel and Hama as both sides resumed fighting.</content>
+    <link href="https://www.wsj.com/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
