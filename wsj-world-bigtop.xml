@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-01T22:10:35Z</updated>
+  <updated>2023-12-01T23:11:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Sandra Day O&#39;Connor Defined a Supreme Court Era. We&#39;re in a Vastly Different One.</title>
-    <updated>2023-12-01T21:47:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/sandra-day-oconnor-defined-a-supreme-court-era-were-in-a-vastly-different-one-6294b6ac</id>
-    <content type="html">A seeker of the pragmatic middle ground, the justice saw a more polarized court set aside many of her most influential rulings.</content>
-    <link href="https://www.wsj.com/articles/sandra-day-oconnor-defined-a-supreme-court-era-were-in-a-vastly-different-one-6294b6ac" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Mediators Try to Revive Israel-Hamas Cease-Fire as Fighting Resumes</title>
-    <updated>2023-12-01T20:29:00Z</updated>
+    <updated>2023-12-01T22:25:00Z</updated>
     <id>tag:www.wsj.com,2023-12-01:/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83</id>
     <content type="html">Negotiators scrambled to reinstate a truce between Israel and Hama as both sides resumed fighting.</content>
     <link href="https://www.wsj.com/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83" rel="alternate"></link>
