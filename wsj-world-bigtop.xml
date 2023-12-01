@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-01T09:11:39Z</updated>
+  <updated>2023-12-01T10:12:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Resumes Combat Operations in Gaza as Cease-Fire Stalls</title>
-    <updated>2023-12-01T09:02:00Z</updated>
+    <updated>2023-12-01T09:29:00Z</updated>
     <id>tag:www.wsj.com,2023-12-01:/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601</id>
     <content type="html">In intense negotiations, Hamas didn’t provide a list of hostage names needed for the cease-fire extension.</content>
     <link href="https://www.wsj.com/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601" rel="alternate"></link>
