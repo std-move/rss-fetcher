@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-01T15:11:56Z</updated>
+  <updated>2023-12-01T16:14:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>To Combat Climate Change, Builders Create Greener---and Tougher---Homes</title>
-    <updated>2023-12-01T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/to-combat-climate-change-builders-create-greenerand-tougherhomes-2cf0a675</id>
-    <content type="html">Demand grows for energy-efficient, hurricane-resistant construction as storms become stronger.</content>
-    <link href="https://www.wsj.com/articles/to-combat-climate-change-builders-create-greenerand-tougherhomes-2cf0a675" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Sees Surge of Support as Palestinian Prisoners Are Released</title>
-    <updated>2023-12-01T12:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/hamas-sees-surge-of-support-as-palestinian-prisoners-are-released-c1b3e927</id>
-    <content type="html">The releases have become a rallying cry among Palestinians fighting to end what they view as the injustice of the 50-year Israeli occupation.</content>
-    <link href="https://www.wsj.com/articles/hamas-sees-surge-of-support-as-palestinian-prisoners-are-released-c1b3e927" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Mediators Try to Revive Israel-Hamas Cease-Fire as Fighting Resumes</title>
-    <updated>2023-12-01T12:59:00Z</updated>
+    <updated>2023-12-01T16:05:00Z</updated>
     <id>tag:www.wsj.com,2023-12-01:/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83</id>
     <content type="html">Negotiators scrambled to reinstate a truce between Israel and Hama as both sides resumed fighting.</content>
     <link href="https://www.wsj.com/articles/mediators-try-to-revive-israel-hamas-cease-fire-as-fighting-resumes-055cdf83" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Exploding Carbon-CreditMarket Helps Brazil Regrow its Rainforest</title>
+    <updated>2023-12-01T16:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-01:/articles/exploding-carbon-creditmarket-helps-brazil-regrow-rainforest-7b414275</id>
+    <content type="html">As more companies offset emissions, many are funding projects to reverse rainforest destruction.</content>
+    <link href="https://www.wsj.com/articles/exploding-carbon-creditmarket-helps-brazil-regrow-rainforest-7b414275" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
