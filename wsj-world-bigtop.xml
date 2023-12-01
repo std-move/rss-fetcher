@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-01T03:12:23Z</updated>
+  <updated>2023-12-01T04:14:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel, Hamas Agree to Extend Truce for Another Day</title>
-    <updated>2023-12-01T00:17:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-01:/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601</id>
-    <content type="html">As Secretary of State Blinken visits the region, weeklong cease-fire in Gaza faces repeated stumbling blocks.</content>
-    <link href="https://www.wsj.com/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601" rel="alternate"></link>
+    <title>Israel Plans to Kill Hamas Leaders Around the World After War</title>
+    <updated>2023-12-01T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-01:/articles/israel-plans-to-kill-hamas-leaders-around-the-world-after-war-da88e6b9</id>
+    <content type="html">The nation’s top spy agencies intend to hunt down militants living in Lebanon, Turkey and Qatar.</content>
+    <link href="https://www.wsj.com/articles/israel-plans-to-kill-hamas-leaders-around-the-world-after-war-da88e6b9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
