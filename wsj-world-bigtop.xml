@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-02T10:11:03Z</updated>
+  <updated>2023-12-02T11:09:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Steps Up Attacks in Southern Gaza Following Collapse of Cease-Fire</title>
+    <updated>2023-12-02T10:42:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-02:/articles/israel-steps-up-attacks-in-southern-gaza-following-collapse-of-cease-fire-73eec04e</id>
+    <content type="html">The intensified strikes opened what could be the next phase of Israel’s war against Hamas, as negotiators pushed to reinstate a pause in the fighting.</content>
+    <link href="https://www.wsj.com/articles/israel-steps-up-attacks-in-southern-gaza-following-collapse-of-cease-fire-73eec04e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>What&#39;s at Stake at COP28 in Dubai</title>
     <updated>2023-12-02T08:28:00Z</updated>
