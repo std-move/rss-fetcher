@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-03T03:11:44Z</updated>
+  <updated>2023-12-03T04:13:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Billions in U.S. Funding Hasn&#39;t Convinced Developing World to Ditch Coal</title>
+    <updated>2023-12-03T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-03:/articles/billions-in-u-s-funding-hasnt-convinced-developing-world-to-ditch-coal-f11ffa57</id>
+    <content type="html">South Africa and Indonesia are backtracking on commitments to burn less of the dirtiest fossil fuel.</content>
+    <link href="https://www.wsj.com/articles/billions-in-u-s-funding-hasnt-convinced-developing-world-to-ditch-coal-f11ffa57" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Dead or Alive? The Hunt for a Ukrainian Soldier Missing on a Chaotic Battlefield</title>
+    <updated>2023-12-03T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-03:/articles/dead-or-alive-the-hunt-for-a-ukrainian-soldier-missing-on-a-chaotic-battlefield-5e90676b</id>
+    <content type="html">Ruslan Finchuk, a Ukrainian senior sergeant and experienced soldier, was last seen in enemy territory under machine gun fire. His unit told his wife he was missing, presumed dead.</content>
+    <link href="https://www.wsj.com/articles/dead-or-alive-the-hunt-for-a-ukrainian-soldier-missing-on-a-chaotic-battlefield-5e90676b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Palestinians in West Bank Flee After Settler Violence: &#39;We Were Forced to Leave&#39;</title>
+    <updated>2023-12-03T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-03:/articles/palestinians-in-west-bank-flee-after-settler-violence-we-were-forced-to-leave-7d3c1988</id>
+    <content type="html">Since the start of the war in Gaza, around 1,000 Palestinians living in the West Bank have left their homes.</content>
+    <link href="https://www.wsj.com/articles/palestinians-in-west-bank-flee-after-settler-violence-we-were-forced-to-leave-7d3c1988" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Foiled Plot to Kill U.S. Sikh Is Linked to Murder of Canadian Activist</title>
     <updated>2023-12-02T16:00:00Z</updated>
