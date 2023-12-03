@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-03T18:13:10Z</updated>
+  <updated>2023-12-03T19:08:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Gaza Truce Talks Focus on Women Held Hostage by Hamas Rivals</title>
-    <updated>2023-12-03T13:30:00Z</updated>
+    <title>Israel-Gaza Deal Talks Stall as Fighting Ramps Up</title>
+    <updated>2023-12-03T19:03:00Z</updated>
     <id>tag:www.wsj.com,2023-12-03:/articles/gaza-truce-talks-focus-on-women-held-hostage-by-hamas-rivals-64633c49</id>
-    <content type="html">The issue potentially complicates efforts to revive a cease-fire in the Palestinian enclave, where the Israeli military is expanding its attacks.</content>
+    <content type="html">The White House says negotiations have stopped, but Arab diplomats keep looking for a compromise to release hostages and pause the war.</content>
     <link href="https://www.wsj.com/articles/gaza-truce-talks-focus-on-women-held-hostage-by-hamas-rivals-64633c49" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
