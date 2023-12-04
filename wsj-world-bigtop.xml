@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-04T22:10:49Z</updated>
+  <updated>2023-12-04T23:11:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Israel, Hamas Engage in Some of Fiercest Fighting of War</title>
-    <updated>2023-12-04T21:56:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-04:/articles/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859</id>
-    <content type="html">Israel is looking to decisively finish its operations in and around Gaza City while launching its offensive in the south.</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
