@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-04T03:12:23Z</updated>
+  <updated>2023-12-04T04:14:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israeli Peace Activists Face Reckoning After Hamas Attacks</title>
+    <updated>2023-12-04T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-04:/articles/israeli-peace-activists-face-reckoning-after-hamas-attack-8a075fdc</id>
+    <content type="html">Some from the worst-affected communities say they remain committed to peaceful coexistence with Palestinians.</content>
+    <link href="https://www.wsj.com/articles/israeli-peace-activists-face-reckoning-after-hamas-attack-8a075fdc" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Evan Gershkovich, Detained for 250 Days, Is Still Bringing His Friends Together</title>
+    <updated>2023-12-04T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-04:/articles/evan-gershkovich-detained-for-250-days-is-still-bringing-his-friends-together-68894f4e</id>
+    <content type="html">The Wall Street Journal reporter’s friends have become even closer while fighting for his release.</content>
+    <link href="https://www.wsj.com/articles/evan-gershkovich-detained-for-250-days-is-still-bringing-his-friends-together-68894f4e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
