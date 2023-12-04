@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-04T15:12:17Z</updated>
+  <updated>2023-12-04T16:15:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel, Hamas Engage in Some of Fiercest Fighting of War</title>
+    <updated>2023-12-04T15:46:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-04:/articles/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859</id>
+    <content type="html">Israel is looking to decisively finish its operations in and around Gaza City while launching its offensive in the south.</content>
+    <link href="https://www.wsj.com/articles/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
+    <updated>2023-12-04T15:39:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-04:/articles/hamas-hostages-israel-gaza-41432124</id>
+    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Ukrainian Sniper Breaks Cover to Claim World-Record Hit of More Than 2 Miles</title>
     <updated>2023-12-04T14:16:00Z</updated>
