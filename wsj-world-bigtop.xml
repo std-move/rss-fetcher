@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-04T00:54:42Z</updated>
+  <updated>2023-12-04T01:55:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>What&#39;s at Stake at COP28 in Dubai</title>
-    <updated>2023-12-03T22:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-03:/articles/whats-at-stake-at-cop28-in-dubai-4a51f763</id>
-    <content type="html">Negotiations are set to center on a review of progress in reducing global warming, the future of fossil fuels, financing and a fund to pay for climate damage.</content>
-    <link href="https://www.wsj.com/articles/whats-at-stake-at-cop28-in-dubai-4a51f763" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
