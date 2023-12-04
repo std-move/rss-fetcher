@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-04T14:11:12Z</updated>
+  <updated>2023-12-04T15:12:17Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Palestinians Face Harrowing Hunt for Safety as War Intensifies</title>
-    <updated>2023-12-04T12:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-04:/articles/israel-hamas-war-palestinians-safety-1894fead</id>
-    <content type="html">Israel urges civilians to move out of harm’s way, while families in Gaza say ‘there’s nowhere else to go.’</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-war-palestinians-safety-1894fead" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel, Hamas Engage in Some of Fiercest Fighting of War</title>
-    <updated>2023-12-04T12:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-04:/articles/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859</id>
-    <content type="html">Israel is looking to decisively finish its operations in and around Gaza City and prepare to move its offensive south.</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859" rel="alternate"></link>
+    <title>Ukrainian Sniper Breaks Cover to Claim World-Record Hit of More Than 2 Miles</title>
+    <updated>2023-12-04T14:16:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-04:/articles/ukrainian-sniper-breaks-cover-to-claim-world-record-hit-of-more-than-2-miles-2b1c820e</id>
+    <content type="html">The shot has offered Ukraine a morale boost as the country’s forces struggle to make headway at the front line.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-sniper-breaks-cover-to-claim-world-record-hit-of-more-than-2-miles-2b1c820e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
