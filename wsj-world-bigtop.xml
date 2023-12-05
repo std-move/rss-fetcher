@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-05T11:10:10Z</updated>
+  <updated>2023-12-05T12:22:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Presses Assault on Hamas&#39;s Last Major Gaza Bastion</title>
+    <updated>2023-12-05T11:06:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-05:/articles/israel-presses-assault-on-hamass-last-major-gaza-bastion-aabd85b8</id>
+    <content type="html">Israeli forces closed in on the city of Khan Younis in the Gaza Strip on Tuesday, engaging in close combat with Hamas fighters in what could be the decisive battle of the two-month-old war.</content>
+    <link href="https://www.wsj.com/articles/israel-presses-assault-on-hamass-last-major-gaza-bastion-aabd85b8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
