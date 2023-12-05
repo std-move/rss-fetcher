@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-05T05:11:15Z</updated>
+  <updated>2023-12-05T06:15:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The Violent Homecoming of Russian Convicts Freed to Fight in Ukraine</title>
-    <updated>2023-12-05T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-05:/articles/russia-convicts-ukraine-wagner-storm-z-prigozhin-0fe28acc</id>
-    <content type="html">Wave of new, brutal crimes comes as former prisoners finish military contracts and go home; ‘thousands of criminals are walking our streets’</content>
-    <link href="https://www.wsj.com/articles/russia-convicts-ukraine-wagner-storm-z-prigozhin-0fe28acc" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
