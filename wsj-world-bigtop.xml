@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-06T12:22:16Z</updated>
+  <updated>2023-12-06T13:14:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Says It Has Killed Half of Hamas&#39;s Battalion Commanders</title>
     <updated>2023-12-06T12:01:00Z</updated>
     <id>tag:www.wsj.com,2023-12-06:/articles/israel-says-it-has-killed-half-of-hamass-battalion-commanders-34a1c058</id>
-    <content type="html">Israeli forces are homing in on Khan Younis, the southern Gaza city where they say the group’s leader could be hiding.</content>
+    <content type="html">Israeli forces are homing in on Khan Younis, the southern Gaza city where they say the group’s leadership could be hiding.</content>
     <link href="https://www.wsj.com/articles/israel-says-it-has-killed-half-of-hamass-battalion-commanders-34a1c058" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
