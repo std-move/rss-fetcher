@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-06T05:11:22Z</updated>
+  <updated>2023-12-06T06:15:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>&#39;El Loco&#39; Won the Argentina Election Last Month with Outlandish Ideas. Now He&#39;s Backpedaling.</title>
+    <title>Climate Change Made Their Homes Unsafe. Who Pays for Their Move?</title>
+    <updated>2023-12-06T05:10:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-06:/articles/climate-change-made-their-homes-unsafe-who-pays-for-their-move-e9471547</id>
+    <content type="html">Developing countries like Uganda, where more rain is causing deadly landslides, will press rich nations at international climate talks for more adaptation funding.</content>
+    <link href="https://www.wsj.com/articles/climate-change-made-their-homes-unsafe-who-pays-for-their-move-e9471547" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>&#39;El Loco&#39; Won the Argentina Election Last Month With Outlandish Ideas. Now He&#39;s Backpedaling.</title>
     <updated>2023-12-06T05:01:00Z</updated>
     <id>tag:www.wsj.com,2023-12-06:/articles/javier-milei-argentina-president-inauguration-9574d812</id>
     <content type="html">Javier Milei, who pledged to kill the central bank, cut ties with China and slash public spending has taken a softer tone ahead of his inauguration,</content>
