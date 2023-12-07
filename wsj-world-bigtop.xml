@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-07T14:11:03Z</updated>
+  <updated>2023-12-07T15:12:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Fight for Gaza&#39;s Khan Younis Puts Israel, U.S. on Collision Course</title>
+    <updated>2023-12-07T14:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-07:/articles/fight-for-gazas-khan-younis-puts-israel-u-s-on-collision-course-75f54f31</id>
+    <content type="html">The fight for Hamas’s most significant remaining military stronghold is critical for Israel’s war aims but could put it at odds with a U.S. push for fewer civilian casualties and a more limited conflict.</content>
+    <link href="https://www.wsj.com/articles/fight-for-gazas-khan-younis-puts-israel-u-s-on-collision-course-75f54f31" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
