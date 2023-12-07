@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-07T17:11:11Z</updated>
+  <updated>2023-12-07T18:14:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Looting, Other Crimes Break Out in Southern Gaza as Israel Presses Assault</title>
-    <updated>2023-12-07T15:25:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-07:/articles/looting-other-crimes-break-out-in-southern-gaza-as-israel-presses-assault-b81496d0</id>
-    <content type="html">Ongoing fighting in the Gaza Strip has blocked efforts to deliver food, water and fuel to Palestinians who are increasingly reporting cases of starvation and disease.</content>
-    <link href="https://www.wsj.com/articles/looting-other-crimes-break-out-in-southern-gaza-as-israel-presses-assault-b81496d0" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
