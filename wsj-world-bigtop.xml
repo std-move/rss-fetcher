@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-08T14:10:57Z</updated>
+  <updated>2023-12-08T15:12:09Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Austin Tried to Reform Its Policing. Three Years Later, No One Is Happy.</title>
+    <updated>2023-12-08T14:12:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-08:/articles/austin-tried-to-reform-its-policing-three-years-later-no-one-is-happy-4e5e28a7</id>
+    <content type="html">After 2020 protests, a new district attorney indicted officers, but ended up dropping most of the cases.</content>
+    <link href="https://www.wsj.com/articles/austin-tried-to-reform-its-policing-three-years-later-no-one-is-happy-4e5e28a7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Troubled by a Resurgent Russia and Bickering Allies, Ukraine Hunkers Down</title>
     <updated>2023-12-08T13:00:00Z</updated>
