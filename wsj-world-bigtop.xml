@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-08T21:10:06Z</updated>
+  <updated>2023-12-08T22:10:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The Epicenter of Gaza Humanitarian Crisis Is This Border Town</title>
-    <updated>2023-12-08T19:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-08:/articles/the-epicenter-of-gaza-humanitarian-crisis-is-this-border-town-65497b7c</id>
-    <content type="html">The U.N. warns that Rafah, on the Egyptian frontier, could soon host half of the Palestinian territory’s 2.2 million population.</content>
-    <link href="https://www.wsj.com/articles/the-epicenter-of-gaza-humanitarian-crisis-is-this-border-town-65497b7c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>FDA Approves World&#39;s First Crispr Gene-Editing Drug for Sickle-Cell Disease</title>
-    <updated>2023-12-08T18:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-08:/articles/fda-approves-worlds-first-crispr-gene-editing-drug-for-sickle-cell-disease-8c65fbb3</id>
-    <content type="html">The U.S. has approved the world’s first medicine employing Crispr technology, a Nobel Prize-winning discovery that promised a powerful new tool to treat disease.</content>
-    <link href="https://www.wsj.com/articles/fda-approves-worlds-first-crispr-gene-editing-drug-for-sickle-cell-disease-8c65fbb3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Pressure Ramps Up for Gaza Cease-Fire as Israel Races to Eliminate Hamas</title>
-    <updated>2023-12-08T18:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-08:/articles/u-n-ramps-up-pressure-for-gaza-cease-fire-as-israel-races-to-eliminate-hamas-dd1dbdd6</id>
-    <content type="html">Israel’s accelerating campaign to destroy Hamas is driving up civilian casualties and deepening a humanitarian crisis in Gaza.</content>
-    <link href="https://www.wsj.com/articles/u-n-ramps-up-pressure-for-gaza-cease-fire-as-israel-races-to-eliminate-hamas-dd1dbdd6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
