@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-08T17:10:33Z</updated>
+  <updated>2023-12-08T18:14:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>FDA Approves World&#39;s First Crispr Gene-Editing Drug for Sickle-Cell Disease</title>
-    <updated>2023-12-08T16:45:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-08:/articles/fda-approves-worlds-first-crispr-gene-editing-drug-for-sickle-cell-disease-8c65fbb3</id>
-    <content type="html">The U.S. has approved the world’s first medicine employing Crispr technology, a Nobel Prize-winning discovery that promised a powerful new tool to treat disease.</content>
-    <link href="https://www.wsj.com/articles/fda-approves-worlds-first-crispr-gene-editing-drug-for-sickle-cell-disease-8c65fbb3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
-    <updated>2023-12-08T15:05:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-08:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
