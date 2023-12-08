@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-08T06:15:26Z</updated>
+  <updated>2023-12-08T07:10:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Palestinian Families Seek Medical Care Outside Besieged Gaza</title>
-    <updated>2023-12-08T05:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-08:/articles/palestinian-families-seek-medical-care-outside-besieged-gaza-78ee07ed</id>
-    <content type="html">Egypt and the U.A.E. are bringing out some of the injured and ill, but many families are separated and left behind.</content>
-    <link href="https://www.wsj.com/articles/palestinian-families-seek-medical-care-outside-besieged-gaza-78ee07ed" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>In One of the Least Diverse Nations, an American Outsider Shakes Up Politics</title>
     <updated>2023-12-08T05:04:00Z</updated>
     <id>tag:www.wsj.com,2023-12-08:/articles/in-one-of-the-least-diverse-nations-an-american-outsider-shakes-up-politics-089192dd</id>
     <content type="html">John Linton, born and raised in South Korea, tries to rejuvenate that country’s ruling party.</content>
     <link href="https://www.wsj.com/articles/in-one-of-the-least-diverse-nations-an-american-outsider-shakes-up-politics-089192dd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Palestinian Families Seek Medical Care Outside Besieged Gaza</title>
+    <updated>2023-12-08T05:04:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-08:/articles/palestinian-families-seek-medical-care-outside-besieged-gaza-78ee07ed</id>
+    <content type="html">Egypt and the U.A.E. are bringing out some of the injured and ill, but many families are separated and left behind.</content>
+    <link href="https://www.wsj.com/articles/palestinian-families-seek-medical-care-outside-besieged-gaza-78ee07ed" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
