@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-08T13:13:53Z</updated>
+  <updated>2023-12-08T14:10:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-12-08:/articles/troubled-by-a-resurgent-russia-and-bickering-allies-ukraine-hunkers-down-fd8240f1</id>
     <content type="html">Kyiv is preparing for adversity on many fronts as doubts build over the prospect of more U.S. arms and EU money.</content>
     <link href="https://www.wsj.com/articles/troubled-by-a-resurgent-russia-and-bickering-allies-ukraine-hunkers-down-fd8240f1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.N. Ramps Up Pressure for Gaza Cease-Fire as Israel Races to Eliminate Hamas</title>
-    <updated>2023-12-08T12:13:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-08:/articles/u-n-ramps-up-pressure-for-gaza-cease-fire-as-israel-races-to-eliminate-hamas-dd1dbdd6</id>
-    <content type="html">The Israeli war effort in Gaza intensified as the country’s leaders try to achieve their goals before international and domestic pressures force an end to active combat.</content>
-    <link href="https://www.wsj.com/articles/u-n-ramps-up-pressure-for-gaza-cease-fire-as-israel-races-to-eliminate-hamas-dd1dbdd6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
