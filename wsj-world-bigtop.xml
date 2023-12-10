@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-10T20:11:24Z</updated>
+  <updated>2023-12-10T21:09:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Detains Hundreds of Palestinian Men in Search for Hamas</title>
-    <updated>2023-12-10T17:50:00Z</updated>
+    <updated>2023-12-10T20:30:00Z</updated>
     <id>tag:www.wsj.com,2023-12-10:/articles/israel-says-groups-of-hamas-militants-surrendered-amid-gaza-fighting-7891bc22</id>
     <content type="html">Videos online have shown Palestinian men in their underwear, some handing over weapons. Hamas says the men are civilians.</content>
     <link href="https://www.wsj.com/articles/israel-says-groups-of-hamas-militants-surrendered-amid-gaza-fighting-7891bc22" rel="alternate"></link>
