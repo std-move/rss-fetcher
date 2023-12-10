@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-10T04:13:48Z</updated>
+  <updated>2023-12-10T05:10:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The Hamas Leader Who Studied Israel&#39;s Psyche---and Is Betting His Life on What He Learned</title>
+    <updated>2023-12-10T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-10:/articles/hamas-yahya-sinwar-israel-palestinian-hostages-6407dc41</id>
+    <content type="html">Yahya Sinwar drove a strategy to exploit Israel’s willingness to trade Palestinian prisoners for hostages. The Gaza leader spent two decades in prison in Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-yahya-sinwar-israel-palestinian-hostages-6407dc41" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Overcrowded and Dangerous: Life in Gaza&#39;s &#39;Deconfliction Zones&#39;</title>
     <updated>2023-12-09T21:24:00Z</updated>
