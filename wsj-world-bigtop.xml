@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-10T10:11:05Z</updated>
+  <updated>2023-12-10T11:08:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Rats and Mud Compound the Miseries of Life in Ukraine&#39;s Trenches</title>
+    <updated>2023-12-10T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-10:/articles/rats-and-mud-compound-the-miseries-of-life-in-ukraines-trenches-a9be216b</id>
+    <content type="html">Conditions reminiscent of World War I are a “fight within a fight” for troops under Russian attack across increasingly static front lines.</content>
+    <link href="https://www.wsj.com/articles/rats-and-mud-compound-the-miseries-of-life-in-ukraines-trenches-a9be216b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Hamas Leader Who Studied Israel&#39;s Psyche---and Is Betting His Life on What He Learned</title>
     <updated>2023-12-10T05:01:00Z</updated>
