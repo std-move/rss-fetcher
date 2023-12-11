@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-11T09:12:51Z</updated>
+  <updated>2023-12-11T10:13:21Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Alarm Grows Over Weakened Militaries and Empty Arsenals in Europe</title>
+    <updated>2023-12-11T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-11:/articles/alarm-nato-weak-military-empty-arsenals-europe-a72b23f4</id>
+    <content type="html">Budget cuts and an eroded weapons industry have hollowed out armed services. Russia’s invasion of Ukraine has revealed the risk.</content>
+    <link href="https://www.wsj.com/articles/alarm-nato-weak-military-empty-arsenals-europe-a72b23f4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
