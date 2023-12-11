@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-11T11:10:23Z</updated>
+  <updated>2023-12-11T12:22:53Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israelis Flock to Buy Guns as Sense of Security Shatters</title>
+    <updated>2023-12-11T11:39:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-11:/articles/israelis-flock-to-buy-guns-as-sense-of-security-shatters-720b0935</id>
+    <content type="html">Many civilians who never thought about owning a weapon are now applying for one, after their faith in the security forces was shaken by the Oct. 7 attacks.</content>
+    <link href="https://www.wsj.com/articles/israelis-flock-to-buy-guns-as-sense-of-security-shatters-720b0935" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Hate Crimes in U.S. Increase Amid Israel-Hamas War</title>
     <updated>2023-12-11T10:30:00Z</updated>
