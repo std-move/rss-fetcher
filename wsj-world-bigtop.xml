@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-11T20:12:48Z</updated>
+  <updated>2023-12-11T21:10:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukraine&#39;s Zelensky Is Facing a Turning Point as He Heads to Washington</title>
+    <updated>2023-12-11T20:36:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-11:/articles/ukraines-zelensky-heads-to-washington-facing-turning-point-e0773603</id>
+    <content type="html">The Ukrainian president’s visit reflects his country’s existential urgency of maintaining the flow of weapons from the U.S., which has been the country’s primary arms supplier.</content>
+    <link href="https://www.wsj.com/articles/ukraines-zelensky-heads-to-washington-facing-turning-point-e0773603" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Hate Crimes in U.S. Increase Amid Israel-Hamas War</title>
+    <updated>2023-12-11T20:18:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-11:/articles/hate-crimes-in-u-s-increase-amid-israel-hamas-war-79f5fd77</id>
+    <content type="html">Reported incidents—including vandalism and attacks—are up in many cities, with Jews and Muslims often the victims.</content>
+    <link href="https://www.wsj.com/articles/hate-crimes-in-u-s-increase-amid-israel-hamas-war-79f5fd77" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel Warns Hezbollah to Pull Back Forces to Avert War</title>
     <updated>2023-12-11T19:52:00Z</updated>
     <id>tag:www.wsj.com,2023-12-11:/articles/israel-warns-hezbollah-to-pull-back-forces-to-avert-war-5294f412</id>
     <content type="html">Israel has evacuated tens of thousands of civilians from northern Israel and transformed border communities into de facto military bases amid fears of an expansion of the war.</content>
     <link href="https://www.wsj.com/articles/israel-warns-hezbollah-to-pull-back-forces-to-avert-war-5294f412" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Ukraine&#39;s Zelensky Is Facing a Turning Point as He Heads to Washington</title>
-    <updated>2023-12-11T18:51:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-11:/articles/ukraines-zelensky-heads-to-washington-facing-turning-point-e0773603</id>
-    <content type="html">The Ukrainian president’s visit reflects his country’s existential urgency of maintaining the flow of weapons from the U.S., which has been the country’s primary arms supplier.</content>
-    <link href="https://www.wsj.com/articles/ukraines-zelensky-heads-to-washington-facing-turning-point-e0773603" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
