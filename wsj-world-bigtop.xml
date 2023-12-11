@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-11T18:15:11Z</updated>
+  <updated>2023-12-11T19:09:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The Forgotten Man of mRNA Research</title>
-    <updated>2023-12-11T17:14:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-11:/articles/the-forgotten-man-of-mrna-research-7e0e54f0</id>
-    <content type="html">Jason Schrum’s work helped lay the foundation for Moderna’s mRNA Covid vaccine, but he hasn’t won any prizes or royalties and left the company after disagreements.</content>
-    <link href="https://www.wsj.com/articles/the-forgotten-man-of-mrna-research-7e0e54f0" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Ukraine&#39;s Zelensky Is Facing a Turning Point as He Heads to Washington</title>
-    <updated>2023-12-11T17:06:00Z</updated>
+    <updated>2023-12-11T18:51:00Z</updated>
     <id>tag:www.wsj.com,2023-12-11:/articles/ukraines-zelensky-heads-to-washington-facing-turning-point-e0773603</id>
     <content type="html">The Ukrainian president’s visit reflects his country’s existential urgency of maintaining the flow of weapons from the U.S., which has been the country’s primary arms supplier.</content>
     <link href="https://www.wsj.com/articles/ukraines-zelensky-heads-to-washington-facing-turning-point-e0773603" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israel Warns Hezbollah to Pull Back Forces to Avert War</title>
-    <updated>2023-12-11T16:27:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-11:/articles/israel-warns-hezbollah-to-pull-back-forces-to-avert-war-5294f412</id>
-    <content type="html">Israel has evacuated tens of thousands of civilians from northern Israel and transformed border communities into de facto military bases amid fears of an expansion of the war.</content>
-    <link href="https://www.wsj.com/articles/israel-warns-hezbollah-to-pull-back-forces-to-avert-war-5294f412" rel="alternate"></link>
+    <title>The Forgotten Man of mRNA Research</title>
+    <updated>2023-12-11T17:14:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-11:/articles/the-forgotten-man-of-mrna-research-7e0e54f0</id>
+    <content type="html">Jason Schrum’s work helped lay the foundation for Moderna’s mRNA Covid vaccine, but he hasn’t won any prizes or royalties and left the company after disagreements.</content>
+    <link href="https://www.wsj.com/articles/the-forgotten-man-of-mrna-research-7e0e54f0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
