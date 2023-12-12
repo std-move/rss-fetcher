@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-12T22:10:56Z</updated>
+  <updated>2023-12-12T23:12:20Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>In Dueling Remarks, Biden and Netanyahu Spar Over Gaza&#39;s Future</title>
-    <updated>2023-12-12T21:40:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-12:/articles/israels-netanyahu-rejects-u-s-plan-for-post-war-gaza-d60fc0c3</id>
-    <content type="html">President Biden and Israel’s prime minister clashed over who should govern Gaza after the war, in a remarkable public display of differences emerging between the two leaders.</content>
-    <link href="https://www.wsj.com/articles/israels-netanyahu-rejects-u-s-plan-for-post-war-gaza-d60fc0c3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Begins Pumping Seawater Into Hamas&#39;s Gaza Tunnels</title>
-    <updated>2023-12-12T21:06:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-12:/articles/israel-hamas-war-pumping-seawater-gaza-tunnels-2ed3b3f2</id>
-    <content type="html">The effort, which is at an early stage, is part of an intensive campaign to destroy the underground infrastructure that has underpinned the militant group’s operations.</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-war-pumping-seawater-gaza-tunnels-2ed3b3f2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
