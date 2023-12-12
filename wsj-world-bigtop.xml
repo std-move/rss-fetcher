@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-12T16:14:20Z</updated>
+  <updated>2023-12-12T17:10:45Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Takes Fight Against Hamas to Vast Tunnel Network</title>
-    <updated>2023-12-12T14:44:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-12:/articles/israel-takes-fight-against-hamas-to-vast-tunnel-network-2ed3b3f2</id>
-    <content type="html">Israeli forces are tightening their grip over Hamas’s remaining northern bastions, but doing so means conquering the tunnels that underpin Hamas’s rule across Gaza.</content>
-    <link href="https://www.wsj.com/articles/israel-takes-fight-against-hamas-to-vast-tunnel-network-2ed3b3f2" rel="alternate"></link>
+    <title>Israel&#39;s Netanyahu Rejects U.S. Plan for Postwar Gaza</title>
+    <updated>2023-12-12T16:43:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-12:/articles/israels-netanyahu-rejects-u-s-plan-for-post-war-gaza-d60fc0c3</id>
+    <content type="html">The prime minister said he won’t allow the Palestinian Authority to take over Gaza, his sharpest comments yet against the White House plan for after the war.</content>
+    <link href="https://www.wsj.com/articles/israels-netanyahu-rejects-u-s-plan-for-post-war-gaza-d60fc0c3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
