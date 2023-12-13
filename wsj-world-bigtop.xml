@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-13T13:15:08Z</updated>
+  <updated>2023-12-13T14:11:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Why Are Cities Closing Shelters If Homelessness Is Rising?</title>
+    <updated>2023-12-13T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-13:/articles/why-are-cities-closing-shelters-if-homelessness-is-rising-c73cdbcd</id>
+    <content type="html">Financial constraints, the end of Covid-19 relief funds and public pressure to revive downtowns have contributed to closures.</content>
+    <link href="https://www.wsj.com/articles/why-are-cities-closing-shelters-if-homelessness-is-rising-c73cdbcd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Soldiers Surrender, Bases Fall and a Powerful Army No Longer Seems Invincible</title>
     <updated>2023-12-13T13:00:00Z</updated>
