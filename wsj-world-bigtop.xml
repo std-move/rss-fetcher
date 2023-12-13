@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-13T17:11:00Z</updated>
+  <updated>2023-12-13T18:12:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukrainian Civilians Endure Russian Missile Barrage, Cyberattack</title>
+    <updated>2023-12-13T17:17:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-13:/articles/ukrainian-civilians-endure-russian-missile-barrage-cyberattack-c55bb286</id>
+    <content type="html">Ukrainian leaders say Russia is trying to hit residential areas as the war’s front line turns to a bloody stalemate.</content>
+    <link href="https://www.wsj.com/articles/ukrainian-civilians-endure-russian-missile-barrage-cyberattack-c55bb286" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
