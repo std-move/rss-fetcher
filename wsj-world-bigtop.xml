@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-13T15:12:12Z</updated>
+  <updated>2023-12-13T16:14:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Why Are Cities Closing Shelters If Homelessness Is Rising?</title>
-    <updated>2023-12-13T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-13:/articles/why-are-cities-closing-shelters-if-homelessness-is-rising-c73cdbcd</id>
-    <content type="html">Financial constraints, the end of Covid-19 relief funds and public pressure to revive downtowns have contributed to closures.</content>
-    <link href="https://www.wsj.com/articles/why-are-cities-closing-shelters-if-homelessness-is-rising-c73cdbcd" rel="alternate"></link>
+    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
+    <updated>2023-12-13T15:25:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-13:/articles/hamas-hostages-israel-gaza-41432124</id>
+    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
+    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
