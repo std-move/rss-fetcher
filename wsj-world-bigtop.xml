@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-13T12:22:03Z</updated>
+  <updated>2023-12-13T13:15:08Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel, Hamas Press On Despite Rising Deaths Tolls on Both Sides</title>
+    <title>Soldiers Surrender, Bases Fall and a Powerful Army No Longer Seems Invincible</title>
+    <updated>2023-12-13T13:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-13:/articles/soldiers-surrender-bases-fall-and-a-powerful-army-no-longer-seems-invincible-dd9f76ec</id>
+    <content type="html">Myanmar’s military is facing its biggest challenge not just since its 2021 coup but in decades and enemies of the junta are making unprecedented gains.</content>
+    <link href="https://www.wsj.com/articles/soldiers-surrender-bases-fall-and-a-powerful-army-no-longer-seems-invincible-dd9f76ec" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israel, Hamas Press On Despite Rising Death Tolls on Both Sides</title>
     <updated>2023-12-13T12:07:00Z</updated>
     <id>tag:www.wsj.com,2023-12-13:/articles/israel-hamas-press-on-despite-rising-deaths-tolls-on-both-sides-afe9787f</id>
     <content type="html">The Israeli military and Palestinian officials are reporting heavy losses as fighting intensifies and Israel faces pressure to wind up war.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-press-on-despite-rising-deaths-tolls-on-both-sides-afe9787f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>AccusedCuban AgentWas Seenas All-American Success Story</title>
-    <updated>2023-12-13T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-13:/articles/accusedcuban-agentwas-seenas-all-american-success-story-80d9aa4f</id>
-    <content type="html">Former Ambassador Manuel Rocha came to the U.S. poor and worked his way up in the State Department.</content>
-    <link href="https://www.wsj.com/articles/accusedcuban-agentwas-seenas-all-american-success-story-80d9aa4f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
