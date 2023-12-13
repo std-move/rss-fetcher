@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-13T01:55:11Z</updated>
+  <updated>2023-12-13T02:26:00Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Why It Took 17 Years to Build 49 Housing Units in Los Angeles</title>
+    <updated>2023-12-13T02:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-13:/articles/housing-affordable-building-real-estate-db1d696e</id>
+    <content type="html">An affordable housing development has faced nearly every hurdle that California laws allow.</content>
+    <link href="https://www.wsj.com/articles/housing-affordable-building-real-estate-db1d696e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
