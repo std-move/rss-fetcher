@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-13T10:12:37Z</updated>
+  <updated>2023-12-13T11:09:58Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Begins Pumping Seawater Into Hamas&#39;s Gaza Tunnels</title>
-    <updated>2023-12-13T06:54:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-13:/articles/israel-hamas-war-pumping-seawater-gaza-tunnels-2ed3b3f2</id>
-    <content type="html">The effort, which is at an early stage, is part of an intensive campaign to destroy the underground infrastructure that has underpinned the militant group’s operations.</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-war-pumping-seawater-gaza-tunnels-2ed3b3f2" rel="alternate"></link>
+    <title>AccusedCuban AgentWas Seenas All-American Success Story</title>
+    <updated>2023-12-13T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-13:/articles/accusedcuban-agentwas-seenas-all-american-success-story-80d9aa4f</id>
+    <content type="html">Former Ambassador Manuel Rocha came to the U.S. poor and worked his way up in the State Department.</content>
+    <link href="https://www.wsj.com/articles/accusedcuban-agentwas-seenas-all-american-success-story-80d9aa4f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
