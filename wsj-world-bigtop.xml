@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-13T14:11:18Z</updated>
+  <updated>2023-12-13T15:12:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2023-12-13:/articles/why-are-cities-closing-shelters-if-homelessness-is-rising-c73cdbcd</id>
     <content type="html">Financial constraints, the end of Covid-19 relief funds and public pressure to revive downtowns have contributed to closures.</content>
     <link href="https://www.wsj.com/articles/why-are-cities-closing-shelters-if-homelessness-is-rising-c73cdbcd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Soldiers Surrender, Bases Fall and a Powerful Army No Longer Seems Invincible</title>
-    <updated>2023-12-13T13:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-13:/articles/soldiers-surrender-bases-fall-and-a-powerful-army-no-longer-seems-invincible-dd9f76ec</id>
-    <content type="html">Myanmar’s military is facing its biggest challenge not just since its 2021 coup but in decades and enemies of the junta are making unprecedented gains.</content>
-    <link href="https://www.wsj.com/articles/soldiers-surrender-bases-fall-and-a-powerful-army-no-longer-seems-invincible-dd9f76ec" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel, Hamas Press On Despite Rising Death Tolls on Both Sides</title>
-    <updated>2023-12-13T12:07:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-13:/articles/israel-hamas-press-on-despite-rising-deaths-tolls-on-both-sides-afe9787f</id>
-    <content type="html">The Israeli military and Palestinian officials are reporting heavy losses as fighting intensifies and Israel faces pressure to wind up war.</content>
-    <link href="https://www.wsj.com/articles/israel-hamas-press-on-despite-rising-deaths-tolls-on-both-sides-afe9787f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
