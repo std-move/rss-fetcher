@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-16T12:19:43Z</updated>
+  <updated>2023-12-16T13:12:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel and Qatar Explore Revival of Deal for Gaza Hostages</title>
-    <updated>2023-12-16T11:20:00Z</updated>
+    <title>Israel Says Its Soldiers Killed Israeli Hostages as They Held Up White Flag</title>
+    <updated>2023-12-16T13:05:00Z</updated>
     <id>tag:www.wsj.com,2023-12-16:/articles/israel-and-qatar-explore-revival-of-deal-for-gaza-hostages-ff7af151</id>
-    <content type="html">A planned meeting in Oslo comes a day after the Israeli military said it had mistakenly killed three hostages during fighting in Gaza.</content>
+    <content type="html">The Israeli military said the decision by two soldiers to open fire violated its rules of engagement.</content>
     <link href="https://www.wsj.com/articles/israel-and-qatar-explore-revival-of-deal-for-gaza-hostages-ff7af151" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
