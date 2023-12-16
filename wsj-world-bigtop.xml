@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-16T02:22:43Z</updated>
+  <updated>2023-12-16T03:12:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Matthew Perry Died From Effects of Ketamine, Autopsy Shows</title>
-    <updated>2023-12-16T01:13:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-16:/articles/matthew-perry-cause-of-death-56f8f456</id>
-    <content type="html">The 54-year-old “Friends” actor was found unresponsive at his California home in October.</content>
-    <link href="https://www.wsj.com/articles/matthew-perry-cause-of-death-56f8f456" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hunger Spreads in Gaza as Fighting Rages</title>
-    <updated>2023-12-15T22:48:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-15:/articles/hunger-spreads-in-gaza-as-fighting-rages-677b73d8</id>
-    <content type="html">Aid deliveries fall short of soaring needs in the enclave, where the food-supply system has collapsed.</content>
-    <link href="https://www.wsj.com/articles/hunger-spreads-in-gaza-as-fighting-rages-677b73d8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
