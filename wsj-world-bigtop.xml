@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-16T00:53:38Z</updated>
+  <updated>2023-12-16T01:52:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Matthew Perry Died From Effects of Ketamine, Autopsy Shows</title>
-    <updated>2023-12-16T00:18:00Z</updated>
+    <updated>2023-12-16T01:13:00Z</updated>
     <id>tag:www.wsj.com,2023-12-16:/articles/matthew-perry-cause-of-death-56f8f456</id>
-    <content type="html">The 54-year-old ‘Friends’ actor was found unresponsive at his California home in October.</content>
+    <content type="html">The 54-year-old “Friends” actor was found unresponsive at his California home in October.</content>
     <link href="https://www.wsj.com/articles/matthew-perry-cause-of-death-56f8f456" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
