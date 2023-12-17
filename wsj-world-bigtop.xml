@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-17T15:10:24Z</updated>
+  <updated>2023-12-17T16:13:27Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Jeffrey Epstein Never Stopped Abusing Women---and His VIP Circle Helped Make It Possible</title>
-    <updated>2023-12-17T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-17:/articles/jeffrey-epstein-sexual-abuse-women-vip-connections-f5451078</id>
-    <content type="html">A WSJ investigation shows Epstein continued ensnaring young women for abuse after his 2008 conviction. This is their story of what happened.</content>
-    <link href="https://www.wsj.com/articles/jeffrey-epstein-sexual-abuse-women-vip-connections-f5451078" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>ChileVotes on Free-Market Constitution After Years of Debate</title>
     <updated>2023-12-17T10:30:00Z</updated>
@@ -21,11 +13,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>From Wastepaper to High Art: Japan Seeks to SaveMangaHeritage</title>
-    <updated>2023-12-17T05:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-17:/articles/from-wastepaper-to-high-art-japan-seeks-to-savemangaheritage-5eb43e11</id>
-    <content type="html">Awakened to the country’s cultural heritage, artists, publishers and museums are trying to preserve original drawings.</content>
-    <link href="https://www.wsj.com/articles/from-wastepaper-to-high-art-japan-seeks-to-savemangaheritage-5eb43e11" rel="alternate"></link>
+    <title>Jeffrey Epstein Never Stopped Abusing Women---and His VIP Circle Helped Make It Possible</title>
+    <updated>2023-12-17T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-17:/articles/jeffrey-epstein-sexual-abuse-women-vip-connections-f5451078</id>
+    <content type="html">A WSJ investigation shows Epstein continued ensnaring young women for abuse after his 2008 conviction. This is their story of what happened.</content>
+    <link href="https://www.wsj.com/articles/jeffrey-epstein-sexual-abuse-women-vip-connections-f5451078" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
