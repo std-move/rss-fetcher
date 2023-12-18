@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-18T13:15:38Z</updated>
+  <updated>2023-12-18T14:11:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>America Had &#39;Quiet Quitting.&#39; In China, Young People Are &#39;Letting It Rot.&#39;</title>
+    <updated>2023-12-18T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-18:/articles/america-had-quiet-quitting-in-china-young-people-are-letting-it-rot-5f10d4a0</id>
+    <content type="html">Demoralized by a weak economy and unfulfilling jobs, young Chinese are dropping out, exploring spirituality and becoming more rebellious, presenting new challenges for Beijing.</content>
+    <link href="https://www.wsj.com/articles/america-had-quiet-quitting-in-china-young-people-are-letting-it-rot-5f10d4a0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>CIA Director in Talks With Israel&#39;s Mossad to Restart Hamas Hostage Deal</title>
+    <updated>2023-12-18T13:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-18:/articles/cia-director-in-talks-with-israelis-to-restart-hamas-hostage-deal-22ac36b6</id>
+    <content type="html">William Burns is meeting with Israeli and Qatari officials as Secretary of Defense Lloyd Austin arrives in Israel.</content>
+    <link href="https://www.wsj.com/articles/cia-director-in-talks-with-israelis-to-restart-hamas-hostage-deal-22ac36b6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>An Israeli Kibbutz Tries to Figure Out Its Future After the Hamas Attacks</title>
     <updated>2023-12-18T12:18:00Z</updated>
     <id>tag:www.wsj.com,2023-12-18:/articles/an-israeli-kibbutz-tries-to-figure-out-its-future-after-the-hamas-attacks-6cc6c4de</id>
     <content type="html">At the Dead Sea resort that has become their temporary home, surviving members of Kibbutz Be’eri grapple with their losses and try to find a way forward.</content>
     <link href="https://www.wsj.com/articles/an-israeli-kibbutz-tries-to-figure-out-its-future-after-the-hamas-attacks-6cc6c4de" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>CIA Director in Talks With Israelis to Restart Hamas Hostage Deal</title>
-    <updated>2023-12-18T11:16:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-18:/articles/cia-director-in-talks-with-israelis-to-restart-hamas-hostage-deal-22ac36b6</id>
-    <content type="html">William Burns is meeting with Israeli and Qatari officials as Secretary of Defense Lloyd Austin arrives in Israel.</content>
-    <link href="https://www.wsj.com/articles/cia-director-in-talks-with-israelis-to-restart-hamas-hostage-deal-22ac36b6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
