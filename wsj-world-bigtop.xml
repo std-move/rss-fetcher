@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-18T04:14:28Z</updated>
+  <updated>2023-12-18T05:11:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Mastermind &#39;Fat Leonard&#39; Got the Last Laugh in a Disastrous Navy Corruption Trial</title>
+    <updated>2023-12-18T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-18:/articles/leonard-francis-navy-corruption-trial-1e3eeb04</id>
+    <content type="html">Businessman Leonard Francis, who bilked the U.S. out of millions, offered to help prosecutors snare crooked Navy officials—then he disappeared.</content>
+    <link href="https://www.wsj.com/articles/leonard-francis-navy-corruption-trial-1e3eeb04" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
