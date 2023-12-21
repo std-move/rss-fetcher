@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-21T20:12:09Z</updated>
+  <updated>2023-12-21T21:10:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-12-21:/articles/gaza-telecom-blackouts-add-to-growing-aid-crisis-1a2558dd</id>
     <content type="html">A top national security aide to Prime Minister Benjamin Netanyahu indicated Israel could accept the West Bank’s leadership but only if it makes fundamental reforms.</content>
     <link href="https://www.wsj.com/articles/gaza-telecom-blackouts-add-to-growing-aid-crisis-1a2558dd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Global Conflicts Stir Sleeping Energy Giant in South America</title>
-    <updated>2023-12-21T17:52:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-21:/articles/global-conflicts-stir-sleeping-energy-giant-in-south-america-11fc831e</id>
-    <content type="html">Argentina’s Vaca Muerta shale field is among the megaprojects ramping up around the region.</content>
-    <link href="https://www.wsj.com/articles/global-conflicts-stir-sleeping-energy-giant-in-south-america-11fc831e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
