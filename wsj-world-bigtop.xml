@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-21T21:10:56Z</updated>
+  <updated>2023-12-21T22:10:16Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Israel Signals It Could Agree to Palestinian Authority Governing Gaza After the War</title>
-    <updated>2023-12-21T19:56:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-21:/articles/gaza-telecom-blackouts-add-to-growing-aid-crisis-1a2558dd</id>
-    <content type="html">A top national security aide to Prime Minister Benjamin Netanyahu indicated Israel could accept the West Bank’s leadership but only if it makes fundamental reforms.</content>
-    <link href="https://www.wsj.com/articles/gaza-telecom-blackouts-add-to-growing-aid-crisis-1a2558dd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
