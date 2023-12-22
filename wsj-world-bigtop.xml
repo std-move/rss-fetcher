@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-22T19:09:06Z</updated>
+  <updated>2023-12-22T20:11:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Hunts for Hamas Leaders in Gaza&#39;s Khan Younis</title>
+    <updated>2023-12-22T20:03:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-22:/articles/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787</id>
+    <content type="html">As military focuses on the southern city, the United Nations passed a resolution supporting more aid to the enclave.</content>
+    <link href="https://www.wsj.com/articles/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Sudan Militia Takes Towns That Were Seen as Havens From War</title>
     <updated>2023-12-22T18:29:00Z</updated>
     <id>tag:www.wsj.com,2023-12-22:/articles/sudan-militia-takes-towns-that-had-been-seen-as-havens-from-war-71a46295</id>
     <content type="html">Many people displaced from Wad Medani had already fled Khartoum earlier in the conflict.</content>
     <link href="https://www.wsj.com/articles/sudan-militia-takes-towns-that-had-been-seen-as-havens-from-war-71a46295" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel Hunts for Hamas Leaders in Gaza&#39;s Khan Younis</title>
-    <updated>2023-12-22T18:24:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-22:/articles/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787</id>
-    <content type="html">As military focuses on the southern city, the United Nations passed a resolution supporting more aid to the enclave.</content>
-    <link href="https://www.wsj.com/articles/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
