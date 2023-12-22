@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-22T16:14:04Z</updated>
+  <updated>2023-12-22T17:10:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Israel Hunts for Hamas Leaders in Gaza&#39;s Khan Younis</title>
-    <updated>2023-12-22T15:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-22:/articles/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787</id>
-    <content type="html">The Israeli military is pouring resources into the southern city to neutralize Hamas’s top brass as the death toll from the operations surpasses 20,000.</content>
-    <link href="https://www.wsj.com/articles/israel-hunts-for-hamas-leaders-in-gazas-khan-younis-eef30787" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Gun Shops Are Helping Prevent Suicide</title>
-    <updated>2023-12-22T15:37:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-22:/articles/how-gun-shops-became-the-new-face-of-suicide-prevention-487e4ee3</id>
-    <content type="html">Groups have set up arrangements where people in crisis can get firearms out of their homes.</content>
-    <link href="https://www.wsj.com/articles/how-gun-shops-became-the-new-face-of-suicide-prevention-487e4ee3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Hamas Took More Than 200 Hostages From Israel. Here&#39;s What We Know.</title>
-    <updated>2023-12-22T15:15:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-22:/articles/hamas-hostages-israel-gaza-41432124</id>
-    <content type="html">Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.</content>
-    <link href="https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
