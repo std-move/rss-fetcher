@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-22T06:15:04Z</updated>
+  <updated>2023-12-22T07:10:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2023-12-22:/articles/putin-patrushev-plan-prigozhin-assassination-428d5ed8</id>
     <content type="html">Nikolai Patrushev, a top ally of the Russian leader for decades, put in motion the assassination of the mutinous chief of the Wagner mercenary group.</content>
     <link href="https://www.wsj.com/articles/putin-patrushev-plan-prigozhin-assassination-428d5ed8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>How Three Babies Were Left Behind at an Evacuated Gaza Hospital</title>
-    <updated>2023-12-22T05:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-22:/articles/how-three-babies-were-left-behind-at-an-evacuated-gaza-hospital-3341aca5</id>
-    <content type="html">Palestinian medical workers and Israeli officials described a chaotic chain of events leading up to the evacuation at Al-Nasr Hospital last month, with both sides at odds over who was to blame.</content>
-    <link href="https://www.wsj.com/articles/how-three-babies-were-left-behind-at-an-evacuated-gaza-hospital-3341aca5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
