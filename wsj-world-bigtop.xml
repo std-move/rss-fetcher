@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-21T23:11:53Z</updated>
+  <updated>2023-12-22T00:52:59Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Whether in 2000 or 2024, There&#39;s No Upside for Supreme Court in Deciding Elections</title>
+    <updated>2023-12-22T00:02:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-22:/articles/whether-in-2000-or-2024-theres-no-upside-for-supreme-court-in-deciding-elections-655cd07a</id>
+    <content type="html">The specter of the court’s divisive Bush v. Gore decision hangs over many cases justices might face next year, starting with Trump’s disqualification from the Colorado ballot.</content>
+    <link href="https://www.wsj.com/articles/whether-in-2000-or-2024-theres-no-upside-for-supreme-court-in-deciding-elections-655cd07a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
