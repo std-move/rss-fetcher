@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-23T11:09:02Z</updated>
+  <updated>2023-12-23T12:18:55Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Prepare for a Wet Christmas, Not a White One</title>
+    <updated>2023-12-23T12:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-23:/articles/white-christmas-snow-weather-ad369c62</id>
+    <content type="html">Unseasonably warm temperatures dash hopes for a winter wonderland in most of the U.S.</content>
+    <link href="https://www.wsj.com/articles/white-christmas-snow-weather-ad369c62" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israeli Military Says It Is Close to Controlling Gaza&#39;s North</title>
+    <updated>2023-12-23T11:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-23:/articles/israeli-military-says-it-is-close-to-controlling-gazas-north-cfda96ef</id>
+    <content type="html">The United Nations says the humanitarian crisis in Gaza is growing as Israel orders already displaced Palestinians to relocate again.</content>
+    <link href="https://www.wsj.com/articles/israeli-military-says-it-is-close-to-controlling-gazas-north-cfda96ef" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
