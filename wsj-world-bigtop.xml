@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-24T10:11:18Z</updated>
+  <updated>2023-12-24T11:09:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Inside a Democratic Governor&#39;s Bid to Push Penn on Antisemitism</title>
+    <updated>2023-12-24T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-24:/articles/pennsylvania-governor-josh-shapiro-penn-159f1675</id>
+    <content type="html">Pennsylvania Gov. Josh Shapiro, who is gearing up to help President Biden carry the swing state, has sharply criticized the Ivy League school’s leadership.</content>
+    <link href="https://www.wsj.com/articles/pennsylvania-governor-josh-shapiro-penn-159f1675" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>From Patriot Missiles to a Mother and Her Vintage Rifle: Inside Ukraine&#39;s Air Defense</title>
     <updated>2023-12-24T05:01:00Z</updated>
