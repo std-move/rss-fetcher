@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-24T11:09:01Z</updated>
+  <updated>2023-12-24T12:19:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -34,14 +34,6 @@
     <id>tag:www.wsj.com,2023-12-23:/articles/israeli-military-says-it-is-close-to-controlling-gazas-north-cfda96ef</id>
     <content type="html">The United Nations says the humanitarian crisis in Gaza is growing as Israel orders already displaced Palestinians to relocate again.</content>
     <link href="https://www.wsj.com/articles/israeli-military-says-it-is-close-to-controlling-gazas-north-cfda96ef" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Biden Convinced Netanyahu to Halt a Pre-Emptive Strike Against Hezbollah</title>
-    <updated>2023-12-23T16:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-23:/articles/how-biden-averted-a-second-front-by-convincing-israel-not-to-attack-hezbollah-on-oct-11-e14a0a3b</id>
-    <content type="html">An urgent call illustrates Washington’s attempts to prevent a widening war in the Middle East.</content>
-    <link href="https://www.wsj.com/articles/how-biden-averted-a-second-front-by-convincing-israel-not-to-attack-hezbollah-on-oct-11-e14a0a3b" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
