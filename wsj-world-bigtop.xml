@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-24T13:11:51Z</updated>
+  <updated>2023-12-24T14:09:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -13,14 +13,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>From Patriot Missiles to a Mother and Her Vintage Rifle: Inside Ukraine&#39;s Air Defense</title>
-    <updated>2023-12-24T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-24:/articles/from-patriot-missiles-to-a-mother-and-her-vintage-rifle-inside-ukraines-air-defense-406a2ca2</id>
-    <content type="html">Defending against aerial threats has grown in importance, making Ukraine a test bed for a range of air-defense systems.</content>
-    <link href="https://www.wsj.com/articles/from-patriot-missiles-to-a-mother-and-her-vintage-rifle-inside-ukraines-air-defense-406a2ca2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>China&#39;s Jobless Don&#39;t Always Show Up in the Data. But They Show Up in the Library.</title>
     <updated>2023-12-24T05:01:00Z</updated>
     <id>tag:www.wsj.com,2023-12-24:/articles/chinas-jobless-dont-always-show-up-in-the-data-but-they-show-up-in-the-library-e99ec39e</id>
@@ -29,11 +21,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israeli Military Says It Is Close to Controlling Gaza&#39;s North</title>
-    <updated>2023-12-23T20:34:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-23:/articles/israeli-military-says-it-is-close-to-controlling-gazas-north-cfda96ef</id>
-    <content type="html">The United Nations says the humanitarian crisis in Gaza is growing as Israel orders already displaced Palestinians to relocate again.</content>
-    <link href="https://www.wsj.com/articles/israeli-military-says-it-is-close-to-controlling-gazas-north-cfda96ef" rel="alternate"></link>
+    <title>From Patriot Missiles to a Mother and Her Vintage Rifle: Inside Ukraine&#39;s Air Defense</title>
+    <updated>2023-12-24T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-24:/articles/from-patriot-missiles-to-a-mother-and-her-vintage-rifle-inside-ukraines-air-defense-406a2ca2</id>
+    <content type="html">Defending against aerial threats has grown in importance, making Ukraine a test bed for a range of air-defense systems.</content>
+    <link href="https://www.wsj.com/articles/from-patriot-missiles-to-a-mother-and-her-vintage-rifle-inside-ukraines-air-defense-406a2ca2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
