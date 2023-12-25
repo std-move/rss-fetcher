@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-25T10:12:08Z</updated>
+  <updated>2023-12-25T11:09:39Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Ukrainians Try to Keep Spirits Up at Christmas After Difficult Year</title>
+    <updated>2023-12-25T11:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-25:/articles/ukrainians-try-to-keep-spirits-up-at-christmas-after-difficult-year-0f8cb29d</id>
+    <content type="html">For soldiers and civilians, the second Christmas of full-scale war is more difficult than the first.</content>
+    <link href="https://www.wsj.com/articles/ukrainians-try-to-keep-spirits-up-at-christmas-after-difficult-year-0f8cb29d" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>&#39;Guess What, Buddy? I&#39;m a Match.&#39; How Work Friends Saved One Banker&#39;s Life.</title>
+    <updated>2023-12-25T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-25:/articles/guess-what-buddy-im-a-match-how-work-friends-saved-one-bankers-life-0edc3f59</id>
+    <content type="html">Bill Carroll told his colleagues at UBS that he was sick. They raced to find him a kidney.</content>
+    <link href="https://www.wsj.com/articles/guess-what-buddy-im-a-match-how-work-friends-saved-one-bankers-life-0edc3f59" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>&#39;Escape This Hell&#39;: One Family&#39;s Painful Journey Out of Gaza</title>
     <updated>2023-12-25T05:01:00Z</updated>
