@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-25T01:53:35Z</updated>
+  <updated>2023-12-25T02:24:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Inside a Democratic Governor&#39;s Bid to Push Penn on Antisemitism</title>
-    <updated>2023-12-24T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-24:/articles/pennsylvania-governor-josh-shapiro-penn-159f1675</id>
-    <content type="html">Pennsylvania Gov. Josh Shapiro, who is gearing up to help President Biden carry the swing state, has sharply criticized the Ivy League school’s leadership.</content>
-    <link href="https://www.wsj.com/articles/pennsylvania-governor-josh-shapiro-penn-159f1675" rel="alternate"></link>
+    <title>As War Rages, Gaza&#39;s Christian Minority Worries About Survival</title>
+    <updated>2023-12-25T02:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-25:/articles/as-war-rages-gazas-christian-minority-worries-about-survival-56284f33</id>
+    <content type="html">Caught in the crossfire between Israel and Hamas, some Christians say they feel the very existence of their community is at risk.</content>
+    <link href="https://www.wsj.com/articles/as-war-rages-gazas-christian-minority-worries-about-survival-56284f33" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
