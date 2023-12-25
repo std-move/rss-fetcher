@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-25T04:14:06Z</updated>
+  <updated>2023-12-25T05:11:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>&#39;Escape This Hell&#39;: One Family&#39;s Painful Journey Out of Gaza</title>
-    <updated>2023-12-25T04:00:00Z</updated>
+    <updated>2023-12-25T05:01:00Z</updated>
     <id>tag:www.wsj.com,2023-12-25:/articles/escape-this-hell-one-familys-painful-journey-out-of-gaza-2dfc4fae</id>
     <content type="html">How a family made the difficult decision to leave homes and loved ones behind as they fled the war.</content>
     <link href="https://www.wsj.com/articles/escape-this-hell-one-familys-painful-journey-out-of-gaza-2dfc4fae" rel="alternate"></link>
