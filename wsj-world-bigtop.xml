@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-25T19:09:55Z</updated>
+  <updated>2023-12-25T20:11:43Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>This Corner of Texas Was Remote. Then Instagram Found It.</title>
-    <updated>2023-12-25T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-25:/articles/this-corner-of-texas-was-remote-then-instagram-found-it-a5b320f8</id>
-    <content type="html">Tourism is surging at Big Bend National Park and the surrounding region, transforming one of Texas’ wildest and most distant areas. </content>
-    <link href="https://www.wsj.com/articles/this-corner-of-texas-was-remote-then-instagram-found-it-a5b320f8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
