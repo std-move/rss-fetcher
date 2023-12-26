@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-26T15:11:09Z</updated>
+  <updated>2023-12-26T16:13:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Israel Weighs Egyptian Peace Deal as Airstrikes Expand to Southern Gaza</title>
+    <title>Israel Weighs Egyptian Peace Deal as Airstrikes Expand in Southern Gaza</title>
     <updated>2023-12-26T14:52:00Z</updated>
     <id>tag:www.wsj.com,2023-12-26:/articles/israel-airstrikes-expand-to-southern-gaza-as-it-reframes-focus-80d26dc4</id>
-    <content type="html">Israel’s war cabinet is discussing a sweeping Egyptian proposal to end Israel’s conflict with Hamas with a wider group of ministers, as domestic pressure grows to free the remaining Israeli hostages.</content>
+    <content type="html">The Israeli government is discussing the  proposal to end the conflict with Hamas, as domestic pressure grows to secure the release of the remaining Israeli hostages.</content>
     <link href="https://www.wsj.com/articles/israel-airstrikes-expand-to-southern-gaza-as-it-reframes-focus-80d26dc4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
