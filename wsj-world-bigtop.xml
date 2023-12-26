@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-26T04:14:18Z</updated>
+  <updated>2023-12-26T05:11:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>American Spies Confront a New, Formidable China</title>
-    <updated>2023-12-26T04:00:00Z</updated>
+    <updated>2023-12-26T05:04:00Z</updated>
     <id>tag:www.wsj.com,2023-12-26:/articles/american-spies-confront-a-new-formidable-china-5c384370</id>
     <content type="html">The CIA lost a network of agents a decade ago and has struggled to rebuild in the surveillance state America calls its top security priority; ‘no real insight into leadership plans.’</content>
     <link href="https://www.wsj.com/articles/american-spies-confront-a-new-formidable-china-5c384370" rel="alternate"></link>
