@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-26T03:12:07Z</updated>
+  <updated>2023-12-26T04:14:18Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>One Woman&#39;s Puzzle: Who Should Get My Embryos?</title>
-    <updated>2023-12-26T02:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-26:/articles/adoption-invitro-foster-care-surrogacy-17400499</id>
-    <content type="html">More than a million embryos are in frozen storage across the U.S., leaving families wrestling with decisions about what to do with them.</content>
-    <link href="https://www.wsj.com/articles/adoption-invitro-foster-care-surrogacy-17400499" rel="alternate"></link>
+    <title>American Spies Confront a New, Formidable China</title>
+    <updated>2023-12-26T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-26:/articles/american-spies-confront-a-new-formidable-china-5c384370</id>
+    <content type="html">The CIA lost a network of agents a decade ago and has struggled to rebuild in the surveillance state America calls its top security priority; ‘no real insight into leadership plans.’</content>
+    <link href="https://www.wsj.com/articles/american-spies-confront-a-new-formidable-china-5c384370" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
