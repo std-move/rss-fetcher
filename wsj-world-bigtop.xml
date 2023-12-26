@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-26T12:20:26Z</updated>
+  <updated>2023-12-26T13:12:34Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>American Spies Confront a New, Formidable China</title>
-    <updated>2023-12-26T05:04:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-26:/articles/american-spies-confront-a-new-formidable-china-5c384370</id>
-    <content type="html">The CIA lost a network of agents a decade ago and has struggled to rebuild in the surveillance state America calls its top security priority; ‘no real insight into leadership plans.’</content>
-    <link href="https://www.wsj.com/articles/american-spies-confront-a-new-formidable-china-5c384370" rel="alternate"></link>
+    <title>Israel Airstrikes Expand to Southern Gaza as It Reframes Focus</title>
+    <updated>2023-12-26T12:46:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-26:/articles/israel-airstrikes-expand-to-southern-gaza-as-it-reframes-focus-80d26dc4</id>
+    <content type="html">The Israeli military is refocusing its military campaign after approaching what it described as operational control in the north of the territory.</content>
+    <link href="https://www.wsj.com/articles/israel-airstrikes-expand-to-southern-gaza-as-it-reframes-focus-80d26dc4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
