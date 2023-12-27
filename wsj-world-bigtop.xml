@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-27T14:10:22Z</updated>
+  <updated>2023-12-27T15:11:05Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2023-12-27:/articles/israel-intensifies-offensive-in-gaza-refugee-camps-80f21581</id>
     <content type="html">Israeli forces have stepped up attacks in central Gaza, driving civilians to flee to overcrowded areas in search of safety.</content>
     <link href="https://www.wsj.com/articles/israel-intensifies-offensive-in-gaza-refugee-camps-80f21581" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Bus Stations Across America Are Closing</title>
-    <updated>2023-12-27T12:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-27:/articles/bus-stations-across-america-are-closing-cd2c217f</id>
-    <content type="html">Closures of intercity bus stations are jeopardizing a network that allows millions of travelers, many on lower incomes, to travel cross-country.</content>
-    <link href="https://www.wsj.com/articles/bus-stations-across-america-are-closing-cd2c217f" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
