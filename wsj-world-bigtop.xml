@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-27T16:13:58Z</updated>
+  <updated>2023-12-27T17:09:49Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>FloridaManatees&#39; Health Improves, but Beloved Species Still Faces Threats</title>
-    <updated>2023-12-27T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-27:/articles/floridamanatees-health-improves-but-beloved-species-still-faces-threats-628dcb91</id>
-    <content type="html">Officials are analyzing whether to reclassify the aquatic mammals as endangered.</content>
-    <link href="https://www.wsj.com/articles/floridamanatees-health-improves-but-beloved-species-still-faces-threats-628dcb91" rel="alternate"></link>
+    <title>Israel Intensifies Offensive in Gaza Refugee Camps</title>
+    <updated>2023-12-27T16:28:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-27:/articles/israel-intensifies-offensive-in-gaza-refugee-camps-80f21581</id>
+    <content type="html">Israeli forces have stepped up attacks in central Gaza, driving civilians to flee to overcrowded areas in search of safety.</content>
+    <link href="https://www.wsj.com/articles/israel-intensifies-offensive-in-gaza-refugee-camps-80f21581" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
