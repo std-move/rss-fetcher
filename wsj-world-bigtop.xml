@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-28T07:10:37Z</updated>
+  <updated>2023-12-28T08:14:40Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>How an Israeli Airstrike on a Hamas Commander Also Killed Scores of Civilians</title>
-    <updated>2023-12-28T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-28:/articles/israeli-airstrike-hamas-commander-civilian-deaths-3b6be664</id>
-    <content type="html">A Wall Street Journal investigation found a mix of intentional tactics and unintended consequences contributed to one of the deadliest bombings of the Gaza war.</content>
-    <link href="https://www.wsj.com/articles/israeli-airstrike-hamas-commander-civilian-deaths-3b6be664" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
