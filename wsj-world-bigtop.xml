@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-29T16:15:18Z</updated>
+  <updated>2023-12-29T17:11:04Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>How Lowering The Price of a Common Asthma Drug Made it Harder to Get</title>
-    <updated>2023-12-29T15:54:00Z</updated>
+    <title>How Lowering Price of Common Asthma Drug Made It Harder to Get</title>
+    <updated>2023-12-29T16:57:00Z</updated>
     <id>tag:www.wsj.com,2023-12-29:/articles/how-lowering-the-price-of-a-common-asthma-drug-made-it-harder-to-get-ee101bff</id>
     <content type="html">To avoid Medicaid penalties, Glaxo and other drugmakers lowered prices. For popular asthma drug Flovent HFA, the tactic to replace it with a generic backfired.</content>
     <link href="https://www.wsj.com/articles/how-lowering-the-price-of-a-common-asthma-drug-made-it-harder-to-get-ee101bff" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Russia Launches One of Its Largest Attacks Yet on Ukrainian Civilians</title>
-    <updated>2023-12-29T15:17:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-29:/articles/russia-launches-one-of-its-largest-attacks-yet-on-ukrainian-civilians-ae486f3d</id>
-    <content type="html">Russia unleashed a barrage of drones and cruise missiles on cities across Ukraine as it seeks to erode morale there.</content>
-    <link href="https://www.wsj.com/articles/russia-launches-one-of-its-largest-attacks-yet-on-ukrainian-civilians-ae486f3d" rel="alternate"></link>
+    <title>Israel Expands Operations in Southern Gaza Amid Worsening Humanitarian Crisis</title>
+    <updated>2023-12-29T16:55:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-29:/articles/israel-expands-operations-in-southern-gaza-amid-worsening-humanitarian-crisis-0ba585c3</id>
+    <content type="html">Israeli forces expanded their military operations in Khan Younis as a Hamas delegation headed to Cairo to discuss a proposal to end the war.</content>
+    <link href="https://www.wsj.com/articles/israel-expands-operations-in-southern-gaza-amid-worsening-humanitarian-crisis-0ba585c3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
