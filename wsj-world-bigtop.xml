@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-30T14:09:31Z</updated>
+  <updated>2023-12-30T15:10:23Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel-Iran Tensions Rise as Israeli Forces Trade Fire With Militias in Syria, Lebanon</title>
-    <updated>2023-12-30T10:59:00Z</updated>
+    <updated>2023-12-30T14:47:00Z</updated>
     <id>tag:www.wsj.com,2023-12-30:/articles/israel-iran-tensions-rise-as-israeli-forces-trade-fire-with-militias-in-syria-lebanon-9b9b9cb1</id>
     <content type="html">Concerns are growing that a second front could open in the nearly three-month-old war between Israel and Hamas in Gaza.</content>
     <link href="https://www.wsj.com/articles/israel-iran-tensions-rise-as-israeli-forces-trade-fire-with-militias-in-syria-lebanon-9b9b9cb1" rel="alternate"></link>
@@ -14,7 +14,7 @@
   </entry>
   <entry>
     <title>The Ruined Landscape of Gaza After Nearly Three Months of Bombing</title>
-    <updated>2023-12-30T05:01:00Z</updated>
+    <updated>2023-12-30T14:42:00Z</updated>
     <id>tag:www.wsj.com,2023-12-30:/articles/gaza-destruction-bombing-israel-aa528542</id>
     <content type="html">The destruction of homes, schools and other buildings resembles some of the most devastating campaigns in modern history.</content>
     <link href="https://www.wsj.com/articles/gaza-destruction-bombing-israel-aa528542" rel="alternate"></link>
