@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-31T03:12:07Z</updated>
+  <updated>2023-12-31T04:13:29Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The World Is On the Move</title>
+    <updated>2023-12-31T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-31:/articles/the-world-is-on-the-move-49257e90</id>
+    <content type="html">Across the globe, record numbers of migrants are seeking safety and economic opportunity—and prompting political backlash.</content>
+    <link href="https://www.wsj.com/articles/the-world-is-on-the-move-49257e90" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel-Iran Tensions Rise as Israeli Forces Trade Fire With Militias in Syria, Lebanon</title>
     <updated>2023-12-30T20:31:00Z</updated>
