@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-31T13:12:03Z</updated>
+  <updated>2023-12-31T14:09:36Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Can Mississippi Finally Get Its Economy Going?</title>
+    <updated>2023-12-31T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-31:/articles/the-american-south-is-booming-why-is-mississippi-left-behind-eff0d986</id>
+    <content type="html">Magnolia State struggles to find workers and stop brain drain.</content>
+    <link href="https://www.wsj.com/articles/the-american-south-is-booming-why-is-mississippi-left-behind-eff0d986" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The World Is On the Move</title>
     <updated>2023-12-31T05:20:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2023-12-31:/articles/israel-hamas-oct-7-murder-sexual-violence-torture-45aab439</id>
     <content type="html">Investigators build legal case documenting ‘systematic and unprecedented cruelty’ with echoes of Adolf Eichmann trial.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-oct-7-murder-sexual-violence-torture-45aab439" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Israel-Iran Tensions Rise as Israeli Forces Trade Fire With Militias in Syria, Lebanon</title>
-    <updated>2023-12-30T20:31:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-30:/articles/israel-iran-tensions-rise-as-israeli-forces-trade-fire-with-militias-in-syria-lebanon-9b9b9cb1</id>
-    <content type="html">Concerns are growing that a second front could open in the nearly three-month-old war between Israel and Hamas in Gaza.</content>
-    <link href="https://www.wsj.com/articles/israel-iran-tensions-rise-as-israeli-forces-trade-fire-with-militias-in-syria-lebanon-9b9b9cb1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
