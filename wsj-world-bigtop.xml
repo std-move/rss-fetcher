@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-31T05:10:49Z</updated>
+  <updated>2023-12-31T06:13:48Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The World Is On the Move</title>
+    <updated>2023-12-31T05:20:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-31:/articles/the-world-is-on-the-move-49257e90</id>
+    <content type="html">Across the globe, record numbers of migrants are seeking safety and economic opportunity—and prompting political backlash.</content>
+    <link href="https://www.wsj.com/articles/the-world-is-on-the-move-49257e90" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel&#39;s &#39;Black Sabbath&#39;: Murder, Sexual Violence and Torture on Oct. 7</title>
     <updated>2023-12-31T05:01:00Z</updated>
     <id>tag:www.wsj.com,2023-12-31:/articles/israel-hamas-oct-7-murder-sexual-violence-torture-45aab439</id>
     <content type="html">Investigators build legal case documenting ‘systematic and unprecedented cruelty’ with echoes of Adolf Eichmann trial.</content>
     <link href="https://www.wsj.com/articles/israel-hamas-oct-7-murder-sexual-violence-torture-45aab439" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The World Is On the Move</title>
-    <updated>2023-12-31T04:00:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-31:/articles/the-world-is-on-the-move-49257e90</id>
-    <content type="html">Across the globe, record numbers of migrants are seeking safety and economic opportunity—and prompting political backlash.</content>
-    <link href="https://www.wsj.com/articles/the-world-is-on-the-move-49257e90" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
