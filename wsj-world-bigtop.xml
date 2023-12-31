@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2023-12-31T16:13:15Z</updated>
+  <updated>2023-12-31T17:09:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Navy Destroys Boats Controlled by Iran-Backed Militias in Red Sea</title>
+    <updated>2023-12-31T16:26:00Z</updated>
+    <id>tag:www.wsj.com,2023-12-31:/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd</id>
+    <content type="html">American forces were responding to the latest in a series of attacks launched by Houthi rebels against commercial ships over the course of the war in Gaza.</content>
+    <link href="https://www.wsj.com/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Year in Graphics</title>
     <updated>2023-12-31T15:02:00Z</updated>
     <id>tag:www.wsj.com,2023-12-31:/articles/the-year-in-graphics-f3aaf872</id>
     <content type="html">The best visual stories of the year from The Wall Street Journal</content>
     <link href="https://www.wsj.com/articles/the-year-in-graphics-f3aaf872" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Navy Destroys Boats Controlled by Iran-Backed Militias in Red Sea</title>
-    <updated>2023-12-31T15:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-31:/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd</id>
-    <content type="html">American forces were responding to the latest in a series of attacks launched by Houthi rebels against commercial ships over the course of the war in Gaza.</content>
-    <link href="https://www.wsj.com/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -34,14 +34,6 @@
     <id>tag:www.wsj.com,2023-12-31:/articles/the-american-south-is-booming-why-is-mississippi-left-behind-eff0d986</id>
     <content type="html">The Magnolia State is struggling to find workers and stop brain drain, even as economic and population growth is transforming other Southern states.</content>
     <link href="https://www.wsj.com/articles/the-american-south-is-booming-why-is-mississippi-left-behind-eff0d986" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The World Is On the Move</title>
-    <updated>2023-12-31T05:20:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-31:/articles/the-world-is-on-the-move-49257e90</id>
-    <content type="html">Across the globe, record numbers of migrants are seeking safety and economic opportunity—and prompting political backlash.</content>
-    <link href="https://www.wsj.com/articles/the-world-is-on-the-move-49257e90" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
