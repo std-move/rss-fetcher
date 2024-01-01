@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-01T09:12:08Z</updated>
+  <updated>2024-01-01T10:12:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -26,22 +26,6 @@
     <id>tag:www.wsj.com,2023-12-31:/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd</id>
     <content type="html">American forces were responding to the latest in a series of attacks launched by Houthi rebels against commercial ships over the course of the war in Gaza.</content>
     <link href="https://www.wsj.com/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The Year in Graphics</title>
-    <updated>2023-12-31T15:02:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-31:/articles/the-year-in-graphics-f3aaf872</id>
-    <content type="html">The best visual stories of the year from The Wall Street Journal.</content>
-    <link href="https://www.wsj.com/articles/the-year-in-graphics-f3aaf872" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Lahaina Fire Victims Remain Homeless Months After Fire Destroyed Their Town</title>
-    <updated>2023-12-31T15:01:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-31:/articles/lahaina-fire-victims-remain-homeless-months-after-fire-destroyed-their-town-9b674313</id>
-    <content type="html">The dispersal of residents from the historic coastal town is threatening the culture and economy of Maui.</content>
-    <link href="https://www.wsj.com/articles/lahaina-fire-victims-remain-homeless-months-after-fire-destroyed-their-town-9b674313" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
