@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-01T07:10:56Z</updated>
+  <updated>2024-01-01T08:14:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -42,14 +42,6 @@
     <id>tag:www.wsj.com,2023-12-31:/articles/lahaina-fire-victims-remain-homeless-months-after-fire-destroyed-their-town-9b674313</id>
     <content type="html">The dispersal of residents from the historic coastal town is threatening the culture and economy of Maui.</content>
     <link href="https://www.wsj.com/articles/lahaina-fire-victims-remain-homeless-months-after-fire-destroyed-their-town-9b674313" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Can Mississippi Finally Get Its Economy Going?</title>
-    <updated>2023-12-31T14:59:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-31:/articles/the-american-south-is-booming-why-is-mississippi-left-behind-eff0d986</id>
-    <content type="html">The Magnolia State is struggling to find workers and stop brain drain, even as economic and population growth is transforming other Southern states.</content>
-    <link href="https://www.wsj.com/articles/the-american-south-is-booming-why-is-mississippi-left-behind-eff0d986" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
