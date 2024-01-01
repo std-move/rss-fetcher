@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-01T11:09:37Z</updated>
+  <updated>2024-01-01T12:21:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -18,14 +18,6 @@
     <id>tag:www.wsj.com,2024-01-01:/articles/chinas-xi-is-resurrecting-maos-continuous-revolution-with-a-twist-ed5ec610</id>
     <content type="html">The Chinese leader has made his corruption purge—with millions punished—a pillar of his rule. It risks paralyzing his party amid the greatest period of economic uncertainty in a generation.</content>
     <link href="https://www.wsj.com/articles/chinas-xi-is-resurrecting-maos-continuous-revolution-with-a-twist-ed5ec610" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Navy Destroys Boats Controlled by Iran-Backed Militias in Red Sea</title>
-    <updated>2023-12-31T20:12:00Z</updated>
-    <id>tag:www.wsj.com,2023-12-31:/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd</id>
-    <content type="html">American forces were responding to the latest in a series of attacks launched by Houthi rebels against commercial ships over the course of the war in Gaza.</content>
-    <link href="https://www.wsj.com/articles/u-s-navy-destroys-boats-controlled-by-iran-backed-militias-in-red-sea-2e58dfcd" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
