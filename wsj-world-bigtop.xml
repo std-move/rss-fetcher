@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-01T03:12:54Z</updated>
+  <updated>2024-01-01T04:14:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China&#39;s Xi Is Resurrecting Mao&#39;s &#39;Continuous Revolution&#39; With a Twist</title>
+    <updated>2024-01-01T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-01:/articles/chinas-xi-is-resurrecting-maos-continuous-revolution-with-a-twist-ed5ec610</id>
+    <content type="html">The Chinese leader has made his corruption purge—with millions punished—a pillar of his rule. It risks paralyzing his party amid the greatest period of economic uncertainty in a generation.</content>
+    <link href="https://www.wsj.com/articles/chinas-xi-is-resurrecting-maos-continuous-revolution-with-a-twist-ed5ec610" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israeli Families Band Together to Keep Government Focused on Hostages</title>
+    <updated>2024-01-01T04:01:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-01:/articles/israeli-families-band-together-to-keep-government-focused-on-hostages-ed33fb21</id>
+    <content type="html">What began as a support group has transformed into a collective campaign to bring Hamas’s captives back from Gaza.</content>
+    <link href="https://www.wsj.com/articles/israeli-families-band-together-to-keep-government-focused-on-hostages-ed33fb21" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>U.S. Navy Destroys Boats Controlled by Iran-Backed Militias in Red Sea</title>
     <updated>2023-12-31T20:12:00Z</updated>
