@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-01T15:11:37Z</updated>
+  <updated>2024-01-01T16:14:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Israel Reshuffles Forces, Prepares for Long-Term Conflict in Gaza</title>
+    <updated>2024-01-01T15:05:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-01:/articles/israel-reshuffles-forces-prepares-for-long-term-conflict-in-gaza-74c87309</id>
+    <content type="html">Resisting pressure from the U.S. to wind down the war, Israel looks to sustain lower-intensity fighting.</content>
+    <link href="https://www.wsj.com/articles/israel-reshuffles-forces-prepares-for-long-term-conflict-in-gaza-74c87309" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
