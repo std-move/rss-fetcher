@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-02T15:11:44Z</updated>
+  <updated>2024-01-02T16:13:03Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
+    <title>Russia Targets Ukraine With Fresh Wave of Drones and Missiles</title>
+    <updated>2024-01-02T16:00:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-02:/articles/russia-targets-ukraine-with-fresh-wave-of-drones-and-missiles-666ef54e</id>
+    <content type="html">Moscow launched its second significant salvo in less than a week, the latest effort in a campaign to break morale and wear down air-defense systems.</content>
+    <link href="https://www.wsj.com/articles/russia-targets-ukraine-with-fresh-wave-of-drones-and-missiles-666ef54e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Israel Fights on Three Fronts as It Debates How to End Gaza War</title>
-    <updated>2024-01-02T14:29:00Z</updated>
+    <updated>2024-01-02T15:39:00Z</updated>
     <id>tag:www.wsj.com,2024-01-02:/articles/israel-fights-on-three-fronts-as-it-debates-how-to-end-gaza-war-1c74c512</id>
     <content type="html">The military said it carried out strikes in the Gaza Strip, Syria and Lebanon as Israel’s security cabinet prepared to discuss ways out of the three-month-old conflict.</content>
     <link href="https://www.wsj.com/articles/israel-fights-on-three-fronts-as-it-debates-how-to-end-gaza-war-1c74c512" rel="alternate"></link>
