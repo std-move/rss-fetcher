@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-02T19:09:09Z</updated>
+  <updated>2024-01-02T20:11:56Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2024-01-02:/articles/israel-fights-on-three-fronts-as-it-debates-how-to-end-gaza-war-1c74c512</id>
     <content type="html">Saleh al-Arouri was a founder of the Hamas military wing and one of its top political leaders.</content>
     <link href="https://www.wsj.com/articles/israel-fights-on-three-fronts-as-it-debates-how-to-end-gaza-war-1c74c512" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Russia Targets Ukraine With Fresh Wave of Drones and Missiles</title>
-    <updated>2024-01-02T16:00:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-02:/articles/russia-targets-ukraine-with-fresh-wave-of-drones-and-missiles-666ef54e</id>
-    <content type="html">Moscow launched its second significant salvo in less than a week, the latest effort in a campaign to break morale and wear down air-defense systems.</content>
-    <link href="https://www.wsj.com/articles/russia-targets-ukraine-with-fresh-wave-of-drones-and-missiles-666ef54e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
