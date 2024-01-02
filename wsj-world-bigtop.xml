@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-02T04:14:11Z</updated>
+  <updated>2024-01-02T05:11:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>China Is Pressing Women to Have More Babies. Many Are Saying No.</title>
+    <updated>2024-01-02T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-02:/articles/china-population-births-decline-womens-rights-5af9937b</id>
+    <content type="html">The population, now around 1.4 billion, is likely to drop to around half a billion by 2100—and women are being blamed.</content>
+    <link href="https://www.wsj.com/articles/china-population-births-decline-womens-rights-5af9937b" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
