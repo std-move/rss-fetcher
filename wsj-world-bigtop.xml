@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-03T15:11:25Z</updated>
+  <updated>2024-01-03T16:14:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Hamas Leader Killed in Beirut Was Linchpin of Relations With Iran, Hezbollah</title>
-    <updated>2024-01-03T13:12:00Z</updated>
+    <updated>2024-01-03T15:38:00Z</updated>
     <id>tag:www.wsj.com,2024-01-03:/articles/hamas-leader-killed-in-beirut-was-linchpin-of-relations-with-iran-hezbollah-dd8fd6e8</id>
     <content type="html">Israel, which hasn’t officially claimed responsibility for Tuesday’s killing, is on high alert for retaliatory strikes.</content>
     <link href="https://www.wsj.com/articles/hamas-leader-killed-in-beirut-was-linchpin-of-relations-with-iran-hezbollah-dd8fd6e8" rel="alternate"></link>
