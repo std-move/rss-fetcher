@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-03T17:10:39Z</updated>
+  <updated>2024-01-03T18:14:35Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Hamas Leader Killed in Beirut Was Linchpin of Relations With Iran, Hezbollah</title>
-    <updated>2024-01-03T15:38:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-03:/articles/hamas-leader-killed-in-beirut-was-linchpin-of-relations-with-iran-hezbollah-dd8fd6e8</id>
-    <content type="html">Israel, which hasn’t officially claimed responsibility for Tuesday’s killing, is on high alert for retaliatory strikes.</content>
-    <link href="https://www.wsj.com/articles/hamas-leader-killed-in-beirut-was-linchpin-of-relations-with-iran-hezbollah-dd8fd6e8" rel="alternate"></link>
+    <title>The West Badly Needs More Missiles---but the Wait to Buy Them Is Years Long</title>
+    <updated>2024-01-03T17:57:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-03:/articles/missiles-demand-threats-wait-to-buy-them-is-years-long-3332c151</id>
+    <content type="html">Global conflicts and rising threats drive orders for missiles, planes, submarines and other complex weapons systems, but producers are struggling with supply chains and staffing.</content>
+    <link href="https://www.wsj.com/articles/missiles-demand-threats-wait-to-buy-them-is-years-long-3332c151" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
