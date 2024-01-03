@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-03T10:12:17Z</updated>
+  <updated>2024-01-03T11:09:46Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>The West Badly Needs More Missiles---but the Wait to Buy Them Is Years Long</title>
-    <updated>2024-01-03T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-03:/articles/missiles-demand-threats-wait-to-buy-them-is-years-long-3332c151</id>
-    <content type="html">Global conflicts and rising threats drive orders for missiles, planes, submarines and other complex weapons systems, but producers are struggling with supply chains and staffing.</content>
-    <link href="https://www.wsj.com/articles/missiles-demand-threats-wait-to-buy-them-is-years-long-3332c151" rel="alternate"></link>
+    <title>Hamas Leader Killed in Beirut Was Linchpin of Relations With Iran, Hezbollah</title>
+    <updated>2024-01-03T10:38:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-03:/articles/hamas-leader-killed-in-beirut-was-linchpin-of-relations-with-iran-hezbollah-dd8fd6e8</id>
+    <content type="html">Israel, which hasn’t officially claimed responsibility for Tuesday’s killing, is on high alert for retaliatory strikes.</content>
+    <link href="https://www.wsj.com/articles/hamas-leader-killed-in-beirut-was-linchpin-of-relations-with-iran-hezbollah-dd8fd6e8" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>How to Put a Lid on Your Drug Costs in 2024</title>
+    <updated>2024-01-03T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-03:/articles/how-to-put-a-lid-on-your-drug-costs-in-2024-7b4544d5</id>
+    <content type="html">Here are tips for controlling your drug spending if you’ve got a deductible that reset upon the new year.</content>
+    <link href="https://www.wsj.com/articles/how-to-put-a-lid-on-your-drug-costs-in-2024-7b4544d5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Inside a Flaming Jet, 367 Passengers Had Minutes to Flee. Here&#39;s How They Did It.</title>
+    <updated>2024-01-03T10:23:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-03:/articles/inside-a-flaming-jet-367-passengers-had-minutes-to-flee-heres-how-they-did-it-f0e3c2dc</id>
+    <content type="html">On the Japan Airlines plane in the Tokyo airport collision, it took several minutes to get the doors open, the PA system didn’t work and most of the evacuation chutes weren’t available. But a lot went right too.</content>
+    <link href="https://www.wsj.com/articles/inside-a-flaming-jet-367-passengers-had-minutes-to-flee-heres-how-they-did-it-f0e3c2dc" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
