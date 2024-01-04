@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-04T15:13:11Z</updated>
+  <updated>2024-01-04T16:14:19Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Iran Vows Revenge Over Deadly Bomb Attack at Soleimani Memorial</title>
-    <updated>2024-01-04T12:13:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-04:/articles/iran-vows-revenge-over-deadly-bomb-attack-at-soleimani-memorial-523e4f3f</id>
-    <content type="html">Authorities investigate the pair of blasts amid regional tensions between Iranian-backed groups and Israel.</content>
-    <link href="https://www.wsj.com/articles/iran-vows-revenge-over-deadly-bomb-attack-at-soleimani-memorial-523e4f3f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
