@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-04T03:12:34Z</updated>
+  <updated>2024-01-04T04:13:57Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Seeks Drone Bases in Coastal West Africa to Stem Islamist Advance</title>
+    <updated>2024-01-04T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-04:/articles/u-s-seeks-drone-bases-in-coastal-west-africa-to-stem-islamist-advance-21282861</id>
+    <content type="html">Africa is now the global epicenter of Islamist violence, and drones would allow American forces to provide tactical advice to local troops during combat operations.</content>
+    <link href="https://www.wsj.com/articles/u-s-seeks-drone-bases-in-coastal-west-africa-to-stem-islamist-advance-21282861" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Big Fashion Still Hasn&#39;t Figured Out How to Pay a Living Wage</title>
+    <updated>2024-01-04T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-04:/articles/big-fashion-still-hasnt-figured-out-how-to-pay-a-living-wage-3675153f</id>
+    <content type="html">Initiatives such as bringing Swedish study circles to Bangladesh to teach negotiation won’t work, labor advocates say.</content>
+    <link href="https://www.wsj.com/articles/big-fashion-still-hasnt-figured-out-how-to-pay-a-living-wage-3675153f" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>The &#39;CEO&#39; of Hamas Who Found the Money to Attack Israel</title>
+    <updated>2024-01-04T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-04:/articles/the-ceo-of-hamas-who-found-the-money-to-attack-israel-351f2888</id>
+    <content type="html">The militant group is said to be funded by a financial empire worth hundreds of millions of dollars, overseen by one man.</content>
+    <link href="https://www.wsj.com/articles/the-ceo-of-hamas-who-found-the-money-to-attack-israel-351f2888" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
