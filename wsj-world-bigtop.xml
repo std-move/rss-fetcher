@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-04T21:10:35Z</updated>
+  <updated>2024-01-04T22:11:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Killing of Militia Leader Marks Bid to Stop Attacks on Its Forces in Iraq</title>
+    <updated>2024-01-04T21:58:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-04:/articles/u-s-strike-kills-iran-backed-militia-leader-in-iraq-71256676</id>
+    <content type="html">The strike drew denunciations from Iraqi leaders and a vow from the militant group to retaliate amid already growing regional tensions.</content>
+    <link href="https://www.wsj.com/articles/u-s-strike-kills-iran-backed-militia-leader-in-iraq-71256676" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Islamic State Claims Responsibility for Deadly Bomb Attack in Iran</title>
     <updated>2024-01-04T21:06:00Z</updated>
     <id>tag:www.wsj.com,2024-01-04:/articles/iran-vows-revenge-over-deadly-bomb-attack-at-soleimani-memorial-523e4f3f</id>
     <content type="html">The claim dispelled suspicions that Israel might have been behind the attack, Iran’s largest since its 1979 Islamic Revolution.</content>
     <link href="https://www.wsj.com/articles/iran-vows-revenge-over-deadly-bomb-attack-at-soleimani-memorial-523e4f3f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Strike Kills Iran-Backed Militia Leader in Iraq</title>
-    <updated>2024-01-04T19:09:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-04:/articles/u-s-strike-kills-iran-backed-militia-leader-in-iraq-71256676</id>
-    <content type="html">The strike drew denunciations from Iraqi leaders and a vow from the militant group to retaliate amid already growing regional tensions.</content>
-    <link href="https://www.wsj.com/articles/u-s-strike-kills-iran-backed-militia-leader-in-iraq-71256676" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
