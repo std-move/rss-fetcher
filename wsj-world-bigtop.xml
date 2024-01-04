@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-04T18:14:37Z</updated>
+  <updated>2024-01-04T19:09:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,14 +10,6 @@
     <id>tag:www.wsj.com,2024-01-04:/articles/iran-vows-revenge-over-deadly-bomb-attack-at-soleimani-memorial-523e4f3f</id>
     <content type="html">The claim dispelled suspicions that Israel might have been behind the attack, Iran’s largest since its 1979 Islamic Revolution.</content>
     <link href="https://www.wsj.com/articles/iran-vows-revenge-over-deadly-bomb-attack-at-soleimani-memorial-523e4f3f" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>The &#39;CEO&#39; of Hamas Who Found the Money to Attack Israel</title>
-    <updated>2024-01-04T17:06:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-04:/articles/the-ceo-of-hamas-who-found-the-money-to-attack-israel-351f2888</id>
-    <content type="html">One man oversees a financial empire that the U.S. estimates is worth hundreds of millions of dollars.</content>
-    <link href="https://www.wsj.com/articles/the-ceo-of-hamas-who-found-the-money-to-attack-israel-351f2888" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
