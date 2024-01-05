@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-05T11:10:02Z</updated>
+  <updated>2024-01-05T12:21:11Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Japan Quake Death Toll Reaches 94 as More Victims Are Found in Collapsed Homes</title>
+    <updated>2024-01-05T11:44:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-05:/articles/japan-quake-death-toll-reaches-94-as-more-victims-are-found-in-collapsed-homes-47ae6abe</id>
+    <content type="html">Rescuers reaching remote areas discovered dozens of people buried beneath homes and damage in some coastal areas from a tsunami.</content>
+    <link href="https://www.wsj.com/articles/japan-quake-death-toll-reaches-94-as-more-victims-are-found-in-collapsed-homes-47ae6abe" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
