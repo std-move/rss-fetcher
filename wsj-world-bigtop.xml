@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-05T10:12:32Z</updated>
+  <updated>2024-01-05T11:10:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>India Wanted a Manufacturing Boom. Its Workers Are Back on the Farm Instead.</title>
-    <updated>2024-01-05T05:08:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-05:/articles/india-wanted-a-manufacturing-boom-its-workers-are-back-on-the-farm-instead-e94bb940</id>
-    <content type="html">India’s labor force is shifting from cities back to farms despite efforts to encourage factory job growth.</content>
-    <link href="https://www.wsj.com/articles/india-wanted-a-manufacturing-boom-its-workers-are-back-on-the-farm-instead-e94bb940" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
