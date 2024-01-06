@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-06T11:09:08Z</updated>
+  <updated>2024-01-06T12:20:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push</title>
-    <updated>2024-01-06T09:26:00Z</updated>
+    <updated>2024-01-06T12:00:00Z</updated>
     <id>tag:www.wsj.com,2024-01-06:/articles/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e</id>
     <content type="html">Militants in Lebanon launched one of the largest rocket barrages into Israel in recent months as the U.S.’s top diplomat arrived in the region to defuse an escalating crisis resulting from the war in Gaza.</content>
     <link href="https://www.wsj.com/articles/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e" rel="alternate"></link>
