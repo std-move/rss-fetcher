@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-06T17:09:36Z</updated>
+  <updated>2024-01-06T18:13:24Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push</title>
-    <updated>2024-01-06T13:15:00Z</updated>
+    <updated>2024-01-06T17:14:00Z</updated>
     <id>tag:www.wsj.com,2024-01-06:/articles/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e</id>
     <content type="html">Militants in Lebanon launched one of the largest rocket barrages into Israel in recent months as the U.S.’s top diplomat arrived in the region to defuse an escalating crisis resulting from the war in Gaza.</content>
     <link href="https://www.wsj.com/articles/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>China Doesn&#39;t Want You to Say &#39;Tibet&#39; Anymore</title>
-    <updated>2024-01-06T05:14:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-06:/articles/china-doesnt-want-you-to-say-tibet-anymore-dd41cbb9</id>
-    <content type="html">A yearslong shift toward the Chinese name ‘Xizang’ is accelerating as Beijing prepares for a fight over the choice of successor to the current Dalai Lama.</content>
-    <link href="https://www.wsj.com/articles/china-doesnt-want-you-to-say-tibet-anymore-dd41cbb9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
