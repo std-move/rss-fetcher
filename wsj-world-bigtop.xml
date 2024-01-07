@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-07T19:08:48Z</updated>
+  <updated>2024-01-07T20:11:32Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Israel Presses Egypt to Better Secure Borderland Against Hamas Smugglers</title>
-    <updated>2024-01-07T15:03:00Z</updated>
+    <updated>2024-01-07T19:33:00Z</updated>
     <id>tag:www.wsj.com,2024-01-07:/articles/israel-egypt-negotiate-over-key-corridor-along-gaza-border-b6b310c8</id>
     <content type="html">Israel says the Philadelphi Corridor has been used by Hamas to smuggle weapons and people through underground tunnels.</content>
     <link href="https://www.wsj.com/articles/israel-egypt-negotiate-over-key-corridor-along-gaza-border-b6b310c8" rel="alternate"></link>
