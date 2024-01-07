@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-07T15:10:51Z</updated>
+  <updated>2024-01-07T16:13:13Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Bill Ackman&#39;s Friend Inside Harvard&#39;s Board</title>
-    <updated>2024-01-07T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-07:/articles/bill-ackmans-friend-inside-harvards-board-99b4bb8c</id>
-    <content type="html">Tracy Palandjian, co-founder and CEO of Social Finance, was until recently a director at the billionaire’s investment fund.</content>
-    <link href="https://www.wsj.com/articles/bill-ackmans-friend-inside-harvards-board-99b4bb8c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
