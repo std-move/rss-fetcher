@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-08T16:15:01Z</updated>
+  <updated>2024-01-08T17:10:42Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
     <title>Hezbollah Commander Killed by Israeli Strike in Southern Lebanon</title>
-    <updated>2024-01-08T14:17:00Z</updated>
+    <updated>2024-01-08T16:12:00Z</updated>
     <id>tag:www.wsj.com,2024-01-08:/articles/u-s-middle-east-partners-start-talks-on-next-chapter-for-gaza-ca00c6ac</id>
     <content type="html">The strike ratchets up cross-border tensions during a Middle East visit by Secretary of State Antony Blinken that seeks to prevent a broader war.</content>
     <link href="https://www.wsj.com/articles/u-s-middle-east-partners-start-talks-on-next-chapter-for-gaza-ca00c6ac" rel="alternate"></link>
