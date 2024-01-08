@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-08T03:12:32Z</updated>
+  <updated>2024-01-08T04:14:52Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>Short on Shells, Ukraine Relies on Explosive Drones to Hold Russia Back</title>
+    <updated>2024-01-08T04:00:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-08:/articles/short-on-shells-ukraine-relies-on-explosive-drones-to-hold-russia-back-a18053b3</id>
+    <content type="html">Kyiv’s soldiers are improvising with fast and relatively cheap devices that are making a difference on the front line—at least for now.</content>
+    <link href="https://www.wsj.com/articles/short-on-shells-ukraine-relies-on-explosive-drones-to-hold-russia-back-a18053b3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Israel Presses Egypt to Better Secure Borderland Against Hamas Smugglers</title>
     <updated>2024-01-07T22:52:00Z</updated>
