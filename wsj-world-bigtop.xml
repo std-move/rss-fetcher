@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-09T22:11:03Z</updated>
+  <updated>2024-01-09T23:11:22Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Gaza Hostage Talks Inch Closer to a Restart</title>
-    <updated>2024-01-09T21:01:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-09:/articles/blinken-meets-israeli-leaders-in-effort-to-prevent-wider-war-243871a3</id>
-    <content type="html">Top U.S. diplomat seeks to avoid wider war as tensions grow between Israel and Lebanon’s Hezbollah.</content>
-    <link href="https://www.wsj.com/articles/blinken-meets-israeli-leaders-in-effort-to-prevent-wider-war-243871a3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
