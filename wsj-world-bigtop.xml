@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-12T09:12:12Z</updated>
+  <updated>2024-01-12T10:12:41Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>The World&#39;s Smallest Soccer League Still Can&#39;t Find Enough Players</title>
+    <updated>2024-01-12T10:00:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-12:/articles/isles-of-scilly-worlds-smallest-soccer-league-8475aabd</id>
+    <content type="html">Each year the red team and the black team of the Isles of Scilly Football League face off 20 times a season, battling it out for the league trophy.</content>
+    <link href="https://www.wsj.com/articles/isles-of-scilly-worlds-smallest-soccer-league-8475aabd" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
