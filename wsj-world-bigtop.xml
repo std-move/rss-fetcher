@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-12T03:12:23Z</updated>
+  <updated>2024-01-12T04:14:54Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>Taiwan Hurtles Toward Uncertain Presidential Vote With Global Stakes</title>
-    <updated>2024-01-12T02:00:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-12:/articles/taiwan-hurtles-toward-uncertain-presidential-vote-with-global-stakes-2b88c0cd</id>
-    <content type="html">The U.S. and China are closely tracking the tight three-way race, whose outcome has the potential to alter the trajectory of relations between the two powers.</content>
-    <link href="https://www.wsj.com/articles/taiwan-hurtles-toward-uncertain-presidential-vote-with-global-stakes-2b88c0cd" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
