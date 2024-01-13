@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-13T15:10:48Z</updated>
+  <updated>2024-01-13T16:13:37Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Strikes Give Yemen&#39;s Houthis the Enemy They Long Sought</title>
+    <updated>2024-01-13T15:27:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-13:/articles/u-s-strikes-give-yemens-houthis-the-enemy-they-long-sought-50415f4c</id>
+    <content type="html">A religiously inspired militia that emerged from Yemen’s northern mountains 20 years ago is now more powerful than ever.</content>
+    <link href="https://www.wsj.com/articles/u-s-strikes-give-yemens-houthis-the-enemy-they-long-sought-50415f4c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>South Africans Rally Around Government&#39;s Case Against Israel</title>
     <updated>2024-01-13T14:53:00Z</updated>
     <id>tag:www.wsj.com,2024-01-13:/articles/south-africans-rally-around-governments-case-against-israel-99bd075e</id>
     <content type="html">South Africans this week rallied around their government’s decision to take Israel to the International Court of Justice, with many saying they were motivated by their own country’s struggle against apartheid.</content>
     <link href="https://www.wsj.com/articles/south-africans-rally-around-governments-case-against-israel-99bd075e" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>U.S. Strikes Give Yemen&#39;s Houthis the Enemy They Long Sought</title>
-    <updated>2024-01-13T13:47:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-13:/articles/u-s-strikes-give-yemens-houthis-the-enemy-they-long-sought-50415f4c</id>
-    <content type="html">A religiously inspired militia that emerged from Yemen’s northern mountains 20 years ago is now more powerful than ever.</content>
-    <link href="https://www.wsj.com/articles/u-s-strikes-give-yemens-houthis-the-enemy-they-long-sought-50415f4c" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
