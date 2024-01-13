@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-13T21:09:50Z</updated>
+  <updated>2024-01-13T22:10:15Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -21,7 +21,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Israel Plans Risky Mission to Seize Last Gaza Border it Doesn&#39;t Control</title>
+    <title>Israel Plans Risky Mission to Seize Last Gaza Border It Doesn&#39;t Control</title>
     <updated>2024-01-13T13:34:00Z</updated>
     <id>tag:www.wsj.com,2024-01-13:/articles/israel-plans-risky-mission-to-seize-last-gaza-border-it-doesnt-control-026e4f0a</id>
     <content type="html">A military operation along Gaza’s southern border would be tricky, with Egypt on one side and a million displaced Palestinians concentrated on the other.</content>
