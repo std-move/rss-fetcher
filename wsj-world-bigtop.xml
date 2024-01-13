@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-13T10:11:15Z</updated>
+  <updated>2024-01-13T11:09:07Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>A Crusade to Help the Homeless, One Old Bike at a Time</title>
+    <updated>2024-01-13T10:30:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-13:/articles/a-crusade-to-help-the-homeless-one-old-bike-at-a-time-8c25dc7c</id>
+    <content type="html">A street minister, working with volunteer mechanics, has provided about 1,000 rebuilt bicycles to unhoused people and others in South Dakota who have no other way to get to their jobs.</content>
+    <link href="https://www.wsj.com/articles/a-crusade-to-help-the-homeless-one-old-bike-at-a-time-8c25dc7c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
 </feed>
