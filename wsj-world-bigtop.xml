@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-13T13:12:21Z</updated>
+  <updated>2024-01-13T14:10:02Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>U.S. Strikes Give Yemen&#39;s Houthis the Enemy They Long Sought</title>
+    <updated>2024-01-13T13:47:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-13:/articles/u-s-strikes-give-yemens-houthis-the-enemy-they-long-sought-50415f4c</id>
+    <content type="html">A religiously inspired militia that emerged from Yemen’s northern mountains 20 years ago is now more powerful than ever.</content>
+    <link href="https://www.wsj.com/articles/u-s-strikes-give-yemens-houthis-the-enemy-they-long-sought-50415f4c" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Israel Plans Risky Mission to Seize Last Gaza Border it Doesn&#39;t Control</title>
+    <updated>2024-01-13T13:34:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-13:/articles/israel-plans-risky-mission-to-seize-last-gaza-border-it-doesnt-control-026e4f0a</id>
+    <content type="html">A military operation along Gaza’s southern border would be tricky, with Egypt on one side and a million displaced Palestinians concentrated on the other.</content>
+    <link href="https://www.wsj.com/articles/israel-plans-risky-mission-to-seize-last-gaza-border-it-doesnt-control-026e4f0a" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>A Crusade to Help the Homeless, One Old Bike at a Time</title>
     <updated>2024-01-13T10:30:00Z</updated>
