@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-14T17:09:50Z</updated>
+  <updated>2024-01-14T18:13:25Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
@@ -10,22 +10,6 @@
     <id>tag:www.wsj.com,2024-01-14:/articles/the-monumental-task-of-clearing-debris-from-the-lahaina-fire-98f3a063</id>
     <content type="html">Nearly six months after wildfire incinerated Lahaina, Hawaii, cleanup crews are ready to start clearing charred rubble—a task that will be complicated by the sensitive ecology and deep history of this former royal capital.</content>
     <link href="https://www.wsj.com/articles/the-monumental-task-of-clearing-debris-from-the-lahaina-fire-98f3a063" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>After 100 Days, Israel&#39;s War With Hamas Threatens to Spill Beyond Gaza</title>
-    <updated>2024-01-14T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-14:/articles/after-100-days-israel-hamas-war-threatens-to-spill-beyond-gaza-disrupt-global-trade-2d36ab09</id>
-    <content type="html">One of the biggest geopolitical events this century, the war has swung from a brutal Hamas attack to Israel’s ferocious retaliation—with no end in sight.</content>
-    <link href="https://www.wsj.com/articles/after-100-days-israel-hamas-war-threatens-to-spill-beyond-gaza-disrupt-global-trade-2d36ab09" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Taiwan Voters Snub Beijing Again, Leaving China With Few Good Options</title>
-    <updated>2024-01-14T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-14:/articles/taiwan-voters-snub-beijing-for-a-third-time-leaving-china-with-few-good-options-618bb52e</id>
-    <content type="html">The increased prospect of friction cements the island’s status as a flashpoint between Washington and Beijing.</content>
-    <link href="https://www.wsj.com/articles/taiwan-voters-snub-beijing-for-a-third-time-leaving-china-with-few-good-options-618bb52e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
