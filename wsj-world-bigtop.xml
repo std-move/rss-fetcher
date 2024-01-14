@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-14T10:11:33Z</updated>
+  <updated>2024-01-14T11:09:14Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>After 100 Days, Israel&#39;s War With Hamas Threatens to Spill Beyond Gaza</title>
+    <updated>2024-01-14T05:01:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-14:/articles/after-100-days-israel-hamas-war-threatens-to-spill-beyond-gaza-disrupt-global-trade-2d36ab09</id>
+    <content type="html">One of the biggest geopolitical events this century, the war has swung from a brutal Hamas attack to Israel’s ferocious retaliation—with no end in sight.</content>
+    <link href="https://www.wsj.com/articles/after-100-days-israel-hamas-war-threatens-to-spill-beyond-gaza-disrupt-global-trade-2d36ab09" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Taiwan Voters Snub Beijing Again, Leaving China With Few Good Options</title>
     <updated>2024-01-14T05:01:00Z</updated>
@@ -18,14 +26,6 @@
     <id>tag:www.wsj.com,2024-01-14:/articles/amid-war-in-middle-east-ukraine-fights-to-keep-u-s-and-allies-focus-cfe7a0d8</id>
     <content type="html">Ukraine’s fight to eject Russian forces that control roughly 20% of its country has bogged down, without indications of imminent progress. </content>
     <link href="https://www.wsj.com/articles/amid-war-in-middle-east-ukraine-fights-to-keep-u-s-and-allies-focus-cfe7a0d8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>After 100 Days, Israel&#39;s War With Hamas Threatens to Spill Beyond Gaza</title>
-    <updated>2024-01-14T05:01:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-14:/articles/after-100-days-israel-hamas-war-threatens-to-spill-beyond-gaza-disrupt-global-trade-2d36ab09</id>
-    <content type="html">One of the biggest geopolitical events this century, the war has swung from a brutal Hamas attack to Israel’s ferocious retaliation—with no end in sight.</content>
-    <link href="https://www.wsj.com/articles/after-100-days-israel-hamas-war-threatens-to-spill-beyond-gaza-disrupt-global-trade-2d36ab09" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
