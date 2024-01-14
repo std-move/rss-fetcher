@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-14T13:12:30Z</updated>
+  <updated>2024-01-14T14:10:01Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
   <entry>
-    <title>Amid War in Middle East, Ukraine Fights to Keep U.S. and Allies&#39; Focus</title>
-    <updated>2024-01-14T11:30:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-14:/articles/amid-war-in-middle-east-ukraine-fights-to-keep-u-s-and-allies-focus-cfe7a0d8</id>
-    <content type="html">Ukraine’s fight to eject Russian forces that control roughly 20% of its country has bogged down, without indications of imminent progress. </content>
-    <link href="https://www.wsj.com/articles/amid-war-in-middle-east-ukraine-fights-to-keep-u-s-and-allies-focus-cfe7a0d8" rel="alternate"></link>
+    <title>The Monumental Task of Clearing Debris From the Lahaina Fire</title>
+    <updated>2024-01-14T14:00:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-14:/articles/the-monumental-task-of-clearing-debris-from-the-lahaina-fire-98f3a063</id>
+    <content type="html">Nearly six months after wildfire incinerated Lahaina, Hawaii, cleanup crews are ready to start clearing charred rubble—a task that will be complicated by the sensitive ecology and deep history of this former royal capital.</content>
+    <link href="https://www.wsj.com/articles/the-monumental-task-of-clearing-debris-from-the-lahaina-fire-98f3a063" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
