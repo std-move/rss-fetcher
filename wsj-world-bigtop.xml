@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-15T00:57:24Z</updated>
+  <updated>2024-01-15T02:00:12Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The Monumental Task of Clearing Debris From the Lahaina Fire</title>
-    <updated>2024-01-14T14:00:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-14:/articles/the-monumental-task-of-clearing-debris-from-the-lahaina-fire-98f3a063</id>
-    <content type="html">Nearly six months after wildfire incinerated Lahaina, Hawaii, cleanup crews are ready to start clearing charred rubble—a task that will be complicated by the sensitive ecology and deep history of this former royal capital.</content>
-    <link href="https://www.wsj.com/articles/the-monumental-task-of-clearing-debris-from-the-lahaina-fire-98f3a063" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
