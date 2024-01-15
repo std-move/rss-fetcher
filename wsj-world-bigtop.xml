@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-15T14:11:20Z</updated>
+  <updated>2024-01-15T15:12:26Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
+  <entry>
+    <title>He Warned of Nuclear Disaster in Ukraine. Then He Was Thrown in a Russian Jail and Tortured.</title>
+    <updated>2024-01-15T14:52:00Z</updated>
+    <id>tag:www.wsj.com,2024-01-15:/articles/he-warned-of-nuclear-disaster-in-ukraine-then-he-was-thrown-in-a-russian-jail-and-tortured-e0721a9e</id>
+    <content type="html">Now in exile in Boston and working for MIT, Andriy Tuz wonders if he can ever go home again.</content>
+    <link href="https://www.wsj.com/articles/he-warned-of-nuclear-disaster-in-ukraine-then-he-was-thrown-in-a-russian-jail-and-tortured-e0721a9e" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>The Gun Influencer Who Used Small-Town Cops to Import Machine Guns</title>
     <updated>2024-01-15T12:00:00Z</updated>
     <id>tag:www.wsj.com,2024-01-15:/articles/the-gun-influencer-who-used-small-town-cops-to-import-machine-guns-bf91641c</id>
     <content type="html">Larry Vickers, whose gun videos get millions of views on YouTube, pleaded guilty last year for his role in a conspiracy to illegally acquire machine guns.</content>
     <link href="https://www.wsj.com/articles/the-gun-influencer-who-used-small-town-cops-to-import-machine-guns-bf91641c" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>He Warned of Nuclear Disaster in Ukraine. Then He Was Thrown in a Russian Jail and Tortured.</title>
-    <updated>2024-01-15T10:30:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-15:/articles/he-warned-of-nuclear-disaster-in-ukraine-then-he-was-thrown-in-a-russian-jail-and-tortured-e0721a9e</id>
-    <content type="html">Now in exile in Boston and working for MIT, Andriy Tuz wonders if he can ever go home again.</content>
-    <link href="https://www.wsj.com/articles/he-warned-of-nuclear-disaster-in-ukraine-then-he-was-thrown-in-a-russian-jail-and-tortured-e0721a9e" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
