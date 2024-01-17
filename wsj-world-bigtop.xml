@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>WSJ.com: World News - bigTop stories</title>
   <id>https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml</id>
-  <updated>2024-01-17T02:27:51Z</updated>
+  <updated>2024-01-17T03:12:28Z</updated>
   <subtitle>World News</subtitle>
   <link href="https://std-move.github.io/rss-fetcher/wsj-world-bigtop.xml"></link>
-  <entry>
-    <title>The Downside of a Longer Life: More Time Spent Sick</title>
-    <updated>2024-01-17T02:00:00Z</updated>
-    <id>tag:www.wsj.com,2024-01-17:/articles/americans-unhealthy-chronic-disease-3f35c9f5</id>
-    <content type="html">Medical advances are turning fatal illnesses into chronic ones, and some health problems are hitting us earlier and more widely.</content>
-    <link href="https://www.wsj.com/articles/americans-unhealthy-chronic-disease-3f35c9f5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
 </feed>
